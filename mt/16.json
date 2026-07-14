@@ -1,0 +1,40 @@
+{
+  "_id": "77d8fea6-6d89-4181-ae34-1f84cfad8057",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 16,
+  "global_page": 16,
+  "file_path": "/app/data/docs/mishkan/77d8fea6-6d89-4181-ae34-1f84cfad8057.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "annotations": [
+    {
+      "id": "96d3ed27-2c94-4dfa-9f49-f32bfda24490",
+      "target": {
+        "source": "mishkan:page:77d8fea6-6d89-4181-ae34-1f84cfad8057",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1024.2373046875005,1070.1635742187502,3205.8581542968745,2838.475341796875"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "TELL THEM I'm struggling to sing with angels\nwho hint at it in black words printed on old paper gold-edged by time.\nTell them I wrestle the mirror every morning.\nTell them I sit here invisible in space;\nnose running, coffee cold & bitter.\nTell them I tell them everything\n& everything is never enough.\nTell them I'm davening & voices rise up from within to startle children.\nTell them I walk off into the woods to sing.\nTell them I sing loudest next to waterfalls.\nTell them the books get fewer, words go deeper\nsome take months to get thru.\nTell them there are moments when it's all perfect;\nabove & below, it's perfect,\neven in moments in between where sparks in space\n(terrible, beautiful sparks in space)\nare merely metaphors for the void between\none pore & another."
+        }
+      ],
+      "created": "2026-07-11T15:10:47.576Z",
+      "creator": {
+        "isGuest": true,
+        "id": "VveHHF_KIaJNUS0Xg5TI"
+      }
+    }
+  ],
+  "page_label": "3"
+}

@@ -1,0 +1,95 @@
+{
+  "_id": "f6397c96-ab14-4465-a05f-ea12b6ea118e",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 2,
+  "global_page": 2,
+  "file_path": "/app/data/docs/mishkan/f6397c96-ab14-4465-a05f-ea12b6ea118e.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "title",
+  "annotations": [
+    {
+      "id": "6ffb8581-5d9f-483a-bb7b-5c86a400da48",
+      "target": {
+        "source": "mishkan:page:f6397c96-ab14-4465-a05f-ea12b6ea118e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:711.7894736842105,2535.789473684211,3143.6842105263163,1401.0526315789475"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "משכן תפלה\nMISHKAN T'FILAH",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T15:40:42.797Z",
+      "creator": {
+        "isGuest": true,
+        "id": "iXvLgJ83MA0YhS4NSoUB"
+      }
+    },
+    {
+      "id": "2eba8f62-8524-44d7-a6b5-c3626549ff3f",
+      "target": {
+        "source": "mishkan:page:f6397c96-ab14-4465-a05f-ea12b6ea118e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:624.9473684210525,4098.947368421054,3514.21052631579,2257.894736842105"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "A Reform Siddur\nPULPIT EDITION\nוְעָשׂוּ לִי מִקְדָּשׁ וְשָׁכַנְתִּי בְּתוֹכָם\n\"And let them build Me a sanctuary that I may dwell in their midst.\"\nCENTRAL CONFERENCE OF AMERICAN RABBIS\n5767\nNEW YORK 2007",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T15:41:02.445Z",
+      "creator": {
+        "isGuest": true,
+        "id": "iXvLgJ83MA0YhS4NSoUB"
+      }
+    },
+    {
+      "id": "1a63da26-5ee6-4856-9ae3-d23191e1eb63",
+      "target": {
+        "source": "mishkan:page:f6397c96-ab14-4465-a05f-ea12b6ea118e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2315.4736842105267,654.2105263157893,1893.1578947368416,544.2105263157897"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Weekdays, Shabbat, Festivals and other occasions of public worship",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T15:41:07.606Z",
+      "creator": {
+        "isGuest": true,
+        "id": "iXvLgJ83MA0YhS4NSoUB"
+      }
+    }
+  ]
+}

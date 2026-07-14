@@ -1,0 +1,41 @@
+{
+  "_id": "0140bfac-5d2e-4f38-a2b6-4001c4a63cfa",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 5,
+  "global_page": 5,
+  "file_path": "/app/data/docs/mishkan/0140bfac-5d2e-4f38-a2b6-4001c4a63cfa.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "vii",
+  "annotations": [
+    {
+      "id": "a6786e61-4597-44aa-80b7-4aa12d685e57",
+      "target": {
+        "source": "mishkan:page:0140bfac-5d2e-4f38-a2b6-4001c4a63cfa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:901.0526315789472,347.3684210526314,3768.947368421053,5870.526315789474"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Introduction\nWhile prayer invites us to beseech God, we must also be open to what God wants\nfrom us. Samuel Karff wrote, “Each generation must struggle to hear the call, 'Where\nart thou?' Each must choose to answer, 'Here I am, send me.\"\" Each generation\nmerely each individual. A siddur must challenge narcissism; that challenge begins by\nsaying to a worshipper: your voice is here amidst others. To hear the call: to realize\nthat prayer is not merely an outpouring of self; it is the opening of our senses to what\nis beyond our selves. Send me: prayer must motivate us to give selflessly.\n-\nIn any worship setting, people have diverse beliefs. The challenge of a single liturgy is\nto be not only multi-vocal, but poly-vocal — to invite full participation at once,\nwithout conflicting with the keva text. (First, the keva text must be one that is\nacceptable; hence, the ongoing adaptations of certain prayers, over time, such as the\nGvurot.) Jewish prayer invites interpretation; the left hand material was selected both\nfor metaphor and theological diversity. The choices were informed by the themes of\nReform Judaism and Life: social justice, feminism, Zionism, distinctiveness, human\nchallenges. The heritage of Reform brings gems from the Union Prayer Book and from\nGates of Prayer, as well as from Reform's great literary figures over the last century\nand\nmore.\nTheologically, the liturgy needs to include many perceptions of God: the transcen-\ndent, the naturalist, the mysterious, the partner, the evolving God. In any given\nmodule of prayer, e.g., the Shma and Its Blessings, we should sense all of these ways.\nThe distinction of an integrated theology is not that one looks to each page to find\none's particular voice, but that over the course of praying, many voices are heard, and\nultimately come together as one. The ethic of inclusivity means awareness of and\nobligation to others rather than mere self-fulfillment.\nAn integrated theology communicates that the community is greater than the sum of\nits\nparts. While individuals matter deeply, particularly in the sense of our emotional\nand spiritual needs and in the certainty that we are not invisible, that security should\nbe a stepping stone to the higher value of community, privilege and obligation. We\njoin together in prayer because together, we are stronger and more apt to commit to\nthe values of our heritage. Abraham knew that just ten people made a difference. In\nworship, all should be reminded of the social imperatives of community.\nPrayer must move us beyond ourselves. Prayer should not reflect \"me\"; prayer should\nreflect our values and ideals. God is not in our image; we are in God's. It is critical that\nReform Jews understand what is expected of them. The diverse theologies of the new\nsiddur include religious naturalism, the theology of human adequacy, process theology,",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T15:42:32.609Z",
+      "creator": {
+        "isGuest": true,
+        "id": "s3O5CyWi05DxGbzYP_r1"
+      }
+    }
+  ]
+}

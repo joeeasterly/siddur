@@ -1,0 +1,119 @@
+{
+  "_id": "f89e9a08-3e22-44fd-bbdc-b310ef605810",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 15,
+  "global_page": 15,
+  "file_path": "/app/data/docs/mishkan/f89e9a08-3e22-44fd-bbdc-b310ef605810.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "annotations": [
+    {
+      "id": "7228e8a2-24d7-4401-8d24-48edaa5c260d",
+      "target": {
+        "source": "mishkan:page:f89e9a08-3e22-44fd-bbdc-b310ef605810",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:827.4135742187498,1425.62255859375,2532.967529296876,1449.6313476562505"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "WE ARE CALLED unto life, destiny uncertain.\nYet we offer thanks for what we know,\nfor health and healing, for labor and repose,\nfor renewal of beauty in earth and sky,\nfor that blend of human-holy which inspires compassion,\nand for hope: eternal, promising light.\nFor life, for health, for hope,\nfor beautiful, bountiful blessing,\nall praise to the Source of Being."
+        }
+      ],
+      "created": "2026-07-11T14:27:24.245Z",
+      "creator": {
+        "isGuest": true,
+        "id": "ZYUc5Si62Gz1c041OJYZ"
+      }
+    },
+    {
+      "id": "7b260141-ad7c-4956-a67d-bf4c1311e64d",
+      "target": {
+        "source": "mishkan:page:f89e9a08-3e22-44fd-bbdc-b310ef605810",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2340.490966796875,2974.7534179687505,1072.056884765625,351.22924804687455"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בָּרוּךְ אַתָּה, יְיָ,\nמְקוֹר נֶפֶשׁ כָּל חַי."
+        }
+      ],
+      "created": "2026-07-11T20:00:55.336Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vX15JZeQ69KO6uE2oXGl"
+      }
+    },
+    {
+      "id": "ac58a7d2-14fb-4d01-bbfe-5b735d8b348e",
+      "target": {
+        "source": "mishkan:page:f89e9a08-3e22-44fd-bbdc-b310ef605810",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:882.802978515625,2996.627197265625,906.170654296875,349.17480468750045"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Baruch atah, Adonai,\nM'kor nefesh kol chai."
+        }
+      ],
+      "created": "2026-07-11T20:01:16.024Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vX15JZeQ69KO6uE2oXGl"
+      }
+    },
+    {
+      "id": "a3672507-beea-49f3-aa5c-9e17d2bcdf64",
+      "target": {
+        "source": "mishkan:page:f89e9a08-3e22-44fd-bbdc-b310ef605810",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1099.6842105263158,521.0526315789473,2315.789473684211,764.2105263157896"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "עַרְבִית לְחוֹל\nAR'VIT L'CHOL WEEKDAY EVENING",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T15:49:29.484Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Ne0PHbxNTZwG5BsVMou6"
+      }
+    }
+  ],
+  "page_label": "2"
+}

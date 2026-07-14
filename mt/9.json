@@ -1,0 +1,68 @@
+{
+  "_id": "ec9451f2-4119-4754-ba44-85fb24e64400",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 9,
+  "global_page": 135,
+  "file_path": "/app/data/docs/mishkan/ec9451f2-4119-4754-ba44-85fb24e64400.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "annotations": [
+    {
+      "id": "44b49e52-72dd-418c-8073-a67336a8156c",
+      "target": {
+        "source": "mishkan:page:ec9451f2-4119-4754-ba44-85fb24e64400",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:382.9727286773794,851.3449438053676,3576.48717552534,2137.017424859651"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "WE ENTER THIS SANCTUARY to welcome Shabbat.\nWithin these walls we sit surrounded by numberless generations.\nOur ancestors built the synagogue as a visible sign of God's Presence in their midst.\nThroughout our long history and our endless wanderings, it has endured,\na beacon of truth, love, and justice for all humanity.\nIts presence guided our ancestors to lives of righteousness,\nholding up to them a vision of their truest selves.\nNow we, in our turn, come into this sanctuary to affirm the sacredness of our lives.\nMay we enter this place in peace.\nMay holiness wrap around us as we cross its threshold.\nWeariness, doubt, the flaws within our human hearts,\nthe harshness of the week - let these drop away at the door.\nIn the brightness of Shabbat, let peace settle upon us as we lift our hearts in prayer.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:57:09.163Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IGCrWlhkwEYgIjSfBElP"
+      }
+    },
+    {
+      "id": "7cc9b29e-3750-461e-a828-423440984f51",
+      "target": {
+        "source": "mishkan:page:ec9451f2-4119-4754-ba44-85fb24e64400",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:395.87928770086535,3291.013210754018,2923.7021013597036,2248.7368665018535"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "MAY THE DOOR of this synagogue be wide enough\nto receive all who hunger for love, all who are lonely for friendship.\nMay it welcome all who have cares to unburden,\nthanks to express, hopes to nurture.\nMay the door of this synagogue be narrow enough\nto shut out pettiness and pride, envy and enmity.\nMay its threshold be no stumbling block\nto young or straying feet.\nMay it be too high to admit complacency,\nselfishness and harshness.\nMay this synagogue be, for all who enter,\nthe doorway to a richer and more meaningful life.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:57:18.408Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IGCrWlhkwEYgIjSfBElP"
+      }
+    }
+  ],
+  "page_label": "124"
+}

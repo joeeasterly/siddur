@@ -1,0 +1,95 @@
+{
+  "_id": "d8feaace-d9e8-4f0c-9017-fa2108712e04",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 29,
+  "global_page": 29,
+  "file_path": "/app/data/docs/mishkan/d8feaace-d9e8-4f0c-9017-fa2108712e04.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "annotations": [
+    {
+      "id": "060650da-a44b-483a-8b78-dceaaf13b163",
+      "target": {
+        "source": "mishkan:page:d8feaace-d9e8-4f0c-9017-fa2108712e04",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2435.2007873535154,356.7908020019532,1665.884289550781,1947.0007507324221"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "מִי כָמֹכָה בָּאֵלִם, יְיָ!\nמִי כָּמְכָה נֶהְדָר בַּקְדֶשׁ,\nנוֹרָא תְהִלָּת, עָשָׂה פֶלֶא:\nמַלְכוּתְךָ רָאוּ בָנֶיךָ,\nבּוֹקֵעַ יָם לִפְנֵי מֹשֶׁה וּמִרְיָם.\nזֶה אֵלִי, עָנוּ וְאָמְרוּ,\nיְיָ יִמְלֹךְ לְעֹלָם וָעֶד!\n>>\nT:\nוְנֶאֱמַר: כִּי פָדָה יְיָ אֶת יַעֲקֹב\nוּגְאָלוֹ מִיַּד חָזָק מִמֶּנּוּ.\nבָּרוּךְ אַתָּה, יְיָ, גְאַל יִשְׂרָאֵל.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-12T22:27:25.782Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Jzg6EVgkqD0wKdOVfXgr"
+      }
+    },
+    {
+      "id": "32965d77-8236-45a7-bed7-bd8e46b6f653",
+      "target": {
+        "source": "mishkan:page:d8feaace-d9e8-4f0c-9017-fa2108712e04",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:334.9958007812497,404.4301391601565,1786.898693847656,1874.109741210937"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "MI CHAMOCHAH ba-eilim, Adonai!\nMi kamochah nedar bakodesh,\nnora t'hilot, oseih fele!\nMalchut'cha ra-u vanecha,\nbokei-a yam lifnei Moshe uMiryam.\nZeh Eli, anu v'amru,\nAdonai yimloch l'olam va-ed!\nV'ne-emar: ki fadah Adonai et Yaakov,\nug'alo miyad chazak mimenu.\nBaruch atah, Adonai, gaal Yisrael.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-12T22:28:15.818Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Jzg6EVgkqD0wKdOVfXgr"
+      }
+    },
+    {
+      "id": "17b52e52-d898-45d3-a533-50252a54fb8e",
+      "target": {
+        "source": "mishkan:page:d8feaace-d9e8-4f0c-9017-fa2108712e04",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1172.2541259765624,2419.521661376953,2155.629583740234,2555.340161132812"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "WHO IS LIKE YOU, O God,\namong the gods that are worshipped?\nWho is like You, majestic in holiness,\nawesome in splendor, working wonders?\nYour children witnessed Your sovereignty,\nthe sea splitting before Moses and Miriam.\n\"This is our God!\" they cried.\n\"Adonai will reign forever and ever!\"\nThus it is said,\n\"Adonai redeemed Jacob,\nfrom a hand stronger\nthan his own.\"\nPraised are You, Adonai, for redeeming Israel.\nבָּרוּךְ אַתָּה, יְיָ, גְאַל יִשְׂרָאֵל.\nBaruch atah, Adonai, gaal Yisrael.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-12T22:28:33.403Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Jzg6EVgkqD0wKdOVfXgr"
+      }
+    }
+  ],
+  "page_label": "16"
+}

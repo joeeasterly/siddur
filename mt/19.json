@@ -1,0 +1,146 @@
+{
+  "_id": "f4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 19,
+  "global_page": 19,
+  "file_path": "/app/data/docs/mishkan/f4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "annotations": [
+    {
+      "id": "2bd08f1c-d58a-471b-96bf-6ff264deb323",
+      "target": {
+        "source": "mishkan:page:f4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2365.385986328126,358.1982421875003,1752.72216796875,2887.177734375"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בָּרוּךְ אַתָּה, יְיָ\nאֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,\nאֲשֶׁר בִּדְבָרוֹ מַעֲרִיב עֲרָבִים,\nבְּחָכְמָה פּוֹתֵחַ שְׁעָרִים,\nוּבִתְבוּנָה מְשַׁנָּה עִתִּים\nוּמַחֲלִיף אֶת הַזְמַנִים,\nוּמְחַבֵּר אֶת הַכּוֹכָבִים\nבְּמִשְׁמְרוֹתֵיהֶם בָּרָקִיעַ כִּרְצוֹנוֹ.\nבּוֹרֵא יוֹם וָלָיְלָה,\nTIT\nגוֹלָל אוֹר מִפְּנֵי חֹשֶׁךְ\nוְחֹשֶׁךְ מִפְּנֵי אוֹר,\nוּמַעֲבִיר יוֹם וּמֵבִיא לָיְלָה,\nTIT\nוּמַבְדִּיל בֵּין יוֹם וּבֵין לָיְלָה,\nיְיָ צְבָאוֹת שְׁמוֹ.\nאֵל חַי וְקַיָּם,\nTIT\nתָּמִיד יִמְלֹךְ עָלֵינוּ לְעוֹלָם וָעֶד.\nבָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-11T20:07:52.073Z",
+      "creator": {
+        "isGuest": true,
+        "id": "HcfCVLOx9hPMT5lagYH4"
+      }
+    },
+    {
+      "id": "df02ab56-f3a1-409d-aeb0-10f5624ba777",
+      "target": {
+        "source": "mishkan:page:f4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:422.12426757812534,329.2346191406252,1547.8820800781245,2946.796875"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "BARUCH atah, Adonai\nEloheinu, Melech haolam,\nasher bidvaro maariv aravim,\nb'chochmah potei-ach sh'arim,\nuvitvunah m'shaneh itim\numachalif et haz'manim,\num'sadeir et hakochavim\nb'mishm'roteihem barakia kirtzono.\nBorei yom valailah,\ngoleil or mipnei choshech\nv'choshech mipnei or,\numaavir yom umeivi lailah,\numavdil bein yom uvein lailah,\nAdonai Tz'vaot sh'mo.\nEl chai v'kayam,\ntamid yimloch aleinu l'olam va-ed.\nBaruch atah, Adonai, hamaariv aravim."
+        }
+      ],
+      "created": "2026-07-11T20:08:27.246Z",
+      "creator": {
+        "isGuest": true,
+        "id": "HcfCVLOx9hPMT5lagYH4"
+      }
+    },
+    {
+      "id": "a6766845-d7c9-463e-9669-8b7eab1fc02a",
+      "target": {
+        "source": "mishkan:page:f4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:451.4907226562502,3293.1115722656255,2928.66943359375,1566.8957519531245"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "PRAISED are You, Adonai our God, Ruler of the universe,\nwho speaks the evening into being,\nskillfully opens the gates,\nthoughtfully alters the time and changes the seasons,\nand arranges the stars in their heavenly courses according to plan.\nYou are Creator of day and night,\nrolling light away from darkness and darkness from light,\ntransforming day into night and distinguishing one from the other.\nAdonai Tzvaot is Your Name.\nEver-living God, may You reign continually over us into eternity.\nPraise to You, Adonai, who brings on evening."
+        }
+      ],
+      "created": "2026-07-11T20:08:50.952Z",
+      "creator": {
+        "isGuest": true,
+        "id": "HcfCVLOx9hPMT5lagYH4"
+      }
+    },
+    {
+      "id": "25072791-9962-4d6f-adcc-ba6247d2f7fb",
+      "target": {
+        "source": "mishkan:page:f4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1388.196044921875,4853.964843750001,1945.1953124999995,419.1064453125"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.\nBaruch atah, Adonai, hamaariv aravim."
+        }
+      ],
+      "created": "2026-07-11T20:09:07.010Z",
+      "creator": {
+        "isGuest": true,
+        "id": "HcfCVLOx9hPMT5lagYH4"
+      }
+    },
+    {
+      "id": "d5567e88-1b2f-4cb9-b87f-96262054ea73",
+      "target": {
+        "source": "mishkan:page:f4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:428.1052631578946,5876.315789473686,3653.157894736843,503.6842105263149"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Adonai Tzvaot: this is one of many names that help elucidate God's attributes. God designs, creates and arranges the universe with order and purpose.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T16:03:10.057Z",
+      "creator": {
+        "isGuest": true,
+        "id": "225quupY8XA6QopiMqIR"
+      }
+    }
+  ],
+  "page_label": "6"
+}

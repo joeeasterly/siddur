@@ -1,0 +1,68 @@
+{
+  "_id": "2249731d-a0fb-4395-8feb-03a6eb7672de",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 28,
+  "global_page": 28,
+  "file_path": "/app/data/docs/mishkan/2249731d-a0fb-4395-8feb-03a6eb7672de.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "15",
+  "annotations": [
+    {
+      "id": "fa18798c-c5f9-4f40-96ba-082b73884e3e",
+      "target": {
+        "source": "mishkan:page:2249731d-a0fb-4395-8feb-03a6eb7672de",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1475.919604492187,703.1340270996096,1883.9522460937503,1595.8976257324216"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "SING THE SONG of men and women\njoined in understanding and respect.\nThe song of God's miracles,\nan earth protected and cherished:\na gift for our children\nand the generations to come.\nThe song of a land once ravished by war,\nnow quiet and content:\nher soldiers home, to leave no more.\nThe song of a world redeemed:\nthe song of peace.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-12T22:26:42.353Z",
+      "creator": {
+        "isGuest": true,
+        "id": "JVgDWyopGg99qAkAqrQV"
+      }
+    },
+    {
+      "id": "c410c45f-8635-41e6-bd18-7e21ee46e1a4",
+      "target": {
+        "source": "mishkan:page:2249731d-a0fb-4395-8feb-03a6eb7672de",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1436.468908691406,2528.676654052734,2579.946423339844,2868.646453857423"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "IN A WORLD torn by violence and pain,\na world far from wholeness and peace,\ngive us the courage to say, Adonai:\nThere is one God in heaven and earth.\nThe high heavens declare Your glory;\nmay earth reveal Your justice and love.\nFrom bondage in Egypt, we were delivered;\nat Sinai, we bound ourselves to Your way.\nInspired by prophets and instructed by sages,\ntime and again, we overcame oppressive forces.\nThough our failings are many and our faults are great,\nit has been our glory to bear witness to our God,\nkeeping alive in dark ages\nYour vision of a world redeemed.\nLet us continue to work for the day\nwhen the nations will be one and at peace.\nThen shall we rejoice as Israel did,\nsinging on the shores of the Sea:",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-12T22:26:55.423Z",
+      "creator": {
+        "isGuest": true,
+        "id": "JVgDWyopGg99qAkAqrQV"
+      }
+    }
+  ]
+}

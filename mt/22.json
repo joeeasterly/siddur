@@ -1,0 +1,66 @@
+{
+  "_id": "68fbdb9d-2065-4305-a611-cdee2a4c575d",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 22,
+  "global_page": 22,
+  "file_path": "/app/data/docs/mishkan/68fbdb9d-2065-4305-a611-cdee2a4c575d.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "annotations": [
+    {
+      "id": "d6440fc1-2b37-4b39-8430-d61fd14eb50c",
+      "target": {
+        "source": "mishkan:page:68fbdb9d-2065-4305-a611-cdee2a4c575d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1350.2259765625001,634.2768310546875,2545.6590087890627,2099.0755187988284"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "AS YOU TAUGHT TORAH\nto those whose names I bear,\nteach me Torah, too.\nIts mystery beckons,\nyet I struggle with its truth.\nYou meant Torah for me:\ndid You mean the struggle for me, too?\nDon't let me struggle alone;\nhelp me to understand,\nto be wise, to listen, to know...\nLead me into the mystery.\nבָּרוּךְ אַתָּה, יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל.\nBaruch atah, Adonai, ohev amo Yisrael."
+        }
+      ],
+      "created": "2026-07-11T20:14:00.707Z",
+      "creator": {
+        "isGuest": true,
+        "id": "S7Jlqwd5Kof177ntM1Ly"
+      }
+    },
+    {
+      "id": "209c8ebf-b87c-4088-8e0a-bb70ce95b190",
+      "target": {
+        "source": "mishkan:page:68fbdb9d-2065-4305-a611-cdee2a4c575d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1339.0523132324224,2896.6814575195312,2580.954876708984,1634.6625732421871"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "ALL GOODNESS and truth are Yours, O God;\nmay no evil estrange us from You.\nLet error not confound us;\nhelp us understand Your will.\nIn adversity and prosperity, may Your law be our light.\nMay our deeds reflect Your love.\nבָּרוּךְ אַתָּה, יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל.\nBaruch atah, Adonai, ohev amo Yisrael."
+        }
+      ],
+      "created": "2026-07-11T20:14:18.396Z",
+      "creator": {
+        "isGuest": true,
+        "id": "S7Jlqwd5Kof177ntM1Ly"
+      }
+    }
+  ],
+  "page_label": "9"
+}

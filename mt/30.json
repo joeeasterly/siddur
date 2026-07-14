@@ -1,0 +1,66 @@
+{
+  "_id": "dc6213ea-2082-4217-b0ac-15875a9144f4",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 30,
+  "global_page": 30,
+  "file_path": "/app/data/docs/mishkan/dc6213ea-2082-4217-b0ac-15875a9144f4.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "annotations": [
+    {
+      "id": "fadb7347-84c3-4916-829f-4e5f6c4ecadb",
+      "target": {
+        "source": "mishkan:page:dc6213ea-2082-4217-b0ac-15875a9144f4",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1580.105224609375,845.6652832031252,2163.93310546875,1130.42724609375"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "A VERY OLD SONG aroused me into life\nwhen it drove away my low spirits.\nwith its royal language.\nA song of a generation silenced\nfrom the days of old\naroused me into life."
+        }
+      ],
+      "created": "2026-07-11T20:15:14.277Z",
+      "creator": {
+        "isGuest": true,
+        "id": "URA4Q_pXss4C1mqM2sgI"
+      }
+    },
+    {
+      "id": "76e935cf-6d38-4605-ad81-fcde5049196e",
+      "target": {
+        "source": "mishkan:page:dc6213ea-2082-4217-b0ac-15875a9144f4",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1604.9599609375,2261.57958984375,2246.1511230468755,1993.61572265625"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "STANDING on the parted shores of history,\nwe still believe what we were taught\nbefore ever we stood at Sinai:\nthat wherever we are, it is eternally Egypt\nthat there is a better place, a Promised Land;\nthat the winding way to that promise passes\nthrough the wilderness\nthat there is no way to get from here to there\nexcept by joining hands, marching\ntogether."
+        }
+      ],
+      "created": "2026-07-11T20:15:24.514Z",
+      "creator": {
+        "isGuest": true,
+        "id": "URA4Q_pXss4C1mqM2sgI"
+      }
+    }
+  ],
+  "page_label": "17"
+}

@@ -1,0 +1,66 @@
+{
+  "_id": "dd40323c-ace3-42d6-bc35-4d18598f47e3",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 14,
+  "global_page": 14,
+  "file_path": "/app/data/docs/mishkan/dd40323c-ace3-42d6-bc35-4d18598f47e3.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "annotations": [
+    {
+      "id": "ca394dad-e8e3-4c89-8632-dae8f710ed30",
+      "target": {
+        "source": "mishkan:page:dd40323c-ace3-42d6-bc35-4d18598f47e3",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1309.563232421875,903.2299804687502,2285.74951171875,723.1237792968748"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "תְּפִלּוֹת לְחוֹל"
+        }
+      ],
+      "created": "2026-07-11T14:26:37.981Z",
+      "creator": {
+        "isGuest": true,
+        "id": "zBjaYQ82MkblEQ9EdjaU"
+      }
+    },
+    {
+      "id": "319a6108-43f4-455c-964c-23cc7fd40ec7",
+      "target": {
+        "source": "mishkan:page:dd40323c-ace3-42d6-bc35-4d18598f47e3",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1115.478759765625,1802.8747558593752,2807.779541015625,332.4975585937498"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "PRAYERS FOR WEEKDAYS"
+        }
+      ],
+      "created": "2026-07-11T14:26:46.265Z",
+      "creator": {
+        "isGuest": true,
+        "id": "zBjaYQ82MkblEQ9EdjaU"
+      }
+    }
+  ],
+  "page_label": "1"
+}
