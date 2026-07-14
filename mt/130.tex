@@ -4,16 +4,48 @@
 \documentclass[14pt]{extarticle}
 \usepackage[paperwidth=5.5in, paperheight=8.5in, margin=0.6in]{geometry}
 \usepackage{polyglossia}
+\usepackage{fontspec}
+
 \setdefaultlanguage{english}
 \setotherlanguage{hebrew}
-\newfontfamily\hebrewfont[Script=Hebrew]{Ezra SIL} % Update your local system font here
+
+% --- LATIN SERIF (English Translation & Commentary) ---
+\setmainfont[
+  Path=../fonts/skolar/,
+  Extension=.otf,
+  UprightFont=skolar_latin_regular,
+  BoldFont=skolar_latin_bold,
+  ItalicFont=skolar_latin_italic,
+  BoldItalicFont=skolar_latin_bold_italic
+]{Skolar}
+
+% --- HEBREW SANS (Liturgical Text) ---
+\newfontfamily\hebrewfont[
+  Script=Hebrew,
+  Path=../fonts/skolar/,
+  Extension=.otf,
+  UprightFont=skolar_sans_hebrew_regular,
+  BoldFont=skolar_sans_hebrew_bold,
+  ItalicFont=skolar_sans_hebrew_italic,
+  BoldItalicFont=skolar_sans_hebrew_bold_italic
+]{Skolar Sans Hebrew}
+
+% --- LATIN CONDENSED (Optional: Transliterations or Headers) ---
+\newfontfamily\condensedfont[
+  Path=../fonts/skolar/,
+  Extension=.otf,
+  UprightFont=skolar_sans_latin_condensed_regular,
+  BoldFont=skolar_sans_latin_condensed_bold,
+  ItalicFont=skolar_sans_latin_condensed_italic,
+  BoldItalicFont=skolar_sans_latin_condensed_bold_italic
+]{Skolar Sans Condensed}
 
 % Custom page numbering to yield 130.a, 130.b, etc.
 \renewcommand{\thepage}{130.\alph{page}}
 
 % --- MACRO DEFINITIONS ---
 \newcommand{\blockA}{%
-  קַבָּלַת שַׁבָּת \\
+  \texthebrew{קַבָּלַת שַׁבָּת} \\
 KABBALAT SHABBAT - WELCOMING SHABBAT \\
 This section, until Shalom Aleichem on page 142, does not offer alternative readings. \\
 PSALM 95:1-7%
