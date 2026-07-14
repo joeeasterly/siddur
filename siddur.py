@@ -1,9 +1,7 @@
 import json
-import sys
 import os
 import string
-import subprocess
-import shutil
+from pymongo import MongoClient
 
 def escape_latex(text):
     """Sanitizes text so LaTeX doesn't choke and die on a stray ampersand."""
@@ -18,7 +16,7 @@ def escape_latex(text):
     return escaped.replace('\n', ' \\\\\n')
 
 def get_macro_name(index):
-    """Generates sequential macro identifiers (\\blockA, \\blockB, etc.)."""
+    """Generates sequential macro identifiers (\blockA, \blockB, etc.)."""
     if index < 26:
         return f"\\block{string.ascii_uppercase[index]}"
     else:
@@ -30,7 +28,7 @@ def generate_tex_content(data):
 
     tex_lines = [
         r"% ==========================================",
-        r"% AUTO-GENERATED STAGING FILE FOR PAGE " + page_label,
+        r"% AUTO-GENERATED STAGING FILE FOR PAGE " + str(page_label),
         r"% ==========================================",
         r"\documentclass[14pt]{extarticle}",
         r"\usepackage[paperwidth=5.5in, paperheight=8.5in, margin=0.6in]{geometry}",
@@ -39,8 +37,8 @@ def generate_tex_content(data):
         r"\setotherlanguage{hebrew}",
         r"\newfontfamily\hebrewfont[Script=Hebrew]{Ezra SIL} % Update your local system font here",
         "",
-        r"% Custom page numbering to yield " + page_label + r".a, " + page_label + r".b, etc.",
-        r"\renewcommand{\thepage}{" + page_label + r".\alph{page}}",
+        r"% Custom page numbering to yield " + str(page_label) + r".a, " + str(page_label) + r".b, etc.",
+        r"\renewcommand{\thepage}{" + str(page_label) + r".\alph{page}}",
         "",
         r"% --- MACRO DEFINITIONS ---"
     ]
@@ -49,7 +47,7 @@ def generate_tex_content(data):
     for i, anno in enumerate(annotations):
         macro_name = get_macro_name(i)
         macro_calls.append(macro_name)
-        
+
         body = anno.get('body', [{}])[0]
         text_content = escape_latex(body.get('value', ''))
         lang = body.get('language', 'en')
@@ -66,7 +64,7 @@ def generate_tex_content(data):
 
     tex_lines.append(r"% --- DOCUMENT BODY ---")
     tex_lines.append(r"\begin{document}")
-    
+
     for call in macro_calls:
         tex_lines.append(call)
         tex_lines.append(r"\vspace{1em}")
@@ -76,55 +74,57 @@ def generate_tex_content(data):
     tex_lines.append(r"\end{document}")
     return "\n".join(tex_lines)
 
-if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python siddur_pipeline.py <input.json>")
-        sys.exit(1)
-        
-    json_path = os.path.abspath(sys.argv[1])
-    if not os.path.exists(json_path):
-        print(f"File not found: {json_path}")
-        sys.exit(1)
-        
-    folder = os.path.dirname(json_path)
-    basename = os.path.splitext(os.path.basename(json_path))[0]
-    tex_path = os.path.join(folder, f"{basename}.tex")
+def main():
+    mongo_uri = os.environ.get("MONGO_URI")
+    if not mongo_uri:
+        raise ValueError("The MONGO_URI environment variable is missing. I'm not clairvoyant.")
+
+    client = MongoClient(mongo_uri)
+    db = client.get_database("docs")
+    collection = db.get_collection("mishkan")
+
+    # Set up the target directory relative to where the script is executed
+    mt_dir = os.path.join(os.getcwd(), "mt")
+    os.makedirs(mt_dir, exist_ok=True)
+
+    # Query: Documents where 'annotations' exists, is an array, and is not empty.
+    query = {
+        "annotations": {
+            "$exists": True, 
+            "$type": "array", 
+            "$not": {"$size": 0}
+        }
+    }
     
-    with open(json_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-        
-    tex_content = generate_tex_content(data)
-    
-    # Write sidecar .tex file right next to the original .json
-    with open(tex_path, 'w', encoding='utf-8') as f:
-        f.write(tex_content)
-    print(f"Successfully generated: {tex_path}")
-    
-    # Compilation workflow
-    tmp_dir = "/tmp/latex_build"
-    os.makedirs(tmp_dir, exist_ok=True)
-    
-    print(f"Compiling {tex_path} via xelatex...")
-    try:
-        # polyglossia + RTL strings require xelatex (or lualatex)
-        result = subprocess.run([
-            "xelatex",
-            "-interaction=nonstopmode",
-            f"-output-directory={tmp_dir}",
-            tex_path
-        ], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-        
-        generated_pdf = os.path.join(tmp_dir, f"{basename}.pdf")
-        target_pdf = "/tmp/test.pdf"
-        
-        if os.path.exists(generated_pdf):
-            shutil.move(generated_pdf, target_pdf)
-            print(f"Compilation success! Target output moved to: {target_pdf}")
-        else:
-            print("ERROR: xelatex ran but the expected PDF was not generated.")
-            print("Tail-end of compilation log:")
-            print("\n".join(result.stdout.splitlines()[-20:]))
+    cursor = collection.find(query)
+    processed_count = 0
+
+    for doc in cursor:
+        local_page = doc.get("local_page")
+        if local_page is None:
+            continue
             
-    except FileNotFoundError:
-        print("ERROR: 'xelatex' binary not found. Verify it is inside your shell's $PATH.")
-        sys.exit(1)
+        base_name = str(local_page)
+        json_path = os.path.join(mt_dir, f"{base_name}.json")
+        tex_path = os.path.join(mt_dir, f"{base_name}.tex")
+        
+        # We need to coerce the MongoDB ObjectId to a string so json.dump doesn't shit the bed
+        doc['_id'] = str(doc['_id'])
+        
+        # 1. Write the sidecar .json file IF AND ONLY IF it doesn't exist
+        if not os.path.exists(json_path):
+            with open(json_path, 'w', encoding='utf-8') as f:
+                json.dump(doc, f, ensure_ascii=False, indent=2)
+                
+        # 2. Write the corresponding .tex file IF AND ONLY IF it doesn't exist
+        if not os.path.exists(tex_path):
+            tex_content = generate_tex_content(doc)
+            with open(tex_path, 'w', encoding='utf-8') as f:
+                f.write(tex_content)
+                
+        processed_count += 1
+
+    print(f"Operation complete. Swept {processed_count} valid documents into the 'mt' folder.")
+
+if __name__ == "__main__":
+    main()
