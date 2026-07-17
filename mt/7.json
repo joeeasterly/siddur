@@ -1,24 +1,23 @@
 {
-  "_id": "a3f6fae8-9ac8-4a8b-9632-93d6a9941699",
+  "_id": "1aee1623-17b5-49e6-ba6f-82375213fc3c",
   "source_file": "1.pdf",
   "document_title": "CCAR Mishkan T'filah",
-  "local_page": 7,
-  "global_page": 7,
-  "file_path": "/app/data/docs/mishkan/a3f6fae8-9ac8-4a8b-9632-93d6a9941699.jp2",
+  "local_page": 20,
+  "global_page": 20,
+  "file_path": "/app/data/docs/mishkan/1aee1623-17b5-49e6-ba6f-82375213fc3c.jp2",
   "format": "image/jp2",
   "dpi": 600,
   "color_space": "grayscale",
-  "page_label": "ix",
   "annotations": [
     {
-      "id": "4610405f-92ee-4fc1-8b5f-b65564bf8057",
+      "id": "6e584286-5cf9-4a6b-8e93-cca9ad95f993",
       "target": {
-        "source": "mishkan:page:a3f6fae8-9ac8-4a8b-9632-93d6a9941699",
+        "source": "mishkan:page:1aee1623-17b5-49e6-ba6f-82375213fc3c",
         "type": "SpecificResource",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:854.2565789473687,400.01842105263194,3710.315789473683,1501.5184210526313"
+          "value": "xywh=pixel:1177.6477050781245,726.7895507812498,3202.0312500000005,1657.4523925781248"
         }
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
@@ -27,15 +26,72 @@
         {
           "type": "TextualBody",
           "purpose": "transcribing",
-          "value": "The desert mishkan was a portable sanctuary. Its care was guarded by the Levites and\nthe priests yet it invited all to bring their offerings. Today, we are all caretakers of\nMishkan T'filah; may our offerings be acceptable before God.\nMay all who enter find joy, solace and meaning.\nRABBI ELYSE D. FRISHMAN\nEditor\nRABBI PETER S. KNOBEL\nChair of the Editorial Committee",
+          "value": "OUR PRAISE to You, Eternal One, who brings the evening evermore:\nwisely parting the gates of time, ushering in the seasons;\narraying with care the star-spangled sky;\nunfurling light, then darkness, then light.\nGently You fold the day into the night,\nAdonai Tzvaot is Your Name!\nLiving God, Your reign arches over us, Your light is everlasting.\nOur praise to You, Eternal One, who brings the evening evermore.\nבָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.\nBaruch atah, Adonai, hamaariv aravim."
+        }
+      ],
+      "created": "2026-07-11T20:10:18.899Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xue_bA5F_LysfZkukAbW"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1aee1623-17b5-49e6-ba6f-82375213fc3c.jp2/1177,726,3202,1657/max/0/default.jpg"
+    },
+    {
+      "id": "2ed98ae4-5666-4591-be5f-7cf8ee9f10dd",
+      "target": {
+        "source": "mishkan:page:1aee1623-17b5-49e6-ba6f-82375213fc3c",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1194.8083496093745,2556.734619140625,2659.698486328126,1980.4833984375"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "EVER-LIVING GOD, Your majesty is proclaimed\nby the marvels of earth and sky.\nSun, moon and stars testify to the power of Your wisdom.\nDay follows day in endless succession\nand the years vanish from our sight,\nbut Your sovereignty endures.\nThough all things pass,\nlet not Your glory depart from our lives.\nHelp us to become co-workers with You,\nand fill our days with abiding worth.\nבָּרוּךְ אַתָּה, יְיָ הַמַּעֲרִיב עֲרָבִים.\nBaruch atah, Adonai, hamaariv aravim."
+        }
+      ],
+      "created": "2026-07-11T20:10:37.849Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xue_bA5F_LysfZkukAbW"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1aee1623-17b5-49e6-ba6f-82375213fc3c.jp2/1194,2556,2659,1980/max/0/default.jpg"
+    },
+    {
+      "id": "960ac9d1-ca97-49f4-be40-b279b45c3cc7",
+      "target": {
+        "source": "mishkan:page:1aee1623-17b5-49e6-ba6f-82375213fc3c",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:929.9999999999997,5303.1578947368425,3641.5789473684213,1001.5789473684208"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "The darkness of the first day differed from the darkness that preceded creation. The root of\nmaariv can also mean “mix,\" suggesting God mixed light into the primordial darkness. The\ntiniest sparks of light can transform darkness.\nTo be \"religious\" might mean to have an intuitive feeling of the unity of the cosmos. ... Oneness\nis grounded in scientific reality: we are made of the same stuff as all of creation. The deepest marvel\nis the unity in diversity. Daniel Matt",
           "language": "en"
         }
       ],
-      "created": "2026-07-14T15:43:14.193Z",
+      "created": "2026-07-14T16:03:36.170Z",
       "creator": {
         "isGuest": true,
-        "id": "tcyYYOPRsd5VWoarCvPt"
-      }
+        "id": "HWZwYupz0oubD7lNMCxL"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1aee1623-17b5-49e6-ba6f-82375213fc3c.jp2/929,5303,3641,1001/max/0/default.jpg"
     }
-  ]
+  ],
+  "page_label": "7",
+  "page_url": "https://momoiro.hallyu.io/mishkan/7"
 }

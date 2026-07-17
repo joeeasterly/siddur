@@ -1,23 +1,23 @@
 {
-  "_id": "e412f548-06bd-43c1-9116-f2e0176da553",
-  "source_file": "4.pdf",
+  "_id": "a5b06ea9-fa4e-476a-9e2e-1379e7433657",
+  "source_file": "1.pdf",
   "document_title": "CCAR Mishkan T'filah",
-  "local_page": 11,
-  "global_page": 137,
-  "file_path": "/app/data/docs/mishkan/e412f548-06bd-43c1-9116-f2e0176da553.jp2",
+  "local_page": 24,
+  "global_page": 24,
+  "file_path": "/app/data/docs/mishkan/a5b06ea9-fa4e-476a-9e2e-1379e7433657.jp2",
   "format": "image/jp2",
   "dpi": 600,
   "color_space": "grayscale",
   "annotations": [
     {
-      "id": "a71193a3-f259-4b00-a770-605a5684bc82",
+      "id": "41a27196-3cf9-42ff-934e-dc1f003e461c",
       "target": {
-        "source": "mishkan:page:e412f548-06bd-43c1-9116-f2e0176da553",
+        "source": "mishkan:page:a5b06ea9-fa4e-476a-9e2e-1379e7433657",
         "type": "SpecificResource",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1128.771735788016,1049.0642382571075,2175.8635392428873,2591.9557323856616"
+          "value": "xywh=pixel:549.7414550781252,1265.93994140625,4080.487060546875,1525.68603515625"
         }
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
@@ -26,16 +26,72 @@
         {
           "type": "TextualBody",
           "purpose": "transcribing",
-          "value": "I BEGIN WITH A PRAYER of gratitude\nfor all that is holy in my life.\nGod needs no words, no English or Hebrew,\nno semantics and no services.\nBut I need them.\nThrough prayer, I can sense my inner strength,\nmy inner purpose,\nmy inner joy, my capacity to love.\nAs I reach upward in prayer,\nCreator.\nI sense these qualities in my\nTo love God is to love each other,\nto work to make our lives better.\nTo love God is to love the world God created\nand to work to perfect it.\nTo love God is to love dreams of peace and joy\nthat illumine all of us,\nand to bring that vision to life.",
+          "value": "אלהינו יהוה אוזר"
+        }
+      ],
+      "created": "2026-07-11T20:18:47.411Z",
+      "creator": {
+        "isGuest": true,
+        "id": "e76ZDWEZu2vqsVOv2GwI"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa5b06ea9-fa4e-476a-9e2e-1379e7433657.jp2/549,1265,4080,1525/max/0/default.jpg"
+    },
+    {
+      "id": "81283da2-45ca-4a47-af9a-5850a66081f3",
+      "target": {
+        "source": "mishkan:page:a5b06ea9-fa4e-476a-9e2e-1379e7433657",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1026.654296875,3998.6315917968755,3392.127685546875,876.8847656250005"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בָּרוּךְ שֵׁם כְּבוֹד מַלְכוּתוֹ לְעוֹלָם וָעֶד.\nBaruch shem k'vod malchuto l'olam va-ed.\nBlessed is God's glorious majesty forever and ever."
+        }
+      ],
+      "created": "2026-07-11T20:19:30.054Z",
+      "creator": {
+        "isGuest": true,
+        "id": "e76ZDWEZu2vqsVOv2GwI"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa5b06ea9-fa4e-476a-9e2e-1379e7433657.jp2/1026,3998,3392,876/max/0/default.jpg"
+    },
+    {
+      "id": "3ed06a51-e696-4b63-aac7-69f594783c78",
+      "target": {
+        "source": "mishkan:page:a5b06ea9-fa4e-476a-9e2e-1379e7433657",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:879.6842105263156,5621.578947368422,3844.210526315789,683.1578947368416"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "The enlarged ayin at the end of Shma (Hear) and the enlarged dalet at the end of echad (one) combine to spell TV eid (witness). We recite the Shma to bear witness to the Oneness of God.\nBaruch shem kvod... Blessed is God's glorious... M. Yoma 3:8, inspired by Nehemiah 9:5",
           "language": "en"
         }
       ],
-      "created": "2026-07-13T00:59:51.513Z",
+      "created": "2026-07-14T17:34:53.654Z",
       "creator": {
         "isGuest": true,
-        "id": "3fGjXKYhq8Fk3PgxDVGA"
-      }
+        "id": "1X_wxY8y71XHRFW06A2Y"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa5b06ea9-fa4e-476a-9e2e-1379e7433657.jp2/879,5621,3844,683/max/0/default.jpg"
     }
   ],
-  "page_label": "126"
+  "page_label": "11",
+  "page_url": "https://momoiro.hallyu.io/mishkan/11"
 }

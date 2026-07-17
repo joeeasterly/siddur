@@ -1,23 +1,24 @@
 {
-  "_id": "f89e9a08-3e22-44fd-bbdc-b310ef605810",
+  "_id": "2249731d-a0fb-4395-8feb-03a6eb7672de",
   "source_file": "1.pdf",
   "document_title": "CCAR Mishkan T'filah",
-  "local_page": 15,
-  "global_page": 15,
-  "file_path": "/app/data/docs/mishkan/f89e9a08-3e22-44fd-bbdc-b310ef605810.jp2",
+  "local_page": 28,
+  "global_page": 28,
+  "file_path": "/app/data/docs/mishkan/2249731d-a0fb-4395-8feb-03a6eb7672de.jp2",
   "format": "image/jp2",
   "dpi": 600,
   "color_space": "grayscale",
+  "page_label": "15",
   "annotations": [
     {
-      "id": "7228e8a2-24d7-4401-8d24-48edaa5c260d",
+      "id": "fa18798c-c5f9-4f40-96ba-082b73884e3e",
       "target": {
-        "source": "mishkan:page:f89e9a08-3e22-44fd-bbdc-b310ef605810",
+        "source": "mishkan:page:2249731d-a0fb-4395-8feb-03a6eb7672de",
         "type": "SpecificResource",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:827.4135742187498,1425.62255859375,2532.967529296876,1449.6313476562505"
+          "value": "xywh=pixel:1475.919604492187,703.1340270996096,1883.9522460937503,1595.8976257324216"
         }
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
@@ -26,24 +27,26 @@
         {
           "type": "TextualBody",
           "purpose": "transcribing",
-          "value": "WE ARE CALLED unto life, destiny uncertain.\nYet we offer thanks for what we know,\nfor health and healing, for labor and repose,\nfor renewal of beauty in earth and sky,\nfor that blend of human-holy which inspires compassion,\nand for hope: eternal, promising light.\nFor life, for health, for hope,\nfor beautiful, bountiful blessing,\nall praise to the Source of Being."
+          "value": "SING THE SONG of men and women\njoined in understanding and respect.\nThe song of God's miracles,\nan earth protected and cherished:\na gift for our children\nand the generations to come.\nThe song of a land once ravished by war,\nnow quiet and content:\nher soldiers home, to leave no more.\nThe song of a world redeemed:\nthe song of peace.",
+          "language": "en"
         }
       ],
-      "created": "2026-07-11T14:27:24.245Z",
+      "created": "2026-07-12T22:26:42.353Z",
       "creator": {
         "isGuest": true,
-        "id": "ZYUc5Si62Gz1c041OJYZ"
-      }
+        "id": "JVgDWyopGg99qAkAqrQV"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2249731d-a0fb-4395-8feb-03a6eb7672de.jp2/1475,703,1883,1595/max/0/default.jpg"
     },
     {
-      "id": "7b260141-ad7c-4956-a67d-bf4c1311e64d",
+      "id": "c410c45f-8635-41e6-bd18-7e21ee46e1a4",
       "target": {
-        "source": "mishkan:page:f89e9a08-3e22-44fd-bbdc-b310ef605810",
+        "source": "mishkan:page:2249731d-a0fb-4395-8feb-03a6eb7672de",
         "type": "SpecificResource",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:2340.490966796875,2974.7534179687505,1072.056884765625,351.22924804687455"
+          "value": "xywh=pixel:1436.468908691406,2528.676654052734,2579.946423339844,2868.646453857423"
         }
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
@@ -52,68 +55,17 @@
         {
           "type": "TextualBody",
           "purpose": "transcribing",
-          "value": "בָּרוּךְ אַתָּה, יְיָ,\nמְקוֹר נֶפֶשׁ כָּל חַי."
+          "value": "IN A WORLD torn by violence and pain,\na world far from wholeness and peace,\ngive us the courage to say, Adonai:\nThere is one God in heaven and earth.\nThe high heavens declare Your glory;\nmay earth reveal Your justice and love.\nFrom bondage in Egypt, we were delivered;\nat Sinai, we bound ourselves to Your way.\nInspired by prophets and instructed by sages,\ntime and again, we overcame oppressive forces.\nThough our failings are many and our faults are great,\nit has been our glory to bear witness to our God,\nkeeping alive in dark ages\nYour vision of a world redeemed.\nLet us continue to work for the day\nwhen the nations will be one and at peace.\nThen shall we rejoice as Israel did,\nsinging on the shores of the Sea:",
+          "language": "en"
         }
       ],
-      "created": "2026-07-11T20:00:55.336Z",
+      "created": "2026-07-12T22:26:55.423Z",
       "creator": {
         "isGuest": true,
-        "id": "vX15JZeQ69KO6uE2oXGl"
-      }
-    },
-    {
-      "id": "ac58a7d2-14fb-4d01-bbfe-5b735d8b348e",
-      "target": {
-        "source": "mishkan:page:f89e9a08-3e22-44fd-bbdc-b310ef605810",
-        "type": "SpecificResource",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:882.802978515625,2996.627197265625,906.170654296875,349.17480468750045"
-        }
+        "id": "JVgDWyopGg99qAkAqrQV"
       },
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "type": "Annotation",
-      "body": [
-        {
-          "type": "TextualBody",
-          "purpose": "transcribing",
-          "value": "Baruch atah, Adonai,\nM'kor nefesh kol chai."
-        }
-      ],
-      "created": "2026-07-11T20:01:16.024Z",
-      "creator": {
-        "isGuest": true,
-        "id": "vX15JZeQ69KO6uE2oXGl"
-      }
-    },
-    {
-      "id": "a3672507-beea-49f3-aa5c-9e17d2bcdf64",
-      "target": {
-        "source": "mishkan:page:f89e9a08-3e22-44fd-bbdc-b310ef605810",
-        "type": "SpecificResource",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1099.6842105263158,521.0526315789473,2315.789473684211,764.2105263157896"
-        }
-      },
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "type": "Annotation",
-      "body": [
-        {
-          "type": "TextualBody",
-          "purpose": "transcribing",
-          "value": "עַרְבִית לְחוֹל\nAR'VIT L'CHOL WEEKDAY EVENING",
-          "language": "he"
-        }
-      ],
-      "created": "2026-07-14T15:49:29.484Z",
-      "creator": {
-        "isGuest": true,
-        "id": "Ne0PHbxNTZwG5BsVMou6"
-      }
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2249731d-a0fb-4395-8feb-03a6eb7672de.jp2/1436,2528,2579,2868/max/0/default.jpg"
     }
   ],
-  "page_label": "2"
+  "page_url": "https://momoiro.hallyu.io/mishkan/15"
 }

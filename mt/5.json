@@ -1,24 +1,23 @@
 {
-  "_id": "0140bfac-5d2e-4f38-a2b6-4001c4a63cfa",
+  "_id": "051c3a8f-0c58-444d-ada6-1a4ea721005d",
   "source_file": "1.pdf",
   "document_title": "CCAR Mishkan T'filah",
-  "local_page": 5,
-  "global_page": 5,
-  "file_path": "/app/data/docs/mishkan/0140bfac-5d2e-4f38-a2b6-4001c4a63cfa.jp2",
+  "local_page": 18,
+  "global_page": 18,
+  "file_path": "/app/data/docs/mishkan/051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2",
   "format": "image/jp2",
   "dpi": 600,
   "color_space": "grayscale",
-  "page_label": "vii",
   "annotations": [
     {
-      "id": "a6786e61-4597-44aa-80b7-4aa12d685e57",
+      "id": "1b4ec32a-9ec8-41ed-8325-c002e4b47a89",
       "target": {
-        "source": "mishkan:page:0140bfac-5d2e-4f38-a2b6-4001c4a63cfa",
+        "source": "mishkan:page:051c3a8f-0c58-444d-ada6-1a4ea721005d",
         "type": "SpecificResource",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:901.0526315789472,347.3684210526314,3768.947368421053,5870.526315789474"
+          "value": "xywh=pixel:2827.1120605468755,381.5222167968751,1682.3876953124995,1104.2431640625"
         }
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
@@ -27,15 +26,154 @@
         {
           "type": "TextualBody",
           "purpose": "transcribing",
-          "value": "Introduction\nWhile prayer invites us to beseech God, we must also be open to what God wants\nfrom us. Samuel Karff wrote, “Each generation must struggle to hear the call, 'Where\nart thou?' Each must choose to answer, 'Here I am, send me.\"\" Each generation\nmerely each individual. A siddur must challenge narcissism; that challenge begins by\nsaying to a worshipper: your voice is here amidst others. To hear the call: to realize\nthat prayer is not merely an outpouring of self; it is the opening of our senses to what\nis beyond our selves. Send me: prayer must motivate us to give selflessly.\n-\nIn any worship setting, people have diverse beliefs. The challenge of a single liturgy is\nto be not only multi-vocal, but poly-vocal — to invite full participation at once,\nwithout conflicting with the keva text. (First, the keva text must be one that is\nacceptable; hence, the ongoing adaptations of certain prayers, over time, such as the\nGvurot.) Jewish prayer invites interpretation; the left hand material was selected both\nfor metaphor and theological diversity. The choices were informed by the themes of\nReform Judaism and Life: social justice, feminism, Zionism, distinctiveness, human\nchallenges. The heritage of Reform brings gems from the Union Prayer Book and from\nGates of Prayer, as well as from Reform's great literary figures over the last century\nand\nmore.\nTheologically, the liturgy needs to include many perceptions of God: the transcen-\ndent, the naturalist, the mysterious, the partner, the evolving God. In any given\nmodule of prayer, e.g., the Shma and Its Blessings, we should sense all of these ways.\nThe distinction of an integrated theology is not that one looks to each page to find\none's particular voice, but that over the course of praying, many voices are heard, and\nultimately come together as one. The ethic of inclusivity means awareness of and\nobligation to others rather than mere self-fulfillment.\nAn integrated theology communicates that the community is greater than the sum of\nits\nparts. While individuals matter deeply, particularly in the sense of our emotional\nand spiritual needs and in the certainty that we are not invisible, that security should\nbe a stepping stone to the higher value of community, privilege and obligation. We\njoin together in prayer because together, we are stronger and more apt to commit to\nthe values of our heritage. Abraham knew that just ten people made a difference. In\nworship, all should be reminded of the social imperatives of community.\nPrayer must move us beyond ourselves. Prayer should not reflect \"me\"; prayer should\nreflect our values and ideals. God is not in our image; we are in God's. It is critical that\nReform Jews understand what is expected of them. The diverse theologies of the new\nsiddur include religious naturalism, the theology of human adequacy, process theology,",
+          "value": "בָּרוּךְ אַתָּה, יְיָ\nאֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,\nאֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ\nעַל מִצְוַת קְרִיאַת שְׁמַע\nלְהַמְלִיכוֹ בְּלֵבָב שָׁלֵם וּלְיַחְדוֹ\nבְּלֵב טוֹב וּלְעָבְדוֹ בְּנֶפֶשׁ חֲפֵצָה.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-11T20:03:25.010Z",
+      "creator": {
+        "isGuest": true,
+        "id": "2vi94ExIjdtwM7ddi4wa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/2827,381,1682,1104/max/0/default.jpg"
+    },
+    {
+      "id": "9f2d6c32-f992-48c4-aa0d-cda450169faa",
+      "target": {
+        "source": "mishkan:page:051c3a8f-0c58-444d-ada6-1a4ea721005d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:857.2634277343751,379.10522460937483,1440.6481933593755,1092.1582031250002"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "BARUCH atah, Adonai\nEloheinu, Melech haolam,\nasher kid'shanu b'mitzvotav v'tzivanu\nal mitzvat k'riat sh'ma\nl'hamlicho b'leivav shaleim ul'yachdo\nb'leiv tov ul'ovdo b'nefesh chafeitzah."
+        }
+      ],
+      "created": "2026-07-11T20:04:43.752Z",
+      "creator": {
+        "isGuest": true,
+        "id": "2vi94ExIjdtwM7ddi4wa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/857,379,1440,1092/max/0/default.jpg"
+    },
+    {
+      "id": "d2338a21-6d34-4b08-9077-98199aa6733e",
+      "target": {
+        "source": "mishkan:page:051c3a8f-0c58-444d-ada6-1a4ea721005d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1325.5556640625002,1530.963134765625,2757.586669921876,910.72265625"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "PRAISED ARE YOU, Adonai our God, Ruler of the Universe,\nwho hallows us with mitzvot,\ncommanding us how to recite the Sh'ma:\nto declare wholeheartedly God's rule,\nto declare earnestly God is One,\nand to willingly worship God."
+        }
+      ],
+      "created": "2026-07-11T20:05:04.758Z",
+      "creator": {
+        "isGuest": true,
+        "id": "2vi94ExIjdtwM7ddi4wa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/1325,1530,2757,910/max/0/default.jpg"
+    },
+    {
+      "id": "80bda7ae-238a-4a67-8a2c-3dabd6e53342",
+      "target": {
+        "source": "mishkan:page:051c3a8f-0c58-444d-ada6-1a4ea721005d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1276.4907226562502,2879.3225097656255,2307.82470703125,1281.8115234374995"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "THREE THINGS there are together in my eye\nthat keep the thought of Thee forever nigh.\nI think about Thy great and holy name\nwhenever I look up and see the sky.\nMy thoughts are roused to know how I was made,\nseeing the earth's expanse where I abide.\nThe musings of my mind when I look inside\nat all times, O my soul, \"Bless Adonai!\""
+        }
+      ],
+      "created": "2026-07-11T20:05:25.594Z",
+      "creator": {
+        "isGuest": true,
+        "id": "2vi94ExIjdtwM7ddi4wa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/1276,2879,2307,1281/max/0/default.jpg"
+    },
+    {
+      "id": "9d38f442-a06b-4963-ae05-479ba77f4abf",
+      "target": {
+        "source": "mishkan:page:051c3a8f-0c58-444d-ada6-1a4ea721005d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:861.2111816406248,4613.071289062501,3782.512207031251,610.250244140625"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "What does it mean to be called to worship? All serious activity requires preparation. The prayers\nand blessings that precede Bar'chu are warm-ups for the individual. Now communal prayer\nbegins. The leader asks, “Are you ready to pray?\" And we respond, \"Yes! Let us pray!\"\nadapted from Richard Levy"
+        }
+      ],
+      "created": "2026-07-11T20:05:46.401Z",
+      "creator": {
+        "isGuest": true,
+        "id": "2vi94ExIjdtwM7ddi4wa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/861,4613,3782,610/max/0/default.jpg"
+    },
+    {
+      "id": "fe772466-a6a8-4460-ab83-1a05fbb91d95",
+      "target": {
+        "source": "mishkan:page:051c3a8f-0c58-444d-ada6-1a4ea721005d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:872.9335937499999,5205.79833984375,3717.57568359375,1081.885986328125"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Baruch atah, Praised are You: So important was the recitation of the Shma to our ancestors in Eretz Yisrael, that they introduced it with a blessing. That blessing fell out of use over a thousand years ago; we reclaim it here as part of our liturgical heritage.\nThere are three main avenues by which one arrives at meaning in life. The first is by creating a life or doing a deed. The second is by experiencing something or encountering someone; in other words, meaning can be found not only in work but also in love. Third: even the helpless victim of a hopeless situation, facing a fate that cannot be changed, may rise above himself, grow beyond himself, and by so doing, change himself. Viktor E. Frankl",
           "language": "en"
         }
       ],
-      "created": "2026-07-14T15:42:32.609Z",
+      "created": "2026-07-11T20:06:27.812Z",
       "creator": {
         "isGuest": true,
-        "id": "s3O5CyWi05DxGbzYP_r1"
-      }
+        "id": "2vi94ExIjdtwM7ddi4wa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/872,5205,3717,1081/max/0/default.jpg"
     }
-  ]
+  ],
+  "page_label": "5",
+  "page_url": "https://momoiro.hallyu.io/mishkan/5"
 }

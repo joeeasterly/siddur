@@ -1,24 +1,23 @@
 {
-  "_id": "f0955823-ef73-4281-89c9-9fc6e4d05ca7",
+  "_id": "f4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98",
   "source_file": "1.pdf",
   "document_title": "CCAR Mishkan T'filah",
-  "local_page": 6,
-  "global_page": 6,
-  "file_path": "/app/data/docs/mishkan/f0955823-ef73-4281-89c9-9fc6e4d05ca7.jp2",
+  "local_page": 19,
+  "global_page": 19,
+  "file_path": "/app/data/docs/mishkan/f4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98.jp2",
   "format": "image/jp2",
   "dpi": 600,
   "color_space": "grayscale",
-  "page_label": "viii",
   "annotations": [
     {
-      "id": "9b4f5e28-8ce0-4849-97a0-681e2703317b",
+      "id": "2bd08f1c-d58a-471b-96bf-6ff264deb323",
       "target": {
-        "source": "mishkan:page:f0955823-ef73-4281-89c9-9fc6e4d05ca7",
+        "source": "mishkan:page:f4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98",
         "type": "SpecificResource",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:402.0618421052632,429.0052631578954,3640.747368421052,5466.918421052629"
+          "value": "xywh=pixel:2365.385986328126,358.1982421875003,1752.72216796875,2887.177734375"
         }
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
@@ -27,15 +26,127 @@
         {
           "type": "TextualBody",
           "purpose": "transcribing",
-          "value": "and the balance of particularism and universalism. But the essence of Reform liturgy\ncontinues to be what God demands of us, with heavy emphasis on ethical action and\nsocial justice.\nIn Beyond the Worship Wars, Thomas G. Long teaches, \"Part of the joy of worship is to\nknow the motions, know the words, know the song. The vital congregations knew\ntheir order of worship and moved through it with deep familiarity. What is more, the\nworshippers had active roles - speaking, singing, moving and many of these they\ncould perform from memory.\" The siddur is a tool in the larger system of worship.\nLawrence Hoffman teaches, \"The book is less text than pre-text for the staging of an\nexperience. We are returning to the age of orality, where performance of prayer\nmatters more than the fixed words. The question of worship leadership has expanded\nnow, to include the theology and artistry of being a shliach tzibur - how to\norchestrate seating, fill empty space, provide the right acoustics, and honor\nindividualism within the group experience.\"\nUsing Mishkan T'filah, the actual selection of prayer can wait for the moment. The\nsh'liach tzibur must offer a recipe that works comfortably for the community, and be\nable to adapt each week to the particular needs of the community, and to individuals\nwithin that community.\nMishkan T'filah invites familiarity, even as it allows for diversity. Over time, one\ncannot help but memorize the book. The content of each page spread, though varied,\nbecomes known. The constancy of the keva text (the right hand side of each page\nwhich offers the traditional prayer) anchors every creative prayer on the left. It is the\ncumulative effect of worshipping from this siddur that will deepen meaningful ritual.\nThe publication of Mishkan T'filah continues the Reform movement's tradition of\nliturgical innovation. A single prayer book provides an important vehicle for group\nidentification as well as personal prayer. The Union Prayer Book and its successor Gates\nof Prayer and now Mishkan T'filah each expresses the ethos and values of its own era,\nat the same time being fully rooted in the structure and substance of the historical\nliturgical tradition of the Jewish people.\nThe title Mishkan T'filah is drawn from Exodus 25:8 where God commands us to\nbuild a portable sanctuary that can accompany us on our wanderings. “And let them\nbuild Me a sanctuary that I may dwell among them.\" Mishkan T'filah is a dwelling\nplace for\nprayer, one that moves with us wherever we might be physically or\nspiritually. It offers the opportunity for God, the individual and community to meet.",
+          "value": "בָּרוּךְ אַתָּה, יְיָ\nאֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,\nאֲשֶׁר בִּדְבָרוֹ מַעֲרִיב עֲרָבִים,\nבְּחָכְמָה פּוֹתֵחַ שְׁעָרִים,\nוּבִתְבוּנָה מְשַׁנָּה עִתִּים\nוּמַחֲלִיף אֶת הַזְמַנִים,\nוּמְחַבֵּר אֶת הַכּוֹכָבִים\nבְּמִשְׁמְרוֹתֵיהֶם בָּרָקִיעַ כִּרְצוֹנוֹ.\nבּוֹרֵא יוֹם וָלָיְלָה,\nTIT\nגוֹלָל אוֹר מִפְּנֵי חֹשֶׁךְ\nוְחֹשֶׁךְ מִפְּנֵי אוֹר,\nוּמַעֲבִיר יוֹם וּמֵבִיא לָיְלָה,\nTIT\nוּמַבְדִּיל בֵּין יוֹם וּבֵין לָיְלָה,\nיְיָ צְבָאוֹת שְׁמוֹ.\nאֵל חַי וְקַיָּם,\nTIT\nתָּמִיד יִמְלֹךְ עָלֵינוּ לְעוֹלָם וָעֶד.\nבָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-11T20:07:52.073Z",
+      "creator": {
+        "isGuest": true,
+        "id": "HcfCVLOx9hPMT5lagYH4"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98.jp2/2365,358,1752,2887/max/0/default.jpg"
+    },
+    {
+      "id": "df02ab56-f3a1-409d-aeb0-10f5624ba777",
+      "target": {
+        "source": "mishkan:page:f4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:422.12426757812534,329.2346191406252,1547.8820800781245,2946.796875"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "BARUCH atah, Adonai\nEloheinu, Melech haolam,\nasher bidvaro maariv aravim,\nb'chochmah potei-ach sh'arim,\nuvitvunah m'shaneh itim\numachalif et haz'manim,\num'sadeir et hakochavim\nb'mishm'roteihem barakia kirtzono.\nBorei yom valailah,\ngoleil or mipnei choshech\nv'choshech mipnei or,\numaavir yom umeivi lailah,\numavdil bein yom uvein lailah,\nAdonai Tz'vaot sh'mo.\nEl chai v'kayam,\ntamid yimloch aleinu l'olam va-ed.\nBaruch atah, Adonai, hamaariv aravim."
+        }
+      ],
+      "created": "2026-07-11T20:08:27.246Z",
+      "creator": {
+        "isGuest": true,
+        "id": "HcfCVLOx9hPMT5lagYH4"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98.jp2/422,329,1547,2946/max/0/default.jpg"
+    },
+    {
+      "id": "a6766845-d7c9-463e-9669-8b7eab1fc02a",
+      "target": {
+        "source": "mishkan:page:f4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:451.4907226562502,3293.1115722656255,2928.66943359375,1566.8957519531245"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "PRAISED are You, Adonai our God, Ruler of the universe,\nwho speaks the evening into being,\nskillfully opens the gates,\nthoughtfully alters the time and changes the seasons,\nand arranges the stars in their heavenly courses according to plan.\nYou are Creator of day and night,\nrolling light away from darkness and darkness from light,\ntransforming day into night and distinguishing one from the other.\nAdonai Tzvaot is Your Name.\nEver-living God, may You reign continually over us into eternity.\nPraise to You, Adonai, who brings on evening."
+        }
+      ],
+      "created": "2026-07-11T20:08:50.952Z",
+      "creator": {
+        "isGuest": true,
+        "id": "HcfCVLOx9hPMT5lagYH4"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98.jp2/451,3293,2928,1566/max/0/default.jpg"
+    },
+    {
+      "id": "25072791-9962-4d6f-adcc-ba6247d2f7fb",
+      "target": {
+        "source": "mishkan:page:f4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1388.196044921875,4853.964843750001,1945.1953124999995,419.1064453125"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.\nBaruch atah, Adonai, hamaariv aravim."
+        }
+      ],
+      "created": "2026-07-11T20:09:07.010Z",
+      "creator": {
+        "isGuest": true,
+        "id": "HcfCVLOx9hPMT5lagYH4"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98.jp2/1388,4853,1945,419/max/0/default.jpg"
+    },
+    {
+      "id": "d5567e88-1b2f-4cb9-b87f-96262054ea73",
+      "target": {
+        "source": "mishkan:page:f4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:428.1052631578946,5876.315789473686,3653.157894736843,503.6842105263149"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Adonai Tzvaot: this is one of many names that help elucidate God's attributes. God designs, creates and arranges the universe with order and purpose.",
           "language": "en"
         }
       ],
-      "created": "2026-07-14T15:42:57.750Z",
+      "created": "2026-07-14T16:03:10.057Z",
       "creator": {
         "isGuest": true,
-        "id": "ZZyUQ1apVFME0lxdDOHO"
-      }
+        "id": "225quupY8XA6QopiMqIR"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff4f3ccdb-8ca7-4e0a-9dd4-d4c2def72c98.jp2/428,5876,3653,503/max/0/default.jpg"
     }
-  ]
+  ],
+  "page_label": "6",
+  "page_url": "https://momoiro.hallyu.io/mishkan/6"
 }

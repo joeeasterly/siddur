@@ -1,24 +1,23 @@
 {
-  "_id": "1cbdcd6e-7af0-4207-9a50-df3e11620bbf",
+  "_id": "083484bf-d185-4ca5-b71c-608f81c5d61e",
   "source_file": "1.pdf",
   "document_title": "CCAR Mishkan T'filah",
-  "local_page": 12,
-  "global_page": 12,
-  "file_path": "/app/data/docs/mishkan/1cbdcd6e-7af0-4207-9a50-df3e11620bbf.jp2",
+  "local_page": 25,
+  "global_page": 25,
+  "file_path": "/app/data/docs/mishkan/083484bf-d185-4ca5-b71c-608f81c5d61e.jp2",
   "format": "image/jp2",
   "dpi": 600,
   "color_space": "grayscale",
-  "page_label": "xv",
   "annotations": [
     {
-      "id": "97667fd7-ae74-47a7-b48b-7d2d7f8600be",
+      "id": "4dd56402-a3e7-48e2-b509-c794f447bd37",
       "target": {
-        "source": "mishkan:page:1cbdcd6e-7af0-4207-9a50-df3e11620bbf",
+        "source": "mishkan:page:083484bf-d185-4ca5-b71c-608f81c5d61e",
         "type": "SpecificResource",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:885.4736842105262,272.1052631578946,3716.842105263158,5818.421052631579"
+          "value": "xywh=pixel:2435.398193359375,365.04638671875006,1757.314453125,2849.3920898437505"
         }
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
@@ -27,15 +26,99 @@
         {
           "type": "TextualBody",
           "purpose": "transcribing",
-          "value": "A Note on Style and Usage\nMishkan T'filah offers many opportunities for diverse usage and worship styles. Most\nof the prayers in this siddur are set as a two-page spread, with the keva (primary,\ntraditional) liturgy on the right-hand page and alternative prayer choices on the left-\nhand side. The right-hand Hebrew text is accompanied by a faithful translation, and\ntransliteration; the left-hand page contains poetry, prayers and kavanot (meditations)\nthematically tied to the keva text but reflecting diverse theological points of view.\nLayouts of the prayers invite different usage. Some passages are set to facilitate\nresponsive readings, though all passages allow for unison offering. It is suggested that\nthe community vary its vocal expression in prayer, with quieter or more exuberant\ntones at appropriate moments, as guided by the worship leader.\nThe two-page spreads are intended so that only one prayer per page spread is read,\neither in Hebrew or English. Once that single piece is prayed, the worshipper turns the\npage. Thus pages need be announced only when they are skipped. (These simple\ninstructions at the beginning of each service will guide new worshippers.) If the\nworship leader begins each prayer slowly, this will help worshippers to locate their\nplaces easily.\nA linear-style service option is offered in Service II for Friday night and Shabbat\nmorning. Linear pages are designed with a blue frame around the page. The English in\nthese services is not a direct translation of the Hebrew prayers.\nTo pray the most traditional liturgy, one would use the right-hand side of the two-\npage spread of any service (except Services II).\n\"Stage directions\" and choreography such as when to stand or sit are minimized for\nmaximum flexibility and with respect for varying congregational customs.\nSpiritual commentaries, notes on rabbinic practices, and source citations span the\nbottom of the pages, below the liturgical frame. The heading \"For those who choose\"\nrefers to Jewish customs established by long usage. While not binding, many\ncongregants will find them meaningful, and their use can enhance one's kavanah. Text\nsources are abbreviated: M. Shabbat 2:1 is read as Mishnah Shabbat, chapter 2,\nparagraph 1. Shabbat 2b-3a refers to the Talmud tractate Shabbat, page 2b to page 3a.\nRubric headings are on the outside margins, indicating the current prayer's place\nwithin the service.",
+          "value": "וְאָהַבְתָּ אֶת יְיָ אֱלֹהֶיךָ\nבְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךְ וּבְכָל־\nמְאֹדֶךָ: וְהָיוּ הַדְּבָרִים הָאֵלֶּה\nאֲשֶׁר אָנֹכִי מְצַוּךְ הַיּוֹם עַל־\nלְבָבֶךָ: וְשִׁנַּנְתָּם לְבָנֶיךָ וְדִבַּרְתָּ\nבָּם בְּשִׁבְתְּךָ בְּבֵיתֶךָ וּבְלֶכְתְּךָ\nבַדֶּרֶךְ וּבְשָׁכְבְּךָ וּבְקוּמֶךְ:\nT\nוּקְשַׁרְתָּם לְאוֹת עַל־יָדֶךְ וְהָיוּ\nלְטְטָפְת בֵּין עֵינֶיךָ: וּכְתַבְתָּם\nעַל־מְחֲזוֹת בֵּיתֶךָ וּבִשְׁעָרֶיךָ:\nለ\nלְמַעַן תִּזְכְּרוּ וַעֲשִׂיתֶם אֶת־\nכָּל־מִצְוֹתָי וִהְיִיתֶם קְדֹשִׁים\nלֵאלֹהֵיכֶם: אֲנִי יְיָ אֱלֹהֵיכֶם\nאֲשֶׁר הוֹצֵאתִי אֶתְכֶם מֵאֶרֶץ\nמִצְרַיִם לִהְיוֹת לָכֶם לֵאלֹהִים\nאֲנִי יְיָ אֱלֹהֵיכֶם:\n>>\nT:"
+        }
+      ],
+      "created": "2026-07-11T20:20:28.824Z",
+      "creator": {
+        "isGuest": true,
+        "id": "kh4irsR3_iU4BTKa2_7A"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F083484bf-d185-4ca5-b71c-608f81c5d61e.jp2/2435,365,1757,2849/max/0/default.jpg"
+    },
+    {
+      "id": "480b0547-fd87-4cfc-a2e7-f9c17f6716e4",
+      "target": {
+        "source": "mishkan:page:083484bf-d185-4ca5-b71c-608f81c5d61e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:397.5917968749998,310.946044921875,1661.4404296875007,2862.645263671875"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "V'AHAVTA et Adonai Elohecha,\nb'chol l'vav'cha uv'chol nafsh'cha uv'chol\nm'odecha. V'hayu had'varim ha-eileh\nasher anochi m'tzav'cha hayom al\nI'vavecha. V'shinantam l'vanecha v'dibarta\nbam b'shivt'cha b'veitecha uv'lecht'cha\nvaderech uv'shochb'cha uv'kumecha.\nUk'shartam l'ot al yadecha v'hayu\nl'totafot bein einecha. Uch'tavtam\nal m'zuzot beitecha uvisharecha.\nI'maan tizk'ru vaasitem et\nkol mitzvotai vih'yitem k'doshim\nl'Eloheichem. Ani Adonai Eloheichem,\nasher hotzeiti et-chem mei-eretz\nMitzrayim lih'yot lachem l'Elohim\nani Adonai Eloheichem."
+        }
+      ],
+      "created": "2026-07-11T20:20:52.710Z",
+      "creator": {
+        "isGuest": true,
+        "id": "kh4irsR3_iU4BTKa2_7A"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F083484bf-d185-4ca5-b71c-608f81c5d61e.jp2/397,310,1661,2862/max/0/default.jpg"
+    },
+    {
+      "id": "69ddc4c8-ca9c-4e79-982b-76e4310ef5fd",
+      "target": {
+        "source": "mishkan:page:083484bf-d185-4ca5-b71c-608f81c5d61e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:380.31030273437506,3221.6088867187505,3665.2478027343755,2187.2973632812495"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "YOU SHALL LOVE Adonai your God with all your heart,\nwith all your soul, and with all your might.\nTake to heart these instructions with which I charge you this day.\nImpress them upon your children.\nRecite them when you stay at home and when you are away,\nwhen you lie down and when you get up.\nBind them as a sign on your hand and let them serve as a symbol on your\ninscribe them on the doorposts of your house and on your gates.\nThus you\nshall remember to observe all My commandments\nand to be holy to your God.\nI am Adonai, your God, who brought you out of the land of Egypt to be\nI am Adonai your God.\n»\nיְיָ אֱלֹהֵיכֶם אֱמֶת.\nT:\nAdonai Eloheichem EMET.\nforehead;\nyour\nGod:"
+        }
+      ],
+      "created": "2026-07-11T20:21:05.713Z",
+      "creator": {
+        "isGuest": true,
+        "id": "kh4irsR3_iU4BTKa2_7A"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F083484bf-d185-4ca5-b71c-608f81c5d61e.jp2/380,3221,3665,2187/max/0/default.jpg"
+    },
+    {
+      "id": "caa0ee3e-70f3-4971-ada3-33c1c69526e9",
+      "target": {
+        "source": "mishkan:page:083484bf-d185-4ca5-b71c-608f81c5d61e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:480.21052631578937,5569.473684210527,3630.000000000001,758.4210526315792"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "For those who choose: At the end of the Shma, after the words Eloheichem, the word emet (\"true\") is added as an immediate affirmation of its truth.\nV'ahavta... You shall love... Deuteronomy 6:5-9\nL'maan tizkru... Thus you shall remember... Numbers 15:40-41",
           "language": "en"
         }
       ],
-      "created": "2026-07-14T15:48:52.174Z",
+      "created": "2026-07-14T17:35:45.473Z",
       "creator": {
         "isGuest": true,
-        "id": "vj2HGBiVQf1dVgrHkm3J"
-      }
+        "id": "ePTkuaGzuUsbk5qpMjBz"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F083484bf-d185-4ca5-b71c-608f81c5d61e.jp2/480,5569,3630,758/max/0/default.jpg"
     }
-  ]
+  ],
+  "page_label": "12",
+  "page_url": "https://momoiro.hallyu.io/mishkan/12"
 }

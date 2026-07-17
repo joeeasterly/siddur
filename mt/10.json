@@ -1,23 +1,24 @@
 {
-  "_id": "6aa47c5f-6a21-47bd-aa5d-f26297c5ae5f",
-  "source_file": "4.pdf",
+  "_id": "2a22ba0a-429d-47c0-bfcf-0ea3f16927cb",
+  "source_file": "1.pdf",
   "document_title": "CCAR Mishkan T'filah",
-  "local_page": 10,
-  "global_page": 136,
-  "file_path": "/app/data/docs/mishkan/6aa47c5f-6a21-47bd-aa5d-f26297c5ae5f.jp2",
+  "local_page": 23,
+  "global_page": 23,
+  "file_path": "/app/data/docs/mishkan/2a22ba0a-429d-47c0-bfcf-0ea3f16927cb.jp2",
   "format": "image/jp2",
   "dpi": 600,
   "color_space": "grayscale",
+  "page_label": "10",
   "annotations": [
     {
-      "id": "cd7fafdd-a295-48a6-b6cb-8f839316b416",
+      "id": "cbcd53e0-3bc6-430f-aac0-13132233ab5c",
       "target": {
-        "source": "mishkan:page:6aa47c5f-6a21-47bd-aa5d-f26297c5ae5f",
+        "source": "mishkan:page:2a22ba0a-429d-47c0-bfcf-0ea3f16927cb",
         "type": "SpecificResource",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1290.7977827564894,840.1691903584673,2635.77429697157,2974.3722960444993"
+          "value": "xywh=pixel:280.6784319196427,1350.830078125,3969.430106026786,1466.30859375"
         }
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
@@ -26,16 +27,101 @@
         {
           "type": "TextualBody",
           "purpose": "transcribing",
-          "value": "WHERE HAS THIS WEEK VANISHED?\nIs it lost forever?\nWill I ever recover anything from it?\nThe joy of life, the unexpected victory,\nthe realized hope, the task accomplished?\nWill I ever be able to banish the memory of pain,\nthe sting of defeat, the heaviness of boredom?\nOn this day let me keep for a while what must drift away.\nOn this day let me be free of the burdens that must return.\nOn this day, Shabbat, abide.\nHelp me to withdraw for a while\nfrom the flight of time.\nContain the retreat of the hours and days from the\ngrasp of frantic life.\nLet me learn to pause, if only for this day.\nLet me find peace on this day.\nLet me enter into a quiet world this day.\nOn this day, Shabbat, abide.",
+          "value": "שמע ישראל יהוה",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-12T22:17:54.184Z",
+      "creator": {
+        "isGuest": true,
+        "id": "y1lo1JIFP8aR5hLsAlAT"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2a22ba0a-429d-47c0-bfcf-0ea3f16927cb.jp2/280,1350,3969,1466/max/0/default.jpg"
+    },
+    {
+      "id": "65fa9809-0bf8-4988-8b46-9f5ea48ba2c2",
+      "target": {
+        "source": "mishkan:page:2a22ba0a-429d-47c0-bfcf-0ea3f16927cb",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:516.3377424420127,4083.6962374364034,3473.579668272273,323.97675363502685"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד!",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-12T22:18:24.097Z",
+      "creator": {
+        "isGuest": true,
+        "id": "y1lo1JIFP8aR5hLsAlAT"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2a22ba0a-429d-47c0-bfcf-0ea3f16927cb.jp2/516,4083,3473,323/max/0/default.jpg"
+    },
+    {
+      "id": "c2993ae5-41fb-436d-9abe-1cb6319d7ce4",
+      "target": {
+        "source": "mishkan:page:2a22ba0a-429d-47c0-bfcf-0ea3f16927cb",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:741.9054823221023,4391.7268000596805,3042.2620929367263,357.5477447697622"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Sh'ma Yisrael, Adonai Eloheinu, Adonai Echad!\nHear, O Israel, Adonai is our God, Adonai is One!",
           "language": "en"
         }
       ],
-      "created": "2026-07-13T00:57:47.989Z",
+      "created": "2026-07-12T22:23:21.512Z",
       "creator": {
         "isGuest": true,
-        "id": "HtaIunHh0KAnR6l6wvTR"
-      }
+        "id": "y1lo1JIFP8aR5hLsAlAT"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2a22ba0a-429d-47c0-bfcf-0ea3f16927cb.jp2/741,4391,3042,357/max/0/default.jpg"
+    },
+    {
+      "id": "3acf523f-136d-43fa-bd61-1c6d6017a651",
+      "target": {
+        "source": "mishkan:page:2a22ba0a-429d-47c0-bfcf-0ea3f16927cb",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:393.3684210526315,5575.263157894738,3682.105263157895,260.5263157894742"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Shma Yisrael... Hear, O Israel... Deuteronomy 6:4",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:34:16.084Z",
+      "creator": {
+        "isGuest": true,
+        "id": "T5dcvAHh8zWOOfpdcOqr"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2a22ba0a-429d-47c0-bfcf-0ea3f16927cb.jp2/393,5575,3682,260/max/0/default.jpg"
     }
   ],
-  "page_label": "125"
+  "page_url": "https://momoiro.hallyu.io/mishkan/10"
 }

@@ -1,23 +1,23 @@
 {
-  "_id": "61e3a0dd-1f98-4276-9ff2-d681d049bd83",
+  "_id": "dd40323c-ace3-42d6-bc35-4d18598f47e3",
   "source_file": "1.pdf",
   "document_title": "CCAR Mishkan T'filah",
-  "local_page": 1,
-  "global_page": 1,
-  "file_path": "/app/data/docs/mishkan/61e3a0dd-1f98-4276-9ff2-d681d049bd83.jp2",
+  "local_page": 14,
+  "global_page": 14,
+  "file_path": "/app/data/docs/mishkan/dd40323c-ace3-42d6-bc35-4d18598f47e3.jp2",
   "format": "image/jp2",
   "dpi": 600,
   "color_space": "grayscale",
   "annotations": [
     {
-      "id": "5d59be97-aadd-43ae-a8c0-a109e82ab07b",
+      "id": "ca394dad-e8e3-4c89-8632-dae8f710ed30",
       "target": {
-        "source": "mishkan:page:61e3a0dd-1f98-4276-9ff2-d681d049bd83",
+        "source": "mishkan:page:dd40323c-ace3-42d6-bc35-4d18598f47e3",
         "type": "SpecificResource",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:774.0940917968752,3455.95703125,3039.1927246093746,384.8569824218753"
+          "value": "xywh=pixel:1309.563232421875,903.2299804687502,2285.74951171875,723.1237792968748"
         }
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
@@ -26,24 +26,25 @@
         {
           "type": "TextualBody",
           "purpose": "transcribing",
-          "value": "MISHKAN T'FILAH"
+          "value": "תְּפִלּוֹת לְחוֹל"
         }
       ],
-      "created": "2026-07-11T14:08:29.707Z",
+      "created": "2026-07-11T14:26:37.981Z",
       "creator": {
         "isGuest": true,
-        "id": "QCp1y426g9yA5n1XuCnD"
-      }
+        "id": "zBjaYQ82MkblEQ9EdjaU"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdd40323c-ace3-42d6-bc35-4d18598f47e3.jp2/1309,903,2285,723/max/0/default.jpg"
     },
     {
-      "id": "23816cf2-c51f-4a79-b2dc-0d83c2d0bc3b",
+      "id": "319a6108-43f4-455c-964c-23cc7fd40ec7",
       "target": {
-        "source": "mishkan:page:61e3a0dd-1f98-4276-9ff2-d681d049bd83",
+        "source": "mishkan:page:dd40323c-ace3-42d6-bc35-4d18598f47e3",
         "type": "SpecificResource",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:634.6100585937503,2583.04658203125,3206.4851562499994,953.4020996093755"
+          "value": "xywh=pixel:1115.478759765625,1802.8747558593752,2807.779541015625,332.4975585937498"
         }
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
@@ -52,15 +53,17 @@
         {
           "type": "TextualBody",
           "purpose": "transcribing",
-          "value": "משכן תפלה"
+          "value": "PRAYERS FOR WEEKDAYS"
         }
       ],
-      "created": "2026-07-11T14:09:11.659Z",
+      "created": "2026-07-11T14:26:46.265Z",
       "creator": {
         "isGuest": true,
-        "id": "QCp1y426g9yA5n1XuCnD"
-      }
+        "id": "zBjaYQ82MkblEQ9EdjaU"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdd40323c-ace3-42d6-bc35-4d18598f47e3.jp2/1115,1802,2807,332/max/0/default.jpg"
     }
   ],
-  "page_label": "half-title"
+  "page_label": "1",
+  "page_url": "https://momoiro.hallyu.io/mishkan/1"
 }

@@ -1,6 +1,8 @@
 import json
 import os
 import string
+import re
+import math
 from pymongo import MongoClient
 
 def escape_latex(text):
@@ -95,23 +97,57 @@ def main():
     processed_count = 0
 
     for doc in cursor:
-        local_page = doc.get("local_page")
-        if local_page is None:
+        page_label = doc.get("page_label")
+        if not page_label:
             continue
 
-        base_name = str(local_page)
+        # Sanitize any rogue slashes so the OS doesn't try to make subdirectories
+        base_name = str(page_label).replace('/', '_')
         json_path = os.path.join(mt_dir, f"{base_name}.json")
         tex_path = os.path.join(mt_dir, f"{base_name}.tex")
 
         # Coerce the MongoDB ObjectId to a string so json.dump survives the encounter
-        doc['_id'] = str(doc['_id'])
+        doc_id = str(doc['_id'])
+        doc['_id'] = doc_id
 
-        # 1. Write the sidecar .json file IF AND ONLY IF it doesn't exist
+        # 1. Inject the public viewer URL (using page_label so the router actually finds it)
+        doc['page_url'] = f"https://momoiro.hallyu.io/mishkan/{page_label}"
+
+        # 2. Inject IIIF bounding box URLs into every annotation
+        for anno in doc.get("annotations", []):
+            selector = anno.get("target", {}).get("selector", {})
+            val = selector.get("value", "")
+            
+            x, y, w, h = 0, 0, 0, 0
+            valid_box = False
+            
+            if selector.get("type") == "FragmentSelector":
+                match = re.search(r'xywh=(?:pixel:)?(-?[\d.]+),(-?[\d.]+),(-?[\d.]+),(-?[\d.]+)', val)
+                if match:
+                    # Replicating Math.floor() from your app.js
+                    x, y, w, h = [math.floor(float(v)) for v in match.groups()]
+                    valid_box = True
+                    
+            elif selector.get("type") == "SvgSelector":
+                match = re.search(r'points="([^"]+)"', val)
+                if match:
+                    pts = [float(p) for p in re.split(r'[\s,]+', match.group(1).strip()) if p]
+                    xs, ys = pts[0::2], pts[1::2]
+                    x, y = math.floor(min(xs)), math.floor(min(ys))
+                    w, h = math.floor(max(xs) - x), math.floor(max(ys) - y)
+                    valid_box = True
+                    
+            if valid_box:
+                # Using the proxied public URL instead of the internal Docker hostname
+                # so the links are actually clickable from the exported JSON.
+                anno["image_url"] = f"https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F{doc_id}.jp2/{x},{y},{w},{h}/max/0/default.jpg"
+
+        # 3. Write the sidecar .json file IF AND ONLY IF it doesn't exist
         if not os.path.exists(json_path):
             with open(json_path, 'w', encoding='utf-8') as f:
                 json.dump(doc, f, ensure_ascii=False, indent=2)
 
-        # 2. Write the corresponding .tex file IF AND ONLY IF it doesn't exist
+        # 4. Write the corresponding .tex file IF AND ONLY IF it doesn't exist
         if not os.path.exists(tex_path):
             tex_content = generate_tex_content(doc)
             with open(tex_path, 'w', encoding='utf-8') as f:

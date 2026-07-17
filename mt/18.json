@@ -1,23 +1,23 @@
 {
-  "_id": "051c3a8f-0c58-444d-ada6-1a4ea721005d",
+  "_id": "8016d66f-1705-43e9-8af6-9e86d0520063",
   "source_file": "1.pdf",
   "document_title": "CCAR Mishkan T'filah",
-  "local_page": 18,
-  "global_page": 18,
-  "file_path": "/app/data/docs/mishkan/051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2",
+  "local_page": 31,
+  "global_page": 31,
+  "file_path": "/app/data/docs/mishkan/8016d66f-1705-43e9-8af6-9e86d0520063.jp2",
   "format": "image/jp2",
   "dpi": 600,
   "color_space": "grayscale",
   "annotations": [
     {
-      "id": "1b4ec32a-9ec8-41ed-8325-c002e4b47a89",
+      "id": "c8e3ef1e-f60d-43cf-beae-a7099957a47a",
       "target": {
-        "source": "mishkan:page:051c3a8f-0c58-444d-ada6-1a4ea721005d",
+        "source": "mishkan:page:8016d66f-1705-43e9-8af6-9e86d0520063",
         "type": "SpecificResource",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:2827.1120605468755,381.5222167968751,1682.3876953124995,1104.2431640625"
+          "value": "xywh=pixel:2295.6960449218755,351.4306640624999,1814.5166015624995,2872.8771972656255"
         }
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
@@ -26,25 +26,25 @@
         {
           "type": "TextualBody",
           "purpose": "transcribing",
-          "value": "בָּרוּךְ אַתָּה, יְיָ\nאֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,\nאֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ\nעַל מִצְוַת קְרִיאַת שְׁמַע\nלְהַמְלִיכוֹ בְּלֵבָב שָׁלֵם וּלְיַחְדוֹ\nבְּלֵב טוֹב וּלְעָבְדוֹ בְּנֶפֶשׁ חֲפֵצָה.",
-          "language": "he"
+          "value": "הַשְׁכִּיבֵנוּ, יְיָ אֱלֹהֵינוּ,\nT:\nלְשָׁלוֹם, וְהַעֲמִידֵנוּ שׁוֹמְרֵנוּ לְחַיִים,\nוּפְרֹשׂ עָלֵינוּ סֶכַּת שְׁלוֹמֶךְ,\nוְתַקְנֵנוּ בְּעֵצָה טוֹבָה מִלְפָנֶיךָ,\nוְהוֹשִׁיעֵנוּ לְמַעַן שְׁמֶךְ.\nוְהָגֵן בַּעֲדֵנוּ,\nוְהָסֵר מֵעָלֵינוּ אוֹיֵב, דֶּבֶר,\nוְחֶרֶב, וְרָעָב, וְיָגוֹן,\nוְהָרְחֵק מִמֶּנּוּ עָוֹן וָפֶשַׁע.\nוּבְצֵל כְּנָפֶיךָ תַּסְתִּירֵנוּ,\nכִּי אֵל שׁוֹמְרֵנוּ וּמַצִילֵנוּ אָתָּה,\nכִּי אֵל חַנּוּן וְרַחוּם אָתָּה.\nוּשְׁמֹר צֵאתֵנוּ וּבוֹאֵנוּ\nלְחַיים וּלְשָׁלוֹם\nמֵעַתָּה וְעַד עוֹלָם.\nבָּרוּךְ אַתָּה, יְיָ,\nשׁוֹמֵר עַמּוֹ יִשְׂרָאֵל לָעַד."
         }
       ],
-      "created": "2026-07-11T20:03:25.010Z",
+      "created": "2026-07-11T20:16:10.361Z",
       "creator": {
         "isGuest": true,
-        "id": "2vi94ExIjdtwM7ddi4wa"
-      }
+        "id": "y30VNhnrk8gFX0ItrWlp"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8016d66f-1705-43e9-8af6-9e86d0520063.jp2/2295,351,1814,2872/max/0/default.jpg"
     },
     {
-      "id": "9f2d6c32-f992-48c4-aa0d-cda450169faa",
+      "id": "7af8b365-5da3-4a56-9675-326bd5971566",
       "target": {
-        "source": "mishkan:page:051c3a8f-0c58-444d-ada6-1a4ea721005d",
+        "source": "mishkan:page:8016d66f-1705-43e9-8af6-9e86d0520063",
         "type": "SpecificResource",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:857.2634277343751,379.10522460937483,1440.6481933593755,1092.1582031250002"
+          "value": "xywh=pixel:416.6860351562503,354.73388671874983,1706.4770507812502,2882.8271484375005"
         }
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
@@ -53,24 +53,25 @@
         {
           "type": "TextualBody",
           "purpose": "transcribing",
-          "value": "BARUCH atah, Adonai\nEloheinu, Melech haolam,\nasher kid'shanu b'mitzvotav v'tzivanu\nal mitzvat k'riat sh'ma\nl'hamlicho b'leivav shaleim ul'yachdo\nb'leiv tov ul'ovdo b'nefesh chafeitzah."
+          "value": "HASHKIVEINU, Adonai Eloheinu,\nl'shalom, v'haamideinu shomreinu l'chayim,\nufros aleinu sukat sh'lomecha,\nv'takneinu b'eitzah tovah milfanecha,\nv'hoshi-einu l'maan sh'mecha.\nV'hagein baadeinu,\nv'haseir mei-aleinu oyeiv, dever,\nv'cherev, v'raav, v'yagon,\nv'harcheik mimenu avon vafesha.\nUv'tzeil k'nafecha tastireinu,\nki El shomreinu umatzileinu atah,\nki El chanun v'rachum atah.\nUshmor tzeiteinu uvo-einu\nl'chayim ul'shalom,\nmei-atah v'ad olam.\nBaruch atah, Adonai,\nshomeir amo Yisrael laad."
         }
       ],
-      "created": "2026-07-11T20:04:43.752Z",
+      "created": "2026-07-11T20:16:39.984Z",
       "creator": {
         "isGuest": true,
-        "id": "2vi94ExIjdtwM7ddi4wa"
-      }
+        "id": "y30VNhnrk8gFX0ItrWlp"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8016d66f-1705-43e9-8af6-9e86d0520063.jp2/416,354,1706,2882/max/0/default.jpg"
     },
     {
-      "id": "d2338a21-6d34-4b08-9077-98199aa6733e",
+      "id": "93a6de32-1dba-411b-822c-451925223f06",
       "target": {
-        "source": "mishkan:page:051c3a8f-0c58-444d-ada6-1a4ea721005d",
+        "source": "mishkan:page:8016d66f-1705-43e9-8af6-9e86d0520063",
         "type": "SpecificResource",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1325.5556640625002,1530.963134765625,2757.586669921876,910.72265625"
+          "value": "xywh=pixel:395.25537109375006,3293.3935546875,3104.1430664062505,2242.565917968751"
         }
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
@@ -79,94 +80,17 @@
         {
           "type": "TextualBody",
           "purpose": "transcribing",
-          "value": "PRAISED ARE YOU, Adonai our God, Ruler of the Universe,\nwho hallows us with mitzvot,\ncommanding us how to recite the Sh'ma:\nto declare wholeheartedly God's rule,\nto declare earnestly God is One,\nand to willingly worship God."
+          "value": "peace,\nGRANT, O GOD, that we lie down in\nand raise us up, our Guardian, to life renewed.\nSpread over us the shelter of Your peace.\nGuide us with Your good counsel;\nfor Your Name's sake, be our help.\nShield and shelter us beneath the shadow of Your wings.\nDefend us against enemies, illness, war, famine and sorrow.\nDistance us from wrongdoing.\nFor You, God, watch over us and deliver us.\nFor You, God, are gracious and merciful.\nGuard our going and coming, to life and to peace evermore.\nBlessed are You, Adonai, Guardian of Israel.\nבָּרוּךְ אַתָּה, יְיָ, שׁוֹמֵר עַמּוֹ יִשְׂרָאֵל לָעַד.\nBaruch atah, Adonai, shomeir amo Yisrael laad."
         }
       ],
-      "created": "2026-07-11T20:05:04.758Z",
+      "created": "2026-07-11T20:17:19.154Z",
       "creator": {
         "isGuest": true,
-        "id": "2vi94ExIjdtwM7ddi4wa"
-      }
-    },
-    {
-      "id": "80bda7ae-238a-4a67-8a2c-3dabd6e53342",
-      "target": {
-        "source": "mishkan:page:051c3a8f-0c58-444d-ada6-1a4ea721005d",
-        "type": "SpecificResource",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1276.4907226562502,2879.3225097656255,2307.82470703125,1281.8115234374995"
-        }
+        "id": "y30VNhnrk8gFX0ItrWlp"
       },
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "type": "Annotation",
-      "body": [
-        {
-          "type": "TextualBody",
-          "purpose": "transcribing",
-          "value": "THREE THINGS there are together in my eye\nthat keep the thought of Thee forever nigh.\nI think about Thy great and holy name\nwhenever I look up and see the sky.\nMy thoughts are roused to know how I was made,\nseeing the earth's expanse where I abide.\nThe musings of my mind when I look inside\nat all times, O my soul, \"Bless Adonai!\""
-        }
-      ],
-      "created": "2026-07-11T20:05:25.594Z",
-      "creator": {
-        "isGuest": true,
-        "id": "2vi94ExIjdtwM7ddi4wa"
-      }
-    },
-    {
-      "id": "9d38f442-a06b-4963-ae05-479ba77f4abf",
-      "target": {
-        "source": "mishkan:page:051c3a8f-0c58-444d-ada6-1a4ea721005d",
-        "type": "SpecificResource",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:861.2111816406248,4613.071289062501,3782.512207031251,610.250244140625"
-        }
-      },
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "type": "Annotation",
-      "body": [
-        {
-          "type": "TextualBody",
-          "purpose": "transcribing",
-          "value": "What does it mean to be called to worship? All serious activity requires preparation. The prayers\nand blessings that precede Bar'chu are warm-ups for the individual. Now communal prayer\nbegins. The leader asks, “Are you ready to pray?\" And we respond, \"Yes! Let us pray!\"\nadapted from Richard Levy"
-        }
-      ],
-      "created": "2026-07-11T20:05:46.401Z",
-      "creator": {
-        "isGuest": true,
-        "id": "2vi94ExIjdtwM7ddi4wa"
-      }
-    },
-    {
-      "id": "fe772466-a6a8-4460-ab83-1a05fbb91d95",
-      "target": {
-        "source": "mishkan:page:051c3a8f-0c58-444d-ada6-1a4ea721005d",
-        "type": "SpecificResource",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:872.9335937499999,5205.79833984375,3717.57568359375,1081.885986328125"
-        }
-      },
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "type": "Annotation",
-      "body": [
-        {
-          "type": "TextualBody",
-          "purpose": "transcribing",
-          "value": "Baruch atah, Praised are You: So important was the recitation of the Shma to our ancestors in Eretz Yisrael, that they introduced it with a blessing. That blessing fell out of use over a thousand years ago; we reclaim it here as part of our liturgical heritage.\nThere are three main avenues by which one arrives at meaning in life. The first is by creating a life or doing a deed. The second is by experiencing something or encountering someone; in other words, meaning can be found not only in work but also in love. Third: even the helpless victim of a hopeless situation, facing a fate that cannot be changed, may rise above himself, grow beyond himself, and by so doing, change himself. Viktor E. Frankl",
-          "language": "en"
-        }
-      ],
-      "created": "2026-07-11T20:06:27.812Z",
-      "creator": {
-        "isGuest": true,
-        "id": "2vi94ExIjdtwM7ddi4wa"
-      }
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8016d66f-1705-43e9-8af6-9e86d0520063.jp2/395,3293,3104,2242/max/0/default.jpg"
     }
   ],
-  "page_label": "5"
+  "page_label": "18",
+  "page_url": "https://momoiro.hallyu.io/mishkan/18"
 }

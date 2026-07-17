@@ -1,23 +1,23 @@
 {
-  "_id": "77d8fea6-6d89-4181-ae34-1f84cfad8057",
+  "_id": "d8feaace-d9e8-4f0c-9017-fa2108712e04",
   "source_file": "1.pdf",
   "document_title": "CCAR Mishkan T'filah",
-  "local_page": 16,
-  "global_page": 16,
-  "file_path": "/app/data/docs/mishkan/77d8fea6-6d89-4181-ae34-1f84cfad8057.jp2",
+  "local_page": 29,
+  "global_page": 29,
+  "file_path": "/app/data/docs/mishkan/d8feaace-d9e8-4f0c-9017-fa2108712e04.jp2",
   "format": "image/jp2",
   "dpi": 600,
   "color_space": "grayscale",
   "annotations": [
     {
-      "id": "96d3ed27-2c94-4dfa-9f49-f32bfda24490",
+      "id": "060650da-a44b-483a-8b78-dceaaf13b163",
       "target": {
-        "source": "mishkan:page:77d8fea6-6d89-4181-ae34-1f84cfad8057",
+        "source": "mishkan:page:d8feaace-d9e8-4f0c-9017-fa2108712e04",
         "type": "SpecificResource",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1024.2373046875005,1070.1635742187502,3205.8581542968745,2838.475341796875"
+          "value": "xywh=pixel:2435.2007873535154,356.7908020019532,1665.884289550781,1947.0007507324221"
         }
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
@@ -26,15 +26,74 @@
         {
           "type": "TextualBody",
           "purpose": "transcribing",
-          "value": "TELL THEM I'm struggling to sing with angels\nwho hint at it in black words printed on old paper gold-edged by time.\nTell them I wrestle the mirror every morning.\nTell them I sit here invisible in space;\nnose running, coffee cold & bitter.\nTell them I tell them everything\n& everything is never enough.\nTell them I'm davening & voices rise up from within to startle children.\nTell them I walk off into the woods to sing.\nTell them I sing loudest next to waterfalls.\nTell them the books get fewer, words go deeper\nsome take months to get thru.\nTell them there are moments when it's all perfect;\nabove & below, it's perfect,\neven in moments in between where sparks in space\n(terrible, beautiful sparks in space)\nare merely metaphors for the void between\none pore & another."
+          "value": "מִי כָמֹכָה בָּאֵלִם, יְיָ!\nמִי כָּמְכָה נֶהְדָר בַּקְדֶשׁ,\nנוֹרָא תְהִלָּת, עָשָׂה פֶלֶא:\nמַלְכוּתְךָ רָאוּ בָנֶיךָ,\nבּוֹקֵעַ יָם לִפְנֵי מֹשֶׁה וּמִרְיָם.\nזֶה אֵלִי, עָנוּ וְאָמְרוּ,\nיְיָ יִמְלֹךְ לְעֹלָם וָעֶד!\n>>\nT:\nוְנֶאֱמַר: כִּי פָדָה יְיָ אֶת יַעֲקֹב\nוּגְאָלוֹ מִיַּד חָזָק מִמֶּנּוּ.\nבָּרוּךְ אַתָּה, יְיָ, גְאַל יִשְׂרָאֵל.",
+          "language": "he"
         }
       ],
-      "created": "2026-07-11T15:10:47.576Z",
+      "created": "2026-07-12T22:27:25.782Z",
       "creator": {
         "isGuest": true,
-        "id": "VveHHF_KIaJNUS0Xg5TI"
-      }
+        "id": "Jzg6EVgkqD0wKdOVfXgr"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd8feaace-d9e8-4f0c-9017-fa2108712e04.jp2/2435,356,1665,1947/max/0/default.jpg"
+    },
+    {
+      "id": "32965d77-8236-45a7-bed7-bd8e46b6f653",
+      "target": {
+        "source": "mishkan:page:d8feaace-d9e8-4f0c-9017-fa2108712e04",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:334.9958007812497,404.4301391601565,1786.898693847656,1874.109741210937"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "MI CHAMOCHAH ba-eilim, Adonai!\nMi kamochah nedar bakodesh,\nnora t'hilot, oseih fele!\nMalchut'cha ra-u vanecha,\nbokei-a yam lifnei Moshe uMiryam.\nZeh Eli, anu v'amru,\nAdonai yimloch l'olam va-ed!\nV'ne-emar: ki fadah Adonai et Yaakov,\nug'alo miyad chazak mimenu.\nBaruch atah, Adonai, gaal Yisrael.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-12T22:28:15.818Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Jzg6EVgkqD0wKdOVfXgr"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd8feaace-d9e8-4f0c-9017-fa2108712e04.jp2/334,404,1786,1874/max/0/default.jpg"
+    },
+    {
+      "id": "17b52e52-d898-45d3-a533-50252a54fb8e",
+      "target": {
+        "source": "mishkan:page:d8feaace-d9e8-4f0c-9017-fa2108712e04",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1172.2541259765624,2419.521661376953,2155.629583740234,2555.340161132812"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "WHO IS LIKE YOU, O God,\namong the gods that are worshipped?\nWho is like You, majestic in holiness,\nawesome in splendor, working wonders?\nYour children witnessed Your sovereignty,\nthe sea splitting before Moses and Miriam.\n\"This is our God!\" they cried.\n\"Adonai will reign forever and ever!\"\nThus it is said,\n\"Adonai redeemed Jacob,\nfrom a hand stronger\nthan his own.\"\nPraised are You, Adonai, for redeeming Israel.\nבָּרוּךְ אַתָּה, יְיָ, גְאַל יִשְׂרָאֵל.\nBaruch atah, Adonai, gaal Yisrael.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-12T22:28:33.403Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Jzg6EVgkqD0wKdOVfXgr"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd8feaace-d9e8-4f0c-9017-fa2108712e04.jp2/1172,2419,2155,2555/max/0/default.jpg"
     }
   ],
-  "page_label": "3"
+  "page_label": "16",
+  "page_url": "https://momoiro.hallyu.io/mishkan/16"
 }
