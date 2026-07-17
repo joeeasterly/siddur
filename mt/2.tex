@@ -6,38 +6,23 @@
 % Custom page numbering to yield title.a, title.b, etc.
 \renewcommand{\thepage}{title.\alph{page}}
 
-% --- MACRO DEFINITIONS ---
-\newcommand{\blockA}{%
-  משכן תפלה \\
-MISHKAN T'FILAH%
-}
-
-\newcommand{\blockB}{%
-  A Reform Siddur \\
-PULPIT EDITION \\
-וְעָשׂוּ לִי מִקְדָּשׁ וְשָׁכַנְתִּי בְּתוֹכָם \\
+% --- DOCUMENT BODY ---
+\begin{document}
+\headingone{משכן תפלה}
+\subheading{MISHKAN T'FILAH} 
+\vspace{1em}
+% \newpage % Uncomment to break page here
+\begin{center}
+A Reform Siddur \\
+\vspace{1em}
+Weekdays, Shabbat, Festivals and other occasions of public worship\\
+\vspace{1em}
+{\hebrewfont\texthebrew{ועשו לי מקדש ושכנתי בתוכם}} \\
 "And let them build Me a sanctuary that I may dwell in their midst." \\
+\vspace{1em}
 CENTRAL CONFERENCE OF AMERICAN RABBIS \\
 5767 \\
 NEW YORK 2007%
-}
-
-\newcommand{\blockC}{%
-  Weekdays, Shabbat, Festivals and other occasions of public worship%
-}
-
-% --- DOCUMENT BODY ---
-\begin{document}
-\blockA
-\vspace{1em}
-% \newpage % Uncomment to break page here
-
-\blockB
-\vspace{1em}
-% \newpage % Uncomment to break page here
-
-\blockC
-\vspace{1em}
-% \newpage % Uncomment to break page here
+\end{center}
 
 \end{document}

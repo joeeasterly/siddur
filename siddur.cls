@@ -25,16 +25,12 @@
   BoldItalicFont=skolar_latin_bold_italic
 ]{Skolar}
 
-% --- HEBREW SANS (Liturgical Text) ---
+% --- HEBREW SERIF (Liturgical Text) ---
+% Pulling natively from Overleaf's system fonts, no Path required.
 \newfontfamily\hebrewfont[
   Script=Hebrew,
-  Path=../fonts/skolar/,
-  Extension=.otf,
-  UprightFont=skolar_sans_hebrew_regular,
-  BoldFont=skolar_sans_hebrew_bold,
-  ItalicFont=skolar_sans_hebrew_italic,
-  BoldItalicFont=skolar_sans_hebrew_bold_italic
-]{Skolar Sans Hebrew}
+  Scale=MatchUppercase % Keeps it mathematically balanced with the Latin text
+]{Noto Serif Hebrew}
 
 % --- LATIN CONDENSED (Optional: Transliterations or Headers) ---
 \newfontfamily\condensedfont[
