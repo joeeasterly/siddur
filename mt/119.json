@@ -1,0 +1,43 @@
+{
+  "_id": "fbb51714-d18a-49f9-b6f9-95f48a391029",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 4,
+  "global_page": 130,
+  "file_path": "/app/data/docs/mishkan/fbb51714-d18a-49f9-b6f9-95f48a391029.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "119",
+  "annotations": [
+    {
+      "id": "b4692742-1909-4376-a557-350258e77332",
+      "target": {
+        "source": "mishkan:page:fbb51714-d18a-49f9-b6f9-95f48a391029",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1151.8361427931743,833.6842105263155,2809.6375414173517,1360.5263157894742"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "תְּפִלּוֹת לְשַׁבָּת\nT'FILOT L'SHABBAT\nPRAYERS FOR SHABBAT",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:38:08.572Z",
+      "creator": {
+        "isGuest": true,
+        "id": "t9SPX_ZM1N_tzuBVueOg"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffbb51714-d18a-49f9-b6f9-95f48a391029.jp2/1151,833,2809,1360/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/119"
+}

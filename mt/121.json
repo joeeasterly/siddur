@@ -1,0 +1,99 @@
+{
+  "_id": "85a84500-632f-4652-b426-17be4a29b7d4",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 6,
+  "global_page": 132,
+  "file_path": "/app/data/docs/mishkan/85a84500-632f-4652-b426-17be4a29b7d4.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "121",
+  "annotations": [
+    {
+      "id": "0021702d-b26f-41de-b436-3fed5d697364",
+      "target": {
+        "source": "mishkan:page:85a84500-632f-4652-b426-17be4a29b7d4",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:886.4076406056844,1476.191671817061,2665.124768232386,1021.5302456736713"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "AS THESE SHABBAT CANDLES give light\nto all who behold them,\nso may we, by our lives, give light to all who behold us.\nAs their brightness reminds us\nof the generations of Israel who have kindled light,\nso may we, in our own day, be among those who kindle light.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:52:05.815Z",
+      "creator": {
+        "isGuest": true,
+        "id": "HHOHGa6sh5c64bvVRQaw"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F85a84500-632f-4652-b426-17be4a29b7d4.jp2/886,1476,2665,1021/max/0/default.jpg"
+    },
+    {
+      "id": "4f0737d4-f9a4-40da-b14a-075a71de13f6",
+      "target": {
+        "source": "mishkan:page:85a84500-632f-4652-b426-17be4a29b7d4",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:885.8340157601962,2788.5397831131577,2590.3623300370828,1292.8953427337383"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "○ SOURCE of light and truth,\nCreator of the eternal law of goodness,\nhelp us to find knowledge by which to live.\nLead us to take the words we shall speak\ninto our hearts and our lives.\nBless all who enter this sanctuary in need,\nall who bring the offerings of their hearts.\nMay our worship lead us to acts of kindness, peace and love.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:52:12.347Z",
+      "creator": {
+        "isGuest": true,
+        "id": "HHOHGa6sh5c64bvVRQaw"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F85a84500-632f-4652-b426-17be4a29b7d4.jp2/885,2788,2590,1292/max/0/default.jpg"
+    },
+    {
+      "id": "4ccbd34c-4ce9-4ca7-8978-7b05205a678d",
+      "target": {
+        "source": "mishkan:page:85a84500-632f-4652-b426-17be4a29b7d4",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:881.9142459826929,5649.295554044235,2089.7153121137208,638.3974585845308"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Help me perfect my ways of loving and caring.\nInspire me to make myself whole\nso that I may honor Your name and\ncreate a world of justice and peace.\nMartin Buber",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:52:22.377Z",
+      "creator": {
+        "isGuest": true,
+        "id": "HHOHGa6sh5c64bvVRQaw"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F85a84500-632f-4652-b426-17be4a29b7d4.jp2/881,5649,2089,638/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/121"
+}

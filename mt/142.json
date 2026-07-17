@@ -1,0 +1,127 @@
+{
+  "_id": "fc190349-9494-455f-8a94-2aa0da4cd050",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 27,
+  "global_page": 153,
+  "file_path": "/app/data/docs/mishkan/fc190349-9494-455f-8a94-2aa0da4cd050.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "142",
+  "annotations": [
+    {
+      "id": "96fcd282-100c-4b92-a6a3-0719dbd12445",
+      "target": {
+        "source": "mishkan:page:fc190349-9494-455f-8a94-2aa0da4cd050",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2306.7894736842104,370.5263157894729,1754.2105263157896,2941.052631578948"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "שׁלוֹם עֲלֵיכֶם, מַלְאֲכֵי הַשָּׁרַת,\nמַלְאֲכֵי עֶלְיוֹן,\nמִמֶּלֶךְ מַלְכֵי הַמְלָכִים,\nהַקָּדוֹשׁ בָּרוּךְ הוּא.\nבּוֹאֲכֶם לְשָׁלוֹם, מַלְאֲכֵי הַשָׁלוֹם,\nמַלְאֲכֵי עֶלְיוֹן,\nמִמֶּלֶךְ מַלְכֵי הַמְּלָכִים,\nהַקָּדוֹשׁ בָּרוּךְ הוּא.\nבָּרְכוּנִי לְשָׁלוֹם, מַלְאֲכֵי הַשָּׁלוֹם,\nמַלְאֲכֵי עֶלְיוֹן,\nמִמֶּלֶךְ מַלְכֵי הַמְּלָכִים,\nהַקָּדוֹשׁ בָּרוּךְ הוּא.\nצֵאתְכֶם לְשָׁלוֹם, מַלְאֲכֵי הַשָׁלוֹם,\nמַלְאֲכֵי עֶלְיוֹן,\nמִמֶּלֶךְ מַלְכֵי הַמְּלָכִים,\nהַקָּדוֹשׁ בָּרוּךְ הוּא.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T18:55:26.969Z",
+      "creator": {
+        "isGuest": true,
+        "id": "nzICQvk90jm0IYG90lWf"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffc190349-9494-455f-8a94-2aa0da4cd050.jp2/2306,370,1754,2941/max/0/default.jpg"
+    },
+    {
+      "id": "ec458133-5e04-4f28-920a-97a409c6dd45",
+      "target": {
+        "source": "mishkan:page:fc190349-9494-455f-8a94-2aa0da4cd050",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:407.84210526315775,411.05263157894666,1597.8947368421057,2865.789473684211"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "SHALOM aleichem, malachei hashareit,\nmalachei elyon,\nmimelech malchei ham'lachim,\nHaKadosh Baruch Hu.\nBo-achem l'shalom, malachei hashalom,\nmalachei elyon,\nmimelech malchei ham'lachim,\nHaKadosh Baruch Hu.\nBar'chuni l'shalom, malachei hashalom,\nmalachei elyon,\nmimelech malchei ham'lachim,\nHaKadosh Baruch Hu.\nTzeit'chem l'shalom, malachei hashalom,\nmalachei elyon,\nmimelech malchei ham'lachim,\nHaKadosh Baruch Hu.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T18:55:48.689Z",
+      "creator": {
+        "isGuest": true,
+        "id": "nzICQvk90jm0IYG90lWf"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffc190349-9494-455f-8a94-2aa0da4cd050.jp2/407,411,1597,2865/max/0/default.jpg"
+    },
+    {
+      "id": "c91664c2-013e-43a2-b43b-e3c3106927b7",
+      "target": {
+        "source": "mishkan:page:fc190349-9494-455f-8a94-2aa0da4cd050",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:639.4210526315788,3357.894736842105,3300.000000000001,1534.21052631579"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "PEACE BE TO YOU, O ministering angels, messengers of the Most High,\nMajesty of majesties, Holy One of Blessing.\nEnter in peace, O messengers of peace, angels of the Most High,\nMajesty of majesties, Holy One of Blessing.\nBless me with peace, O messengers of peace, angels of the Most High,\nMajesty of majesties, Holy One of Blessing.\nDepart in peace, O messengers of peace, angels of the Most High,\nMajesty of majesties, Holy One of Blessing.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T18:55:59.174Z",
+      "creator": {
+        "isGuest": true,
+        "id": "nzICQvk90jm0IYG90lWf"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffc190349-9494-455f-8a94-2aa0da4cd050.jp2/639,3357,3300,1534/max/0/default.jpg"
+    },
+    {
+      "id": "b2076a80-dfb5-45d3-b0c3-ebaeff1543f5",
+      "target": {
+        "source": "mishkan:page:fc190349-9494-455f-8a94-2aa0da4cd050",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:413.6315789473681,5830.000000000001,3693.6842105263167,573.1578947368416"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Shalom Aleichem - A 17th-century Shabbat table-song (z'mirah), probably composed under the influence of Lurianic Kabbalah, alludes to Shabbat 119b, which\nstates that two angels accompany each person home from the synagogue as Shabbat begins.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T18:56:05.519Z",
+      "creator": {
+        "isGuest": true,
+        "id": "nzICQvk90jm0IYG90lWf"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffc190349-9494-455f-8a94-2aa0da4cd050.jp2/413,5830,3693,573/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/142"
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "9c3cdcc2-02a4-4d44-baac-caf917264a1e",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 13,
+  "global_page": 13,
+  "file_path": "/app/data/docs/mishkan/9c3cdcc2-02a4-4d44-baac-caf917264a1e.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "xvi",
+  "annotations": [
+    {
+      "id": "929e2c41-5a49-4995-9c0e-016e94e6d8d4",
+      "target": {
+        "source": "mishkan:page:9c3cdcc2-02a4-4d44-baac-caf917264a1e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:428.1052631578946,405.2631578947366,3722.631578947369,694.7368421052636"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Source citations for prayers and readings by contemporary authors are found in the\nback of the book. Citations for the commentaries are found within the text.\nAn extensive selection of musical texts is found at the back of the book.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T15:49:10.024Z",
+      "creator": {
+        "isGuest": true,
+        "id": "nmtC97m6Pl_f69HLqQ1Q"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F9c3cdcc2-02a4-4d44-baac-caf917264a1e.jp2/428,405,3722,694/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/xvi"
+}

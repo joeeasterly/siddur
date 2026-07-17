@@ -1,0 +1,43 @@
+{
+  "_id": "6aa47c5f-6a21-47bd-aa5d-f26297c5ae5f",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 10,
+  "global_page": 136,
+  "file_path": "/app/data/docs/mishkan/6aa47c5f-6a21-47bd-aa5d-f26297c5ae5f.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "annotations": [
+    {
+      "id": "cd7fafdd-a295-48a6-b6cb-8f839316b416",
+      "target": {
+        "source": "mishkan:page:6aa47c5f-6a21-47bd-aa5d-f26297c5ae5f",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1290.7977827564894,840.1691903584673,2635.77429697157,2974.3722960444993"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "WHERE HAS THIS WEEK VANISHED?\nIs it lost forever?\nWill I ever recover anything from it?\nThe joy of life, the unexpected victory,\nthe realized hope, the task accomplished?\nWill I ever be able to banish the memory of pain,\nthe sting of defeat, the heaviness of boredom?\nOn this day let me keep for a while what must drift away.\nOn this day let me be free of the burdens that must return.\nOn this day, Shabbat, abide.\nHelp me to withdraw for a while\nfrom the flight of time.\nContain the retreat of the hours and days from the\ngrasp of frantic life.\nLet me learn to pause, if only for this day.\nLet me find peace on this day.\nLet me enter into a quiet world this day.\nOn this day, Shabbat, abide.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:57:47.989Z",
+      "creator": {
+        "isGuest": true,
+        "id": "HtaIunHh0KAnR6l6wvTR"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6aa47c5f-6a21-47bd-aa5d-f26297c5ae5f.jp2/1290,840,2635,2974/max/0/default.jpg"
+    }
+  ],
+  "page_label": "125",
+  "page_url": "https://momoiro.hallyu.io/mishkan/125"
+}

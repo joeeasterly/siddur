@@ -1,0 +1,99 @@
+{
+  "_id": "12098adc-d164-4f86-ab78-e70db4ced82b",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 4,
+  "global_page": 4,
+  "file_path": "/app/data/docs/mishkan/12098adc-d164-4f86-ab78-e70db4ced82b.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "v",
+  "annotations": [
+    {
+      "id": "49a05fcf-7bd0-4062-a94d-3d891c66d99b",
+      "target": {
+        "source": "mishkan:page:12098adc-d164-4f86-ab78-e70db4ced82b",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:908.6315789473684,816.3157894736844,1788.947368421053,5141.0526315789475"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Introduction\nAcknowledgments\nA Note on Style and Usage\nPrayers for Weekdays\nvii\nxi\nXV\nWeekday Evening\n2\nWeekday Morning\n23\nWeekday Afternoon\nAshrei, Psalm 145\n52\nChatzi Kaddish\n57\nT'filah\n74\nWeekday T'filah\n74\nMei-ein Sh'moneh Esrei\n102\nSeder K'riat HaTorah\n104\nPrayers of Our Community\n112\nPrayers for Shabbat\nKabbalat Panim\nCandles\n120\nKiddush for Shabbat Evening\n122\nWelcome\n124\nShabbat Songs\nKabbalat Shabbat\n128\n130\nShabbat Evening\n144\nMagein Avot v'Imahot\n182\nShabbat Morning I\n184\nShabbat Evening II\n263\nShabbat Morning II\n287\nShabbat Afternoon\n338\nSeder K'riat HaTorah\n362\nPrayers of Our Community\n376\nPrayers for Festivals\nand Sacred Occasions\nKabbalat Panim\nCandles\n384\nKiddush for Festival Evening\n386\nFestival Evening\n388\nFestival Morning\n412",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T15:41:51.498Z",
+      "creator": {
+        "isGuest": true,
+        "id": "k6gLBafhdhhMawOFAMYH"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F12098adc-d164-4f86-ab78-e70db4ced82b.jp2/908,816,1788,5141/max/0/default.jpg"
+    },
+    {
+      "id": "8e27aa48-3df9-47f2-b9c5-9bdc94ffb05b",
+      "target": {
+        "source": "mishkan:page:12098adc-d164-4f86-ab78-e70db4ced82b",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2767.0526315789475,816.3157894736844,1788.9473684210525,5158.42105263158"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Festival Afternoon\nAshrei, Psalm 145\n442\nChatzi Kaddish\n451\nT'filah\n468\nFestival T'filah\n468\nSeder K'riat HaTorah for Festivals\nand Atzeret-Simchat Torah\n494\nPrayers of Our Community\n516\nYom HaShoah\n521\nYom HaZikaron\n534\nYom HaAtzma-ut\n538\nLiturgical Insertions\nfor Yom HaShoah Hodaah\n554\nfor Yom HaAtzma-ut Hodaah\n555\nfor Chanukah Hodaah\n556\nfor Purim Hodaah\n557\nHallel I\n558\nHallel II\n560\nCounting the Omer\n570\nWaving the Lulav\n571\nChanukah Candle Blessings\n572\nPurim Blessings\n573\nYizkor\n574\nAleinu and Kaddish\n586\nBlessings for the Home\nand Synagogue\nBlessing for a Woman / for a Man 602\nBlessing for a Child\n603\nKiddush for Shabbat Morning\n604\nKiddush for Festival Morning\n605\nHaMotzi and Birkat HaMazon\n606\nHavdalah\n610\nSongs and Hymns\n621\nPermissions\nSource Citations\n683\n687",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T15:42:00.117Z",
+      "creator": {
+        "isGuest": true,
+        "id": "k6gLBafhdhhMawOFAMYH"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F12098adc-d164-4f86-ab78-e70db4ced82b.jp2/2767,816,1788,5158/max/0/default.jpg"
+    },
+    {
+      "id": "d35c2977-f40b-408d-88f5-94205b1f0190",
+      "target": {
+        "source": "mishkan:page:12098adc-d164-4f86-ab78-e70db4ced82b",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2211.263157894737,358.9473684210528,966.8421052631579,295.2631578947365"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Contents",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T15:42:06.310Z",
+      "creator": {
+        "isGuest": true,
+        "id": "k6gLBafhdhhMawOFAMYH"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F12098adc-d164-4f86-ab78-e70db4ced82b.jp2/2211,358,966,295/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/v"
+}

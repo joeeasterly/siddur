@@ -1,0 +1,126 @@
+{
+  "_id": "4bf6c8f6-be45-483a-9ddb-2a0a5f2f1953",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 25,
+  "global_page": 151,
+  "file_path": "/app/data/docs/mishkan/4bf6c8f6-be45-483a-9ddb-2a0a5f2f1953.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "140",
+  "annotations": [
+    {
+      "id": "b015742a-e951-4a41-9b86-1d47412c1d35",
+      "target": {
+        "source": "mishkan:page:4bf6c8f6-be45-483a-9ddb-2a0a5f2f1953",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2457.315789473684,665.78947368421,1563.157894736842,3566.315789473684"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "מזמור שיר\nלְיוֹם הַשַׁבָּת.\nטוֹב לְהֹדוֹת לַייָ\nוּלְזַמֵּר לְשִׁמְךְ עֶלְיוֹן.\nלְהַגִּיד בַּבֹּקֶר חַסְדֶּךָ,\nוֶאֱמוּנָתְךָ בַּלֵּילוֹת.\nעֲלֵי עָשׂוֹר וַעֲלֵי נָבֶל,\nעֲלֵי הִגָּיוֹן בְּכִנּוֹר.\nכִּי שִׂמַּחְתַּנִי יְיָ בְּפָעָלֶךְ\nבְּמַעֲשֵׂי יָדֶיךָ אֲרַנֵּן.\nמַה־גָּדְלוּ מַעֲשֶׂיךָ, יְיָ\nמְאֹד עָמְקוּ מַחְשְׁבֹתֶיךָ.\nאִישׁ בַּעַר לֹא יֵדָע\nוּכְסִיל לֹא־יָבִין אֶת־זֹאת.\nצַדִּיק כַּתָּמָר יִפְרָח\nכְּאֶרֶז בַּלְבָנוֹן יִשְׂגֶה.\nשְׁתוּלִים בְּבֵית יְיָ,\nבְּחַצְרוֹת אֱלֹהֵינוּ יַפְרִיחוּ.\nעוֹד יְנוּבוּן בְּשִׂיבָה,\nדְּשֵׁנִים וְרַעֲנַנִּים יִהְיוּ.\nלְהַגִּיד כִּי־יָשָׁר יְיָ,\nצוּרִי וְלֹא־עַוְלָתָה בּוֹ.\nTIT",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T18:52:46.470Z",
+      "creator": {
+        "isGuest": true,
+        "id": "SMLuRCxaPhgpWcIFkBFb"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F4bf6c8f6-be45-483a-9ddb-2a0a5f2f1953.jp2/2457,665,1563,3566/max/0/default.jpg"
+    },
+    {
+      "id": "6d32a57e-a5b3-4c7c-9f2d-e4e7593ce970",
+      "target": {
+        "source": "mishkan:page:4bf6c8f6-be45-483a-9ddb-2a0a5f2f1953",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2775.7368421052633,515.2631578947367 2735.2105263157896,723.6842105263156 2376.2631578947367,741.0526315789468 2196.7894736842104,4214.736842105263 593.1052631578945,4174.210526315789 575.7368421052629,561.5789473684205\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "MIZMOR SHIR\nI'yom HaShabbat.\nTov l'hodot l'Adonai\nul'zameir l'shimcha elyon.\nL'hagid babokeir chasdecha,\nve-emunatcha baleilot.\nAlei asor vaalei navel\nalei higayon b'chinor.\nKi simachtani Adonai b'fo-olecha\nb'maasei yadecha aranein.\nMah gadlu maasecha Adonai,\nm'od amku machsh'votecha.\nIsh baar lo yeida\nuch'sil lo yavin et zot.\nTzaddik katamar yifrach\nk'erez bal'vanon yisgeh.\nSh'tulim b'veit Adonai,\nb'chatzrot Eloheinu yafrichu.\nOd y'nuvun b'seivah,\nd'sheinim v'raananim yih'yu.\nL'hagid ki yashar Adonai,\ntzuri v'lo avlatah bo.\nPSALM 92:1-7, 13-16",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T18:53:14.648Z",
+      "creator": {
+        "isGuest": true,
+        "id": "SMLuRCxaPhgpWcIFkBFb"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F4bf6c8f6-be45-483a-9ddb-2a0a5f2f1953.jp2/575,515,2200,3699/max/0/default.jpg"
+    },
+    {
+      "id": "040343f6-9e5b-4ac5-bb31-7dba58c16cc5",
+      "target": {
+        "source": "mishkan:page:4bf6c8f6-be45-483a-9ddb-2a0a5f2f1953",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:564.157894736842,4191.578947368422,3450.526315789474,1586.3157894736833"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "A PSALM. A SONG for Shabbat.\nIt is good to praise Adonai; to sing hymns to Your name, O Most High,\nto proclaim Your steadfast love at daybreak, Your faithfulness each night,\nwith a ten-stringed harp, with voice and lyre together.\nYou have gladdened me by Your deeds, Adonai; I shout for joy at Your handiwork.\nHow great are Your works, Adonai, how very subtle Your designs!\nA brute cannot know, a fool cannot understand this:\nThe righteous bloom like a date-palm; they thrive like a cedar in Lebanon;\nplanted in the house of Adonai, they flourish in the courts of our God.\nIn old age they still produce fruit; they are full of sap and freshness,\nattesting that Adonai is upright, my Rock, in whom there is no wrong.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T18:53:25.551Z",
+      "creator": {
+        "isGuest": true,
+        "id": "SMLuRCxaPhgpWcIFkBFb"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F4bf6c8f6-be45-483a-9ddb-2a0a5f2f1953.jp2/564,4191,3450,1586/max/0/default.jpg"
+    },
+    {
+      "id": "06cbb3c3-be74-4d94-a52c-7588eaccd23d",
+      "target": {
+        "source": "mishkan:page:4bf6c8f6-be45-483a-9ddb-2a0a5f2f1953",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:454.15789473684185,5858.9473684210525,3658.9473684210534,445.78947368421086"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Psalm 92 - The psalm sung by the Levites in the ancient Temple (M. Tamid 7:4), taken by the\nRabbis to refer to the longed-for future time when every day will be like Shabbat.\nMechilta d'Rabbi Yishma-eil, Masechta d'Shabta I",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T18:53:38.211Z",
+      "creator": {
+        "isGuest": true,
+        "id": "SMLuRCxaPhgpWcIFkBFb"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F4bf6c8f6-be45-483a-9ddb-2a0a5f2f1953.jp2/454,5858,3658,445/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/140"
+}

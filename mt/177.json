@@ -1,0 +1,99 @@
+{
+  "_id": "fafef4ba-a46e-42e3-b72c-ed8e65799067",
+  "source_file": "5.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 1,
+  "global_page": 188,
+  "file_path": "/app/data/docs/mishkan/fafef4ba-a46e-42e3-b72c-ed8e65799067.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "177",
+  "annotations": [
+    {
+      "id": "20144c7b-2770-4cbf-94d9-876ae1f45c00",
+      "target": {
+        "source": "mishkan:page:fafef4ba-a46e-42e3-b72c-ed8e65799067",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1362.7130859920223,1278.3356408348438,2736.88644193874,1214.189929582151"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "GOD OF GOODNESS, we give thanks\nfor the gift of life, wonder beyond words;\nfor the awareness of soul, our light within;\nfor the world around us, so filled with beauty;\nfor the richness of the earth, which day by day sustains us;\nfor all these and more, we offer thanks.\nבָּרוּךְ אַתָּה, יְיָ, הַטוֹב שִׁמְךְ וּלְךָ נָאֶה לְהוֹדוֹת.\nBaruch atah, Adonai, hatov shimcha ul'cha na-eh l'hodot.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:48:24.593Z",
+      "creator": {
+        "isGuest": true,
+        "id": "SjPyeBFjKJVJ_c1KT7Pf"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffafef4ba-a46e-42e3-b72c-ed8e65799067.jp2/1362,1278,2736,1214/max/0/default.jpg"
+    },
+    {
+      "id": "23067460-e5b6-4c8f-9929-c69815c687a3",
+      "target": {
+        "source": "mishkan:page:fafef4ba-a46e-42e3-b72c-ed8e65799067",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1368.2069236821399,2788.512981904013,2788.512981904012,1640.9126671911881"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "WHEN WE BEHOLD Your heavens, the work of Your fingers,\nthe moon and stars that You set in place\nWhat are we humans that You are mindful of us?\nWe mortals that You take note of us?\nYou made us little less than divine,\nadorned us with glory and majesty.\nYou gave us dominion over Your handiwork,\nlaying the world at our feet...\nhow majestic is Your name throughout the earth!\nבָּרוּךְ אַתָּה, יְיָ, הַטוֹב שִׁמְךְ וּלְךָ נָאֶה לְהוֹדוֹת.\nBaruch atah, Adonai, hatov shimcha ul'cha na-eh l'hodot.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:48:32.511Z",
+      "creator": {
+        "isGuest": true,
+        "id": "SjPyeBFjKJVJ_c1KT7Pf"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffafef4ba-a46e-42e3-b72c-ed8e65799067.jp2/1368,2788,2788,1640/max/0/default.jpg"
+    },
+    {
+      "id": "258260e6-9963-47f6-89c9-0f19bf150555",
+      "target": {
+        "source": "mishkan:page:fafef4ba-a46e-42e3-b72c-ed8e65799067",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:952.7859952793073,5665.302911093629,3650.51140833989,612.7458693941771"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "For those who choose: On page 176, at the word in Modim, one bows at the waist. At »\nAdonai, one stands up straight.\nWhen we behold Your heavens... Psalm 8:4-7, 10",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:48:40.351Z",
+      "creator": {
+        "isGuest": true,
+        "id": "SjPyeBFjKJVJ_c1KT7Pf"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffafef4ba-a46e-42e3-b72c-ed8e65799067.jp2/952,5665,3650,612/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/177"
+}

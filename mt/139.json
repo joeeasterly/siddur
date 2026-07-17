@@ -1,0 +1,463 @@
+{
+  "_id": "e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 24,
+  "global_page": 150,
+  "file_path": "/app/data/docs/mishkan/e1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "139",
+  "annotations": [
+    {
+      "id": "5d8f2d43-e543-43aa-9372-9f63f9ff8f5c",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2821.3618421052633,579.7368421052632,1368.1789473684212,643.5078947368421"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "הִתְעוֹרְרִי, הִתְעוֹרְרִי,\nכִּי בָא אוֹרֵךְ, קְוּמִי אוֹרִי,\nעוּרִי עוּרִי, שִׁיר דַבֵּרִי,\nכְּבוֹד יְיָ עָלַיִךְ נִגְלָה.\nT",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:52:28.976Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/2821,579,1368,643/max/0/default.jpg"
+    },
+    {
+      "id": "4ec8423c-8bfa-4df8-b969-6a908e7924b4",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:995.1907894736844,585.534210526316,1078.3105263157893,626.1157894736839"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Hitor'ri, hitor'ri,\nki va oreich, kumi ori,\nuri uri shir dabeiri,\nK'vod Adonai alayich niglah.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:52:39.274Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/995,585,1078,626/max/0/default.jpg"
+    },
+    {
+      "id": "1bef41df-2d07-4d78-a592-5aac50dc86b5",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1082.1513157894738,1258.028947368421,2556.6394736842108,214.50263157894756"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Awake, awake, your light has come! Arise, shine, awake and sing:\nthe Eternal's glory dawns upon you.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:52:45.850Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/1082,1258,2556,214/max/0/default.jpg"
+    },
+    {
+      "id": "73b242ae-e4f5-41a1-a4e6-d838ca2cacf3",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2769.1855263157895,1501.5184210526318,1415.0109841725243,667.1504578567342"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "לֹא תֵבוֹשִׁי וְלֹא תִכָּלְמִי,\nמַה תִּשְׁתּוֹחֲחִי וּמַה הֶאֱמִי,\nבָּךְ יֶחֱסוּ עֲנִי עַמִּי,\nוְנִבְנְתָה עִיר עַל תִּלָּהּ.\nT",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:52:54.424Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/2769,1501,1415,667/max/0/default.jpg"
+    },
+    {
+      "id": "2be1441e-1221-4584-8ff9-bb7b1dbac6a4",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:989.3934210526318,1536.8133989494709,1171.0684210526315,619.8076536821081"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Lo teivoshi v'lo tikalmi,\nmah tishtochachi umah tehemi,\nbach yechesu aniyei ami,\nv'nivn'tah ir al tilah.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:53:04.197Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/989,1536,1171,619/max/0/default.jpg"
+    },
+    {
+      "id": "354877a9-a488-49c1-b259-0302005fae1b",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1070.5565789473687,2174.013157894737,3188.5526315789475,226.09736842105258"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "An end to shame and degradation; forget your sorrow; quiet your groans. The\nafflicted of my people find respite in you, the city renewed upon its ancient ruins.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:53:10.270Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/1070,2174,3188,226/max/0/default.jpg"
+    },
+    {
+      "id": "c5ae0328-8e63-48e8-be0d-cf31bc85db3c",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:3001.080263157895,2434.8947368421054,1205.8526315789472,643.5078947368424"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "וְהָיוּ לִמְשְׁפָּה שׁאֹסָיִךְ,\nוְרָחֲקוּ כָּל מְבַלְעָיִךְ,\nיָשִׂישׂ עָלַיִךְ אֱלֹהָיִךְ,\nכִּמְשׂוֹשׂ חָתָן עַל כַּלָּה.\nT T",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:53:23.727Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/3001,2434,1205,643/max/0/default.jpg"
+    },
+    {
+      "id": "4933dbee-7e27-40ac-a7a8-48e6a3e08125",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1012.5828947368421,2452.2868421052635,1014.5394736842105,649.3052631578948"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "V'hayu lim'shisah shosayich,\nv'rachaku kol m'valayich,\nyasis alayich Elohayich,\nkimsos chatan al kalah.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:53:33.244Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/1012,2452,1014,649/max/0/default.jpg"
+    },
+    {
+      "id": "34fd6d3d-981c-4a71-9a2b-73f4b481ccfd",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1087.9486842105264,3124.781578947369,2533.45,220.29999999999973"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "The scavengers are scattered, your devourers have fled;\nas a bridegroom rejoices in his bride, your God takes joy in you.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:53:40.974Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/1087,3124,2533,220/max/0/default.jpg"
+    },
+    {
+      "id": "199d1715-a902-41b6-a8f0-cf6ede7471f9",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:3018.4723684210526,3350.8789473684214,1159.4736842105272,684.0894736842106"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "יָמִין וּשְׂמֹאל תִּפְרוֹצִי,\nוְאֶת־יְיָ תַּעֲרִיצִי,\nעל יַד אִישׁ בֶּן פַּרְצִי,\nוְנִשְׂמְחָה וְנָגִילָה.\nז",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:53:48.085Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/3018,3350,1159,684/max/0/default.jpg"
+    },
+    {
+      "id": "4a6c737b-87d2-464c-a5ea-05e0b3e9603f",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:983.5960526315791,3403.0552631578953,869.6052631578946,626.1157894736839"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Yamin usmol tifrotzi,\nv'et Adonai taaritzi,\nal yad ish ben partzi,\nv'nism'chah v'nagilah.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:53:58.137Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/983,3403,869,626/max/0/default.jpg"
+    },
+    {
+      "id": "c4188eb4-79a0-4f0c-ab82-3e7a317a09a8",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1134.3276315789476,4069.752631578948,2614.613157894737,197.11052631579014"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Your space will be broad, your worship free: await the promised one;\nwe will exult, we will sing for joy!",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:54:05.763Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/1134,4069,2614,197/max/0/default.jpg"
+    },
+    {
+      "id": "6e589a13-311c-47d1-a3a2-3547aede4cf8",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2763.388157894737,4307.444736842105,1414.5578947368426,655.1026315789486"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בְּוֹאִי בְשָׁלוֹם עֲטֶרֶת בַּעְלָהּ,\nגַּם בְּשִׂמְחָה וּבְצָהֲלָה,\nתּוֹךְ אֱמוּנֵי עַם סְגַלָּה,\nבּוֹאִי כַלָּה, בּוֹאִי כַלָּה.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:54:13.166Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/2763,4307,1414,655/max/0/default.jpg"
+    },
+    {
+      "id": "26b1e415-d2c7-442e-a8f8-e4ace18ed091",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1006.7855263157894,4353.823684210527,1031.9315789473685,597.128947368421"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Bo-i v'shalom ateret ba'lah,\ngam b'simchah uv'tzoholah,\ntoch emunei am s'gulah,\nbo-i chalah, bo-i chalah.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:54:24.250Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/1006,4353,1031,597/max/0/default.jpg"
+    },
+    {
+      "id": "b3145326-c353-4100-8daa-d6acb75abe94",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1134.3276315789476,4968.344736842106,2788.534210526316,237.69210526315783"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Enter in peace, O crown of your husband; enter in gladness, enter in joy.\nCome to the people that keeps its faith. Enter, O bride! Enter, O bride!",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:54:33.116Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/1134,4968,2788,237/max/0/default.jpg"
+    },
+    {
+      "id": "2a78f393-a672-4469-951e-5eac1c432e87",
+      "target": {
+        "source": "mishkan:page:e1164a13-6c4a-487b-aa82-afdf23e97aaa",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:902.4328947368422,5432.134210526317,3704.518421052632,423.2078947368418"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בּוֹאִי בְשָׁלוֹם\nFor those who choose: When the congregation reaches the last verse, beginning D\nBo-i v'shalom, Enter in peace, all rise and turn toward the entrance of the sanctuary, as if to greet\nthe Presence of Shabbat.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:54:43.268Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QJzjLYqIc2xcGr_lUYUa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/902,5432,3704,423/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/139"
+}

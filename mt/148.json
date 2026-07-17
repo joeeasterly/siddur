@@ -1,0 +1,127 @@
+{
+  "_id": "e2a4594b-1c93-4982-a4d2-39f0e1d5b221",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 33,
+  "global_page": 159,
+  "file_path": "/app/data/docs/mishkan/e2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "148",
+  "annotations": [
+    {
+      "id": "ee085a57-4dd9-4c07-baf7-370df2d68725",
+      "target": {
+        "source": "mishkan:page:e2a4594b-1c93-4982-a4d2-39f0e1d5b221",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2380.0745341614906,366.6625258799175,1670.2277432712217,2828.948240165631"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בָּרוּךְ אַתָּה, יְיָ\nאֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,\nאֲשֶׁר בִּדְבָרוֹ מַעֲרִיב עֲרָבִים,\nבְּחָכְמָה פּוֹתֵחַ שְׁעָרִים,\nוּבִתְבוּנָה מְשַׁנָּה עִתִּים\nוּמַחֲלִיף אֶת הַזְמַנִים,\nוּמְחַבֵּר אֶת הַכּוֹכָבִים\nבְּמִשְׁמְרוֹתֵיהֶם בָּרָקִיעַ כִּרְצוֹנוֹ.\nבּוֹרֵא יוֹם וָלַיְלָה,\nגוֹלֵל אוֹר מִפְּנֵי חֹשֶׁךְ\nוְחָשֶׁךְ מִפְּנֵי אוֹר,\nוּמַעֲבִיר יוֹם וּמֵבִיא לָיְלָה,\nTIT\nוּמַבְדִּיל בֵּין יוֹם וּבֵין לָיְלָה,\nTIT\nיְיָ צְבָאוֹת שְׁמוֹ.\nאֵל חַי וְקַיָּם,\nתָּמִיד יִמְלֹךְ עָלֵינוּ לְעוֹלָם וָעֶד.\nז\nבָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T19:50:33.543Z",
+      "creator": {
+        "isGuest": true,
+        "id": "khLX92ejMvat_Kcc12jT"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/2380,366,1670,2828/max/0/default.jpg"
+    },
+    {
+      "id": "27bd571f-904f-431c-bbee-d553af54590c",
+      "target": {
+        "source": "mishkan:page:e2a4594b-1c93-4982-a4d2-39f0e1d5b221",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:443.6542443064183,356.2236024844721,1419.6935817805381,2823.728778467909"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "BARUCH atah, Adonai\nEloheinu, Melech haolam,\nasher bidvaro maariv aravim,\nb'chochmah potei-ach sh'arim,\nuvitvunah m'shaneh itim\numachalif et haz'manim,\num'sadeir et hakochavim\nb'mishm'roteihem barakia kirtzono.\nBorei yom valailah,\ngoleil or mipnei choshech,\nv'choshech mipnei or.\nUmaavir yom umeivi lailah,\numavdil bein yom uvein lailah,\nAdonai Tz'vaot sh'mo.\nEl chai v'kayam,\ntamid yimloch aleinu l'olam va-ed.\nBaruch atah, Adonai, hamaariv aravim.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:50:43.211Z",
+      "creator": {
+        "isGuest": true,
+        "id": "khLX92ejMvat_Kcc12jT"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/443,356,1419,2823/max/0/default.jpg"
+    },
+    {
+      "id": "806e9d18-f0e0-4f04-a15e-5642af21d21e",
+      "target": {
+        "source": "mishkan:page:e2a4594b-1c93-4982-a4d2-39f0e1d5b221",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:433.2153209109733,3362.633540372671,2828.9482401656314,1941.6397515527947"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "BLESSED are You, Adonai our God, Ruler of the universe,\nwho speaks the evening into being,\nskillfully opens the gates,\nthoughtfully alters the time and changes the seasons,\nand arranges the stars in their heavenly courses according to plan.\nYou are Creator of day and night,\nrolling light away from darkness and darkness from light,\ntransforming day into night and distinguishing one from the other.\nAdonai Tzvaot is Your Name.\nEver-living God, may You reign continually over us into eternity.\nBlessed are You, Adonai, who brings on evening.\nבָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.\nBaruch atah, Adonai, hamaariv aravim.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:50:48.969Z",
+      "creator": {
+        "isGuest": true,
+        "id": "khLX92ejMvat_Kcc12jT"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/433,3362,2828,1941/max/0/default.jpg"
+    },
+    {
+      "id": "8217ec4b-f633-4f3a-87d9-017425d691bf",
+      "target": {
+        "source": "mishkan:page:e2a4594b-1c93-4982-a4d2-39f0e1d5b221",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:433.2153209109733,5445.198757763976,3617.086956521739,861.2111801242236"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Adonai Tzvaot: this is one of many names that help elucidate God's attributes.\nGod designs, creates and arranges the universe with order and purpose.\nThe darkness of the first day differed from the darkness that preceded creation. The root of\nmaariv can also mean “mix,\" suggesting God mixed light into the primordial darkness.\nThe tiniest spark of light can transform darkness.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:51:00.703Z",
+      "creator": {
+        "isGuest": true,
+        "id": "khLX92ejMvat_Kcc12jT"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/433,5445,3617,861/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/148"
+}

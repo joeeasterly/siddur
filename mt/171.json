@@ -1,0 +1,155 @@
+{
+  "_id": "04173a81-88b0-4f0a-a4ef-16ecb510549d",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 56,
+  "global_page": 182,
+  "file_path": "/app/data/docs/mishkan/04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "171",
+  "annotations": [
+    {
+      "id": "4426c22b-7a1e-4d81-91b2-95eb719b2dfa",
+      "target": {
+        "source": "mishkan:page:04173a81-88b0-4f0a-a4ef-16ecb510549d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:908.6315789473684,677.3684210526318,3456.315789473684,1586.3157894736837"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "DAYS PASS and the years vanish, and we walk sightless among miracles.\nGod, fill our eyes with seeing and our minds with knowing;\nlet there be moments when Your Presence, like lightning,\nillumines the darkness in which we walk.\nHelp us to see, wherever we gaze, that the bush burns unconsumed.\nAnd we, clay touched by God, will reach out for holiness, and exclaim in wonder:\nHow filled with awe is this place, and we did not know it!\nBlessed is the Eternal One, the Holy God!\nבָּרוּךְ אַתָּה, יְיָ, הָאֵל הַקָּדוֹשׁ.\nBaruch atah, Adonai, Ha-El hakadosh.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-15T15:00:48.226Z",
+      "creator": {
+        "isGuest": true,
+        "id": "chigpSIK8rYaUli95Qqx"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/908,677,3456,1586/max/0/default.jpg"
+    },
+    {
+      "id": "28c74313-3d20-4cf3-8f03-596ec254db96",
+      "target": {
+        "source": "mishkan:page:04173a81-88b0-4f0a-a4ef-16ecb510549d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:3085.4736842105262,2634.210526315789,1140.5263157894728,1540"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "יָהּ אָנָה אֶמְצָאֲךָ\nמְקוֹמְךָ נַעֲלָה וְנֶעְלָם\nוְאָנָה לֹא אֶמְצָאֲךָ\nכְּבוֹדְךָ מָלֵא עוֹלָם.\nTIT\nדָּרַשְׁתִּי קִרְבָתְךָ\nבְּכָל לִבִּי קְרָאתִיךָ\nוּבְצֵאתִי לִקְרָאתְךָ\nלִקְרָאתִי מְצָאתִיךָ.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-15T15:00:55.399Z",
+      "creator": {
+        "isGuest": true,
+        "id": "chigpSIK8rYaUli95Qqx"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/3085,2634,1140,1540/max/0/default.jpg"
+    },
+    {
+      "id": "96dd8241-b656-41f5-907e-9f65c91e298d",
+      "target": {
+        "source": "mishkan:page:04173a81-88b0-4f0a-a4ef-16ecb510549d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1151.7894736842104,2639.9999999999995,1771.5789473684213,1476.3157894736846"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "WHERE might I go to find You,\nExalted, Hidden One?\nYet where would I not go to find You,\nEverpresent, Eternal One?\nMy heart cries out to You:\nPlease draw near to me.\nThe moment I reach out for You,\nI find You reaching in for me.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-15T15:01:31.496Z",
+      "creator": {
+        "isGuest": true,
+        "id": "chigpSIK8rYaUli95Qqx"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/1151,2639,1771,1476/max/0/default.jpg"
+    },
+    {
+      "id": "124811b6-6500-4abf-bcb1-ce4156a669a4",
+      "target": {
+        "source": "mishkan:page:04173a81-88b0-4f0a-a4ef-16ecb510549d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1887.0526315789473,4156.8421052631575,1719.473684210526,399.4736842105258"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בָּרוּךְ אַתָּה, יְיָ, הָאֵל הַקָּדוֹשׁ.\nBaruch atah, Adonai, Ha-El hakadosh.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-15T15:01:37.843Z",
+      "creator": {
+        "isGuest": true,
+        "id": "chigpSIK8rYaUli95Qqx"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/1887,4156,1719,399/max/0/default.jpg"
+    },
+    {
+      "id": "a34d111a-e724-47d1-8bdd-e4d39f11d972",
+      "target": {
+        "source": "mishkan:page:04173a81-88b0-4f0a-a4ef-16ecb510549d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:957.978756884343,5561.4476789929195,3619.354838709678,778.9142407553109"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Holiness occurs when power and goodness co-exist in perfect harmony.\nadapted from Mordecai Kaplan\nHow shall we sanctify God's name? By being holy ourselves. How do we accomplish this? Let our\nprayers bring us to sacred deed, to actions that promote justice, harmony and peace.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:45:00.768Z",
+      "creator": {
+        "isGuest": true,
+        "id": "U_JcMzME5jkQNYUlTH9v"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/957,5561,3619,778/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/171"
+}

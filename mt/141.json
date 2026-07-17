@@ -1,0 +1,126 @@
+{
+  "_id": "aa6ae277-3add-45f8-97ed-a5b73365ae25",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 26,
+  "global_page": 152,
+  "file_path": "/app/data/docs/mishkan/aa6ae277-3add-45f8-97ed-a5b73365ae25.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "141",
+  "annotations": [
+    {
+      "id": "accc6fc8-3253-41ca-befa-0a4c02a82398",
+      "target": {
+        "source": "mishkan:page:aa6ae277-3add-45f8-97ed-a5b73365ae25",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:3148.0526315789475,683.1578947368415,1331.5789473684217,2512.6315789473692"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "י מָלָךְ גֵאוּת לָבֵשׁ,\nלָבֵשׁ יְיָ עז הִתְאַגָּר,\nאַף־תִּכּוֹן תֵּבֵל בַּל־תְּמוֹט.\nנָכוֹן כִּסְאֲךָ מֵאָז,\nמֵעוֹלָם אָתָּה.\nנָשְׂאוּ נְהָרוֹת, יְיָ,\nנָשְׂאוּ נְהָרוֹת קוֹלָם,\nיִשְׂאוּ נְהָרוֹת דָּכְיָם.\nמִקְלוֹת מַיִם רַבִּים,\nאַדִּירִים מִשְׁבְּרֵי יָם,\nאַדִּיר בַּמָּרוֹם יְיָ\nעֵדֹתֶיךָ נֶאֶמְנוּ מְאֹד,\nלְבֵיתְךָ נָאֲוָה קְדֶשׁ,\nי לְאֹרֶךְ יָמִים.\nT",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T18:54:11.098Z",
+      "creator": {
+        "isGuest": true,
+        "id": "0_UUFpERLMFPONS1CyTu"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/3148,683,1331,2512/max/0/default.jpg"
+    },
+    {
+      "id": "98c4fc4e-dbcb-476c-95e4-4073cfd227f5",
+      "target": {
+        "source": "mishkan:page:aa6ae277-3add-45f8-97ed-a5b73365ae25",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3101.736842105264,532.6315789473678 3003.315789473684,752.631578947368 2534.3684210526317,741.0526315789473 1903.3157894736844,3230.5263157894738 1040.6842105263158,3224.7368421052633 1046.4736842105262,573.157894736842\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "PSALM 93:1-5\nADONAI MALACH gei-ut laveish,\nlaveish Adonai oz hitazar,\naf tikon teiveil bal timot.\nNachon kisacha mei-az,\nmei-olam atah.\nNasu n'harot Adonai,\nnasu n'harot kolam,\nyisu n'harot dochyam.\nMikolot mayim rabim,\nadirim mishb'rei yam,\nadir bamarom Adonai.\nEidotecha ne-emnu m'od,\nI'veitcha naavah kodesh,\nAdonai l'orech yamim.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T18:54:36.905Z",
+      "creator": {
+        "isGuest": true,
+        "id": "0_UUFpERLMFPONS1CyTu"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/1040,532,2061,2698/max/0/default.jpg"
+    },
+    {
+      "id": "fab69278-659d-4fad-b5a1-3111e841cac2",
+      "target": {
+        "source": "mishkan:page:aa6ae277-3add-45f8-97ed-a5b73365ae25",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1596.4736842105262,3311.5789473684217,1835.263157894738,2466.315789473685"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "ADONAI IS SOVEREIGN,\nGod is robed in grandeur;\nAdonai is robed,\nGod is girded with strength.\nThe world stands firm;\nit cannot be shaken.\nYour throne stands firm from of old;\nfrom eternity You have existed.\nThe ocean sounds, Adonai,\nthe ocean sounds its thunder,\nthe ocean sounds its pounding.\nAbove the thunder of the mighty waters,\nmore majestic than the breakers of the sea\nis Adonai, majestic on high.\nYour decrees are indeed enduring;\nholiness befits Your house,\nAdonai, for all times.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T18:55:00.915Z",
+      "creator": {
+        "isGuest": true,
+        "id": "0_UUFpERLMFPONS1CyTu"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/1596,3311,1835,2466/max/0/default.jpg"
+    },
+    {
+      "id": "b13eb617-8fea-4138-bf9e-967b1af228b9",
+      "target": {
+        "source": "mishkan:page:aa6ae277-3add-45f8-97ed-a5b73365ae25",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:959.6315789473683,5866.523342917188,3624.210526315791,351.36934344889596"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Proclaiming the completion of God's work of creation and the establishment of\ndivine sovereignty over all, this psalm serves as a fitting climax to Kabbalat Shabbat. See M. Tamid 7:4",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T18:55:07.266Z",
+      "creator": {
+        "isGuest": true,
+        "id": "0_UUFpERLMFPONS1CyTu"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/959,5866,3624,351/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/141"
+}

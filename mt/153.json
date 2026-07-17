@@ -1,0 +1,99 @@
+{
+  "_id": "6d84ede2-544c-44a4-b77e-c4a774829e02",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 38,
+  "global_page": 164,
+  "file_path": "/app/data/docs/mishkan/6d84ede2-544c-44a4-b77e-c4a774829e02.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "153",
+  "annotations": [
+    {
+      "id": "55b8508f-4f67-4705-a35e-af776a0c7b56",
+      "target": {
+        "source": "mishkan:page:6d84ede2-544c-44a4-b77e-c4a774829e02",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:724.3540372670808,1252.0062111801244,3913.5962732919256,1693.6335403726712"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "אלהינו יהוה אוזר",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T19:53:21.266Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vyMYFOJSyTj61mRoElGy"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6d84ede2-544c-44a4-b77e-c4a774829e02.jp2/724,1252,3913,1693/max/0/default.jpg"
+    },
+    {
+      "id": "0e5b3b30-7bf3-42fc-bf07-76ff55d0d125",
+      "target": {
+        "source": "mishkan:page:6d84ede2-544c-44a4-b77e-c4a774829e02",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1063.080745341615,3998.2981366459626,3382.0559006211183,865.0559006211188"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בָּרוּךְ שֵׁם כְּבוֹד מַלְכוּתוֹ לְעוֹלָם וָעֶד.\nBaruch shem k'vod malchuto l'olam va-ed.\nBlessed is God's glorious majesty forever and ever.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:53:30.648Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vyMYFOJSyTj61mRoElGy"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6d84ede2-544c-44a4-b77e-c4a774829e02.jp2/1063,3998,3382,865/max/0/default.jpg"
+    },
+    {
+      "id": "1d3ebbf1-2ada-4fab-8a1e-c60e401e953e",
+      "target": {
+        "source": "mishkan:page:6d84ede2-544c-44a4-b77e-c4a774829e02",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:906.7453416149069,5504.329192546586,3699.9378881987573,812.9440993788794"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "The enlarged ayin at the end of Shma (Hear) and the enlarged dalet at the end of \nechad (one) combine to spell eid (witness). We recite the Shma to bear witness to the Oneness of God.\nBaruch shem kvod... Blessed is God's glorious... M. Yoma 3:8, inspired by Nehemiah 9:5",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:53:38.477Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vyMYFOJSyTj61mRoElGy"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6d84ede2-544c-44a4-b77e-c4a774829e02.jp2/906,5504,3699,812/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/153"
+}

@@ -1,0 +1,99 @@
+{
+  "_id": "26115641-5696-4140-a029-ab0b4657cfe8",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 48,
+  "global_page": 174,
+  "file_path": "/app/data/docs/mishkan/26115641-5696-4140-a029-ab0b4657cfe8.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "163",
+  "annotations": [
+    {
+      "id": "92f36d03-2227-4c5b-930d-6998d4b5cfb6",
+      "target": {
+        "source": "mishkan:page:26115641-5696-4140-a029-ab0b4657cfe8",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1336.1821946169773,1227.154244306418,2813.289855072464,767.2608695652173"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "WE ARE A PEOPLE in whom the past endures,\nin whom the present is inconceivable without moments gone by.\nThe Exodus lasted a moment, a moment enduring forever.\nWhat happened once upon a time happens all the time.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:59:06.498Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Gyc8wCEidHx_2dwbemjL"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F26115641-5696-4140-a029-ab0b4657cfe8.jp2/1336,1227,2813,767/max/0/default.jpg"
+    },
+    {
+      "id": "e662d50b-510e-41e6-8570-0aa7c7039ca4",
+      "target": {
+        "source": "mishkan:page:26115641-5696-4140-a029-ab0b4657cfe8",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1357.0600414078674,2432.849896480331,2233.929606625259,824.6749482401656"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "A THOUGHT has blown the market place away.\nThere is a song on the wind and joy in the trees.\nShabbat arrives in the world,\nscattering a song in the silence of the night:\nEternity utters a day.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:59:11.698Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Gyc8wCEidHx_2dwbemjL"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F26115641-5696-4140-a029-ab0b4657cfe8.jp2/1357,2432,2233,824/max/0/default.jpg"
+    },
+    {
+      "id": "7fcb56bb-2f97-4450-9828-c57189b374db",
+      "target": {
+        "source": "mishkan:page:26115641-5696-4140-a029-ab0b4657cfe8",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:929.0641821946168,6008.181159420289,3611.8674948240164,250.5341614906838"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "More than the Jewish People has kept Shabbat, Shabbat has kept the Jewish People. Ahad Ha-Am",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:59:20.157Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Gyc8wCEidHx_2dwbemjL"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F26115641-5696-4140-a029-ab0b4657cfe8.jp2/929,6008,3611,250/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/163"
+}

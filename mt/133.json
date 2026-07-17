@@ -1,0 +1,126 @@
+{
+  "_id": "59bbccf2-4f20-41e3-a8e1-658c5fa5c68a",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 18,
+  "global_page": 144,
+  "file_path": "/app/data/docs/mishkan/59bbccf2-4f20-41e3-a8e1-658c5fa5c68a.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "133",
+  "annotations": [
+    {
+      "id": "9ce903ad-71bd-457c-9eb6-1d489c4078c2",
+      "target": {
+        "source": "mishkan:page:59bbccf2-4f20-41e3-a8e1-658c5fa5c68a",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1576.2105263157891,486.3157894736838,2460.526315789474,1621.052631578948"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "ADONAI IS SOVEREIGN!\nLet the earth exult, the many islands rejoice!\nDense clouds are around God,\nrighteousness and justice are the base of God's throne.\nO you who love Adonai, hate evil!\nGod guards the lives of God's loyal ones,\nsaving them from the hand of the wicked.\nLight is sown for the righteous,\nradiance for the upright.\nO you righteous, rejoice in Adonai\nand acclaim God's holy name!",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:46:10.328Z",
+      "creator": {
+        "isGuest": true,
+        "id": "YYfOvIEdQwja834qMgrK"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F59bbccf2-4f20-41e3-a8e1-658c5fa5c68a.jp2/1576,486,2460,1621/max/0/default.jpg"
+    },
+    {
+      "id": "f6e20493-0fca-4499-ac81-ba7094688829",
+      "target": {
+        "source": "mishkan:page:59bbccf2-4f20-41e3-a8e1-658c5fa5c68a",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2647.263157894737,2408.421052631579,1823.6842105263163,2008.9473684210534"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "מזְמוֹר.\nשִׁירוּ לַייָ שִׁיר חָדָשׁ,\nכִּי־נִפְלָאוֹת עָשָׂה,\nהוֹשִׁיעָה לוֹ יְמִינוֹ וּזְרוֹעַ קָדְשׁוֹ.\nהוֹדִיעַ יְיָ יְשׁוּעָתוֹ,\nT:\nלְעֵינֵי הַגּוֹיִם גְלָּה צִדְקָתוֹ.\nזָכַר חַסְדּוֹ וֶאֱמוּנָתוֹ\nלְבֵית יִשְׂרָאֵל, רָאוּ כָל־אַפְסֵי אָרֶץ\nאֵת יְשׁוּעַת אֱלֹהֵינוּ.\nהָרִיעוּ לַייָ כָּל־הָאָרֶץ\nז\nפִּצְחוּ וְרַנְנוּ וְזַמֵרוּ.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:46:18.311Z",
+      "creator": {
+        "isGuest": true,
+        "id": "YYfOvIEdQwja834qMgrK"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F59bbccf2-4f20-41e3-a8e1-658c5fa5c68a.jp2/2647,2408,1823,2008/max/0/default.jpg"
+    },
+    {
+      "id": "d7bc5a1d-758d-4cc2-ab01-f66fd901b389",
+      "target": {
+        "source": "mishkan:page:59bbccf2-4f20-41e3-a8e1-658c5fa5c68a",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3029.3684210526317,2228.9473684210525 3035.1578947368425,2466.315789473684 2294.1052631578946,2541.5789473684213 2045.157894736842,4434.736842105264 840.9473684210521,4382.631578947369 974.1052631578942,2194.2105263157896\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "PSALM 98:1-9\nMIZMOR.\nShiru l'Adonai shir chadash,\nki niflaot asah,\nhoshiah lo y'mino uz'ro-a kodsho.\nHodia Adonai y'shuato,\nl'einei hagoyim gilah tzidkato.\nZachar chasdo ve-emunato\nI'veit Yisrael, ra-u chol afsei aret\net y'shuat Eloheinu.\nHariu l'Adonai kol haaretz\npitz'chu v'ran'nu v'zameiru.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:46:36.037Z",
+      "creator": {
+        "isGuest": true,
+        "id": "YYfOvIEdQwja834qMgrK"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F59bbccf2-4f20-41e3-a8e1-658c5fa5c68a.jp2/840,2194,2195,2240/max/0/default.jpg"
+    },
+    {
+      "id": "0380cda9-8117-44b9-a895-9ac2cb36be8b",
+      "target": {
+        "source": "mishkan:page:59bbccf2-4f20-41e3-a8e1-658c5fa5c68a",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1477.7894736842102,4481.0526315789475,2512.6315789473692,1678.9473684210534"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "A PSALM.\nSing to Adonai a new song,\nfor God has worked wonders;\nGod's right hand, God's holy arm,\nhas won God victory.\nAdonai has manifested God's victory,\nhas displayed God's triumph in the sight of the nations.\nGod was mindful of God's steadfast love and faithfulness\ntoward the house of Israel;\nall the ends of the earth beheld the victory of our God.\nRaise a shout to Adonai, all the earth,\nbreak into joyous songs of praise!",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:46:53.379Z",
+      "creator": {
+        "isGuest": true,
+        "id": "YYfOvIEdQwja834qMgrK"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F59bbccf2-4f20-41e3-a8e1-658c5fa5c68a.jp2/1477,4481,2512,1678/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/133"
+}

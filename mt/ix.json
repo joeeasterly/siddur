@@ -1,0 +1,43 @@
+{
+  "_id": "a3f6fae8-9ac8-4a8b-9632-93d6a9941699",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 7,
+  "global_page": 7,
+  "file_path": "/app/data/docs/mishkan/a3f6fae8-9ac8-4a8b-9632-93d6a9941699.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "ix",
+  "annotations": [
+    {
+      "id": "4610405f-92ee-4fc1-8b5f-b65564bf8057",
+      "target": {
+        "source": "mishkan:page:a3f6fae8-9ac8-4a8b-9632-93d6a9941699",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:854.2565789473687,400.01842105263194,3710.315789473683,1501.5184210526313"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "The desert mishkan was a portable sanctuary. Its care was guarded by the Levites and\nthe priests yet it invited all to bring their offerings. Today, we are all caretakers of\nMishkan T'filah; may our offerings be acceptable before God.\nMay all who enter find joy, solace and meaning.\nRABBI ELYSE D. FRISHMAN\nEditor\nRABBI PETER S. KNOBEL\nChair of the Editorial Committee",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T15:43:14.193Z",
+      "creator": {
+        "isGuest": true,
+        "id": "tcyYYOPRsd5VWoarCvPt"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa3f6fae8-9ac8-4a8b-9632-93d6a9941699.jp2/854,400,3710,1501/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/ix"
+}

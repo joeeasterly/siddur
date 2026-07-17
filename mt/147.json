@@ -1,0 +1,99 @@
+{
+  "_id": "bca69e6d-ab06-407c-b4ed-b0cc41cd8f38",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 32,
+  "global_page": 158,
+  "file_path": "/app/data/docs/mishkan/bca69e6d-ab06-407c-b4ed-b0cc41cd8f38.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "147",
+  "annotations": [
+    {
+      "id": "deed0962-c532-40ea-9fbf-89b548e59772",
+      "target": {
+        "source": "mishkan:page:bca69e6d-ab06-407c-b4ed-b0cc41cd8f38",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1349.6956521739132,1012.2919254658387,2537.8447204968943,1704.0559006211183"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "THERE IS ONE who sings the song of his own life,\nfinding everything within himself.\nThere is one who leaves the circle of her self,\nand sings the song of her people.\nThere is one whose voice rings with the song of humanity,\nhoping for the highest perfection.\nAnd there is one who rises even higher,\nuniting with all creatures, with all worlds,\nfilling the universe with\nsong.\nN'vareich!\nנְבָרֵךְ!\nLet us bless!",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:49:30.251Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Dgwahanut_UKEec0KIwt"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbca69e6d-ab06-407c-b4ed-b0cc41cd8f38.jp2/1349,1012,2537,1704/max/0/default.jpg"
+    },
+    {
+      "id": "0acbcf0d-176f-4fe2-8d43-039a66816bc9",
+      "target": {
+        "source": "mishkan:page:bca69e6d-ab06-407c-b4ed-b0cc41cd8f38",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1370.5403726708075,2992.5403726708078,2464.8881987577633,1943.7701863354037"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "O GOD, You are as near as\nthe very air we breathe,\nyet\nfarther than the farthermost star.\nWe yearn to reach You.\nWe seek the light and warmth of Your Presence.\nThough we say You are near,\nwe are lonely and alone.\nO let our desire be so strong\nthat it will tear the veil that keeps You from our sight!\nLet Your light release our darkness\nand reveal the glory and joy of Your Presence.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:50:08.634Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Dgwahanut_UKEec0KIwt"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbca69e6d-ab06-407c-b4ed-b0cc41cd8f38.jp2/1370,2992,2464,1943/max/0/default.jpg"
+    },
+    {
+      "id": "5c2fb4b9-9490-4108-8e19-c2b5acad8024",
+      "target": {
+        "source": "mishkan:page:bca69e6d-ab06-407c-b4ed-b0cc41cd8f38",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:906.7453416149069,5618.975155279503,3689.51552795031,677.4534161490692"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "What does it mean to be called to worship? All serious activity requires preparation. The\nand blessings that precede 17, Bar'chu are warm-ups for the individual. Now communal\nbegins. The leader asks, “Are you ready to pray?\" And we respond, \"Yes! Let us pray!\"\nprayers\nprayer\nadapted from Richard Levy",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:50:15.649Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Dgwahanut_UKEec0KIwt"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbca69e6d-ab06-407c-b4ed-b0cc41cd8f38.jp2/906,5618,3689,677/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/147"
+}

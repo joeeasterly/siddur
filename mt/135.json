@@ -1,0 +1,98 @@
+{
+  "_id": "440fcb99-7c44-4a5d-ad9c-bc45915b1c0a",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 20,
+  "global_page": 146,
+  "file_path": "/app/data/docs/mishkan/440fcb99-7c44-4a5d-ad9c-bc45915b1c0a.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "135",
+  "annotations": [
+    {
+      "id": "b4bc6292-1923-40a1-a148-d32afc912f37",
+      "target": {
+        "source": "mishkan:page:440fcb99-7c44-4a5d-ad9c-bc45915b1c0a",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:3064.851315789474,672.4947368421052,1437.7473684210527,2858.1026315789477"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "מָלָךְ יִרְגְזוּ עַמִּים,\nיֹשֵׁב כְּרוּבִים תָּנוּט הָאָרֶץ.\nיְיָ בְּצִיּוֹן גָּדוֹל\nוְרָם הוּא עַל־כָּל־הָעַמִּים.\nיוֹדוּ שִׁמְךְ גָּדוֹל וְנוֹרָא,\nקָדוֹשׁ הוּא.\nוְעַז מֶלֶךְ מִשְׁפָּט אָהֵב,\nאַתָּה כּוֹנַנְתָּ מֵישָׁרִים,\nמִשְׁפָּט וּצְדָקָה בְּיַעֲקֹב\nאַתָּה עָשִׂיתָ.\nרוֹמְמוּ יְיָ אֱלֹהֵינוּ\nוְהִשְׁתַּחֲווּ לַהֲדֹם רַגְלָיו,\nקָדוֹשׁ הוּא.\nרוֹמְמוּ יְיָ אֱלֹהֵינוּ\nוְהִשְׁתַּחֲווּ לְהַר קָדְשׁוֹ,\nכִּי קָדוֹשׁ יְיָ אֱלֹהֵינוּ.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:47:41.733Z",
+      "creator": {
+        "isGuest": true,
+        "id": "4q8XPaC0YN7Hah3JVz2v"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F440fcb99-7c44-4a5d-ad9c-bc45915b1c0a.jp2/3064,672,1437,2858/max/0/default.jpg"
+    },
+    {
+      "id": "debfc524-b7f0-499b-84d9-5930918f6c97",
+      "target": {
+        "source": "mishkan:page:440fcb99-7c44-4a5d-ad9c-bc45915b1c0a",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3146.0144736842108,521.7631578947368 2989.4855263157892,800.0368421052631 2050.311842105263,3576.9763157894736 1029.9750000000001,3547.989473684211 1024.1776315789475,515.965789473684\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "PSALM 99: 1-5, 9\nADONAI MALACH yirg'zu amim,\nyosheiv k'ruvim tanut haaretz.\nAdonai b'Tzion gadol\nv'ram hu al kol haamim.\nYodu shimcha gadol v'nora,\nkadosh hu.\nV'oz Melech mishpat aheiv,\natah konanta meisharim,\nmishpat utz’dakah b'Yaakov\natah asita.\nRom'mu Adonai Eloheinu\nv'hishtachavu lahadom raglav,\nkadosh hu.\nRom'mu Adonai Eloheinu\nv'hishtachavu l'har kodsho,\nki kadosh Adonai Eloheinu.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:47:56.374Z",
+      "creator": {
+        "isGuest": true,
+        "id": "4q8XPaC0YN7Hah3JVz2v"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F440fcb99-7c44-4a5d-ad9c-bc45915b1c0a.jp2/1024,515,2122,3061/max/0/default.jpg"
+    },
+    {
+      "id": "e8b87060-8c57-4eb7-8fcb-0af5c83c6ebe",
+      "target": {
+        "source": "mishkan:page:440fcb99-7c44-4a5d-ad9c-bc45915b1c0a",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1673.4828947368424,3745.1000000000004,2353.7315789473687,2156.621052631579"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "ADONAI ENTHRONED on cherubim, is sovereign,\npeoples tremble, the earth quakes.\nAdonai is great in Zion,\nand exalted above all peoples.\nThey praise Your name as great and awesome;\nGod is holy!\nMighty ruler who loves justice,\nit was You who established equity,\nYou who worked righteous judgment in Jacob.\nExalt Adonai our God\nand bow down to God's footstool;\nGod is holy!\nExalt Adonai our God,\nand bow toward God's holy hill,\nfor Adonai our God is holy.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:48:04.540Z",
+      "creator": {
+        "isGuest": true,
+        "id": "4q8XPaC0YN7Hah3JVz2v"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F440fcb99-7c44-4a5d-ad9c-bc45915b1c0a.jp2/1673,3745,2353,2156/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/135"
+}

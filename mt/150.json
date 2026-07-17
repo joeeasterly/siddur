@@ -1,0 +1,99 @@
+{
+  "_id": "2dfcffc2-0b2d-469b-a718-c744fdcf7c9f",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 35,
+  "global_page": 161,
+  "file_path": "/app/data/docs/mishkan/2dfcffc2-0b2d-469b-a718-c744fdcf7c9f.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "150",
+  "annotations": [
+    {
+      "id": "3d3f0bd3-b766-4d6c-8f8e-f04359cdaafc",
+      "target": {
+        "source": "mishkan:page:2dfcffc2-0b2d-469b-a718-c744fdcf7c9f",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2416.6107660455486,381.60144927536203,1717.2028985507245,2536.658385093168"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "אהֲבַת עוֹלָם\nבֵּית יִשְׂרָאֵל עַמְךְ אָהָבְתָּ,\nתּוֹרָה וּמִצְוֹת,\nIT T\nחֲקִים וּמִשְׁפָּטִים, אוֹתָנוּ לִמַּדְתָּ.\nעַל כֵּן, יְיָ אֱלֹהֵינוּ,\nבְּשָׁכְבֵּנוּ וּבְקוּמֵנוּ\nנָשִׂים בְּחֵקֶיךָ,\nוְנִשְׂמַח בְּדִבְרֵי תוֹרָתְךָ\nוּבְמִצְוֹתֶיךָ לְעוֹלָם וָעֶד.\nכִּי הֵם חַיֵּינוּ וְאֹרֶךְ יָמֵינוּ\nוּבָהֶם נֶהְגֶה יוֹמָם וָלָיְלָה.\nוְאַהֲבָתְךָ\nT\nאַל תָּסִיר מִמֶּנּוּ לְעוֹלָמִים.\nבָּרוּךְ אַתָּה, יְיָ,\nאוֹהֵב עַמּוֹ יִשְׂרָאֵל.\nT",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T19:51:50.262Z",
+      "creator": {
+        "isGuest": true,
+        "id": "XNmlTo3DCo5_4n7KqBUo"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2dfcffc2-0b2d-469b-a718-c744fdcf7c9f.jp2/2416,381,1717,2536/max/0/default.jpg"
+    },
+    {
+      "id": "b15ad40b-7308-45d7-a49d-4c48c7c0de2b",
+      "target": {
+        "source": "mishkan:page:2dfcffc2-0b2d-469b-a718-c744fdcf7c9f",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:422.7763975155279,365.9430641821946,1430.1325051759834,2479.2443064182194"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "AHAVAT OLAM\nbeit Yisrael amcha ahavta,\nTorah umitzvot,\nchukim umishpatim, otanu limad'ta.\nAl kein, Adonai Eloheinu,\nb'shochbeinu uv'kumeinu\nnasiach b'chukecha,\nv'nismach b'divrei Torat'cha\nuv'mitzvotecha l'olam va-ed.\nKi heim chayeinu v'orech yameinu\nuvahem neh'geh yomam valailah.\nV'ahavat'cha\nal tasir mimenu l'olamim.\nBaruch atah, Adonai,\nohev amo Yisrael.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:51:56.747Z",
+      "creator": {
+        "isGuest": true,
+        "id": "XNmlTo3DCo5_4n7KqBUo"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2dfcffc2-0b2d-469b-a718-c744fdcf7c9f.jp2/422,365,1430,2479/max/0/default.jpg"
+    },
+    {
+      "id": "476f4c9f-0c3a-4250-b08d-081906d7b049",
+      "target": {
+        "source": "mishkan:page:2dfcffc2-0b2d-469b-a718-c744fdcf7c9f",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1012.5755693581779,2928.6987577639748,2531.4389233954457,1821.5921325051759"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "EVERLASTING LOVE You offered Your people Israel\nby teaching us Torah and mitzvot, laws and precepts.\nTherefore, Adonai our God,\nwhen we lie down and when we rise up,\nwe will meditate on Your laws and Your commandments.\nWe will rejoice in Your Torah forever.\nDay and night we will reflect on them\nfor they are our life and doing them lengthens our days.\nNever remove Your love from us.\nPraise to You, Adonai, who loves Your people Israel.\nבָּרוּךְ אַתָּה, יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל.\nBaruch atah, Adonai, ohev amo Yisrael.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:52:05.211Z",
+      "creator": {
+        "isGuest": true,
+        "id": "XNmlTo3DCo5_4n7KqBUo"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2dfcffc2-0b2d-469b-a718-c744fdcf7c9f.jp2/1012,2928,2531,1821/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/150"
+}

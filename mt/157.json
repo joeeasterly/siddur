@@ -1,0 +1,71 @@
+{
+  "_id": "db2b2a70-25ae-4d81-9b77-7ac48e1c81c7",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 42,
+  "global_page": 168,
+  "file_path": "/app/data/docs/mishkan/db2b2a70-25ae-4d81-9b77-7ac48e1c81c7.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "157",
+  "annotations": [
+    {
+      "id": "70400116-efeb-407b-abca-37ac17204127",
+      "target": {
+        "source": "mishkan:page:db2b2a70-25ae-4d81-9b77-7ac48e1c81c7",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1266.3167701863354,610.3198757763975,2058.4161490683227,1782.223602484472"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "STANDING on the parted shores of history\nwe still believe what we were taught\nbefore ever we stood at Sinai's foot;\nthat wherever we go, it is eternally Egypt\nthat there is a better place, a promised land;\nthat the winding way to that promise\npasses through the wilderness.\nThat there is no way to get from here to there\nexcept by joining hands, marching\ntogether.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:56:13.135Z",
+      "creator": {
+        "isGuest": true,
+        "id": "25zPEzDpx1RjLoW1AK3i"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb2b2a70-25ae-4d81-9b77-7ac48e1c81c7.jp2/1266,610,2058,1782/max/0/default.jpg"
+    },
+    {
+      "id": "0e39e8f6-456e-4a3a-8159-024ee5fbddfe",
+      "target": {
+        "source": "mishkan:page:db2b2a70-25ae-4d81-9b77-7ac48e1c81c7",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1339.2732919254659,2673.947204968944,2350.242236024845,2819.248447204969"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "IN A WORLD torn by violence and pain,\na world far from wholeness and peace,\nAdonai:\ngive us the courage to say,\nThere is one God in heaven and earth.\nThe high heavens declare Your glory;\nmay earth reveal Your justice and love.\nFrom bondage in Egypt, we were delivered;\nat Sinai, we bound ourselves to Your way.\nInspired by prophets and instructed by sages,\ntime and again, we overcame oppressive forces.\nThough our failings are many and our faults are great,\nit has been our glory to bear witness to our God,\nkeeping alive in dark ages\nYour vision of a world redeemed.\nLet us continue to work for the day\nwhen the nations will be one and at peace.\nThen shall we rejoice as Israel did,\nsinging on the shores of the Sea:",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:56:18.063Z",
+      "creator": {
+        "isGuest": true,
+        "id": "25zPEzDpx1RjLoW1AK3i"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb2b2a70-25ae-4d81-9b77-7ac48e1c81c7.jp2/1339,2673,2350,2819/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/157"
+}

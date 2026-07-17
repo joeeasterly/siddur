@@ -1,0 +1,323 @@
+{
+  "_id": "2463c7a2-1d6a-49a7-93b0-b01f2f2919ca",
+  "source_file": "5.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 4,
+  "global_page": 191,
+  "file_path": "/app/data/docs/mishkan/2463c7a2-1d6a-49a7-93b0-b01f2f2919ca.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "180",
+  "annotations": [
+    {
+      "id": "effa28bb-fdda-4161-8d65-1816ffa01651",
+      "target": {
+        "source": "mishkan:page:2463c7a2-1d6a-49a7-93b0-b01f2f2919ca",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2292.5184893784426,368.6860739575135,1822.6593233674266,1900.5507474429587"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "אֱלֹהַי, נְצֹר לְשׁוֹנִי מֵרָע וּשְׂפָתַי\nמִדַּבֵּר מִרְמָה, וְלִמְקַלְלַי נַפְשִׁי\nתִדּוֹם, וְנַפְשִׁי בֶּעָפָר לַכֹּל תִּהְיֶה.\nפְּתַח לִבִּי בְּתוֹרָתֶךָ, וּבְמִצְוֹתֶיךָ\nתִּרְדוֹף נַפְשִׁי, וְכֹל הַחוֹשְׁבִים\nעָלַי רָעָה, מְהֵרָה הָפַר עֲצָתָם\nוְקַלְקֵל מַחֲשַׁבְתָּם. עֲשֵׂה לְמַעַן\nשְׁמֶךָ, עֲשֵׂה לְמַעַן יְמִינֶךָ, עֲשֵׂה\nלְמַעַן קְדֶשָׁתֶךָ, עֲשֵׂה לְמַעַן\nתּוֹרָתֶךָ. לְמַעַן יֵחָלְצוּן יְדִידֶיךָ,\nהוֹשִׁיעָה יְמִינְךָ וַעֲנֵנִי.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-17T16:50:38.213Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xBAJpZLQa5VJbha9l2qO"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2463c7a2-1d6a-49a7-93b0-b01f2f2919ca.jp2/2292,368,1822,1900/max/0/default.jpg"
+    },
+    {
+      "id": "d0f9f12d-0ec6-4002-b25d-b066669cf44a",
+      "target": {
+        "source": "mishkan:page:2463c7a2-1d6a-49a7-93b0-b01f2f2919ca",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:412.73878835562545,389.4571203776557,1651.2981904012588,1848.6231313926044"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "ELOHAI, n'tzor l'shoni meira us'fatai\nmidabeir mirmah, v'limkal'lai nafshi\ntidom, v'nafshi ke-afar lakol tih'yeh.\nP'tach libi b'Toratecha, uv'mitzvotecha\ntirdof nafshi. V'chol hachoshvim\nalai raah, m'heirah hafeir atzatam\nv'kalkeil machashavtam. Aseih I'maan\nsh'mecha, aseih I'maan y'minecha, aseih\nI'maan k'dushatecha, aseih I'maan\nToratecha. L'maan yeichaltzun y'didecha,\nhoshiah y'mincha vaaneini.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:50:45.976Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xBAJpZLQa5VJbha9l2qO"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2463c7a2-1d6a-49a7-93b0-b01f2f2919ca.jp2/412,389,1651,1848/max/0/default.jpg"
+    },
+    {
+      "id": "9410ef58-1da6-4b86-8879-690b21e1a4ba",
+      "target": {
+        "source": "mishkan:page:2463c7a2-1d6a-49a7-93b0-b01f2f2919ca",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:412.73878835562545,2274.4295830055075,3510.306845003934,1069.7088906372937"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "MY GOD, guard my speech from evil and my lips from deception.\nBefore those who slander me, I will hold my tongue; I will practice humility.\nOpen my heart to Your Torah, that I may pursue Your mitzvot.\nAs for all who think evil of me, cancel their designs and frustrate their schemes.\nAct for Your own sake, for the sake of Your Power,\nfor the sake of Your Holiness, for the sake of Your Torah;\nso that Your loved ones may be rescued, save with Your power. And answer me.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:50:54.469Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xBAJpZLQa5VJbha9l2qO"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2463c7a2-1d6a-49a7-93b0-b01f2f2919ca.jp2/412,2274,3510,1069/max/0/default.jpg"
+    },
+    {
+      "id": "5dfc52b5-194d-4391-8976-ad15bd99147e",
+      "target": {
+        "source": "mishkan:page:2463c7a2-1d6a-49a7-93b0-b01f2f2919ca",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2282.132966168371,3385.6805664830845,1801.8882769472866,425.80645161290295"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "יִהְיוּ לְרָצוֹן אִמְרֵי פִי וְהֶגְיוֹן לִבִּי\n>>\nלְפָנֶיךָ, יְיָ צוּרִי וְגוֹאֲלִי.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-17T16:51:06.841Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xBAJpZLQa5VJbha9l2qO"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2463c7a2-1d6a-49a7-93b0-b01f2f2919ca.jp2/2282,3385,1801,425/max/0/default.jpg"
+    },
+    {
+      "id": "af472b04-b124-47d7-8d30-811c4d3003db",
+      "target": {
+        "source": "mishkan:page:2463c7a2-1d6a-49a7-93b0-b01f2f2919ca",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:459.473642800944,3432.415420928403,1324.1542092840284,337.5295043273013"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Yih'yu l'ratzon imrei fi v'hegyon libi\nl'fanecha, Adonai tzuri v'go-ali.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:51:15.285Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xBAJpZLQa5VJbha9l2qO"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2463c7a2-1d6a-49a7-93b0-b01f2f2919ca.jp2/459,3432,1324,337/max/0/default.jpg"
+    },
+    {
+      "id": "08ed7810-5faa-4370-9c9d-1c02f550fc74",
+      "target": {
+        "source": "mishkan:page:2463c7a2-1d6a-49a7-93b0-b01f2f2919ca",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:963.1715184893784,3806.294256490952,2684.6687799301644,301.19269022889466"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "May the words of my mouth and the meditations of my heart\nbe acceptable to You, Adonai, my Rock and my Redeemer.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:51:26.576Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xBAJpZLQa5VJbha9l2qO"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2463c7a2-1d6a-49a7-93b0-b01f2f2919ca.jp2/963,3806,2684,301/max/0/default.jpg"
+    },
+    {
+      "id": "a15937ba-fa21-4a97-b1dd-4a50cefe9f8a",
+      "target": {
+        "source": "mishkan:page:2463c7a2-1d6a-49a7-93b0-b01f2f2919ca",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2100.3863099921327,4174.980330448467,1999.2132179386308,669.8662470495674"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "עשֶׂה שָׁלוֹם בִּמְרוֹמָיו,\nהוּא יַעֲשֶׂה שָׁלוֹם עָלֵינוּ\nוְעַל כָּל יִשְׂרָאֵל, וְעַל כָּל יוֹשְׁבֵי תֵבֵל,\nוְאִמְרוּ: אָמֵן.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-17T16:51:34.481Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xBAJpZLQa5VJbha9l2qO"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2463c7a2-1d6a-49a7-93b0-b01f2f2919ca.jp2/2100,4174,1999,669/max/0/default.jpg"
+    },
+    {
+      "id": "69f3ada6-34fb-4934-bc47-5986e984c768",
+      "target": {
+        "source": "mishkan:page:2463c7a2-1d6a-49a7-93b0-b01f2f2919ca",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:423.12431156569653,4143.823760818254,1433.202202989772,669.8662470495674"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Oseh shalom bimromav,\nhu yaaseh shalom aleinu,\nv'al kol Yisrael, v'al kol yoshvei teiveil,\nv'imru: Amen.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:51:44.223Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xBAJpZLQa5VJbha9l2qO"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2463c7a2-1d6a-49a7-93b0-b01f2f2919ca.jp2/423,4143,1433,669/max/0/default.jpg"
+    },
+    {
+      "id": "c45c1f47-2222-468d-bfee-870b95e8321f",
+      "target": {
+        "source": "mishkan:page:2463c7a2-1d6a-49a7-93b0-b01f2f2919ca",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:755.4610542879626,4882.429779657044,3022.1872541306057,346.68115661361117"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "make\nMay the One who makes peace in the high heavens\npeace\nfor us, for all Israel and all who inhabit the earth. Amen.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:51:53.037Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xBAJpZLQa5VJbha9l2qO"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2463c7a2-1d6a-49a7-93b0-b01f2f2919ca.jp2/755,4882,3022,346/max/0/default.jpg"
+    },
+    {
+      "id": "0c7c6a2d-9207-43e5-9b6e-d55dfb1da3fc",
+      "target": {
+        "source": "mishkan:page:2463c7a2-1d6a-49a7-93b0-b01f2f2919ca",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:672.3768686073961,5296.616837136115,3214.3194335169155,321.95121951219517"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "For those who count the Omer, every evening between Pesach and Shavuot, turn to page 570.\nReading of the Torah is on page 362. Aleinu and Kaddish are on pages 586–587.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:52:04.238Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xBAJpZLQa5VJbha9l2qO"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2463c7a2-1d6a-49a7-93b0-b01f2f2919ca.jp2/672,5296,3214,321/max/0/default.jpg"
+    },
+    {
+      "id": "466d5855-347f-43cc-819c-70ca8660d354",
+      "target": {
+        "source": "mishkan:page:2463c7a2-1d6a-49a7-93b0-b01f2f2919ca",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:443.8953579858382,5718.058161635975,3515.4996066089698,611.9182349021848"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Elohai, n'tzor l'shoni meira... My God, guard my speech from evil...\nbased on Psalm 34:14\nיֵחָלְצוּן\nph I'maan yeichaltzun... so that Your loved ones...\nPsalm 60:7\nYih'yu l'ratzon... May the words of my mouth... Psalm 19:15",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:52:23.476Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xBAJpZLQa5VJbha9l2qO"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2463c7a2-1d6a-49a7-93b0-b01f2f2919ca.jp2/443,5718,3515,611/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/180"
+}

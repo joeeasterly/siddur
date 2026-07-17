@@ -1,0 +1,98 @@
+{
+  "_id": "e213fd4e-603a-4c6c-bb03-3812bfa35269",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 17,
+  "global_page": 143,
+  "file_path": "/app/data/docs/mishkan/e213fd4e-603a-4c6c-bb03-3812bfa35269.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "132",
+  "annotations": [
+    {
+      "id": "16ec2ad5-7632-4c74-b843-3ca416026054",
+      "target": {
+        "source": "mishkan:page:e213fd4e-603a-4c6c-bb03-3812bfa35269",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1308.1052631578948,503.684210526316,2240.526315789474,2906.3157894736846"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "SING TO ADONAI a new song,\nsing to Adonai, all the earth.\nSing to Adonai, bless God's name,\nproclaim God's victory day after day.\nTell of God's glory among the nations,\nGod's wondrous deeds, among all peoples.\nFor Adonai is great and much acclaimed,\nGod is held in awe by all divine beings.\nAll the gods of the peoples are mere idols,\nbut Adonai made the heavens.\nGlory and majesty are before God;\nstrength and splendor are in God's temple.\nLet the heavens rejoice and the earth exult;\nlet the sea and all within it thunder,\nthe fields and everything in them exult;\nthen shall all the trees of the forest shout for joy\nat the presence of Adonai, for God is coming,\nfor God is coming to rule the earth;\nGod will rule the world justly,\nand its peoples in faithfulness.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:45:19.450Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vxPLYG3ARMEdouebWBhe"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe213fd4e-603a-4c6c-bb03-3812bfa35269.jp2/1308,503,2240,2906/max/0/default.jpg"
+    },
+    {
+      "id": "6550ced6-bc3f-428c-83cc-2f0dc765c1c2",
+      "target": {
+        "source": "mishkan:page:e213fd4e-603a-4c6c-bb03-3812bfa35269",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2604.9473684210525,3832.6315789473692,1406.8421052631584,2188.421052631579"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "מָלָךְ, תָּגֵל הָאָרֶץ,\nיִשְׂמְחוּ אִים רַבִּים.\nעָנָן וַעֲרָפֶל סְבִיבָיו\nצֶדֶק וּמִשְׁפָּט מְכוֹן כִּסְאוֹ.\nאֹהֲבֵי יְיָ שִׂנְאוּ רָע,\nשֹׁמֵר נַפְשׁוֹת חֲסִידָיו\nמִיַּד רְשָׁעִים יַצִילֵם.\nאוֹר זָרֵעַ לַצַדִּיק\nוּלְיִשְׁרֵי־לֵב שִׂמְחָה.\nשִׂמְחוּ צַדִּיקִים בַּיץ\nוְהוֹדוּ לְזֵכֶר קָדְשׁוֹ.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:45:27.813Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vxPLYG3ARMEdouebWBhe"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe213fd4e-603a-4c6c-bb03-3812bfa35269.jp2/2604,3832,1406,2188/max/0/default.jpg"
+    },
+    {
+      "id": "5dfeece4-8e72-4d3c-b046-a23e0c51e75a",
+      "target": {
+        "source": "mishkan:page:e213fd4e-603a-4c6c-bb03-3812bfa35269",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2632.450686476351,3757.368421052632 2772.842105263158,3728.4210526315796 2680.2105263157896,3537.368421052632 503.368421052631,3647.368421052632 549.6842105263154,6026.842105263158 1557.052631578947,6078.947368421053 2002.8421052631577,3983.157894736843\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "PSALM 97:1-2, 10-12\nADONAI malach tageil haaretz,\nyism'chu iyim rabim.\nAnan vaarafel s'vivav\ntzedek umishpat m'chon kiso.\nOhavei Adonai sinu ra,\nshomeir nafshot chasidav\nmiyad r’sha-im yatzileim.\nOr zarua latzaddik\nul'yishrei lev simchah.\nSimchu tzaddikim b'Adonai\nv'hodu l'zeicher kodsho.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:45:45.100Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vxPLYG3ARMEdouebWBhe"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe213fd4e-603a-4c6c-bb03-3812bfa35269.jp2/503,3537,2269,2541/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/132"
+}

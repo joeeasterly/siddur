@@ -1,0 +1,183 @@
+{
+  "_id": "34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8",
+  "source_file": "5.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 3,
+  "global_page": 190,
+  "file_path": "/app/data/docs/mishkan/34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "179",
+  "annotations": [
+    {
+      "id": "e6af8680-f52b-42e4-a6d8-3ce00597a942",
+      "target": {
+        "source": "mishkan:page:34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1378.592446892211,602.3603461841072,3011.801730920535,2284.8151062155785"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "GRANT US PEACE, Your most precious gift,\nO Eternal Source of peace.\nAnd give us the will to proclaim its message\nto all the peoples of the earth.\nBless our country as a safeguard of peace,\nits advocate among the nations.\nMay contentment reign within our borders,\nhealth and happiness within our homes.\nStrengthen the bonds of friendship and fellowship\namong all the inhabitants of every land.\nPlant virtue in every soul,\nand may the love of Your Name hallow every home and every heart.\nPraised are You, Eternal One, who blesses our people with peace.\nבָּרוּךְ אַתָּה, יְיָ הַמְבָרֵךְ אֶת עַמּוֹ יִשְׂרָאֵל בַּשָׁלוֹם.\n1:\nBaruch atah, Adonai, ham'vareich et amo Yisrael bashalom.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:49:45.129Z",
+      "creator": {
+        "isGuest": true,
+        "id": "y5ms5GtRrXzbkvH2xLd_"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/1378,602,3011,2284/max/0/default.jpg"
+    },
+    {
+      "id": "a71275bd-3720-41da-b1f5-cd77b3eaf2eb",
+      "target": {
+        "source": "mishkan:page:34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2889.6860739575136,3089.6931549960664,1682.4547600314713,519.2761605035407"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "לא־יִשָּׂא גוֹי אֶל גּוֹי חֶרֶב,\nוְלֹא־יִלְמְדוּ עוֹד מִלְחָמָה.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-17T16:49:51.937Z",
+      "creator": {
+        "isGuest": true,
+        "id": "y5ms5GtRrXzbkvH2xLd_"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/2889,3089,1682,519/max/0/default.jpg"
+    },
+    {
+      "id": "1ebc80e5-10ed-4de0-ad7b-6e9fff3fb9d7",
+      "target": {
+        "source": "mishkan:page:34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:848.9307631785997,3167.5845790715975,1313.7686860739573,399.84264358772634"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "LO YISA GOI el goi cherev.\nV'lo yilm'du od milchamah.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:49:59.168Z",
+      "creator": {
+        "isGuest": true,
+        "id": "y5ms5GtRrXzbkvH2xLd_"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/848,3167,1313,399/max/0/default.jpg"
+    },
+    {
+      "id": "a0266bd2-7d96-4e08-bdcd-1d972b9ea40e",
+      "target": {
+        "source": "mishkan:page:34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:838.5452399685286,3593.391030684501,3634.933123524784,233.67427222659308"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "NATION shall not take up sword against nation; they shall never again know war.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:50:06.738Z",
+      "creator": {
+        "isGuest": true,
+        "id": "y5ms5GtRrXzbkvH2xLd_"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/838,3593,3634,233/max/0/default.jpg"
+    },
+    {
+      "id": "93027950-6314-4bb2-9207-b52a759751f7",
+      "target": {
+        "source": "mishkan:page:34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1446.098347757671,4102.281667977971,2149.803304484658,1059.3233674272224"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "DON'T STOP after beating the swords\ninto ploughshares, don't stop! Go on beating\nand make musical instruments out of them.\nWhoever wants to make war again\nwill have to turn them into ploughshares first.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:50:12.257Z",
+      "creator": {
+        "isGuest": true,
+        "id": "y5ms5GtRrXzbkvH2xLd_"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/1446,4102,2149,1059/max/0/default.jpg"
+    },
+    {
+      "id": "1affe132-259c-449c-a9d0-22911b3bee2c",
+      "target": {
+        "source": "mishkan:page:34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:916.4366640440599,5234.303697875688,3785.5232100708104,1142.4075531077906"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Great is peace, for peace is to the world as leaven is to dough. Perek HaShalom 1:1\nBy three things does the world endure: justice, truth, and peace. R. Muna said: The three are one\nbecause if justice is done, truth has been effected and peace is brought about. Perek HaShalom 1:2\nGreat is peace, for even in a time of war one should begin (by attempting to arrange) peace.\nPerek HaShalom 1:14\nNN Lo yisa goi... Nation shall not... Isaiah 2:4",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:50:19.381Z",
+      "creator": {
+        "isGuest": true,
+        "id": "y5ms5GtRrXzbkvH2xLd_"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/916,5234,3785,1142/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/179"
+}

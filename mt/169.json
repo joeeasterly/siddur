@@ -1,0 +1,71 @@
+{
+  "_id": "81fc0734-47ed-4ea9-a1ed-e858addef062",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 54,
+  "global_page": 180,
+  "file_path": "/app/data/docs/mishkan/81fc0734-47ed-4ea9-a1ed-e858addef062.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "169",
+  "annotations": [
+    {
+      "id": "a6d7e4a1-4987-488f-86b7-358638878d6f",
+      "target": {
+        "source": "mishkan:page:81fc0734-47ed-4ea9-a1ed-e858addef062",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1210.9151138716354,841.633540372671,3032.507246376812,3679.7204968944097"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "WE PRAY that we might know before whom we stand:\nthe Power whose gift is life,\nwho quickens those who have forgotten how to live.\nWe\npray\nfor the winds to disperse the choking air of sadness,\nfor cleansing rains to make parched hopes flower,\nand to give all of us the strength to rise up toward the sun.\nWe pray for love to encompass us\nfor no other reason save that we are human,\nfor love through which we may all blossom into persons\nwho have gained power over our own lives.\nWe\npray to stand upright, we fallen;\nto be healed, we sufferers;\nwe pray to break the bonds that keep us from the world of beauty;\nwe pray for opened eyes,\nwe who are blind to our own authentic selves.\nWe pray that we may walk in the garden of a purposeful life,\nour own powers in touch with the power of the world.\nPraised be the God whose gift is life,\nwhose cleansing rains let parched men and women\nflower toward the sun.\nבָּרוּךְ אַתָּה, יְיָ, מְחַיֶה הַכֹּל וְהַמֶּתִים).\nBaruch atah, Adonai, m'chayeih hakol (hameitim).",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T20:01:03.213Z",
+      "creator": {
+        "isGuest": true,
+        "id": "MMC0KpI3m7hXJpCBEnEa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F81fc0734-47ed-4ea9-a1ed-e858addef062.jp2/1210,841,3032,3679/max/0/default.jpg"
+    },
+    {
+      "id": "9004dbdf-9e23-435e-ad80-7b656bd80197",
+      "target": {
+        "source": "mishkan:page:81fc0734-47ed-4ea9-a1ed-e858addef062",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:861.2111801242236,5697.037401364889,3815.4265010351965,593.6946939833751"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "The metaphor \"reviving the dead\" is widely used rabbinically. The Talmud recommends saying\nBaruch atah Adonai, mchayeih hameitim for greeting a friend after a lapse of seeing the person for twelve months, and for awakening from sleep.\nB'rachot 58b, Y. B'rachot 4:2",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T20:01:09.522Z",
+      "creator": {
+        "isGuest": true,
+        "id": "MMC0KpI3m7hXJpCBEnEa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F81fc0734-47ed-4ea9-a1ed-e858addef062.jp2/861,5697,3815,593/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/169"
+}

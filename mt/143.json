@@ -1,0 +1,99 @@
+{
+  "_id": "5a4c4b4d-51be-46cc-8ae1-a2732006a069",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 28,
+  "global_page": 154,
+  "file_path": "/app/data/docs/mishkan/5a4c4b4d-51be-46cc-8ae1-a2732006a069.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "143",
+  "annotations": [
+    {
+      "id": "c131e5ff-dbe3-48e2-b6c3-e2c60e3e5c73",
+      "target": {
+        "source": "mishkan:page:5a4c4b4d-51be-46cc-8ae1-a2732006a069",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2725.4210526315796,364.736842105263,1806.3157894736846,4567.894736842106"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "וַיֵּצֵא יַעֲקֹב מִבְּאֵר שָׁבַע וַיֵּלֶךְ\nחָרָנָה: וַיִּפְגַע בַּמָּקוֹם וַיָּלֶן שָׁם\nכִּי־בָא הַשֶׁמֶשׁ וַיְקַח מֵאַבְנֵי\nהַמָּקוֹם וַיָּשֶׂם מְרַאֲשֹׁתָיו\nוַיִּשְׁכַּב בַּמָּקוֹם הַהוּא:\nTAT\nוַיַּחֲלֹם וְהִנֵּה סֶלָם מֵאָב אַרְצָה\nוְרֹאשׁוֹ מַגִּיעַ הַשָּׁמָיְמָה וְהִנֵּה\nמַלְאֲכֵי אֱלֹהִים עֹלִים וְיֹרְדִים בּוֹ:\nוְהִנֵּה יְיָ נִאָב עָלָיו וַיֹּאמַר אֲנִי\nיְיָ אֱלֹהֵי אַבְרָהָם אָבִיךָ וֵאלֹהֵי\nיִצְחָק הָאָרֶץ אֲשֶׁר אַתָּה שֹׁכֵב\nעָלֶיהָ לְךָ אֶתְּנֶנָּה וּלְזַרְעֶךָ:\nוְהָיָה זַרְעֲךָ כַּעֲפַר הָאָרֶץ\nוּפָרַצְתָּ יָמָּה וָקֵדְמָה וְצָפְנָה\nוְנֶגְבָּה וְנִבְרְכוּ בְךָ כָּל־מִשְׁפְּחֹת\nT\nהָאֲדָמָה וּבְזַרְעֶךָ:\nIT\nIT\nוְהִנֵּה אָנֹכִי עִמָּךְ וּשְׁמַרְתִּיךָ בְּכָל\nאֲשֶׁר תֵּלֵךְ וַהֲשִׁבֹתִיךָ אֶל־הָאֲדָמָה\nהַזֹּאת כִּי לֹא אֶעֶזָבְךָ עַד אֲשֶׁר\nאִם־עָשִׂיתִי אֵת אֲשֶׁר דִּבַּרְתִּי לָךְ:\nוַיִּיקַץ יַעֲקֹב מִשְׁנָתוֹ וַיֹּאמַר\nאָכֵן יֵשׁ יְיָ בַּמָּקוֹם הַזֶּה וְאָנֹכִי\nלֹא יָדָעְתִּי:\nזז!\nוַיִירָא וַיֹּאמַר מַה־נּוֹרָא הַמָּקוֹם\nהַזֶּה אֵין זֶה כִּי אִם־בֵּית\nאֱלֹהִים וְזֶה שַׁעַר הַשָּׁמָיִם:",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T18:56:52.861Z",
+      "creator": {
+        "isGuest": true,
+        "id": "CGCU9L9q5UrR3oQz6ubr"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F5a4c4b4d-51be-46cc-8ae1-a2732006a069.jp2/2725,364,1806,4567/max/0/default.jpg"
+    },
+    {
+      "id": "719c06b5-dbb1-4fd7-8206-d13fa5d8a3c1",
+      "target": {
+        "source": "mishkan:page:5a4c4b4d-51be-46cc-8ae1-a2732006a069",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:916.2105263157893,378.4353299436714,1833.49844602931,4426.827827951065"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "AND JACOB LEFT Beersheba and set\nout for Haran. Coming upon a\n[certain] place, he passed the night\nthere, for the sun was setting; taking\none of the stones of the place, he made\nit his head-rest as he lay down in that\nplace. He dreamed, and lo― a ladder\nwas set on the ground, with its top\nreaching to heaven, and lo― angels\nof God going up and coming down\non it. And lo - Adonai stood up above\nit, and said, \"I, Adonai, am the God of\nyour father Abraham and God of Isaac:\nthe land on which you are lying I will\ngive to you and to your descendants.\nAnd your descendants shall be like the\ndust of the earth, and you shall spread\nout to the west and the east and the\nnorth and the south. Through you and\nyour descendants all the families of the\nearth shall find blessing. And here I\nam, with you: I will watch over you\nwherever you go, and I will bring you\nback to this soil. I will not let go of you\nas long as I have yet to do what I have\npromised you.\"\nWaking from his sleep, Jacob said,\n\"Truly, Adonai is in this place, and I did\nnot know it!\" He was awestruck, and\nsaid, \"How awe-inspiring is this place!\nThis is none other than the house of\nGod, and this is the gate of heaven!\"",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:04:48.386Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IJmYwTCNOMzU3BbVbKPF"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F5a4c4b4d-51be-46cc-8ae1-a2732006a069.jp2/916,378,1833,4426/max/0/default.jpg"
+    },
+    {
+      "id": "40e0fb73-6923-4c1b-87a9-4e223eb40e8c",
+      "target": {
+        "source": "mishkan:page:5a4c4b4d-51be-46cc-8ae1-a2732006a069",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:933.5789473684209,5384.210526315789,3624.21052631579,943.6842105263158"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "And so we understand that ordinary people are messengers of the Most High. They go about their\ntasks in holy anonymity, often, even unknown to themselves. Yet, if they had not been there, if\nthey had not said what they said or did what they did, it would not be the way it is now. We\nwould not be the way we are now. Never forget that you, too, yourself may be a messenger.\nPerhaps even one whose errand extends over several lifetimes. Lawrence Kushner\nAnd Jacob left Beersheba... Genesis 28:10-17",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:04:56.355Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IJmYwTCNOMzU3BbVbKPF"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F5a4c4b4d-51be-46cc-8ae1-a2732006a069.jp2/933,5384,3624,943/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/143"
+}

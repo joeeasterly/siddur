@@ -1,0 +1,98 @@
+{
+  "_id": "f41048ec-a261-44b0-8934-b901c5b2844d",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 60,
+  "global_page": 186,
+  "file_path": "/app/data/docs/mishkan/f41048ec-a261-44b0-8934-b901c5b2844d.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "175",
+  "annotations": [
+    {
+      "id": "fcfc7a6d-c3fd-4772-8c05-cc0b66eee327",
+      "target": {
+        "source": "mishkan:page:f41048ec-a261-44b0-8934-b901c5b2844d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2807.794649881983,353.1077891424077,1775.9244689221077,1069.7088906372935"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "רְצָה, יְיָ אֱלֹהֵינוּ, בְּעַמָּךְ יִשְׂרָאֵל,\nוּתְפִלָּתָם בְּאַהֲבָה תְקַבֵּל,\nוּתְהִי לְרָצוֹן תָּמִיד\nעֲבוֹדַת יִשְׂרָאֵל עַמֶּךָ.\nבָּרוּךְ אַתָּה, יְיָ,\nשֶׁאוֹתְךָ לְבַדְּךָ בְּיִרְאָה נַעֲבֹד.\nT",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-17T16:46:50.230Z",
+      "creator": {
+        "isGuest": true,
+        "id": "iFQ8GbA5msxqij2hwYNC"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff41048ec-a261-44b0-8934-b901c5b2844d.jp2/2807,353,1775,1069/max/0/default.jpg"
+    },
+    {
+      "id": "7c983f40-7300-434f-a6b0-94496f17c5a2",
+      "target": {
+        "source": "mishkan:page:f41048ec-a261-44b0-8934-b901c5b2844d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"896.8583792289536,342.7222659323368 870.8945712037764,2700.2360346184105 3877.5035405192766,2679.4649881982696 3166.0952006294256,1526.6719118804092 2340.4461054287963,1453.9732494099135 2615.662470495672,415.4209284028323 2091.1935483870966,368.686073957514\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "R'TZEI, Adonai Eloheinu, b'amcha Yisrael,\nut'filatam b'ahavah t'kabeil,\nut'hi l'ratzon tamid\navodat Yisrael amecha.\nBaruch atah, Adonai,\nshe-ot-cha l'vadcha b'yirah naavod.\nEVERPRESENT ONE, may we, Your people Israel,\nbe worthy in our deeds and our prayer.\nWherever we live, wherever we seek You\nin this land, in Zion restored, in all lands\nYou are our God, whom alone we serve in reverence.\nבָּרוּךְ אַתָּה, יְיָ, שֶׁאוֹתְךָ לְבַדְּךָ בְּיִרְאָה נַעֲבֹד.\nT:\nBaruch atah, Adonai, she-ot'cha l'vad'cha b'yirah naavod.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:47:07.966Z",
+      "creator": {
+        "isGuest": true,
+        "id": "iFQ8GbA5msxqij2hwYNC"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff41048ec-a261-44b0-8934-b901c5b2844d.jp2/870,342,3007,2358/max/0/default.jpg"
+    },
+    {
+      "id": "82017844-0879-486f-b98e-66dc07e06301",
+      "target": {
+        "source": "mishkan:page:f41048ec-a261-44b0-8934-b901c5b2844d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:831.3601319084764,2907.946498819827,2854.0112292244903,2186.1526357199064"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "YOU ARE WITH US in our prayer, our love and our doubt,\nin our longing to feel Your Presence and do Your will.\nYou are the still clear voice within us.\nTherefore, O God, when doubt troubles us,\nwhen anxiety makes us tremble,\nwhen pain clouds the mind,\nwe look inward for the answer to our prayers.\nThere may we find You,\nand there find courage, insight and endurance.\nAnd let our worship bring us closer to one another,\nthat all Israel, and all who seek You,\nmay find new strength for Your service.\nבָּרוּךְ אַתָּה, יְיָ, שֶׁאוֹתְךָ לְבַדְּךָ בְּיִרְאָה נַעֲבֹד.\nBaruch atah, Adonai, she-ot'cha l'vad'cha b'yirah naavod.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:47:16.037Z",
+      "creator": {
+        "isGuest": true,
+        "id": "iFQ8GbA5msxqij2hwYNC"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff41048ec-a261-44b0-8934-b901c5b2844d.jp2/831,2907,2854,2186/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/175"
+}

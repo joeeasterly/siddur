@@ -1,0 +1,71 @@
+{
+  "_id": "99251a86-0084-4aa4-8345-2c64f93b2bba",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 52,
+  "global_page": 178,
+  "file_path": "/app/data/docs/mishkan/99251a86-0084-4aa4-8345-2c64f93b2bba.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "167",
+  "annotations": [
+    {
+      "id": "abd4cef8-f3b3-4cdf-85ef-3e00417e2bfb",
+      "target": {
+        "source": "mishkan:page:99251a86-0084-4aa4-8345-2c64f93b2bba",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1359.2167062126257,526.9409937888198,2679.4585089865295,3981.341614906832"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "SOME PERISHED by fire, some by water.\nSome crossed the sea, or watered the desert.\nSome starved all week to make a Shabbat feast.\nSome were left childless until old age.\nSome lifted their chins beneath a father's knife.\nThose who came before us gave everything\nso that we, generations later, could glorify You.\nAnd despite the dangers, with Your protection,\nsome did survive, and even flourished,\nsome reaped in joy, were spared the knife,\nwere granted children.\nWe are their inheritors, O God,\nand we know how rare is our good fortune\nto be born to such hard-won treasures.\nA great responsibility is ours,\nand Yours as well,\nfor if You do not sustain us,\nas you did Abraham and Sarah,\nRebecca and Isaac, Jacob, Rachel and Leah,\nthen who will sing Your praises?\nWho will lift their chins, as we do now,\nto sanctify Your name?\nבָּרוּךְ אַתָּה, יְיָ, פּוֹקֵד שָׂרָה וּמָגֵן אַבְרָהָם.\nBaruch atah, Adonai, pokeid Sarah u'magein Avraham.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T20:00:00.904Z",
+      "creator": {
+        "isGuest": true,
+        "id": "MU0BV_n19MnFdwbQA0dd"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F99251a86-0084-4aa4-8345-2c64f93b2bba.jp2/1359,526,2679,3981/max/0/default.jpg"
+    },
+    {
+      "id": "9edf42fb-e985-4896-af6e-182c4c79c3a3",
+      "target": {
+        "source": "mishkan:page:99251a86-0084-4aa4-8345-2c64f93b2bba",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:896.3229813664594,5018.978260869565,3736.4161490683227,1255.8944099378878"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "... The word of Adonai came to Abram in a vision, saying: 'Fear not, Abram, I am a shield to\nyou and your reward shall be very great . . . Look to the heaven and count the stars. . . So shall\nyour offspring be.' And because he put his trust in God, God reckoned it to his merit.\"\nGenesis 15:1, 5, 6\nIn difficult moments of our lives we turn to God to help and sustain us. The classic chatimah\n(conclusion) to the Avot/Imahot prayer evokes God as \"Abraham's shield.\" In this egalitarian\nversion we evoke Genesis 21:1 where God takes note of Sarah (TP pokeid) as she struggles with\ninfertility. The chatimah, as with the rest of the prayer, indicates that each of us experiences God\ndifferently.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T20:00:09.408Z",
+      "creator": {
+        "isGuest": true,
+        "id": "MU0BV_n19MnFdwbQA0dd"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F99251a86-0084-4aa4-8345-2c64f93b2bba.jp2/896,5018,3736,1255/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/167"
+}

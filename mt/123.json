@@ -1,0 +1,99 @@
+{
+  "_id": "6a70eda4-9d9d-4a80-88c3-dcc400478284",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 8,
+  "global_page": 134,
+  "file_path": "/app/data/docs/mishkan/6a70eda4-9d9d-4a80-88c3-dcc400478284.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "123",
+  "annotations": [
+    {
+      "id": "a6fc853a-b438-4300-89ea-86e6fe30d4d1",
+      "target": {
+        "source": "mishkan:page:6a70eda4-9d9d-4a80-88c3-dcc400478284",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2636.890914709518,507.5837453646473,1832.1013597033375,2723.611557478368"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בָּרוּךְ אַתָּה, יְיָ\nאֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,\nבּוֹרֵא פְּרִי הַגָּפֶן.\nבָּרוּךְ אַתָּה, יְיָ\nאֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,\nאֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְרָצָה בָנוּ,\nוְשַׁבַּת קָדְשׁוֹ\nבְּאַהֲבָה וּבְרָצוֹן הִנְחִילָנוּ,\nזִכָּרוֹן לְמַעֲשֵׂה בְרֵאשִׁית.\nכִּי הוּא יוֹם תְּחִלָּה לְמִקְרָאֵי קְדֶשׁ,\nזכר לִיצִיאַת מִצְרָיִם.\nכִּי בָנוּ בָחַרְתָּ, וְאוֹתָנוּ קִדַּשְׁתָּ\nמִכָּל הָעַמִּים.\nוְשַׁבַּת קָדְשְׁךָ\nבְּאַהֲבָה וּבְרָצוֹן הִנְחַלְתָּנוּ.\nבָּרוּךְ אַתָּה, יְיָ, מְקַדְּשׁ הַשַׁבָּת.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-13T00:55:09.947Z",
+      "creator": {
+        "isGuest": true,
+        "id": "1mc7W_Th51yHkpFh3LGF"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6a70eda4-9d9d-4a80-88c3-dcc400478284.jp2/2636,507,1832,2723/max/0/default.jpg"
+    },
+    {
+      "id": "8aa69cd3-b7df-4ffc-89b8-494cb269313f",
+      "target": {
+        "source": "mishkan:page:6a70eda4-9d9d-4a80-88c3-dcc400478284",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1005.0513801625217,498.3532138442515,1612.5190771922375,2786.245505751519"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "BARUCH atah, Adonai\nEloheinu, Melech haolam,\nborei p'ri hagafen.\nBaruch atah, Adonai\nEloheinu, Melech haolam,\nasher kid'shanu b'mitzvotav v'ratzah vanu,\nv'Shabbat kodsho\nb'ahavah uv'ratzon hinchilanu,\nzikaron l'maaseih v'reishit.\nKi hu yom t'chilah I'mikra-ei kodesh,\nzecher litziat Mitzrayim.\nKi vanu vacharta, v'otanu kidashta,\nmikol haamim.\nV'Shabbat kodsh'cha\nb'ahavah uv'ratzon hinchaltanu.\nBaruch atah, Adonai, m'kadeish HaShabbat.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:56:39.106Z",
+      "creator": {
+        "isGuest": true,
+        "id": "1mc7W_Th51yHkpFh3LGF"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6a70eda4-9d9d-4a80-88c3-dcc400478284.jp2/1005,498,1612,2786/max/0/default.jpg"
+    },
+    {
+      "id": "753510ff-c86a-48c4-8d34-4fe35ae4b7e9",
+      "target": {
+        "source": "mishkan:page:6a70eda4-9d9d-4a80-88c3-dcc400478284",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1010.5349196538937,3308.0961004764595,3294.3766996291715,1867.558411266432"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "PRAISE TO YOU, Adonai our God, Sovereign of the universe,\nCreator of the fruit of the vine.\nPraise to You, Adonai our God, Sovereign of the universe\nwho finding favor with us, sanctified us with mitzvot.\nIn love and favor, You made the holy Shabbat our heritage\nas a reminder of the work of Creation.\nAs first among our sacred days, it recalls the Exodus from Egypt.\nYou chose us and set us apart from the peoples.\nIn love and favor You have given us Your holy Shabbat as an inheritance.\nPraise to You, Adonai, who sanctifies Shabbat.\nבָּרוּךְ אַתָּה, יְיָ, מְקַדֶשׁ הַשַׁבָּת.\nBaruch atah, Adonai, m'kadeish HaShabbat.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:56:50.230Z",
+      "creator": {
+        "isGuest": true,
+        "id": "1mc7W_Th51yHkpFh3LGF"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6a70eda4-9d9d-4a80-88c3-dcc400478284.jp2/1010,3308,3294,1867/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/123"
+}

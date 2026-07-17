@@ -1,0 +1,238 @@
+{
+  "_id": "8c66befe-d02e-4efa-b14b-057325ded09e",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 59,
+  "global_page": 185,
+  "file_path": "/app/data/docs/mishkan/8c66befe-d02e-4efa-b14b-057325ded09e.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "174",
+  "annotations": [
+    {
+      "id": "5ce624ba-c316-41ff-b757-c8c7e076bf17",
+      "target": {
+        "source": "mishkan:page:8c66befe-d02e-4efa-b14b-057325ded09e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2240.5908733280885,394.64988198269094,1869.3941778127455,1220.2989771833204"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "רְצָה, יְיָ אֱלֹהֵינוּ, בְּעַמְךְ יִשְׂרָאֵל,\nוּתְפִלָּתָם בְּאַהֲבָה תְקַבֵּל,\nוּתְהִי לְרָצוֹן תָּמִיד\nעֲבוֹדַת יִשְׂרָאֵל עַמֶּךָ.\nאֵל קָרוֹב לְכָל קִרְאָיו,\nפְּנֵה אֶל עֲבָדֶיךָ וְחָנֵּנוּ,\nשְׁפוֹךְ רוּחֲךָ עָלֵינוּ.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-17T16:45:15.115Z",
+      "creator": {
+        "isGuest": true,
+        "id": "smiixhXHohCK6SH66esj"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/2240,394,1869,1220/max/0/default.jpg"
+    },
+    {
+      "id": "55045039-5a45-4654-af37-097ac9e13e6b",
+      "target": {
+        "source": "mishkan:page:8c66befe-d02e-4efa-b14b-057325ded09e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:423.124311565696,347.91502753737245,1723.9968528717548,1246.2627852084972"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "R'TZEI, Adonai Eloheinu, b’amcha Yisrael,\nut'filatam b'ahavah t'kabeil,\nut'hi l'ratzon tamid\navodat Yisrael amecha.\nEl karov l'chol korav,\np'nei el avadecha v'choneinu,\nsh'foch ruchacha aleinu.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:45:31.615Z",
+      "creator": {
+        "isGuest": true,
+        "id": "smiixhXHohCK6SH66esj"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/423,347,1723,1246/max/0/default.jpg"
+    },
+    {
+      "id": "57b4c4bc-f965-4814-bcff-219702bfb833",
+      "target": {
+        "source": "mishkan:page:8c66befe-d02e-4efa-b14b-057325ded09e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:371.1966955153422,1609.7560975609756,2861.211644374508,763.3359559402049"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "FIND FAVOR, Adonai, our God, with Your people Israel\nand accept their prayer in love.\nMay the worship of Your people Israel always be acceptable.\nGod who is near to all who call, turn lovingly to Your servants.\nPour out Your spirit upon us.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:45:37.705Z",
+      "creator": {
+        "isGuest": true,
+        "id": "smiixhXHohCK6SH66esj"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/371,1609,2861,763/max/0/default.jpg"
+    },
+    {
+      "id": "e4856542-6605-4637-8120-7d0ca80ad820",
+      "target": {
+        "source": "mishkan:page:8c66befe-d02e-4efa-b14b-057325ded09e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2360.024390243903,2596.3808025177027,1661.683713611329,1599.370574350905"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ,\nיַעֲלֶה וְיָבֹא וְיִזְכֵר זִכְרוֹנֵנוּ\nוְזִכְרוֹן כָּל עַמָּךְ בֵּית יִשְׂרָאֵל לְפָנֶיךָ,\nלְטוֹבָה, לְחֵן וּלְחֶסֶד וּלְרַחֲמִים,\nלְחַיִּים וּלְשָׁלוֹם, בְּיוֹם\nראשׁ הַחֹדֶשׁ הַזֶּה.\nחַג הַמַּצוֹת הַזֶּה.\nחַג הַסֵּכּוֹת הַזֶּה.\nזָכְרֵנוּ, יְיָ אֱלֹהֵינוּ, בּוֹ לְטוֹבָה. אָמֵן.\nוּפָקְדֵנוּ בוֹ לִבְרָכָה. אָמֵן.\nוְהוֹשִׁיעֵנוּ בוֹ לְחַיִּים. אָמֵן.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-17T16:45:46.950Z",
+      "creator": {
+        "isGuest": true,
+        "id": "smiixhXHohCK6SH66esj"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/2360,2596,1661,1599/max/0/default.jpg"
+    },
+    {
+      "id": "e2780654-aa8a-4488-828b-606ba5158fba",
+      "target": {
+        "source": "mishkan:page:8c66befe-d02e-4efa-b14b-057325ded09e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3076.6254917387887,2450.9834775767113 3050.6616837136116,2632.7301337529507 2302.904012588513,2632.7301337529507 2261.36191974823,4159.40204563336 464.6664044059793,4185.365853658537 578.9071597167585,2435.405192761605\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "ROSH CHODESH, PESACH, AND SUKKOT\nEloheinu v'Elohei avoteinu v'imoteinu,\nyaaleh v'yavo, v'yizacheir zichroneinu\nv'zichron kol amcha beit Yisrael l'fanecha,\nl'tovah, l'chein ul'chesed ul'rachamim,\nl'chayim ul'shalom, b'Yom\nRosh HaChodesh hazeh.\nChag HaMatzot hazeh.\nChag HaSukkot hazeh.\nZochreinu, Adonai Eloheinu, bo l'tovah. Amen.\nUfokdeinu vo liv'rachah. Amen.\nV'hoshi-einu vo l'chayim. Amen.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:46:04.654Z",
+      "creator": {
+        "isGuest": true,
+        "id": "smiixhXHohCK6SH66esj"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/464,2435,2612,1750/max/0/default.jpg"
+    },
+    {
+      "id": "e54ea8b4-f080-438b-9c73-27e247aafab8",
+      "target": {
+        "source": "mishkan:page:8c66befe-d02e-4efa-b14b-057325ded09e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:921.6294256490951,4226.90794649882,2710.6215578284814,784.1070023603461"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Our God and God of our fathers and mothers, on this\n(first day of the new month) - (day of Pesach)-(day of Sukkot)\nbe mindful of us and all Your people Israel,\nfor good, for love, for compassion, life and\nRemember us for wellbeing. Amen.\npeace.\nVisit us with blessing. Amen. Help us to a fuller life. Amen.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:46:16.605Z",
+      "creator": {
+        "isGuest": true,
+        "id": "smiixhXHohCK6SH66esj"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/921,4226,2710,784/max/0/default.jpg"
+    },
+    {
+      "id": "8d77cc1c-b837-474f-8617-b25cc4d9842c",
+      "target": {
+        "source": "mishkan:page:8c66befe-d02e-4efa-b14b-057325ded09e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2832.565696302124,5192.761605035405,1292.9976396538168,1111.2509834775774"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "וְתֶחֱזֶינָה עֵינֵינוּ בְּשׁוּבְךְ\nלְצִיּוֹן בְּרַחֲמִים.\nבָּרוּךְ אַתָּה, יְיָ,\nהַמַּחֲזִיר שְׁכִינָתוֹ לְצִיּוֹן.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-17T16:46:26.302Z",
+      "creator": {
+        "isGuest": true,
+        "id": "smiixhXHohCK6SH66esj"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/2832,5192,1292,1111/max/0/default.jpg"
+    },
+    {
+      "id": "589e8e36-9b71-4934-8ef7-449ee25685d5",
+      "target": {
+        "source": "mishkan:page:8c66befe-d02e-4efa-b14b-057325ded09e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:324.4618410700237,5171.9905586152645,2497.7183320220297,1085.2871754523994"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "V'techezenah eineinu b'shuv'cha\nl'Tzion b'rachamim.\nLET OUR EYES BEHOLD Your loving return to Zion.\nBlessed are You, Adonai, whose Presence returns to Zion.\nBaruch atah, Adonai,\nhamachazir Shechinato l'Tzion.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:46:37.733Z",
+      "creator": {
+        "isGuest": true,
+        "id": "smiixhXHohCK6SH66esj"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/324,5171,2497,1085/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/174"
+}

@@ -1,0 +1,98 @@
+{
+  "_id": "83109835-d147-4d4a-8c0b-fb53e8cf3580",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 16,
+  "global_page": 142,
+  "file_path": "/app/data/docs/mishkan/83109835-d147-4d4a-8c0b-fb53e8cf3580.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "131",
+  "annotations": [
+    {
+      "id": "140c4150-cac5-4b78-bf8a-b28214e37201",
+      "target": {
+        "source": "mishkan:page:83109835-d147-4d4a-8c0b-fb53e8cf3580",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1366,521.0526315789473,2454.7368421052633,1354.7368421052636"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "In God's hand are the depths of the earth;\nthe peaks of the mountains are God's.\nGod's is the sea, God made it;\nand the land, which God's hands fashioned.\nCome, let us bow down and kneel,\nbend the knee before Adonai our maker,\nfor Adonai is our God,\nand we are the people God tends, the flock in God's care.\nO, if you would but heed God's charge this day.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:44:18.445Z",
+      "creator": {
+        "isGuest": true,
+        "id": "INNHjLKgF4zZPF4FKXsH"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F83109835-d147-4d4a-8c0b-fb53e8cf3580.jp2/1366,521,2454,1354/max/0/default.jpg"
+    },
+    {
+      "id": "5554f124-ce7e-44f2-bc1c-40ead6fbfe2d",
+      "target": {
+        "source": "mishkan:page:83109835-d147-4d4a-8c0b-fb53e8cf3580",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2599.1578947368425,2142.105263157895,1858.4210526315792,3103.1578947368425"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "שירוּ לַייָ שִׁיר חָדָשׁ,\nשִׁירוּ לַייָ כָּל־הָאָרֶץ.\nשִׁירוּ לַייָ, בָּרְכוּ שְׁמוֹ,\nבַּשְׂרוּ מִיּוֹם לְיוֹם יְשׁוּעָתוֹ.\nסַפְּרוּ בַגּוֹיִם כְּבוֹדוֹ,\nבְּכָל־הָעַמִּים נִפְלְאוֹתָיו.\nכִּי גָדוֹל יְיָ וּמְהֵלָל מְאֹד,\nנוֹרָא הוּא עַל־כָּל־אֱלֹהִים.\nכִּי כָּל־אֱלֹהֵי הָעַמִּים אֱלִילִים\nוַיְיָ שָׁמַיִם עָשָׂה.\nהוֹד וְהָדָר לְפָנָיו,\nעז וְתִפְאֶרֶת בְּמִקְדָּשׁוֹ.\nיִשְׂמְחוּ הַשָּׁמַיִם וְתָגֵל הָאָרֶץ\nיִרְעַם הַיָּם וּמְלֹאוֹ.\nיַעֲלוּ שָׂדַי וְכָל־אֲשֶׁר־בּוֹ,\nאָז יְרַנְּנוּ כָּל־עֲנֵי־יָעַר.\nזן\nלִפְנֵי יְיָ כִּי בָא, כִּי בָא לִשְׁפּט הָאָרֶץ,\nיִשְׁפּט תֵּבֵל בְּצֶדֶק וְעַמִּים בֶּאֱמוּנָתוֹ",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:44:31.360Z",
+      "creator": {
+        "isGuest": true,
+        "id": "INNHjLKgF4zZPF4FKXsH"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F83109835-d147-4d4a-8c0b-fb53e8cf3580.jp2/2599,2142,1858,3103/max/0/default.jpg"
+    },
+    {
+      "id": "86f2c3a1-30ed-4775-8c5c-dd6bfae2b7c6",
+      "target": {
+        "source": "mishkan:page:83109835-d147-4d4a-8c0b-fb53e8cf3580",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2558.631578947369,5268.42105263158 1041.7894736842104,5227.894736842107 1070.736842105263,1974.2105263157896 3154.947368421053,2032.105263157895 3126.0000000000005,2194.2105263157896 2402.315789473684,2159.4736842105267 2558.631578947369,5112.105263157895\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "PSALM 96:1-6, 11-13\nSHIRU l'Adonai shir chadash,\nshiru l'Adonai kol haaretz.\nShiru l'Adonai bar'chu sh'mo,\nbasru miyom l'yom y'shuato.\nSapru vagoyim k'vodo,\nb'chol haamim niflotav.\nKi gadol Adonai um'hulal m'od,\nnora hu al kol elohim.\nKi kol elohei haamim elilim\nv'Adonai shamayim asah.\nHod v'hadar l'fanav,\noz v'tiferet b'mikdasho.\nYism'chu hashamayim v'tageil haaretz\nyiram hayam um❜lo-o.\nYaaloz saddai v'chol asher bo\naz y'ran'nu kol atzei yaar.\nLifnei Adonai ki va, ki va lishpot haaretz\nyishpot teiveil b'tzedek v'amim be-emunato.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:44:55.192Z",
+      "creator": {
+        "isGuest": true,
+        "id": "INNHjLKgF4zZPF4FKXsH"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F83109835-d147-4d4a-8c0b-fb53e8cf3580.jp2/1041,1974,2113,3294/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/131"
+}

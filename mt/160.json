@@ -1,0 +1,127 @@
+{
+  "_id": "e59f67dd-99a3-401a-a69a-4ab8b41cd9b6",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 45,
+  "global_page": 171,
+  "file_path": "/app/data/docs/mishkan/e59f67dd-99a3-401a-a69a-4ab8b41cd9b6.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "160",
+  "annotations": [
+    {
+      "id": "84bed51f-1835-4024-882e-f9809b3afd1e",
+      "target": {
+        "source": "mishkan:page:e59f67dd-99a3-401a-a69a-4ab8b41cd9b6",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2171.296066252588,376.38198757763934,1879.0062111801244,2969.8737060041412"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "השְׁכִּיבֵנוּ, יְיָ אֱלֹהֵינוּ,\nלְשָׁלוֹם, וְהַעֲמִידֵנוּ שׁוֹמְרֵנוּ לְחַיִים,\nוּפְרֹשׂ עָלֵינוּ סֶכַּת שְׁלוֹמֶךְ,\nוְתַקְנֵנוּ בְּעֵצָה טוֹבָה מִלְפָנֶיךָ,\nוְהוֹשִׁיעֵנוּ לְמַעַן שְׁמֶךְ.\nוְהָגֵן בַּעֲדֵנוּ,\nוְהָסֵר מֵעָלֵינוּ אוֹיֵב, דֶּבֶר,\nוְחֶרֶב, וְרָעָב, וְיָגוֹן,\nוְהָרְחֵק מִמֶּנּוּ עָוֹן וָפֶשַׁע.\nוּבְצֵל כְּנָפֶיךָ תַּסְתִּירֵנוּ,\nכִּי אֵל שׁוֹמְרֵנוּ וּמַצִילֵנוּ אָתָּה,\nכִּי אֵל חַנּוּן וְרַחוּם אָתָּה.\nוּשְׁמֹר צֵאתֵנוּ וּבוֹאֵנוּ\nלְחַיִּים וּלְשָׁלוֹם\nמֵעַתָּה וְעַד עוֹלָם.\nבָּרוּךְ אַתָּה, יְיָ,\nהַפּוֹרֵשׂ סֶכַּת שָׁלוֹם עָלֵינוּ\nוְעַל כָּל עַמּוֹ יִשְׂרָאֵל וְעַל יְרוּשָׁלָיִם.\nז",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T19:57:15.815Z",
+      "creator": {
+        "isGuest": true,
+        "id": "qBDcbf_wOiQhzHej9QXp"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe59f67dd-99a3-401a-a69a-4ab8b41cd9b6.jp2/2171,376,1879,2969/max/0/default.jpg"
+    },
+    {
+      "id": "7a0e756e-b038-4d23-88a7-0b7c04480cdf",
+      "target": {
+        "source": "mishkan:page:e59f67dd-99a3-401a-a69a-4ab8b41cd9b6",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:448.87370600414073,345.06521739130443,1602.3747412008279,2975.093167701863"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "HASHKIVEINU, Adonai Eloheinu,\nl'shalom, v'haamideinu shomreinu l'chayim,\nufros aleinu sukat sh'lomecha,\nv'takneinu b'eitzah tovah milfanecha,\nv'hoshi-einu l'maan sh'mecha.\nV'hagein baadeinu,\nv'haseir mei-aleinu oyeiv, dever,\nv'cherev, v'raav, v'yagon,\nv'harcheik mimenu avon vafesha.\nUv'tzeil k'nafecha tastireinu,\nki El shomreinu umatzileinu atah,\nki El chanun v'rachum atah.\nUshmor tzeiteinu uvo-einu\nl'chayim ul'shalom,\nmei-atah v'ad olam.\nBaruch atah, Adonai,\nhaporeis sukat shalom aleinu\nval kol amo Yisrael v'al Yerushalayim.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:57:24.297Z",
+      "creator": {
+        "isGuest": true,
+        "id": "qBDcbf_wOiQhzHej9QXp"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe59f67dd-99a3-401a-a69a-4ab8b41cd9b6.jp2/448,345,1602,2975/max/0/default.jpg"
+    },
+    {
+      "id": "db5ebe9d-9832-4c20-acc8-553d7b770107",
+      "target": {
+        "source": "mishkan:page:e59f67dd-99a3-401a-a69a-4ab8b41cd9b6",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:396.6790890269151,3508.05900621118,3637.9648033126296,2338.3188405797114"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "GRANT, O GOD, that we lie down in\npeace,\nand raise us up, our Guardian, to life renewed.\nSpread over us the shelter of Your peace.\nGuide us with Your good counsel; for Your Name's sake, be our help.\nShield and shelter us beneath the shadow of Your wings.\nDefend us against enemies, illness, war, famine and sorrow.\nDistance us from wrongdoing.\nFor You, God, watch over us and deliver us. For You, God, are gracious and merciful.\nGuard our going and coming, to life and to peace, evermore.\nBlessed are You, Adonai, Guardian of Israel, whose shelter of peace is spread over us,\nover all Your people Israel, and over Jerusalem.\nבָּרוּךְ אַתָּה, יְיָ, הַפּוֹרֵשׂ סֶכַּת שָׁלוֹם עָלֵינוּ\nוְעַל כָּל עַמּוֹ יִשְׂרָאֵל וְעַל יְרוּשָׁלָיִם.\nBaruch atah, Adonai, haporeis sukat shalom aleinu\nv'al kol amo Yisrael v'al Yerushalayim.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:57:30.019Z",
+      "creator": {
+        "isGuest": true,
+        "id": "qBDcbf_wOiQhzHej9QXp"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe59f67dd-99a3-401a-a69a-4ab8b41cd9b6.jp2/396,3508,3637,2338/max/0/default.jpg"
+    },
+    {
+      "id": "c8c6be16-fba0-4f58-b4aa-ee9ab8b94adc",
+      "target": {
+        "source": "mishkan:page:e59f67dd-99a3-401a-a69a-4ab8b41cd9b6",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:375.801242236025,5967.996679773193,3716.2567287784677,447.2995327464705"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Grant, O God, that we lie down in peace... Following a reading from Seder Rav Amram, our first\nknown comprehensive prayerbook, circa 860 C.E.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:57:38.561Z",
+      "creator": {
+        "isGuest": true,
+        "id": "qBDcbf_wOiQhzHej9QXp"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe59f67dd-99a3-401a-a69a-4ab8b41cd9b6.jp2/375,5967,3716,447/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/160"
+}

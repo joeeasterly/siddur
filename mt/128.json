@@ -1,0 +1,235 @@
+{
+  "_id": "1dc5045a-17a7-4fd9-a4a1-edf1934927c7",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 13,
+  "global_page": 139,
+  "file_path": "/app/data/docs/mishkan/1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "annotations": [
+    {
+      "id": "1a7d21a3-0c05-4446-b2ee-a980e6775d40",
+      "target": {
+        "source": "mishkan:page:1dc5045a-17a7-4fd9-a4a1-edf1934927c7",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2771.323508961681,759.7023717552534,1348.9425602595802,363.96496446229935"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "הִנֵּה מַה־טוֹב וּמַה־נָעִים\nשבת אַחִים גַּם־יָחַד.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-13T01:01:00.650Z",
+      "creator": {
+        "isGuest": true,
+        "id": "CvmWzyJbuBDPBE2p2ucW"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/2771,759,1348,363/max/0/default.jpg"
+    },
+    {
+      "id": "a5d5b97e-2137-4bcf-b9f4-5565f9c15744",
+      "target": {
+        "source": "mishkan:page:1dc5045a-17a7-4fd9-a4a1-edf1934927c7",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"441.6418031520397,695.5201251545117 416.94406674907316,1379.3446770704575 4151.9429079110005,1444.5148331273178 4118.800139060568,1168.2188658838074 2722.501661001236,1156.9057092089001 2716.414864029666,726.1453182941908 2821.2288705191595,701.351977750309 2794.077294499382,527.0974969097653 723.8333590852907,553.7073161310259\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "HINEIH MAH TOV\nHineih mah tov u'mah na-im\nshevet achim gam yachad.\nHow good and how pleasant it is that brothers and sisters dwell together.\n(Psalm 133:1)",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T01:06:15.968Z",
+      "creator": {
+        "isGuest": true,
+        "id": "myNRjUQafxZbmDjEvt6G"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/416,527,3735,917/max/0/default.jpg"
+    },
+    {
+      "id": "ce2f0152-631e-4cc7-9165-6dbc13047a1d",
+      "target": {
+        "source": "mishkan:page:1dc5045a-17a7-4fd9-a4a1-edf1934927c7",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2570.586681087763,1890.0301297898638,1537.569530284301,229.60927843016066"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "מַה יָפֶה הַיּוֹם, שַׁבָּת שָׁלוֹם.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-13T01:06:55.551Z",
+      "creator": {
+        "isGuest": true,
+        "id": "k3I3iyh6bxRw64XCTz2r"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/2570,1890,1537,229/max/0/default.jpg"
+    },
+    {
+      "id": "dd5e6191-fea8-49c2-8ddb-dbd2a426beae",
+      "target": {
+        "source": "mishkan:page:1dc5045a-17a7-4fd9-a4a1-edf1934927c7",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2547.0526315789475,1846.8421052631581 2906.0000000000005,1835.263157894737 2819.157894736842,1673.1578947368423 1643.8947368421052,1713.684210526316 1649.6842105263158,1823.684210526316 480.21052631578937,1951.0526315789477 480.21052631578937,2101.5789473684213 1539.6842105263158,2286.8421052631584 3120.2105263157896,2275.263157894737 3027.578947368421,2165.263157894737 2483.3684210526317,2153.684210526316\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "MAH YAFEH HAYOM\nMah yafeh hayom, Shabbat shalom.\nHow lovely today is, Shabbat Shalom.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:38:57.599Z",
+      "creator": {
+        "isGuest": true,
+        "id": "_wyLx1uUwa8DMMXAtTli"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/480,1673,2640,613/max/0/default.jpg"
+    },
+    {
+      "id": "5ca00082-f6d3-46aa-aded-9b89dfc01c3a",
+      "target": {
+        "source": "mishkan:page:1dc5045a-17a7-4fd9-a4a1-edf1934927c7",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2790.2105263157896,2726.8421052631584,1308.4210526315787,694.7368421052629"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "יְדִיד נֶפֶשׁ, אָב הָרַחֲמָן,\nמְשׁוֹךְ עַבְדְּךָ אֶל רְצוֹנֶךָ.\nיָרוּץ עַבְדְּךָ כְּמוֹ אַיָּל,\nיִשְׁתַּחֲוֶה אֶל מוּל הֲדָרֶךְ.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:39:21.227Z",
+      "creator": {
+        "isGuest": true,
+        "id": "_wyLx1uUwa8DMMXAtTli"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/2790,2726,1308,694/max/0/default.jpg"
+    },
+    {
+      "id": "69445373-c298-49f2-8e4b-eaf7a4cf352e",
+      "target": {
+        "source": "mishkan:page:1dc5045a-17a7-4fd9-a4a1-edf1934927c7",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2691.789473684211,2715.263157894737 2703.368421052632,2512.631578947369 428.1052631578946,2558.947368421053 428.1052631578946,3780.526315789474 3739.684210526316,3792.1052631578955 3733.894736842106,3502.631578947369 2714.9473684210525,3479.473684210527\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Y'DID NEFESH\nY'did nefesh, av harachaman,\nm'shoch avd'cha el r'tzonecha.\nYarutz avd'cha k'mo ayal,\nyishtachaveh el mul hadarecha.\n\nHeart's delight, Source of mercy, draw Your servant into Your arms:\nI leap like a deer to stand in awe before You.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:39:41.147Z",
+      "creator": {
+        "isGuest": true,
+        "id": "_wyLx1uUwa8DMMXAtTli"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/428,2512,3311,1280/max/0/default.jpg"
+    },
+    {
+      "id": "ee43ac88-a637-4c7c-98c8-8d9371ba14e6",
+      "target": {
+        "source": "mishkan:page:1dc5045a-17a7-4fd9-a4a1-edf1934927c7",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2159.157894736842,4226.315789473685,1945.263157894737,1007.3684210526317"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "הַחַמָּה מֵרֹאשׁ הָאִילָנוֹת נִסְתַּלְקָה,\nבְּאוּ וְנֵצֵא לִקְרַאת שַׁבָּת הַמַּלְכָּה.\nהִנֵּה הִיא יוֹרֶדֶת, הַקְדוֹשָׁה הַבְּרוּכָה.\nוְעִמָּהּ מַלְאָכִים, צְבָא שָׁלוֹם וּמְנוּחָה.\nבְּאִי בְּאִי הַמַּלְכָּה, בְּאִי בְּאִי הַכַּלָּה.\nשָׁלוֹם עֲלֵיכֶם, מַלְאֲכֵי הַשָּׁלוֹם.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:40:15.332Z",
+      "creator": {
+        "isGuest": true,
+        "id": "_wyLx1uUwa8DMMXAtTli"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/2159,4226,1945,1007/max/0/default.jpg"
+    },
+    {
+      "id": "6be4785e-380f-4bec-b551-97906e281835",
+      "target": {
+        "source": "mishkan:page:1dc5045a-17a7-4fd9-a4a1-edf1934927c7",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2882.8421052631584,4133.684210526316 2900.2105263157896,3983.157894736843 439.6842105263156,4110.526315789474 474.42105263157873,6391.578947368423 3351.7894736842104,6293.157894736843 3311.2631578947367,5285.78947368421 2043.3684210526314,5285.78947368421 2066.526315789474,4162.631578947369\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "SHABBAT HAMALKAH\n\nHachamah meirosh ha-ilanot nistalkah,\nbo-u v'neitzei likrat Shabbat hamalkah.\nHinei hi yoredet, hak'doshah hab'ruchah.\nV'imah malachim, tz'va shalom um'nuchah.\nBo-i bo-i hamalkah, bo-i bo-i hakalah.\nShalom aleichem, malachei hashalom.\n\nThe sun on the treetops no longer is seen;\ncome, gather to welcome the Sabbath, our queen.\nBehold her descending, the holy, the blessed,\nand with her the angels of peace and of rest.\nDraw near, draw near, and here abide,\ndraw near, draw near, O Sabbath bride.\nPeace also to you, you angels of peace.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:40:48.136Z",
+      "creator": {
+        "isGuest": true,
+        "id": "_wyLx1uUwa8DMMXAtTli"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/439,3983,2912,2408/max/0/default.jpg"
+    }
+  ],
+  "page_label": "128",
+  "page_url": "https://momoiro.hallyu.io/mishkan/128"
+}

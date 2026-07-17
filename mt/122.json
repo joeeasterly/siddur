@@ -1,0 +1,211 @@
+{
+  "_id": "db1168f5-cd1c-4884-a764-f69dc5d49486",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 7,
+  "global_page": 133,
+  "file_path": "/app/data/docs/mishkan/db1168f5-cd1c-4884-a764-f69dc5d49486.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "122",
+  "annotations": [
+    {
+      "id": "910f6afe-bd73-4789-abde-596ed501d1e5",
+      "target": {
+        "source": "mishkan:page:db1168f5-cd1c-4884-a764-f69dc5d49486",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2679.3831891223736,1272.368088008242,1339.572929542645,430.709003872126"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "וַיְהִי עֶרֶב וַיְהִי בְקֶר\nיוֹם הַשְּׁשִׁי.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-13T00:52:45.984Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vgDqeJmc3wH2qrfREOYM"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/2679,1272,1339,430/max/0/default.jpg"
+    },
+    {
+      "id": "77f9ff70-b1b3-4619-9bd5-a84597511008",
+      "target": {
+        "source": "mishkan:page:db1168f5-cd1c-4884-a764-f69dc5d49486",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:546.4619901112484,1277.5055624227439,1270.3121137206426,407.92583436341147"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "VAY'HI EREV vay'hi voker\nyom hashishi.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:52:58.736Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vgDqeJmc3wH2qrfREOYM"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/546,1277,1270,407/max/0/default.jpg"
+    },
+    {
+      "id": "245c07df-d329-4dc1-97b6-58e474c54db5",
+      "target": {
+        "source": "mishkan:page:db1168f5-cd1c-4884-a764-f69dc5d49486",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1033.7385661310257,1758.6390605686029,2587.158838071693,343.0256489493204"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "AND THERE WAS EVENING and there was morning,\nthe sixth day.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:53:10.938Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vgDqeJmc3wH2qrfREOYM"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/1033,1758,2587,343/max/0/default.jpg"
+    },
+    {
+      "id": "a0e81743-b310-4b1b-993c-a9bc8e7b4387",
+      "target": {
+        "source": "mishkan:page:db1168f5-cd1c-4884-a764-f69dc5d49486",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2067.5899258343634,2331.695920889987,1933.70086526576,1522.9103831891225"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "וַיְכַלּוּ הַשָּׁמַיִם וְהָאָרֶץ\nוְכָל־צְבָאָם.\nוַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי\nמְלַאכְתּוֹ אֲשֶׁר עָשָׂה.\nוַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי\nמִכָּל־מְלַאכְתּוֹ אֲשֶׁר עָשָׂה.\nוַיְבָרֶךְ אֱלֹהִים אֶת־יוֹם הַשְּׁבִיעִי\nוַיְקַדַּשׁ אֹתוֹ, כִּי בוֹ שָׁבַת מִכָּל־\nמְלַאכְתּוֹ אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשׂוֹת.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-13T00:53:18.057Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vgDqeJmc3wH2qrfREOYM"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/2067,2331,1933,1522/max/0/default.jpg"
+    },
+    {
+      "id": "b5c450e7-2380-4834-b4af-a7832466815a",
+      "target": {
+        "source": "mishkan:page:db1168f5-cd1c-4884-a764-f69dc5d49486",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:547.0667490729295,2340.6399876390606,1485.2561804697157,1522.8467243510509"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "VAY'CHULU hashamayim v'haaretz\nv'chol tz'vaam.\nVay'chal Elohim bayom hashvi-i\nm'lachto asher asah.\nVayishbot bayom hashvi-i\nmikol m'lachto asher asah.\nVay'varech Elohim et yom hashvi-i\nvay'kadeish oto ki vo shavat mikol\nm'lachto asher bara Elohim laasot.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:54:04.924Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vgDqeJmc3wH2qrfREOYM"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/547,2340,1485,1522/max/0/default.jpg"
+    },
+    {
+      "id": "007fa84c-1391-403f-9412-9fb328022a4a",
+      "target": {
+        "source": "mishkan:page:db1168f5-cd1c-4884-a764-f69dc5d49486",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:565.7506180469715,3953.1095218678192,3192.6180469715696,773.3045696031331"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "THE HEAVEN AND THE EARTH were finished, and all their array.\nOn the seventh day God finished the work that God had been doing,\nand God ceased on the seventh day from all the work that God had done.\nAnd God blessed the seventh day and declared it holy,\nbecause on it God ceased from all the work of creation that God had done.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:54:12.909Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vgDqeJmc3wH2qrfREOYM"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/565,3953,3192,773/max/0/default.jpg"
+    },
+    {
+      "id": "828252ec-c891-447f-8464-918cb6aa594c",
+      "target": {
+        "source": "mishkan:page:db1168f5-cd1c-4884-a764-f69dc5d49486",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:475.13226205191586,5261.211990111248,3676.266069221261,1053.2036464771327"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Shabbat Kiddush -The beginning of Shabbat is marked by reciting a benediction sanctifying\nthe day (Kiddush HaYom or K'dushat HaYom, \"Sanctification of the Day\"; M. B'rachot 8:1 and\nP'sachim 10:2). The benediction praises God for the gift of Shabbat that marks Israel as unique.\nSince Kiddush is recited over a cup of wine, symbolizing joy, it is preceded by the wine\nbenediction, borei pri hagafen, \"Creator of the fruit of the vine.\"\nVayhi erev... And there was evening... Genesis 1:31\nVay'chulu... The heaven and the earth... Genesis 2:1-3",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:54:26.489Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vgDqeJmc3wH2qrfREOYM"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/475,5261,3676,1053/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/122"
+}

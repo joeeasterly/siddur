@@ -1,0 +1,127 @@
+{
+  "_id": "e93b8587-69a1-493d-b571-af7549dec6e0",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 39,
+  "global_page": 165,
+  "file_path": "/app/data/docs/mishkan/e93b8587-69a1-493d-b571-af7549dec6e0.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "154",
+  "annotations": [
+    {
+      "id": "fc6b62b5-384e-4d19-962e-9234d4fa839e",
+      "target": {
+        "source": "mishkan:page:e93b8587-69a1-493d-b571-af7549dec6e0",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2463.585921325052,387.5403726708076,1628.472049689441,2761.0952380952376"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "וְאָהַבְתָּ אֵת יְיָ אֱלֹהֶיךָ\nבְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךְ וּבְכָל־\nמְאֹדֶךָ: וְהָיוּ הַדְּבָרִים הָאֵלֶּה\nאֲשֶׁר אָנֹכִי מְצַוּךְ הַיּוֹם עַל־\nלְבָבֶךָ: וְשִׁנַּנְתָּם לְבָנֶיךָ וְדִבַּרְתָּ\nבָּם בְּשִׁבְתְּךָ בְּבֵיתֶךָ וּבְלֶכְתְּךָ\nבַדֶּרֶךְ וּבְשָׁכְבְּךָ וּבְקוּמֶךְ:\nוּקְשַׁרְתָּם לְאוֹת עַל־יָדֶךְ וְהָיוּ\nT\nלְטְטָפת בֵּין עֵינֶיךָ: וּכְתַבְתָּם\nעַל־מְחֲזוֹת בֵּיתֶךָ וּבִשְׁעָרֶיךָ:\nT:\nלְמַעַן תִּזְכְּרוּ וַעֲשִׂיתֶם אֶת־\nכָּל־מִצְוֹתָי וִהְיִיתֶם קְדֹשִׁים\nלֵאלֹהֵיכֶם: אֲנִי יְיָ אֱלֹהֵיכֶם\nאֲשֶׁר הוֹצֵאתִי אֶתְכֶם מֵאֶרֶץ\nמִצְרַיִם לִהְיוֹת לָכֶם לֵאלֹהִים\nאֲנִי יְיָ אֱלֹהֵיכֶם:\nང་",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T19:54:14.635Z",
+      "creator": {
+        "isGuest": true,
+        "id": "26J45OYlnSt1s7DrMkqa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe93b8587-69a1-493d-b571-af7549dec6e0.jp2/2463,387,1628,2761/max/0/default.jpg"
+    },
+    {
+      "id": "34e40878-83e5-49f0-a80b-cf1641331025",
+      "target": {
+        "source": "mishkan:page:e93b8587-69a1-493d-b571-af7549dec6e0",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:386.24016563147006,351.0041407867495,1539.7412008281572,2761.0952380952385"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "V'AHAVTA et Adonai Elohecha,\nb'chol l'vav'cha uv'chol nafsh'cha uv'chol\nm'odecha. V’hayu had'varim ha-eileh\nasher anochi m'tzav'cha hayom al\nI'vavecha. V'shinantam l'vanecha v'dibarta\nbam b'shivt'cha b'veitecha uv'lecht'cha\nvaderech uv'shochb'cha uv'kumecha.\nUk'shartam l'ot al yadecha v'hayu\nl'totafot bein einecha. Uch'tavtam\nal m'zuzot beitecha uvisharecha.\nI'maan tizk'ru, vaasitem et\nkol mitzvotai vih❜yitem k'doshim\nl'Eloheichem. Ani Adonai Eloheichem,\nasher hotzeiti et-chem mei-eretz\nMitzrayim lih'yot lachem l'Elohim\nani Adonai Eloheichem.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:54:23.088Z",
+      "creator": {
+        "isGuest": true,
+        "id": "26J45OYlnSt1s7DrMkqa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe93b8587-69a1-493d-b571-af7549dec6e0.jp2/386,351,1539,2761/max/0/default.jpg"
+    },
+    {
+      "id": "760d9f08-34e3-4453-8869-b4497c51765e",
+      "target": {
+        "source": "mishkan:page:e93b8587-69a1-493d-b571-af7549dec6e0",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:370.5817805383023,3159.0745341614906,3617.086956521739,2129.540372670807"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "YOU SHALL LOVE Adonai your God with all your heart,\nwith all your soul, and with all your might.\nTake to heart these instructions with which I charge you this day.\nImpress them upon your children.\nRecite them when you stay at home and when you are away,\nwhen you lie down and when you get up.\nBind them as a sign on your hand and let them serve as a symbol on your forehead;\ninscribe them on the doorposts of your house and on your gates.\nThus you\nshall remember to observe all My commandments\nand to be holy to your God.\nI am Adonai, your God, who brought you out of the land of Egypt to be\nI am Adonai your\nGod.\n»\nיְיָ אֱלֹהֵיכֶם אֱמֶת.\nT:\nAdonai Eloheichem EMET.\nyour\nGod:",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:54:29.021Z",
+      "creator": {
+        "isGuest": true,
+        "id": "26J45OYlnSt1s7DrMkqa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe93b8587-69a1-493d-b571-af7549dec6e0.jp2/370,3159,3617,2129/max/0/default.jpg"
+    },
+    {
+      "id": "bb7cbc7a-d8e7-4be4-bc11-295d3d8e2ddb",
+      "target": {
+        "source": "mishkan:page:e93b8587-69a1-493d-b571-af7549dec6e0",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:375.801242236025,5528.710144927536,3690.159420289855,897.7474120082816"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "For those who choose: At the end of the Shma, after the words\nEloheichem, the word emet (\"true\") is added as an immediate affirmation of its truth.\nV'ahavta... You shall love... Deuteronomy 6:5–9\nI'maan tizkru... Thus you shall remember... Numbers 15:40-41",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:54:35.027Z",
+      "creator": {
+        "isGuest": true,
+        "id": "26J45OYlnSt1s7DrMkqa"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe93b8587-69a1-493d-b571-af7549dec6e0.jp2/375,5528,3690,897/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/154"
+}

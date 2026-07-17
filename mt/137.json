@@ -1,0 +1,99 @@
+{
+  "_id": "a8b1b4d4-80be-4f1b-b71b-ac258c3266fd",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 22,
+  "global_page": 148,
+  "file_path": "/app/data/docs/mishkan/a8b1b4d4-80be-4f1b-b71b-ac258c3266fd.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "137",
+  "annotations": [
+    {
+      "id": "c14a2028-e7ad-480a-905f-574e7a3e68e7",
+      "target": {
+        "source": "mishkan:page:a8b1b4d4-80be-4f1b-b71b-ac258c3266fd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:3052.5263157894733,532.6315789473678,1383.6842105263167,1806.315789473685"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "קוֹל יְיָ חֹצֵב לַהֲבוֹת אֵשׁ,\nקוֹל יְיָ יָחִיל מִדְבָּר,\nיְיָ מִדְבַּר קָדֵשׁ.\nיָחִיל\nקוֹל יְיָ יְחוֹלֵל אַיָּלוֹת\nוַיִּחֲשֹׁף יְעָרוֹת\nוּבְהֵיכָלוֹ כֻּלּוֹ אֹמֵר כָּבוֹד.\nיְיָ לַמַּבּוּל יָשָׁב\nוַיֵּשֶׁב יְיָ מֶלֶךְ לְעוֹלָם.\nT\nי עז לְעַמּוֹ יִתֵּן,\n>>\nיְיָ יְבָרֵךְ אֶת־עַמּוֹ בַשָּׁלוֹם.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:49:13.616Z",
+      "creator": {
+        "isGuest": true,
+        "id": "LQIBtmWSnQZeivcif0Bz"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa8b1b4d4-80be-4f1b-b71b-ac258c3266fd.jp2/3052,532,1383,1806/max/0/default.jpg"
+    },
+    {
+      "id": "3359821b-5aba-458a-b2fa-53616c582d3e",
+      "target": {
+        "source": "mishkan:page:a8b1b4d4-80be-4f1b-b71b-ac258c3266fd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:997.2631578947365,503.68421052631544,1308.4210526315792,1841.052631578948"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Kol Adonai chotzeiv lahavot eish,\nkol Adonai yachil midbar,\nyachil Adonai midbar Kadeish.\nKol Adonai y'choleil ayalot\nvayechesof y'arot\nuv'heichalo kulo omeir kavod.\nAdonai lamabul yashav\nvayeishev Adonai Melech l'olam.\nAdonai oz l'amo yitein\nAdonai y'vareich et amo vashalom.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:49:23.580Z",
+      "creator": {
+        "isGuest": true,
+        "id": "LQIBtmWSnQZeivcif0Bz"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa8b1b4d4-80be-4f1b-b71b-ac258c3266fd.jp2/997,503,1308,1841/max/0/default.jpg"
+    },
+    {
+      "id": "ee49e47a-b5f6-4192-aac1-9564ae517b59",
+      "target": {
+        "source": "mishkan:page:a8b1b4d4-80be-4f1b-b71b-ac258c3266fd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1553.052631578947,2564.7368421052633,2211.5789473684217,1505.263157894737"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "THE VOICE OF ADONAI kindles flames of fire;\nthe voice of Adonai convulses the wilderness;\nAdonai convulses the wilderness of Kadesh;\nthe voice of Adonai causes hinds to calve,\nand strips forests bare;\nwhile in God's temple all say \"Glory!\"\nAdonai sat enthroned at the Flood;\nAdonai sits enthroned, sovereign forever.\nMay Adonai grant strength to God's people;\nmay Adonai bestow on God's people wellbeing.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:49:30.519Z",
+      "creator": {
+        "isGuest": true,
+        "id": "LQIBtmWSnQZeivcif0Bz"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa8b1b4d4-80be-4f1b-b71b-ac258c3266fd.jp2/1553,2564,2211,1505/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/137"
+}

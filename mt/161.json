@@ -1,0 +1,71 @@
+{
+  "_id": "21782d13-ea69-4574-b2fb-a0794243f023",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 46,
+  "global_page": 172,
+  "file_path": "/app/data/docs/mishkan/21782d13-ea69-4574-b2fb-a0794243f023.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "161",
+  "annotations": [
+    {
+      "id": "ea2f4eba-c62e-4d42-aad3-e6416d0edb9a",
+      "target": {
+        "source": "mishkan:page:21782d13-ea69-4574-b2fb-a0794243f023",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1278.768115942029,773.0610766045545,2813.289855072464,1461.4492753623192"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "LET THERE BE love and understanding among us.\nand friendship be our shelter from life's storms.\nLet peace\nAdonai, help us to walk with good companions,\nto live with hope in our hearts and eternity in our thoughts,\nthat we may lie down in peace and rise up waiting to do Your will.\nבָּרוּךְ אַתָּה, יְיָ, הַפּוֹרֵשׂ סֶכַּת שָׁלוֹם עָלֵינוּ\nוְעַל כָּל עַמּוֹ יִשְׂרָאֵל וְעַל יְרוּשָׁלָיִם.\nBaruch atah, Adonai, haporeis sukat shalom aleinu\nv'al kol amo Yisrael v'al Yerushalayim.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:57:47.966Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xu4CBZlGcBuY_s9VOPXZ"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F21782d13-ea69-4574-b2fb-a0794243f023.jp2/1278,773,2813,1461/max/0/default.jpg"
+    },
+    {
+      "id": "f0ff0b9d-e89a-4f03-ad02-79c4307f5b35",
+      "target": {
+        "source": "mishkan:page:21782d13-ea69-4574-b2fb-a0794243f023",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1283.9875776397514,2547.678053830228,2625.389233954452,2046.0289855072456"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "GIVE US A PLACE TO REST, Adonai, our God.\nBring us into shelter\nin the soft, long, evening shadows of Your truth.\nFor with You are true protection and safety,\nand in Your Presence are acceptance and gentle love.\nWatch over us as we go forth.\nPrepare for us as we return.\nSpread over us Your shelter of peace,\nover all we love - over our Jerusalem and Yours.\nבָּרוּךְ אַתָּה, יְיָ, הַפּוֹרֵשׂ סֶכַּת שָׁלוֹם עָלֵינוּ\nוְעַל כָּל עַמּוֹ יִשְׂרָאֵל וְעַל יְרוּשָׁלָיִם.\nBaruch atah, Adonai, haporeis sukat shalom aleinu\nv'al kol amo Yisrael v'al Yerushalayim.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:57:53.426Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xu4CBZlGcBuY_s9VOPXZ"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F21782d13-ea69-4574-b2fb-a0794243f023.jp2/1283,2547,2625,2046/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/161"
+}

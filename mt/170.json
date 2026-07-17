@@ -1,0 +1,127 @@
+{
+  "_id": "1dc3966c-f794-41a9-b536-11f6a2ce43e9",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 55,
+  "global_page": 181,
+  "file_path": "/app/data/docs/mishkan/1dc3966c-f794-41a9-b536-11f6a2ce43e9.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "170",
+  "annotations": [
+    {
+      "id": "1b75acad-d382-444c-8eee-9c14111cfe13",
+      "target": {
+        "source": "mishkan:page:1dc3966c-f794-41a9-b536-11f6a2ce43e9",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2543.052631578947,625.2631578947362,1592.1052631578955,1082.6315789473688"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "אַתָּה קָדוֹשׁ וְשִׁמְךְ קָדוֹשׁ\nוּקְדוֹשִׁים בְּכָל יוֹם\nיְהַלְלוּךְ סֶלָה.*\nבָּרוּךְ אַתָּה, יְיָ, הָאֵל הַקָּדוֹשׁ.\n*SHABBAT SHUVAH - בָּרוּךְ אַתָּה,\nיְיָ, הַמֶּלֶךְ הַקָּדוֹשׁ.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-15T15:00:03.729Z",
+      "creator": {
+        "isGuest": true,
+        "id": "zkF3Y8n78i2BRQLjfQ_u"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc3966c-f794-41a9-b536-11f6a2ce43e9.jp2/2543,625,1592,1082/max/0/default.jpg"
+    },
+    {
+      "id": "1562c1f7-f233-48ea-9e7d-dd93bf560696",
+      "target": {
+        "source": "mishkan:page:1dc3966c-f794-41a9-b536-11f6a2ce43e9",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:424.1052631578943,648.4210526315782,1493.684210526316,1047.8947368421054"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "ATAH kadosh v'shimcha kadosh\nuk'doshim b'chol yom\ny'hal'lucha, selah.*\nBaruch atah Adonai, Ha-El hakadosh.\n*SHABBAT SHUVAH - Baruch atah,\nAdonai, HaMelech hakadosh.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-15T15:00:17.475Z",
+      "creator": {
+        "isGuest": true,
+        "id": "zkF3Y8n78i2BRQLjfQ_u"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc3966c-f794-41a9-b536-11f6a2ce43e9.jp2/424,648,1493,1047/max/0/default.jpg"
+    },
+    {
+      "id": "f4928605-be50-4dbb-a88f-c3b5889fa882",
+      "target": {
+        "source": "mishkan:page:1dc3966c-f794-41a9-b536-11f6a2ce43e9",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1263.5789473684206,2178.650277317187,2084.21052631579,1781.2781105995664"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "YOU ARE HOLY, Your Name is holy,\nand those who are holy praise You every day.*\nBlessed are You, Adonai, the Holy God.\nבָּרוּךְ אַתָּה, יְיָ, הָאֵל הַקָּדוֹשׁ.\nBaruch atah, Adonai, Ha-El hakadosh.\n*SHABBAT SHUVAH -\nPraised are You, Adonai, Holy Sovereign.\nבָּרוּךְ אַתָּה, יְיָ, הַמֶּלֶךְ הַקָּדוֹשׁ.\nBaruch atah, Adonai, HaMelech hakadosh.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-15T15:00:23.919Z",
+      "creator": {
+        "isGuest": true,
+        "id": "zkF3Y8n78i2BRQLjfQ_u"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc3966c-f794-41a9-b536-11f6a2ce43e9.jp2/1263,2178,2084,1781/max/0/default.jpg"
+    },
+    {
+      "id": "4eec6ecb-5e16-4d8c-ba9c-469ca66d7b5c",
+      "target": {
+        "source": "mishkan:page:1dc3966c-f794-41a9-b536-11f6a2ce43e9",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:412.5263157894733,5830,3705.2631578947376,474.73684210526244"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "This third blessing of praise in the y Amidah emphasizes God's holy nature. Even God's\nname is holy.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-15T15:00:35.135Z",
+      "creator": {
+        "isGuest": true,
+        "id": "zkF3Y8n78i2BRQLjfQ_u"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc3966c-f794-41a9-b536-11f6a2ce43e9.jp2/412,5830,3705,474/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/170"
+}

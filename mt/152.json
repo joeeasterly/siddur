@@ -1,0 +1,99 @@
+{
+  "_id": "ed8709b9-ea6c-4b79-b63b-03430d862073",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 37,
+  "global_page": 163,
+  "file_path": "/app/data/docs/mishkan/ed8709b9-ea6c-4b79-b63b-03430d862073.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "152",
+  "annotations": [
+    {
+      "id": "7fa1e70c-a203-4479-a8ca-7d8646c503b4",
+      "target": {
+        "source": "mishkan:page:ed8709b9-ea6c-4b79-b63b-03430d862073",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:360.142857142857,1285.287784679089,3982.449275362319,1602.3747412008286"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "שמע ישראל יהוה",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T19:52:41.686Z",
+      "creator": {
+        "isGuest": true,
+        "id": "kCVbA5xTzkBhEqN0wsn7"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fed8709b9-ea6c-4b79-b63b-03430d862073.jp2/360,1285,3982,1602/max/0/default.jpg"
+    },
+    {
+      "id": "441ffb5f-1c66-4719-a161-aa62297ee7ee",
+      "target": {
+        "source": "mishkan:page:ed8709b9-ea6c-4b79-b63b-03430d862073",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:584.5797101449276,3947.213250517598,3460.503105590062,970.819875776398"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד!\nSh'ma Yisrael, Adonai Eloheinu, Adonai Echad!\nHear, O Israel, Adonai is our God, Adonai is One!",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:52:49.436Z",
+      "creator": {
+        "isGuest": true,
+        "id": "kCVbA5xTzkBhEqN0wsn7"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fed8709b9-ea6c-4b79-b63b-03430d862073.jp2/584,3947,3460,970/max/0/default.jpg"
+    },
+    {
+      "id": "70c121a4-ff83-41c2-b8cf-8ad4f01da253",
+      "target": {
+        "source": "mishkan:page:ed8709b9-ea6c-4b79-b63b-03430d862073",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:474.9710144927535,5560.026915113872,3632.745341614907,281.8509316770187"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Sh'ma Yisrael... Hear, O Israel... Deuteronomy 6:4",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:53:09.634Z",
+      "creator": {
+        "isGuest": true,
+        "id": "kCVbA5xTzkBhEqN0wsn7"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fed8709b9-ea6c-4b79-b63b-03430d862073.jp2/474,5560,3632,281/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/152"
+}

@@ -1,0 +1,71 @@
+{
+  "_id": "5934c640-c594-4a01-b631-fbbf6794f3f6",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 12,
+  "global_page": 138,
+  "file_path": "/app/data/docs/mishkan/5934c640-c594-4a01-b631-fbbf6794f3f6.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "127",
+  "annotations": [
+    {
+      "id": "4bc94757-3cd7-41b2-b764-67189e3ac827",
+      "target": {
+        "source": "mishkan:page:5934c640-c594-4a01-b631-fbbf6794f3f6",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1383.1195148331276,491.9406850063719,2075.2472187886283,2916.5700149318236"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "THERE ARE DAYS when we seek things\nfor ourselves and measure failure\nby what we do not gain.\nOn Shabbat, we seek not to acquire\nbut to share.\nThere are days when we exploit nature\nas if it were a horn of plenty\nthat can never be exhausted.\nOn Shabbat, we stand in wonder\nbefore the mystery of creation.\nThere are days when we act as if we\ncared nothing for the rights of others.\nOn Shabbat, we remember that justice is\nour duty and a better world our goal.\nSo we embrace Shabbat:\nday of rest, day of wonder, day of peace.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T01:00:16.024Z",
+      "creator": {
+        "isGuest": true,
+        "id": "CBKQtURA7cMRUSE7NBZZ"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F5934c640-c594-4a01-b631-fbbf6794f3f6.jp2/1383,491,2075,2916/max/0/default.jpg"
+    },
+    {
+      "id": "ea9aa9a4-720d-4fb7-9867-18709f1e94e8",
+      "target": {
+        "source": "mishkan:page:5934c640-c594-4a01-b631-fbbf6794f3f6",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1373.1856850248175,3560.922564040992,2313.228792725492,1196.6581683446698"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "WE OFFER THANKS, O God, for this Shabbat\nwhich unites us in faith and hope.\nFor Shabbat holiness, which inspires sacred living,\nfor Shabbat memories, glowing even in darkness,\nfor Shabbat peace, born of friendship and love,\nwe offer thanks and blessing, O God.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T01:00:25.476Z",
+      "creator": {
+        "isGuest": true,
+        "id": "CBKQtURA7cMRUSE7NBZZ"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F5934c640-c594-4a01-b631-fbbf6794f3f6.jp2/1373,3560,2313,1196/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/127"
+}

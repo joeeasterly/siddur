@@ -1,0 +1,155 @@
+{
+  "_id": "057b76ce-b994-48fb-b262-10b58728149a",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 31,
+  "global_page": 157,
+  "file_path": "/app/data/docs/mishkan/057b76ce-b994-48fb-b262-10b58728149a.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "146",
+  "annotations": [
+    {
+      "id": "baefc143-16b5-4d11-b1d6-72cce56eba9e",
+      "target": {
+        "source": "mishkan:page:057b76ce-b994-48fb-b262-10b58728149a",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:709.8467908902692,992.9979296066253,3121.2380952380954,767.2608695652175"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "שְׁמַע וּבִרְכוֹתֶיהָ\nSH'MA UVIRCHOTEHA — SH'MA AND ITS BLESSINGS",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T19:48:48.055Z",
+      "creator": {
+        "isGuest": true,
+        "id": "aplwqIoSsiM6B7JVGsIR"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/709,992,3121,767/max/0/default.jpg"
+    },
+    {
+      "id": "647b6d78-8e31-4af2-8e40-45a29b63a4f3",
+      "target": {
+        "source": "mishkan:page:057b76ce-b994-48fb-b262-10b58728149a",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2808.0703933747413,2000.354037267081,1383.1573498964804,615.8964803312629"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בָּרְכוּ אֶת יְיָ הַמְבֹרָךְ!\nבָּרוּךְ יְיָ הַמְבֹרָךְ\nלְעוֹלָם וָעֶד!",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T19:48:57.806Z",
+      "creator": {
+        "isGuest": true,
+        "id": "aplwqIoSsiM6B7JVGsIR"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/2808,2000,1383,615/max/0/default.jpg"
+    },
+    {
+      "id": "46637bcd-aba9-48be-a516-16b5154993c3",
+      "target": {
+        "source": "mishkan:page:057b76ce-b994-48fb-b262-10b58728149a",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:469.7515527950311,1989.9151138716354,1336.182194616977,595.0186335403725"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "BAR’CHU et Adonai hamvorach!\nBaruch Adonai ham'vorach\nl'olam va-ed!",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:49:09.557Z",
+      "creator": {
+        "isGuest": true,
+        "id": "aplwqIoSsiM6B7JVGsIR"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/469,1989,1336,595/max/0/default.jpg"
+    },
+    {
+      "id": "6481ce35-7f73-4a07-8320-9ef168d81a80",
+      "target": {
+        "source": "mishkan:page:057b76ce-b994-48fb-b262-10b58728149a",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1204.1048521431007,2701.0021199915545,2219.8741660172686,552.0094069325824"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "PRAISE ADONAI to whom praise is due forever!\nPraised be Adonai to whom praise is due,\nnow and forever!",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:49:14.017Z",
+      "creator": {
+        "isGuest": true,
+        "id": "aplwqIoSsiM6B7JVGsIR"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/1204,2701,2219,552/max/0/default.jpg"
+    },
+    {
+      "id": "bcb07630-95ee-4d01-adbb-10e86f652991",
+      "target": {
+        "source": "mishkan:page:057b76ce-b994-48fb-b262-10b58728149a",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:433.215320910973,5674.855072463767,3695.378881987578,741.1635610766052"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "The Shma is one of the prayers one may recite in any language. M. Sotah 7:1\nFor those who choose: The prayer leader at the word Bar'chu (the call to worship) bends\nthe knees and bows from the waist, and at » Adonai stands straight. »77 Baruch Adonai is the\ncommunal response, whereupon the community repeats the choreography of the first line.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:49:19.157Z",
+      "creator": {
+        "isGuest": true,
+        "id": "aplwqIoSsiM6B7JVGsIR"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/433,5674,3695,741/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/146"
+}

@@ -1,0 +1,99 @@
+{
+  "_id": "dcc65add-9d62-4301-a80b-ae6dabfb905b",
+  "source_file": "5.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 7,
+  "global_page": 194,
+  "file_path": "/app/data/docs/mishkan/dcc65add-9d62-4301-a80b-ae6dabfb905b.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "183",
+  "annotations": [
+    {
+      "id": "6d3e500c-6020-4605-a7d3-b53188684c07",
+      "target": {
+        "source": "mishkan:page:dcc65add-9d62-4301-a80b-ae6dabfb905b",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1440.9055861526358,1298.1904012588514,2554.8387096774195,3126.042486231314"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "LET US PRAISE Adonai,\nSource of knowledge and light,\nfrom whom we draw wisdom and insight.\nLet us savor the fullness of each and every day\nand fill our souls with the treasures of Shabbat.\nAnd let us appreciate these distinctions:\nsacred from profane, charity from greed,\npurpose from drift.\nLet us affirm our covenant as God's people.\nLet us honor those who study Torah.\nLet us uphold the truth of ongoing revelation.\nLet us celebrate the glory of our tradition\nand draw refreshment from the wellsprings of prayer.\nLet us respect tradition and encourage creative faith.\nAnd let us dress ourselves in the garments of God\ncompassion for the needy, embrace of the stranger\nand then spread the canopy of peace over all the world.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:53:59.041Z",
+      "creator": {
+        "isGuest": true,
+        "id": "PhF12Neg0RCdN13hc200"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdcc65add-9d62-4301-a80b-ae6dabfb905b.jp2/1440,1298,2554,3126/max/0/default.jpg"
+    },
+    {
+      "id": "bdc4f951-62e4-4b2c-8a26-bf4970e13790",
+      "target": {
+        "source": "mishkan:page:dcc65add-9d62-4301-a80b-ae6dabfb905b",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1607.0739575137688,358.30055074744297,3062.4608144570966,440.91116977600626"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "MAGEIN AVOT V'IMAHOT",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:54:10.754Z",
+      "creator": {
+        "isGuest": true,
+        "id": "PhF12Neg0RCdN13hc200"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdcc65add-9d62-4301-a80b-ae6dabfb905b.jp2/1607,358,3062,440/max/0/default.jpg"
+    },
+    {
+      "id": "39056c4f-e6f1-4c05-95e7-330ce6effe2b",
+      "target": {
+        "source": "mishkan:page:dcc65add-9d62-4301-a80b-ae6dabfb905b",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:900.8583792289535,5530.291109362707,3707.6317859952787,747.7576711250986"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "In this traditional prayer that summarizes the Amidah for Friday night, God appears uniquely as\nmon hab'rachot, literally, an “abode” (or “place\") of blessing. Over time, however,\nthis reading was lost through a scribal error, and does not appear in traditional prayer books. We\nrestore it here, so as to sense God as a place where we can enter and be at home, a spiritual\ndestination where we go to find the blessings we seek.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:54:16.964Z",
+      "creator": {
+        "isGuest": true,
+        "id": "PhF12Neg0RCdN13hc200"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdcc65add-9d62-4301-a80b-ae6dabfb905b.jp2/900,5530,3707,747/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/183"
+}

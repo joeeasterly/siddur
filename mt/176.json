@@ -1,0 +1,183 @@
+{
+  "_id": "2230a76b-9265-4097-b1b2-0016fd2f36c3",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 61,
+  "global_page": 187,
+  "file_path": "/app/data/docs/mishkan/2230a76b-9265-4097-b1b2-0016fd2f36c3.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "176",
+  "annotations": [
+    {
+      "id": "2044b080-c251-4164-9e0d-bb29cd59b112",
+      "target": {
+        "source": "mishkan:page:2230a76b-9265-4097-b1b2-0016fd2f36c3",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2157.5066876475216,384.26435877261986,1968.056648308419,1973.2494099134542"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "מוֹדִים אֲנַחְנוּ לָךְ, שָׁאַתָּה הוּא\nיְיָ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ\nלְעוֹלָם וָעֶד. צוּר חַיִינוּ, מָגֵן יִשְׁעֵנוּ,\nאַתָּה הוּא לְדוֹר וָדוֹר.\nנוֹדֶה לְךָ וּנְסַפֵּר תְּהִלָּתֶךָ עַל חַיֵינוּ\nהַמְסוּרִים בְּיָדֶךָ, וְעַל נִשְׁמוֹתֵינוּ\nהַפְּקוּדוֹת לָךְ, וְעַל נִסֶיךָ שֶׁבְּכָל יוֹם\nעִמָּנוּ, וְעַל נִפְלְאוֹתֶיךָ וְטוֹבוֹתֶיךָ\nשֶׁבְּכָל עֵת, עֶרֶב וָבֹקֶר וְצָהָרָיִם.\n\"IT T T\nהַטוֹב כִּי לֹא כָלוּ רַחֲמֶיךָ, וְהַמְרַחֵם\nכִּי לֹא תַמּוּ חֲסָדֶיךָ, מֵעוֹלָם קִוִינוּ לָךְ.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-17T16:47:26.478Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Eh7PdOyhknqixk3lOp4c"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2230a76b-9265-4097-b1b2-0016fd2f36c3.jp2/2157,384,1968,1973/max/0/default.jpg"
+    },
+    {
+      "id": "3d8482f4-65bd-4641-8868-db937a3892b3",
+      "target": {
+        "source": "mishkan:page:2230a76b-9265-4097-b1b2-0016fd2f36c3",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:376.3894571203775,368.6860739575135,1729.18961447679,2004.405979543667"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "MODIM anachnu lach, shaatah hu\nAdonai Eloheinu v'Elohei avoteinu v'imoteinu\nl'olam va-ed. Tzur chayeinu, magen yisheinu,\natah hu l'dor vador.\nNodeh l'cha un'sapeir t'hilatecha. Al chayeinu\nham'surim b'yadecha, v'al nishmoteinu\nhap'kudot lach, v'al nisecha sheb'chol yom\nimanu, v'al niflotecha v'tovotecha\nsheb'chol eit, erev vavoker v'tzohorayim.\nHatov ki lo chalu rachamecha, v'ham'racheim\nki lo tamu chasadecha, mei-olam kivinu lach.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:47:37.262Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Eh7PdOyhknqixk3lOp4c"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2230a76b-9265-4097-b1b2-0016fd2f36c3.jp2/376,368,1729,2004/max/0/default.jpg"
+    },
+    {
+      "id": "5ce887a9-c30b-4ce7-9eab-bb0bc611a64d",
+      "target": {
+        "source": "mishkan:page:2230a76b-9265-4097-b1b2-0016fd2f36c3",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:438.70259638080233,2409.441384736428,3681.667977970102,1022.9740361919748"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "WE ACKNOWLEDGE with thanks that You are Adonai, our God and the God of our\nancestors forever. You are the Rock of our lives, and the Shield of our salvation in every\ngeneration. Let us thank You and praise You - for our lives which are in Your hand, for\nour souls which are in Your care, for Your miracles that we experience every day and for\nYour wondrous deeds and favors at every time of day: evening, morning and noon. O\nGood One, whose mercies never end, O Compassionate One, whose kindness never fails,\nwe forever put our hope in You.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:47:47.266Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Eh7PdOyhknqixk3lOp4c"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2230a76b-9265-4097-b1b2-0016fd2f36c3.jp2/438,2409,3681,1022/max/0/default.jpg"
+    },
+    {
+      "id": "dd72426f-a5eb-48e9-933e-ec79f304c4d8",
+      "target": {
+        "source": "mishkan:page:2230a76b-9265-4097-b1b2-0016fd2f36c3",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2323.6750590086544,3583.0055074744296,1817.4665617623928,1531.8646734854447"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "וְעַל כֻּלָּם יִתְבָּרַךְ וְיִתְרוֹמַם שִׁמְךָ,\nמַלְכֵּנוּ, תָּמִיד לְעוֹלָם וָעֶד.\nSHABBAT SHUVAH - וּכְתוֹב לְחַיִּים\nטוֹבִים כָּל בְּנֵי בְרִיתֶךָ.\nז\nוְכֹל הַחַיִּים יוֹדְוּךְ סֶלָה,\nוִיהַלְלוּ אֶת שִׁמְךְ בֶּאֱמֶת,\nהָאֵל יְשׁוּעָתֵנוּ וְעֶזְרָתֵנוּ סֶלָה.\nבָּרוּךְ אַתָּה, יְיָ,\nז\nהַטוֹב שִׁמְךְ וּלְךָ נָאֶה לְהוֹדוֹת.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-17T16:47:54.758Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Eh7PdOyhknqixk3lOp4c"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2230a76b-9265-4097-b1b2-0016fd2f36c3.jp2/2323,3583,1817,1531/max/0/default.jpg"
+    },
+    {
+      "id": "61cbf140-360c-4f97-abc7-07775a5c9f33",
+      "target": {
+        "source": "mishkan:page:2230a76b-9265-4097-b1b2-0016fd2f36c3",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:423.124311565696,3588.1982690794657,1578.5995279307633,1412.4311565696298"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "V'al kulam yitbarach v'yitromam shimcha,\nMalkeinu, tamid l'olam va-ed.\nSHABBAT SHUVAH-Uch'tov l'chayim\ntovim kol b'nei v'ritecha.\nV'chol hachayim yoducha selah,\nviy'hal'lu et shimcha be-emet,\nHa-El y'shuateinu v'ezrateinu selah.\nBaruch atah, Adonai,\nhatov shimcha uľ'cha na-eh l'hodot.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:48:02.439Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Eh7PdOyhknqixk3lOp4c"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2230a76b-9265-4097-b1b2-0016fd2f36c3.jp2/423,3588,1578,1412/max/0/default.jpg"
+    },
+    {
+      "id": "23be50cd-9bf3-4727-90c0-7ad972b95c8e",
+      "target": {
+        "source": "mishkan:page:2230a76b-9265-4097-b1b2-0016fd2f36c3",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:407.5460267505902,5137.224053128709,3645.3186467348546,1047.3550184684582"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "For all these things, O Sovereign, let Your Name be forever praised and blessed.\nSHABBAT SHUVAH - Inscribe all the children of Your covenant for a good life.\nO God, our Redeemer and Helper, let all who live affirm You and praise Your Name in\ntruth. Blessed are You, Adonai, Your Name is Goodness, and You are worthy of thanksgiving.\nבָּרוּךְ אַתָּה, יְיָ, הַטוֹב שִׁמְךְ וּלְךָ נָאֶה לְהוֹדוֹת.\nBaruch atah, Adonai, hatov shimcha ul'cha na-eh l'hodot.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:48:11.483Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Eh7PdOyhknqixk3lOp4c"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2230a76b-9265-4097-b1b2-0016fd2f36c3.jp2/407,5137,3645,1047/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/176"
+}

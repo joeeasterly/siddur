@@ -1,0 +1,71 @@
+{
+  "_id": "ec2949ff-501b-43a7-b23b-c0b13e64d1dd",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 40,
+  "global_page": 166,
+  "file_path": "/app/data/docs/mishkan/ec2949ff-501b-43a7-b23b-c0b13e64d1dd.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "155",
+  "annotations": [
+    {
+      "id": "f295a71e-852d-4184-a18e-05b3f5795573",
+      "target": {
+        "source": "mishkan:page:ec2949ff-501b-43a7-b23b-c0b13e64d1dd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1469.552795031056,756.2329192546584,2225.173913043478,2511.788819875776"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "LOVE your God with every heartbeat,\nwith every breath,\nwith every conscious act.\nKeep in mind the words I command you today.\nTeach them to your children,\ntalk about them at work:\nwhether you are tired or you are rested.\nLet them guide the work of your hands;\nkeep them in the forefront of your vision.\nDo not leave them at the doorway of your house,\nor outside your gate.\nThey are reminders to do all of My mitzvot,\nso that you can be holy for God.\nI am Adonai your God.\nI led you out of Egypt to become your God,\nI am Adonai your God!",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:55:05.065Z",
+      "creator": {
+        "isGuest": true,
+        "id": "5fFVgvEbrUxXw_BDRyat"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fec2949ff-501b-43a7-b23b-c0b13e64d1dd.jp2/1469,756,2225,2511/max/0/default.jpg"
+    },
+    {
+      "id": "ad8f2381-5431-4d33-bb71-7f4fe5fda309",
+      "target": {
+        "source": "mishkan:page:ec2949ff-501b-43a7-b23b-c0b13e64d1dd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:922.3788819875778,5045.034161490683,3647.8260869565215,1318.4285714285716"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Judaism is a doing which can be grasped only by the heart. Julius Lester\nWhen people come to you for help, do not turn them off with pious words, saying: “Have faith\nand take your troubles to God!\" Act instead as if there were no God, as though there were only\none person in all the world who could help - only yourself. Martin Buber\nAbaye said: Spread the love of God through your actions. If you yourself study and help others\nto do so, if your business activities are decent and trustworthy, what will people say? “Have you\nseen the behavior of one who studies Torah? How beautiful! What a fine person!\" Thus Isaiah\n(49:3) taught, \"You are My servant Israel. I will be glorified through you.\" based on Yoma 86a",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:55:13.068Z",
+      "creator": {
+        "isGuest": true,
+        "id": "5fFVgvEbrUxXw_BDRyat"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fec2949ff-501b-43a7-b23b-c0b13e64d1dd.jp2/922,5045,3647,1318/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/155"
+}

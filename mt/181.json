@@ -1,0 +1,99 @@
+{
+  "_id": "eba774b0-9a35-4c40-b608-cc45d4bd1ee2",
+  "source_file": "5.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 5,
+  "global_page": 192,
+  "file_path": "/app/data/docs/mishkan/eba774b0-9a35-4c40-b608-cc45d4bd1ee2.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "181",
+  "annotations": [
+    {
+      "id": "faefa1a1-7599-4f17-86db-3443ffa343dd",
+      "target": {
+        "source": "mishkan:page:eba774b0-9a35-4c40-b608-cc45d4bd1ee2",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1352.2352478363493,395.18804091266713,1809.545239968529,1502.754523996853"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "CREATE a pure heart within me;\nlet my soul wake up in Your light.\nOpen me to Your Presence;\nflood me with Your holy spirit.\nThen I will stand and sing out\nthe power of Your forgiveness.\nI will teach Your love to the lonely;\nthe lost will find their way home.\nAdonai, open up my lips\nand my mouth will declare Your praise.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:52:36.211Z",
+      "creator": {
+        "isGuest": true,
+        "id": "YzKvaencWrqlfqkQMVUX"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Feba774b0-9a35-4c40-b608-cc45d4bd1ee2.jp2/1352,395,1809,1502/max/0/default.jpg"
+    },
+    {
+      "id": "a9ce8421-9c5f-46bc-9d17-4e2eaee9b2e7",
+      "target": {
+        "source": "mishkan:page:eba774b0-9a35-4c40-b608-cc45d4bd1ee2",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1383.4343036978753,2116.3359559402047,2636.320220298978,3442.295830055075"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "WE REACH for You, our God\nfrom our quiet places.\nMay we stand still, for a brief moment,\nand listen to the rain -\nStand still, for a brief moment,\nand watch the play of sunlight and shadow on the leaves.\nFor a brief moment listen to the world.\nLet us stop the wheels of every day to be aware of Shabbat.\nFind the stillness of the sanctuary which the soul cherished.\nRenew the Covenant of an ancient people.\nWe need a quiet space to test the balance of our days.\nThe weight of our own deeds\nagainst the heaviness of the world's demands.\nThe balance is precarious - steady us with faith:\nQuiet places and stillness -\nwhere we will hear our own best impulses speak.\nQuiet places and stillness\nfrom which we will reach out to each other.\nWe will find strength in silence\nand with this strength\nwe will turn again to Your service.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:52:43.029Z",
+      "creator": {
+        "isGuest": true,
+        "id": "YzKvaencWrqlfqkQMVUX"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Feba774b0-9a35-4c40-b608-cc45d4bd1ee2.jp2/1383,2116,2636,3442/max/0/default.jpg"
+    },
+    {
+      "id": "deaac692-42d5-48e8-8722-ea7bd63ae19d",
+      "target": {
+        "source": "mishkan:page:eba774b0-9a35-4c40-b608-cc45d4bd1ee2",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:879.0495672698661,5595.030684500393,3634.690007867821,727.9779701022826"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "For those who count the Omer, every evening between Pesach and Shavuot, turn to page 570.\nReading of the Torah is on page 362. Aleinu and Kaddish are on pages 586–587.\nCreate a pure heart within me . . . adapted from Psalm 51",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:52:50.770Z",
+      "creator": {
+        "isGuest": true,
+        "id": "YzKvaencWrqlfqkQMVUX"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Feba774b0-9a35-4c40-b608-cc45d4bd1ee2.jp2/879,5595,3634,727/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/181"
+}

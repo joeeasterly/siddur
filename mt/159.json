@@ -1,0 +1,71 @@
+{
+  "_id": "32474af2-eea9-431d-8117-b1b2a3917db9",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 44,
+  "global_page": 170,
+  "file_path": "/app/data/docs/mishkan/32474af2-eea9-431d-8117-b1b2a3917db9.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "159",
+  "annotations": [
+    {
+      "id": "30774d43-ce41-45b7-91fc-4e2055106f93",
+      "target": {
+        "source": "mishkan:page:32474af2-eea9-431d-8117-b1b2a3917db9",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1769.3975155279502,909.4865424430643,1748.51966873706,1607.5942028985507"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "SING THE SONG of men and women\njoined in understanding and respect.\nThe song of God's miracles,\nan earth protected and cherished;\na gift for our children\nand the generations to come.\nThe song of a land once ravished by war,\nnow quiet and content;\nher soldiers home, to leave no more.\nThe song of a world redeemed:\nthe song of peace.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:57:06.887Z",
+      "creator": {
+        "isGuest": true,
+        "id": "HT4Jori3zygHJ114RiTS"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F32474af2-eea9-431d-8117-b1b2a3917db9.jp2/1769,909,1748,1607/max/0/default.jpg"
+    },
+    {
+      "id": "92ed80a7-2fd6-47f2-8103-49c27d47b57e",
+      "target": {
+        "source": "mishkan:page:32474af2-eea9-431d-8117-b1b2a3917db9",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:947.593233674272,5753.579858379229,3666.0896931549964,498.50511408339935"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Salvation is the Jews' victory over human limitations: ignorance or insensitivity. It is the conquest\nof sinfulness, of the evils resident within the self: pride, selfishness, hate, lust, cynicism, the\ndeliberate rejection of goodness and truth. Milton Steinberg",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:44:26.453Z",
+      "creator": {
+        "isGuest": true,
+        "id": "b0Umxux_LV84OLCTBmbf"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F32474af2-eea9-431d-8117-b1b2a3917db9.jp2/947,5753,3666,498/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/159"
+}

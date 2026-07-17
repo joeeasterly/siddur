@@ -1,0 +1,43 @@
+{
+  "_id": "f0955823-ef73-4281-89c9-9fc6e4d05ca7",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 6,
+  "global_page": 6,
+  "file_path": "/app/data/docs/mishkan/f0955823-ef73-4281-89c9-9fc6e4d05ca7.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "viii",
+  "annotations": [
+    {
+      "id": "9b4f5e28-8ce0-4849-97a0-681e2703317b",
+      "target": {
+        "source": "mishkan:page:f0955823-ef73-4281-89c9-9fc6e4d05ca7",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:402.0618421052632,429.0052631578954,3640.747368421052,5466.918421052629"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "and the balance of particularism and universalism. But the essence of Reform liturgy\ncontinues to be what God demands of us, with heavy emphasis on ethical action and\nsocial justice.\nIn Beyond the Worship Wars, Thomas G. Long teaches, \"Part of the joy of worship is to\nknow the motions, know the words, know the song. The vital congregations knew\ntheir order of worship and moved through it with deep familiarity. What is more, the\nworshippers had active roles - speaking, singing, moving and many of these they\ncould perform from memory.\" The siddur is a tool in the larger system of worship.\nLawrence Hoffman teaches, \"The book is less text than pre-text for the staging of an\nexperience. We are returning to the age of orality, where performance of prayer\nmatters more than the fixed words. The question of worship leadership has expanded\nnow, to include the theology and artistry of being a shliach tzibur - how to\norchestrate seating, fill empty space, provide the right acoustics, and honor\nindividualism within the group experience.\"\nUsing Mishkan T'filah, the actual selection of prayer can wait for the moment. The\nsh'liach tzibur must offer a recipe that works comfortably for the community, and be\nable to adapt each week to the particular needs of the community, and to individuals\nwithin that community.\nMishkan T'filah invites familiarity, even as it allows for diversity. Over time, one\ncannot help but memorize the book. The content of each page spread, though varied,\nbecomes known. The constancy of the keva text (the right hand side of each page\nwhich offers the traditional prayer) anchors every creative prayer on the left. It is the\ncumulative effect of worshipping from this siddur that will deepen meaningful ritual.\nThe publication of Mishkan T'filah continues the Reform movement's tradition of\nliturgical innovation. A single prayer book provides an important vehicle for group\nidentification as well as personal prayer. The Union Prayer Book and its successor Gates\nof Prayer and now Mishkan T'filah each expresses the ethos and values of its own era,\nat the same time being fully rooted in the structure and substance of the historical\nliturgical tradition of the Jewish people.\nThe title Mishkan T'filah is drawn from Exodus 25:8 where God commands us to\nbuild a portable sanctuary that can accompany us on our wanderings. “And let them\nbuild Me a sanctuary that I may dwell among them.\" Mishkan T'filah is a dwelling\nplace for\nprayer, one that moves with us wherever we might be physically or\nspiritually. It offers the opportunity for God, the individual and community to meet.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T15:42:57.750Z",
+      "creator": {
+        "isGuest": true,
+        "id": "ZZyUQ1apVFME0lxdDOHO"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff0955823-ef73-4281-89c9-9fc6e4d05ca7.jp2/402,429,3640,5466/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/viii"
+}

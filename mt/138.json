@@ -1,0 +1,463 @@
+{
+  "_id": "b3dfd142-9803-446b-bccc-5af467dfc7cd",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 23,
+  "global_page": 149,
+  "file_path": "/app/data/docs/mishkan/b3dfd142-9803-446b-bccc-5af467dfc7cd.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "138",
+  "annotations": [
+    {
+      "id": "09570009-b9c1-4796-abcb-8944d938ec9d",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2460.210526315789,492.10526315789474,1534.21052631579,463.15789473684225"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "לְכָה דוֹדִי לִקְרַאת כַּלָּה,\nפְּנֵי שַׁבָּת נְקַבְּלָה.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:49:44.437Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/2460,492,1534,463/max/0/default.jpg"
+    },
+    {
+      "id": "ce2a04e4-efe4-458d-ade5-23703f9cbf3e",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:567.0526315789473,521.0526315789473,1267.8947368421052,364.73684210526335"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "L'CHAH DODI likrat kalah,\np'nei Shabbat n'kab’lah.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:49:53.155Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/567,521,1267,364/max/0/default.jpg"
+    },
+    {
+      "id": "fd28d70d-9de3-41af-b392-fcee16d1c40d",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:595.9999999999998,949.4736842105264,3108.9473684210534,237.3684210526318"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "BELOVED, COME to meet the bride; beloved come to greet Shabbat.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:49:59.695Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/595,949,3108,237/max/0/default.jpg"
+    },
+    {
+      "id": "f14f8cd9-e8b9-4dca-935e-95c387ce9675",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2379.1578947368425,1360.5263157894738,1395.2631578947367,654.2105263157896"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "שָׁמוֹר וְזָכוֹר בְּדִבּוּר אֶחָד,\nהִשְׁמִיעָנוּ אֵל הַמְיָחָד,\nיְיָ אֶחָד וּשְׁמוֹ אֶחָד\nT\nלְשֵׁם וּלְתִפְאֶרֶת וְלִתְהִלָּה.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:50:13.322Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/2379,1360,1395,654/max/0/default.jpg"
+    },
+    {
+      "id": "52b904e5-7491-4284-b7f2-b4e44bf327c2",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:572.8421052631579,1366.3157894736844,1128.9473684210527,636.8421052631581"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Shamor v'zachor b'dibur echad,\nhishmianu El ham'yuchad,\nAdonai echad ush'mo echad,\nI'shem ul'tiferet v'lit'hilah.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:50:24.660Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/572,1366,1128,636/max/0/default.jpg"
+    },
+    {
+      "id": "7b5cef4c-6b36-448b-b50f-8db3090845b1",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:653.8947368421051,2020.526315789474,2952.631578947369,237.36842105263145"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "\"Keep\" and \"remember”: a single command the Only God caused us to hear;\nthe Eternal is One, God's Name is One; glory and praise are God's.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:50:32.920Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/653,2020,2952,237/max/0/default.jpg"
+    },
+    {
+      "id": "0821496c-5b2e-4f03-96c2-483df690b1d3",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2193.8947368421054,2327.368421052632,1563.1578947368425,683.1578947368421"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "לִקְרַאת שַׁבָּת לְכוּ וְנֵלְכָה,\nכִּי הִיא מְקוֹר הַבְּרָכָה,\nמֵרֹאשׁ מִקֶדֶם נְסוּכָה,\nסוֹף מַעֲשֶׂה בְּמַחֲשָׁבָה תְּחִלָּה.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:50:44.538Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/2193,2327,1563,683/max/0/default.jpg"
+    },
+    {
+      "id": "852afd48-26e7-4276-9ae0-a3423912f7e1",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:572.8421052631579,2333.1578947368425,1238.9473684210527,648.4210526315792"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Likrat Shabbat l'chu v'neilcha,\nki hi m'kor hab'rachah,\nmeirosh mikedem n'suchah,\nsof maaseh b'machashava t'chilah.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:50:53.485Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/572,2333,1238,648/max/0/default.jpg"
+    },
+    {
+      "id": "45ecba96-8cca-40f8-aa64-985c7df49887",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:688.6315789473683,3004.7368421052633,2900.526315789474,220.00000000000045"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Come with me to meet Shabbat, forever a fountain of blessing.\nStill it flows, as from the start: the last of days, for which the first was made.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:51:05.185Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/688,3004,2900,220/max/0/default.jpg"
+    },
+    {
+      "id": "d9061c34-9fe2-4471-8cdd-17089e2e58d4",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2280.7368421052633,3288.421052631579,1476.3157894736846,683.1578947368425"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "מִקְדָּשׁ מֶלֶךְ עִיר מְלוּכָה,\nקוּמִי צְאִי מִתּוֹךְ הַהֲפֵכָה,\nרַב לָךְ שֶׁבֶת בְּעֵמֶק הַבָּכָא,\nוְהוּא יַחֲמוֹל עָלַיִךְ חֶמְלָה.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:51:16.594Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/2280,3288,1476,683/max/0/default.jpg"
+    },
+    {
+      "id": "6589c464-df0b-4d73-b4cf-5a216b4a2a11",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:561.2631578947367,3328.947368421053,1181.0526315789477,636.8421052631584"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Mikdash Melech, ir m'luchah,\nkumi tz'i mitoch hahafeichah,\nrav lach shevet b'emek habacha,\nv'hu yachamol alayich chemlah.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:51:26.402Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/561,3328,1181,636/max/0/default.jpg"
+    },
+    {
+      "id": "7d3b0956-a90d-4346-8e77-070bb6a88931",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:665.4736842105261,3977.368421052632,3108.947368421053,266.3157894736846"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Royal shrine, city of kings, rise up and leave your ravaged state.\nYou have dwelt long enough in the valley of tears; now God will shower mercy on you.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:51:34.212Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/665,3977,3108,266/max/0/default.jpg"
+    },
+    {
+      "id": "b2447835-b65d-4c4f-a050-cc61dbfb91a3",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2269.157894736842,4284.21052631579,1464.7368421052638,665.7894736842109"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "הִתְנַעֲרִי, מֵעָפָר קוּמִי,\nלִבְשִׁי בִּגְדֵי תִפְאַרְתֵּךְ, עַמִּי,\nעַל יַד בֶּן יִשַׁי בֵּית הַלַּחְמִי,\nקָרְבָה אֶל נַפְשִׁי גְאָלָהּ.\nT T",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:51:43.977Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/2269,4284,1464,665/max/0/default.jpg"
+    },
+    {
+      "id": "330a380a-cba9-473e-82e3-f205ef31a636",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:567.0526315789473,4301.578947368422,1186.8421052631581,602.105263157895"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Hitnaari, mei-afar kumi,\nlivshi bigdei tifarteich ami,\nal yad ben Yishai Beit haLachmi,\nkorvah el nafshi g'alah.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:51:54.175Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/567,4301,1186,602/max/0/default.jpg"
+    },
+    {
+      "id": "de6929b9-9e5e-4a17-afcc-f8297e5a198b",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:671.2631578947368,4932.631578947369,2894.7368421052633,312.6315789473683"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Lift yourself up! Shake off the dust! Array yourself in beauty, O my people!\nAt hand is Bethlehem's David, Jesse's son, bringing deliverance into my life.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:52:00.983Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/671,4932,2894,312/max/0/default.jpg"
+    },
+    {
+      "id": "50974c53-6edb-48a5-82af-d5ca20aecaa8",
+      "target": {
+        "source": "mishkan:page:b3dfd142-9803-446b-bccc-5af467dfc7cd",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:439.6842105263156,5401.578947368422,3635.789473684211,341.5789473684217"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "This poem was composed by Shlomo Halevi Alkabetz, 16th-century Safed kabbalist. The first\neight verses are arranged acrostically according to the author's name.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:52:07.387Z",
+      "creator": {
+        "isGuest": true,
+        "id": "70rk_6FTJmtCxoqUq3TB"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb3dfd142-9803-446b-bccc-5af467dfc7cd.jp2/439,5401,3635,341/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/138"
+}

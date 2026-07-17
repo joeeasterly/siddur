@@ -1,0 +1,211 @@
+{
+  "_id": "189bce48-e52f-44ee-8d1f-2ea21ceaf4a5",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 57,
+  "global_page": 183,
+  "file_path": "/app/data/docs/mishkan/189bce48-e52f-44ee-8d1f-2ea21ceaf4a5.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "172",
+  "annotations": [
+    {
+      "id": "7bccaed3-7a7e-4cfc-a507-23582facc77c",
+      "target": {
+        "source": "mishkan:page:189bce48-e52f-44ee-8d1f-2ea21ceaf4a5",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2066.5263157894733,335.7894736842103,2003.157894736842,2263.6842105263154"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "אַתָּה קִדַּשְׁתָּ אֶת יוֹם הַשְּׁבִיעִי לִשְׁמֶךְ,\nתַּכְלִית מַעֲשֶׂה שָׁמַיִם וָאָרֶץ,\nוּבֵרַכְתּוֹ מִכָּל הַיָּמִים,\nוְקִדַּשְׁתּוֹ מִכָּל הַזְמַנִים,\nוְכֵן כָּתוּב בְּתוֹרָתֶךָ:\nוַיְכַלּוּ הַשָּׁמַיִם וְהָאָרֶץ\nוְכָל־צְבָאָם: וַיְכַל אֱלֹהִים בַּיּוֹם\nהַשְּׁבִיעִי מְלַאכְתּוֹ אֲשֶׁר עָשָׂה\nוַיִּשְׁבַּת בַּיּוֹם הַשְּׁבִיעִי מִכָּל־\nמְלַאכְתּוֹ אֲשֶׁר עָשָׂה: וַיְבָרֶךְ\nאֱלֹהִים אֶת־יוֹם הַשְּׁבִיעִי וַיְקַדַּשׁ אֹתוֹ\nכִּי בוֹ שָׁבַת מִכָּל־מְלַאכְתּוֹ\nאֲשֶׁר־בָּרָא אֱלֹהִים לַעֲשׂוֹת:",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-15T15:03:23.409Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xyRM0JS2uzT6MwCE3pQ2"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F189bce48-e52f-44ee-8d1f-2ea21ceaf4a5.jp2/2066,335,2003,2263/max/0/default.jpg"
+    },
+    {
+      "id": "f9c83399-7172-4649-bff1-b4abcf21708f",
+      "target": {
+        "source": "mishkan:page:189bce48-e52f-44ee-8d1f-2ea21ceaf4a5",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:416.5263157894737,370.5263157894734,1621.052631578947,2194.21052631579"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "ATAH kidashta et yom hashvi-i lishmecha,\ntachlit maaseih shamayim vaaretz.\nUveirachto mikol hayamim,\nv'kidashto mikol haz'manim,\nv'chein katuv b'Toratecha:\nVAY'CHULU hashamayim v'haaretz\nv'chol tz'vaam. Vay'chal Elohim bayom\nhashvi-i m'lachto asher asah,\nvayishbot bayom hashvi-i mikol\nm'lachto asher asah. Vay'varech\nElohim et yom hashvi-i vay'kadeish oto,\nki vo shavat mikol m'lachto\nasher bara Elohim laasot.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-15T15:04:08.353Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xyRM0JS2uzT6MwCE3pQ2"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F189bce48-e52f-44ee-8d1f-2ea21ceaf4a5.jp2/416,370,1621,2194/max/0/default.jpg"
+    },
+    {
+      "id": "606cf621-1687-471e-8d14-366f06685e62",
+      "target": {
+        "source": "mishkan:page:189bce48-e52f-44ee-8d1f-2ea21ceaf4a5",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:433.89473684210526,2576.3157894736837,3560.5263157894733,961.052631578948"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "YOU SET ASIDE the seventh day for Your Name, the pinnacle of Creation; and\nYou blessed it above all other days, more sacred than all Festival times. So it is\nwritten in Your Torah: The heaven and the earth were finished and all their array.\nOn the seventh day, God had completed the work that had been done, ceasing then\non the seventh day from all the work that [God] had done. Then God blessed the\nseventh day and made it holy, and ceased from all the creative work that God [had\nchosen] to do.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-15T15:04:18.278Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xyRM0JS2uzT6MwCE3pQ2"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F189bce48-e52f-44ee-8d1f-2ea21ceaf4a5.jp2/433,2576,3560,961/max/0/default.jpg"
+    },
+    {
+      "id": "ae562020-8244-4c8e-972b-1949bd007a72",
+      "target": {
+        "source": "mishkan:page:189bce48-e52f-44ee-8d1f-2ea21ceaf4a5",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2263.3684210526317,3601.052631578947,1800.5263157894733,1482.1052631578946"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ,\nרְצֵה בִמְנוּחָתֵנוּ. קַדְּשֵׁנוּ בְּמִצְוֹתֶיךָ\nוְתֵן חֶלְקֵנוּ בְתוֹרָתֶךָ,\nשַׁבְּעֵנוּ מְטוּבָךְ וְשַׁמְחֲנוּ בִּישׁוּעָתֶךָ,\nוְטַהֵר לִבֵּנוּ לְעָבְדְּךָ בֶּאֱמֶת,\n>>\nוְהַנְחִילֵנוּ, יְיָ אֱלֹהֵינוּ,\nבְּאַהֲבָה וּבְרָצוֹן שַׁבַּת קָדְשֶׁךְ\nוְיָנוּחוּ בָהּ יִשְׂרָאֵל, מְקַדְּשֵׁי שְׁמֶךְ.\nבָּרוּךְ אַתָּה, יְיָ, מְקַדֵּשׁ הַשַׁבָּת.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-15T15:04:27.082Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xyRM0JS2uzT6MwCE3pQ2"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F189bce48-e52f-44ee-8d1f-2ea21ceaf4a5.jp2/2263,3601,1800,1482/max/0/default.jpg"
+    },
+    {
+      "id": "f6bb4df5-1821-416f-8ee5-94fc1da87ac5",
+      "target": {
+        "source": "mishkan:page:189bce48-e52f-44ee-8d1f-2ea21ceaf4a5",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:433.89473684210526,3577.8947368421045,1771.578947368421,1511.052631578948"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Eloheinu v'Elohei avoteinu v'imoteinu,\nr'tzeih vim'nuchateinu. Kad'sheinu b'mitzvotecha\nv'tein chelkeinu b'Toratecha.\nSabeinu mituvecha, v'samcheinu biy'shuatecha,\nv'taheir libeinu l'ovd'cha be-emet,\nv'hanchileinu Adonai Eloheinu\nb'ahavah uv'ratzon Shabbat kodshecha,\nv'yanuchu vah Yisrael m'kadshei sh'mecha.\nBaruch atah, Adonai, m'kadeish HaShabbat.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-15T15:04:34.994Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xyRM0JS2uzT6MwCE3pQ2"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F189bce48-e52f-44ee-8d1f-2ea21ceaf4a5.jp2/433,3577,1771,1511/max/0/default.jpg"
+    },
+    {
+      "id": "6ddcf56c-ac7d-4b1e-a4e0-a7548d149614",
+      "target": {
+        "source": "mishkan:page:189bce48-e52f-44ee-8d1f-2ea21ceaf4a5",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:370.2105263157896,5042.631578947367,3653.1578947368416,1053.6842105263158"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Our God and God of our ancestors, be pleased with our rest. Sanctify us with Your\nmitzvot, and grant us a share in Your Torah. Satisfy us with Your goodness and gladden\nus with Your salvation. Purify our hearts to serve You in truth. In Your gracious love,\nAdonai our God, grant as our heritage Your Holy Shabbat, that Israel who sanctifies\nYour Name may rest on it. Praise to You, Adonai, who sanctifies Shabbat.\nבָּרוּךְ אַתָּה, יְיָ, מְקַדֵּשׁ הַשַׁבָּת.\nBaruch atah, Adonai, m'kadeish HaShabbat.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-15T15:04:53.736Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xyRM0JS2uzT6MwCE3pQ2"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F189bce48-e52f-44ee-8d1f-2ea21ceaf4a5.jp2/370,5042,3653,1053/max/0/default.jpg"
+    },
+    {
+      "id": "7297e0bf-8c28-45db-a2c2-5b7f50928488",
+      "target": {
+        "source": "mishkan:page:189bce48-e52f-44ee-8d1f-2ea21ceaf4a5",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:362.26223567548,6137.817377444764,2752.2179512863445,265.26210597345107"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Vay'chulu... The heaven and the earth... Genesis 2:1-3",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-15T15:05:04.058Z",
+      "creator": {
+        "isGuest": true,
+        "id": "xyRM0JS2uzT6MwCE3pQ2"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F189bce48-e52f-44ee-8d1f-2ea21ceaf4a5.jp2/362,6137,2752,265/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/172"
+}

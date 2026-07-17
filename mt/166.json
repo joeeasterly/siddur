@@ -1,0 +1,127 @@
+{
+  "_id": "27f103a4-d375-4a38-971f-527462f06472",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 51,
+  "global_page": 177,
+  "file_path": "/app/data/docs/mishkan/27f103a4-d375-4a38-971f-527462f06472.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "annotations": [
+    {
+      "id": "338ae0b9-e91c-4469-84d7-d560441dbb95",
+      "target": {
+        "source": "mishkan:page:27f103a4-d375-4a38-971f-527462f06472",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2104.1417322834645,372.0669291338585,1955.263779527559,2530.925196850393"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בָּרוּךְ אַתָּה, יְיָ אֱלֹהֵינוּ\nוֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ, אֱלֹהֵי\nאַבְרָהָם, אֱלֹהֵי יִצְחָק וֵאלֹהֵי יַעֲקֹב,\nאֱלֹהֵי שָׂרָה, אֱלֹהֵי רִבְקָה, אֱלֹהֵי\nרָחֵל וֵאלֹהֵי לֵאָה. הָאֵל הַגָּדוֹל\nהַגִּבּוֹר וְהַנּוֹרָא, אֵל עֶלְיוֹן, גּוֹמֵל\nחֲסָדִים טוֹבִים וְקוֹנֵה הַכֹּל, וְזוֹכֵר\nחַסְדֵי אָבוֹת וְאִמָּהוֹת, וּמֵבִיא גְאֻלָּה\nלִבְנֵי בְנֵיהֶם לְמַעַן שְׁמוֹ בְּאַהֲבָה.\n*SHABBAT SHUVAH - זָכְרֵנוּ לְחַיִים,\nמֶלֶךְ חָפֵץ בַּחַיִּים,\nוְכָתְבֵנוּ בְּסֵפֶר הַחַיִּים,\nלְמַעַנְךָ אֱלֹהִים חַיִים.\nמֶלֶךְ עוֹזֵר וּמוֹשִׁיעַ וּמָגֵן.\nבָּרוּךְ אַתָּה, יְיָ,\nמָגֵן אַבְרָהָם וְעֶזְרַת שָׂרָה.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-13T17:47:04.477Z",
+      "creator": {
+        "isGuest": true,
+        "id": "t51X4mKX9nyaFzIkUL5V"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F27f103a4-d375-4a38-971f-527462f06472.jp2/2104,372,1955,2530/max/0/default.jpg"
+    },
+    {
+      "id": "bcbe1ef3-84bb-44da-8b63-13432ae23661",
+      "target": {
+        "source": "mishkan:page:27f103a4-d375-4a38-971f-527462f06472",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:347.3818897637795,352.2165354330711,1667.4330708661419,2550.775590551181"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "BARUCH atah, Adonai Eloheinu\nv'Elohei avoteinu v'imoteinu, Elohei\nAvraham, Elohei Yitzchak v'Elohei Yaakov,\nElohei Sarah, Elohei Rivkah, Elohei\nRachel v'Elohei Leah. Ha-El hagadol\nhagibor v'hanora, El elyon, gomeil\nchasadim tovim, v'koneih hakol, v'zocheir\nchasdei avot v'imahot, umeivi g'ulah\nlivnei v'neihem I'maan sh'mo b'ahavah.\n*SHABBAT SHUVAH - Zochreinu l'chayim,\nMelech chafeitz bachayim,\nv'chotveinu b'sefer hachayim,\nI'maancha Elohim chayim.\nMelech ozeir umoshia umagen.\nBaruch atah, Adonai,\nmagein Avraham v'ezrat Sarah.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T17:47:34.698Z",
+      "creator": {
+        "isGuest": true,
+        "id": "t51X4mKX9nyaFzIkUL5V"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F27f103a4-d375-4a38-971f-527462f06472.jp2/347,352,1667,2550/max/0/default.jpg"
+    },
+    {
+      "id": "2be6996a-f7c3-4cd6-820f-3c2d9107b338",
+      "target": {
+        "source": "mishkan:page:27f103a4-d375-4a38-971f-527462f06472",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:377.15748031496054,2992.3188976377946,3642.547244094488,1935.4133858267728"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "BLESSED ARE YOU, Adonai our God, God of our fathers and mothers,\nGod of Abraham, God of Isaac, and God of Jacob,\nGod of Sarah, God of Rebecca, God of Rachel, and God of Leah,\nthe great, mighty and awesome God, transcendent God\nwho bestows loving kindness, creates everything out of love,\nremembers the love of our fathers and mothers,\nand brings redemption to their children's children for the sake of the Divine Name.\n*Shabbat SHUVAH - Remember us for life, O Sovereign who delights in life,\nand inscribe us in the Book of Life, for Your sake, Living God.\nSovereign, Deliverer, Helper and Shield,\nBlessed are You, Adonai, Sarah's Helper, Abraham's Shield.\nבָּרוּךְ אַתָּה, יְיָ, מָגֵן אַבְרָהָם וְעֶזְרַת שָׂרָה.\nBaruch atah, Adonai, magein Avraham v'ezrat Sarah.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T17:47:46.033Z",
+      "creator": {
+        "isGuest": true,
+        "id": "t51X4mKX9nyaFzIkUL5V"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F27f103a4-d375-4a38-971f-527462f06472.jp2/377,2992,3642,1935/max/0/default.jpg"
+    },
+    {
+      "id": "89509a64-55ea-41f8-ad73-6eef128ec7ca",
+      "target": {
+        "source": "mishkan:page:27f103a4-d375-4a38-971f-527462f06472",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:317.6062992125984,5404.141732283464,3771.5748031496064,863.4921259842531"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "*SHABBAT SHUVAH: The Shabbat between Rosh HaShanah and Yom Kippur.\nFor those who choose: At the beginning and end of the blessing, one bends the knees and bows\nfrom the waist at the word Baruch and stands straight at the word \" Adonai.\nAvot v'imahot... As God has been gracious to our forebears, so may we receive\ndivine favor.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T17:48:01.815Z",
+      "creator": {
+        "isGuest": true,
+        "id": "t51X4mKX9nyaFzIkUL5V"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F27f103a4-d375-4a38-971f-527462f06472.jp2/317,5404,3771,863/max/0/default.jpg"
+    }
+  ],
+  "page_label": "166",
+  "page_url": "https://momoiro.hallyu.io/mishkan/166"
+}

@@ -1,0 +1,127 @@
+{
+  "_id": "64376cda-8438-49da-8f1a-bf326e73d8be",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 41,
+  "global_page": 167,
+  "file_path": "/app/data/docs/mishkan/64376cda-8438-49da-8f1a-bf326e73d8be.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "156",
+  "annotations": [
+    {
+      "id": "0b31b29c-c279-43c5-a6cb-291f5bc3f4e6",
+      "target": {
+        "source": "mishkan:page:64376cda-8438-49da-8f1a-bf326e73d8be",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2369.635610766046,376.38198757763934,1685.8861283643892,2855.0455486542446"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "אמת וָאֶמוּנָה כָּל־זֹאת\nוְקַיָּם עָלֵינוּ, כִּי הוּא יְיָ אֱלֹהֵינוּ\nוְאֵין זוּלָתוֹ, וַאֲנַחְנוּ יִשְׂרָאֵל עַמּוֹ.\nהַפּוֹדֵנוּ מִיַּד מְלָכִים, מַלְכֵּנוּ\nהַגּוֹאֲלֵנוּ מִכַּף כָּל־הֶעָרִיצִים,\nהָעוֹשֶׂה גְדוֹלוֹת עַד אֵין חֵקֶר\nוְנִפְלָאוֹת עַד אֵין מִסְפָּר, הַשָּׁם\nנַפְשֵׁנוּ בַּחַיִּים, וְלֹא נָתַן לַמּוֹט\nרַגְלֵנוּ, הָעָשֶׂה לָנוּ נִסִים\nבְּפַרְעֹה, אוֹתוֹת וּמוֹפְתִים\nבְּאַדְמַת בְּנֵי חָם. וַיּוֹצֵא אֶת־\nעַמּוֹ יִשְׂרָאֵל מִתּוֹכָם לְחֵרוּת\nעוֹלָם. וְרָאוּ בָנָיו גְּבוּרָתוֹ, שִׁבְּחוּ\nוְהוֹדוּ לִשְׁמוֹ. וּמַלְכוּתוֹ בְּרָצוֹן\nקִבְּלוּ עֲלֵיהֶם, מֹשֶׁה וּמִרְיָם\nוּבְנֵי יִשְׂרָאֵל לְךָ עָנוּ שִׁירָה\nבְּשִׂמְחָה רַבָּה, וְאָמְרוּ כָלָם:\nT",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T19:55:27.191Z",
+      "creator": {
+        "isGuest": true,
+        "id": "uhHVA6pVgDZvZXknoviQ"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F64376cda-8438-49da-8f1a-bf326e73d8be.jp2/2369,376,1685,2855/max/0/default.jpg"
+    },
+    {
+      "id": "1dde9759-e9eb-4c55-a0d9-96323c77069a",
+      "target": {
+        "source": "mishkan:page:64376cda-8438-49da-8f1a-bf326e73d8be",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:422.7763975155279,376.38198757763934,1419.6935817805384,2849.826086956522"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "EMET ve-emunah kol zot,\nv'kayam aleinu, ki hu Adonai Eloheinu\nv'ein zulato, vaanachnu Yisrael amo.\nHapodeinu miyad m'lachim, Malkeinu\nhago-aleinu mikaf kol he-aritzim,\nhaoseh g'dolot ad ein cheiker\nv'niflaot ad ein mispar, hasam\nnafsheinu bachayim, v'lo natan lamot\nragleinu, haoseh lanu nisim\nb'Faroh, otot umoftim\nb'admat b'nei Cham. Vayotzei et\namo Yisrael mitocham l'cheirut\nolam. V'ra-u vanav g'vurato, shib'chu\nv'hodu lishmo. Umalchuto b'ratzon\nkiblu aleihem. Moshe uMiryam\nuv'nei Yisrael l'cha anu shirah\nb'simchah rabah, v'amru chulam:",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:55:37.914Z",
+      "creator": {
+        "isGuest": true,
+        "id": "uhHVA6pVgDZvZXknoviQ"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F64376cda-8438-49da-8f1a-bf326e73d8be.jp2/422,376,1419,2849/max/0/default.jpg"
+    },
+    {
+      "id": "3220f829-dd44-4b37-bc2b-eaf39b6a609e",
+      "target": {
+        "source": "mishkan:page:64376cda-8438-49da-8f1a-bf326e73d8be",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:448.87370600414073,3267.9637681159415,3027.287784679089,2171.296066252589"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "ALL THIS WE HOLD to be true and trustworthy for us.\nYou alone are our God, and we are Israel Your people.\nYou are our Sovereign and Savior,\nwho delivers us from oppressors' hands\nand saves us from tyrants' fists.\nYou work wonders without number, marvels beyond count.\nYou give us life and steady our footsteps.\nYou performed miracles for us before Pharaoh,\nsigns and wonders in the land of the Egyptians;\nYou led Your people Israel out from their midst to freedom for all time.\nWhen Your children witnessed Your dominance\nthey praised Your Name in gratitude.\nAnd they accepted Your sovereignty\nMoses, Miriam and all Israel sang to You together,\nlifting their voices joyously:",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:55:49.832Z",
+      "creator": {
+        "isGuest": true,
+        "id": "uhHVA6pVgDZvZXknoviQ"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F64376cda-8438-49da-8f1a-bf326e73d8be.jp2/448,3267,3027,2171/max/0/default.jpg"
+    },
+    {
+      "id": "2bdf234a-a601-4ff4-87fa-da45dc04e3a8",
+      "target": {
+        "source": "mishkan:page:64376cda-8438-49da-8f1a-bf326e73d8be",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:381.02070393374737,5731.5496894409935,3507.4782608695655,568.9213250517605"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Haoseh g'dolot... You work wonders... Job 9:10\nHasam nafsheinu bachayim... You give us life... Psalm 66:9",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:55:54.573Z",
+      "creator": {
+        "isGuest": true,
+        "id": "uhHVA6pVgDZvZXknoviQ"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F64376cda-8438-49da-8f1a-bf326e73d8be.jp2/381,5731,3507,568/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/156"
+}

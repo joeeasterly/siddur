@@ -1,0 +1,43 @@
+{
+  "_id": "1cbdcd6e-7af0-4207-9a50-df3e11620bbf",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 12,
+  "global_page": 12,
+  "file_path": "/app/data/docs/mishkan/1cbdcd6e-7af0-4207-9a50-df3e11620bbf.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "xv",
+  "annotations": [
+    {
+      "id": "97667fd7-ae74-47a7-b48b-7d2d7f8600be",
+      "target": {
+        "source": "mishkan:page:1cbdcd6e-7af0-4207-9a50-df3e11620bbf",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:885.4736842105262,272.1052631578946,3716.842105263158,5818.421052631579"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "A Note on Style and Usage\nMishkan T'filah offers many opportunities for diverse usage and worship styles. Most\nof the prayers in this siddur are set as a two-page spread, with the keva (primary,\ntraditional) liturgy on the right-hand page and alternative prayer choices on the left-\nhand side. The right-hand Hebrew text is accompanied by a faithful translation, and\ntransliteration; the left-hand page contains poetry, prayers and kavanot (meditations)\nthematically tied to the keva text but reflecting diverse theological points of view.\nLayouts of the prayers invite different usage. Some passages are set to facilitate\nresponsive readings, though all passages allow for unison offering. It is suggested that\nthe community vary its vocal expression in prayer, with quieter or more exuberant\ntones at appropriate moments, as guided by the worship leader.\nThe two-page spreads are intended so that only one prayer per page spread is read,\neither in Hebrew or English. Once that single piece is prayed, the worshipper turns the\npage. Thus pages need be announced only when they are skipped. (These simple\ninstructions at the beginning of each service will guide new worshippers.) If the\nworship leader begins each prayer slowly, this will help worshippers to locate their\nplaces easily.\nA linear-style service option is offered in Service II for Friday night and Shabbat\nmorning. Linear pages are designed with a blue frame around the page. The English in\nthese services is not a direct translation of the Hebrew prayers.\nTo pray the most traditional liturgy, one would use the right-hand side of the two-\npage spread of any service (except Services II).\n\"Stage directions\" and choreography such as when to stand or sit are minimized for\nmaximum flexibility and with respect for varying congregational customs.\nSpiritual commentaries, notes on rabbinic practices, and source citations span the\nbottom of the pages, below the liturgical frame. The heading \"For those who choose\"\nrefers to Jewish customs established by long usage. While not binding, many\ncongregants will find them meaningful, and their use can enhance one's kavanah. Text\nsources are abbreviated: M. Shabbat 2:1 is read as Mishnah Shabbat, chapter 2,\nparagraph 1. Shabbat 2b-3a refers to the Talmud tractate Shabbat, page 2b to page 3a.\nRubric headings are on the outside margins, indicating the current prayer's place\nwithin the service.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T15:48:52.174Z",
+      "creator": {
+        "isGuest": true,
+        "id": "vj2HGBiVQf1dVgrHkm3J"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1cbdcd6e-7af0-4207-9a50-df3e11620bbf.jp2/885,272,3716,5818/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/xv"
+}

@@ -1,0 +1,127 @@
+{
+  "_id": "07d12af4-c485-4dfc-ae8d-e5bbe16b138e",
+  "source_file": "5.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 2,
+  "global_page": 189,
+  "file_path": "/app/data/docs/mishkan/07d12af4-c485-4dfc-ae8d-e5bbe16b138e.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "178",
+  "annotations": [
+    {
+      "id": "e392876d-ac5a-476d-b310-90382b921eae",
+      "target": {
+        "source": "mishkan:page:07d12af4-c485-4dfc-ae8d-e5bbe16b138e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2271.7474429583003,347.91502753737245,1817.4665617623918,2461.3690007867826"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "שָׁלוֹם רָב עַל יִשְׂרָאֵל עַמָּךְ\nתָּשִׂים לְעוֹלָם,\nכִּי אַתָּה הוּא מֶלֶךְ אָדוֹן\nלְכָל הַשָּׁלוֹם.\nוְטוֹב בְּעֵינֶיךָ לְבָרֵךְ\nאֶת עַמְךְ יִשְׂרָאֵל\nבְּכָל עֵת וּבְכָל שָׁעָה בִּשְׁלוֹמֶךְ.\nSHABBAT SHUVAH - בְּסֵפֶר חַיִּים,\nבְּרָכָה וְשָׁלוֹם וּפַרְנָסָה טוֹבָה,\nנִזְכֵר וְנִכָּתֵב לְפָנֶיךָ,\nאֲנַחְנוּ וְכָל עַמְךְ בֵּית יִשְׂרָאֵל,\nלְחַיִּים טוֹבִים וּלְשָׁלוֹם.\nבָּרוּךְ אַתָּה, יְיָ, עוֹשֶׂה הַשָׁלוֹם.\nבָּרוּךְ אַתָּה, יְיָ,\nהַמְבָרֵךְ אֶת עַמּוֹ יִשְׂרָאֵל בַּשָׁלוֹם.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:49:04.718Z",
+      "creator": {
+        "isGuest": true,
+        "id": "RlSS4seyghrqFTwumrqq"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F07d12af4-c485-4dfc-ae8d-e5bbe16b138e.jp2/2271,347,1817,2461/max/0/default.jpg"
+    },
+    {
+      "id": "7fcad597-c658-4ade-a492-88576781f51d",
+      "target": {
+        "source": "mishkan:page:07d12af4-c485-4dfc-ae8d-e5bbe16b138e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:350.4256490952006,368.6860739575135,1542.2501966955151,2445.7907159716765"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "SHALOM RAV al Yisrael amcha\ntasim l'olam,\nki atah hu Melech Adon\nl'chol hashalom.\nV'tov b'einecha l'vareich\net amcha Yisrael\nb'chol eit uv'chol shaah bishlomecha.\nSHABBAT SHUVAH-B'sefer chayim,\nb'rachah, v'shalom, ufarnasah tovah,\nnizacheir v’nikateiv l'fanecha,\nanachnu v'chol amcha beit Yisrael,\nl'chayim tovim ul'shalom.\nBaruch atah, Adonai, oseih hashalom.\nBaruch atah, Adonai,\nham'vareich et amo Yisrael bashalom.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:49:12.301Z",
+      "creator": {
+        "isGuest": true,
+        "id": "RlSS4seyghrqFTwumrqq"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F07d12af4-c485-4dfc-ae8d-e5bbe16b138e.jp2/350,368,1542,2445/max/0/default.jpg"
+    },
+    {
+      "id": "d7546137-fa5e-4fe8-ac15-4667f2f5b006",
+      "target": {
+        "source": "mishkan:page:07d12af4-c485-4dfc-ae8d-e5bbe16b138e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:573.7143981117232,2928.717545239969,3120.8497246262787,2482.1400472069245"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "GRANT ABUNDANT PEACE to Israel Your people forever,\nfor You are the Sovereign God of all peace.\nMay it be pleasing to You to bless Your people Israel\nin every season and moment with Your peace.\nSHABBAT SHUVAH\nIn the book of life, blessing, peace and prosperity,\nmay we be remembered and inscribed by You,\nwe and all Your people Israel for a good life and for peace.\nBlessed are You, Adonai, who makes peace.\nבָּרוּךְ אַתָּה, יְיָ, עוֹשֶׂה הַשָׁלוֹם.\nBaruch atah, Adonai, oseih hashalom.\nBlessed are You, Adonai, who blesses Your people Israel with\npeace.\nבָּרוּךְ אַתָּה, יְיָ הַמְבָרֵךְ אֶת עַמּוֹ יִשְׂרָאֵל בַּשָׁלוֹם.\n1T:\nBaruch atah, Adonai, ham'vareich et amo Yisrael bashalom.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:49:22.133Z",
+      "creator": {
+        "isGuest": true,
+        "id": "RlSS4seyghrqFTwumrqq"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F07d12af4-c485-4dfc-ae8d-e5bbe16b138e.jp2/573,2928,3120,2482/max/0/default.jpg"
+    },
+    {
+      "id": "49aa7583-ca23-4ca6-a95a-b860b939b61f",
+      "target": {
+        "source": "mishkan:page:07d12af4-c485-4dfc-ae8d-e5bbe16b138e",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:355.6184107002358,5847.049567269867,3712.8245476003153,566.0110149488592"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "\"Seek peace and pursue it.\" (Psalm 34:15)... The midrash observes, we must “seek\"\nour own place, and “pursue it\" in every other place. Numbers Rabbah, Chukat 19:27\npeace\nin",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:49:35.528Z",
+      "creator": {
+        "isGuest": true,
+        "id": "RlSS4seyghrqFTwumrqq"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F07d12af4-c485-4dfc-ae8d-e5bbe16b138e.jp2/355,5847,3712,566/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/178"
+}

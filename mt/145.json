@@ -1,0 +1,127 @@
+{
+  "_id": "6018d4fb-ce9c-48c7-b994-853a4e612645",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 30,
+  "global_page": 156,
+  "file_path": "/app/data/docs/mishkan/6018d4fb-ce9c-48c7-b994-853a4e612645.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "145",
+  "annotations": [
+    {
+      "id": "56169565-ce5b-4f25-a894-6b40638e1be2",
+      "target": {
+        "source": "mishkan:page:6018d4fb-ce9c-48c7-b994-853a4e612645",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2829.6708074534163,1027.9254658385094,1724.9006211180122,2365.875776397516"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "למדני, אֱלֹהִי, בָּרֵךְ וְהִתְפַּלֵּל\nעל סוֹד עָלֶה קָמֵל,\nעַל נְגַהּ פְּרִי בָּשֵׁל,\nעַל הַחֲרוּת הַזֹּאת:\nלִרְאוֹת, לָחוּשׁ, לִנְשֹׁם,\nלָדַעַת, לְיַחֵל, לְהִכָּשֵׁל.\nלַמֵּד אֶת שִׂפְתוֹתַי\nבְּרָכָה וְשִׁיר הַלֵּל,\nבְּהִתְחַדֵּשׁ זְמַנְךְ\nעם בְּקֶר וְעִם לֵיל,\nלְבַל יִהְיֶה יוֹמִי הַיּוֹם\nכִּתְמוֹל שִׁלְשׁוֹם,\nלְבַל יִהְיֶה עָלַי יּוֹמִי הֶרְגֵל.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T19:48:13.134Z",
+      "creator": {
+        "isGuest": true,
+        "id": "pkthB90MDdhVAuOYaXRX"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6018d4fb-ce9c-48c7-b994-853a4e612645.jp2/2829,1027,1724,2365/max/0/default.jpg"
+    },
+    {
+      "id": "a43f56bc-e2d4-4285-8fa6-4c5fbd76f73e",
+      "target": {
+        "source": "mishkan:page:6018d4fb-ce9c-48c7-b994-853a4e612645",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:812.9440993788819,1080.0372670807456,1625.888198757764,2303.341614906832"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "LAMDEINI, Elohai, bareich v’hitpaleil\nal sod aleh kameil,\nal nogah p'ri basheil,\nal hacheirut hazot;\nLirot, lachush, linshom,\nladaat, layacheil, l'hikasheil.\nLameid et siftotai\nb'rachah v'shir hallel,\nb'hit'chadeish z'mancha\nim boker v'im leil,\nI'val yih'yeh yomi hayom\nkitmol shilshom,\nI'val yih'yeh alai yomi hergeil.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:48:23.313Z",
+      "creator": {
+        "isGuest": true,
+        "id": "pkthB90MDdhVAuOYaXRX"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6018d4fb-ce9c-48c7-b994-853a4e612645.jp2/812,1080,1625,2303/max/0/default.jpg"
+    },
+    {
+      "id": "17f572d4-cfb1-43b8-8bea-e8467eebe9f5",
+      "target": {
+        "source": "mishkan:page:6018d4fb-ce9c-48c7-b994-853a4e612645",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1532.0869565217392,3492.8136645962736,1943.7701863354034,1657.1552795031062"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "TEACH ME, O God, a blessing, a prayer\non the mystery of a withered leaf,\non ripened fruit so fair,\non the freedom to see, to sense,\nto breathe, to know, to hope, to despair.\nTeach my lips a blessing, a hymn of praise,\nas each morning and night\nYou renew Your days,\nlest my day be today as the one before;\nlest routine set my ways.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:48:34.539Z",
+      "creator": {
+        "isGuest": true,
+        "id": "pkthB90MDdhVAuOYaXRX"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6018d4fb-ce9c-48c7-b994-853a4e612645.jp2/1532,3492,1943,1657/max/0/default.jpg"
+    },
+    {
+      "id": "f977c1af-ac12-48b3-9d9c-a4f11764b33d",
+      "target": {
+        "source": "mishkan:page:6018d4fb-ce9c-48c7-b994-853a4e612645",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1547.72049689441,5431.372670807455,2193.9068322981366,672.2422360248429"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "ENTRANCES to holiness are everywhere.\nThe possibility of ascent is all the time,\neven at unlikely times and through unlikely places.\nThere is no place on earth without the Presence.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:48:39.499Z",
+      "creator": {
+        "isGuest": true,
+        "id": "pkthB90MDdhVAuOYaXRX"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6018d4fb-ce9c-48c7-b994-853a4e612645.jp2/1547,5431,2193,672/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/145"
+}

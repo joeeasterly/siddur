@@ -1,0 +1,99 @@
+{
+  "_id": "424d385a-a4aa-4105-9a59-f238801ca8dc",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 58,
+  "global_page": 184,
+  "file_path": "/app/data/docs/mishkan/424d385a-a4aa-4105-9a59-f238801ca8dc.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "173",
+  "annotations": [
+    {
+      "id": "a1a0ae5d-6aec-4ec1-9bb3-cbffdfd7f422",
+      "target": {
+        "source": "mishkan:page:424d385a-a4aa-4105-9a59-f238801ca8dc",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1238.6315789473683,387.8947368421053,2558.9473684210525,1615.2631578947367"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "MAY THESE HOURS of rest and renewal\nopen our hearts to joy and our minds to truth.\nMay all who struggle find rest on this day.\nMay all who suffer find solace.\nMay all who hurt find healing on this day.\nMay all who despair find purpose.\nMay all who hunger find fulfillment on this day.\nAnd may this day fulfill its promise.\nבָּרוּךְ אַתָּה, יְיָ, מְקַדֵּשׁ הַשַׁבָּת.\nBaruch atah, Adonai, m'kadeish HaShabbat.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-15T15:05:20.255Z",
+      "creator": {
+        "isGuest": true,
+        "id": "kSajKjgU47698EyZ4uu9"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F424d385a-a4aa-4105-9a59-f238801ca8dc.jp2/1238,387,2558,1615/max/0/default.jpg"
+    },
+    {
+      "id": "7fdaa8de-5ab4-42d3-bbcb-f2d8aac461c2",
+      "target": {
+        "source": "mishkan:page:424d385a-a4aa-4105-9a59-f238801ca8dc",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1354.4210526315787,2147.894736842105,2952.631578947368,3178.421052631579"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "DISTURB US, Adonai, ruffle us from our complacency;\nMake us dissatisfied. Dissatisfied with the peace of ignorance,\nthe quietude which arises from a shunning of the horror, the defeat,\nthe bitterness and the poverty, physical and spiritual, of humans.\nShock us, Adonai, deny to us the false Shabbat which gives us\nthe delusions of satisfaction amid a world of war and hatred;\nWake us, O God, and shake us\nfrom the sweet and sad poignancies rendered by\nhalf forgotten melodies and rubric prayers of yesteryears;\nMake us know that the border of the sanctuary\nis not the border of living\nand the walls of Your temples are not shelters\nfrom the winds of truth, justice and reality.\nDisturb us, O God, and vex us;\nlet not Your Shabbat be a day of torpor and slumber;\nlet it be a time to be stirred and spurred to action.\nבָּרוּךְ אַתָּה, יְיָ, מְקַדֶשׁ הַשַׁבָּת.\nBaruch atah, Adonai, m'kadeish HaShabbat.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-15T15:05:25.662Z",
+      "creator": {
+        "isGuest": true,
+        "id": "kSajKjgU47698EyZ4uu9"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F424d385a-a4aa-4105-9a59-f238801ca8dc.jp2/1354,2147,2952,3178/max/0/default.jpg"
+    },
+    {
+      "id": "ab81dea7-4d16-4752-906b-b1d043039441",
+      "target": {
+        "source": "mishkan:page:424d385a-a4aa-4105-9a59-f238801ca8dc",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:920.2105263157894,5609.999999999999,3739.999999999999,764.21052631579"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "The meaning of Shabbat is to celebrate time rather than space. Six days a week we live under the\ntyranny of things in space; on Shabbat we try to become attuned to the holiness of time. It is a\nday on which we are called upon to share in what is eternal in time, to turn from the results of\nCreation to the mystery of Creation, from the world of Creation to the creation of the world.\nAbraham Joshua Heschel",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-15T15:05:33.297Z",
+      "creator": {
+        "isGuest": true,
+        "id": "kSajKjgU47698EyZ4uu9"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F424d385a-a4aa-4105-9a59-f238801ca8dc.jp2/920,5609,3739,764/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/173"
+}

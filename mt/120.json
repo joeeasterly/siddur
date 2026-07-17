@@ -1,0 +1,155 @@
+{
+  "_id": "6c4bac16-639d-4efb-80fc-190ead3118e5",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 5,
+  "global_page": 131,
+  "file_path": "/app/data/docs/mishkan/6c4bac16-639d-4efb-80fc-190ead3118e5.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "120",
+  "annotations": [
+    {
+      "id": "472d82aa-c0d0-45bb-bcf5-0b5401f93d55",
+      "target": {
+        "source": "mishkan:page:6c4bac16-639d-4efb-80fc-190ead3118e5",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1272.0593711372094,471.08336404912694,2023.4616424598266,699.5574734045181"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "קַבָּלַת פָּנִים\nKABBALAT PANIM WELCOMING",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-13T00:50:07.883Z",
+      "creator": {
+        "isGuest": true,
+        "id": "MSxUv3A0geR5JO2T1Gm7"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6c4bac16-639d-4efb-80fc-190ead3118e5.jp2/1272,471,2023,699/max/0/default.jpg"
+    },
+    {
+      "id": "5387f68f-98f3-4ded-b47d-5445980ee7e4",
+      "target": {
+        "source": "mishkan:page:6c4bac16-639d-4efb-80fc-190ead3118e5",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2866.443273078068,1829.5445766378227,1223.8987000368911,941.31837144623"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בָּרוּךְ אַתָּה, יְיָ\nאֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,\nאֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו,\nוְצִוָּנוּ לְהַדְלִיק\nנֵר שֶׁל שַׁבָּת.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-13T00:50:21.198Z",
+      "creator": {
+        "isGuest": true,
+        "id": "MSxUv3A0geR5JO2T1Gm7"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6c4bac16-639d-4efb-80fc-190ead3118e5.jp2/2866,1829,1223,941/max/0/default.jpg"
+    },
+    {
+      "id": "11977c5d-3fac-48e8-8916-8ef43024ae2f",
+      "target": {
+        "source": "mishkan:page:6c4bac16-639d-4efb-80fc-190ead3118e5",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:406.1407988257138,1871.3172301237992,1087.2740265760199,908.6913331766423"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "BARUCH atah, Adonai\nEloheinu, Melech haolam,\nasher kid'shanu b'mitzvotav,\nv'tzivanu l'hadlik\nner shel Shabbat.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:50:37.149Z",
+      "creator": {
+        "isGuest": true,
+        "id": "MSxUv3A0geR5JO2T1Gm7"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6c4bac16-639d-4efb-80fc-190ead3118e5.jp2/406,1871,1087,908/max/0/default.jpg"
+    },
+    {
+      "id": "70f22ddf-cbe5-4207-8eaa-6fe7766802ab",
+      "target": {
+        "source": "mishkan:page:6c4bac16-639d-4efb-80fc-190ead3118e5",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:874.2186727441316,2830.9342166254623,2840.0484780593324,527.7667258961683"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "BLESSED ARE YOU, Adonai our God, Sovereign of the universe,\nwho hallows us with mitzvot,\ncommanding us to kindle the light of Shabbat.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:50:47.086Z",
+      "creator": {
+        "isGuest": true,
+        "id": "MSxUv3A0geR5JO2T1Gm7"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6c4bac16-639d-4efb-80fc-190ead3118e5.jp2/874,2830,2840,527/max/0/default.jpg"
+    },
+    {
+      "id": "64476a7d-5bd2-492b-a6b8-216b79c84bcf",
+      "target": {
+        "source": "mishkan:page:6c4bac16-639d-4efb-80fc-190ead3118e5",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:455.49627546486744,5674.074817601888,3687.3005029652963,594.115077330126"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Shabbat Candle Blessing - The mitzvah of kindling Shabbat lights in the home is an early rabbinic\npractice (M. Shabbat 2:1ff.) The Shabbat candle blessing is first recorded in the ninth-century\nprayerbook, Seder Rav Amram. Lighting Shabbat candles as part of the synagogue service is an\ninnovation of Reform Judaism.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:50:58.501Z",
+      "creator": {
+        "isGuest": true,
+        "id": "MSxUv3A0geR5JO2T1Gm7"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6c4bac16-639d-4efb-80fc-190ead3118e5.jp2/455,5674,3687,594/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/120"
+}

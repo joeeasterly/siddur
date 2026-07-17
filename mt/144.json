@@ -1,0 +1,128 @@
+{
+  "_id": "bfa9d93a-ba41-4372-a505-b151511a8b22",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 29,
+  "global_page": 155,
+  "file_path": "/app/data/docs/mishkan/bfa9d93a-ba41-4372-a505-b151511a8b22.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "144",
+  "annotations": [
+    {
+      "id": "62dc84c0-1272-4656-abb9-8baab338bb9f",
+      "target": {
+        "source": "mishkan:page:bfa9d93a-ba41-4372-a505-b151511a8b22",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2408.105263157895,1134.7368421052633,1690.5263157894733,2784.736842105263"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵהּ רַבָּא\nבְּעָלְמָא דִי בְרָא כִרְעוּתֵהּ,\nוְיַמְלִיךְ מַלְכוּתֵהּ\nבְּחַיֵּיכוֹן וּבְיוֹמֵיכוֹן\nוּבְחַיֵּי דְכָל בֵּית יִשְׂרָאֵל,\nבַּעֲגָלָא וּבִזְמַן קָרִיב,\nוְאִמְרוּ: אָמֵן.\nיְהֵא שְׁמֵהּ רַבָּא מְבָרַךְ\nלְעָלַם וּלְעָלְמֵי עָלְמַיָּא.\nיִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר\nוְיִתְרוֹמַם וְיִתְנַשֵׂא,\nוְיִתְהַדָּר וְיִתְעַלֶּה וְיִתְהַלֵּל\nשְׁמֵהּ דְּקָדְשָׁא בְּרִיךְ הוּא,\nלְעֵלָא מִן כָּל בִּרְכָתָא וְשִׁירָתָא,\nתִּשְׁבְּחָתָא וְנֶחֱמָתָא,\nדַּאֲמִירָן בְּעָלְמָא, וְאִמְרוּ: אָמֵן.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T19:05:36.050Z",
+      "creator": {
+        "isGuest": true,
+        "id": "ZVPOzXzcEZyIGeHZRggX"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbfa9d93a-ba41-4372-a505-b151511a8b22.jp2/2408,1134,1690,2784/max/0/default.jpg"
+    },
+    {
+      "id": "efa89ab7-c5f1-4e07-a029-90c29ca19c09",
+      "target": {
+        "source": "mishkan:page:bfa9d93a-ba41-4372-a505-b151511a8b22",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:410.73684210526335,1146.315789473684,1592.105263157895,2761.5789473684217"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "YITGADAL v'yitkadash sh’meih raba\nb'alma di vra chiruteih,\nv'yamlich malchuteih\nb'chayeichon\nuv'yomeichon\nuv'chayei d'chol beit Yisrael,\nbaagala uvizman kariv,\nv'imru: Amen.\nY'hei sh'meih raba m'varach\nl'alam ul'almei almaya.\nYitbarach v'yishtabach v'yitpaar\nv'yitromam v'yitnasei,\nv'yit'hadar v'yitaleh v'yit’halal\nsh'meih d'kudsha b'rich hu,\nl'eila min kol birchata v'shirata,\ntushb'chata v'nechemata,\ndaamiran b'alma, v'imru: Amen.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:05:46.850Z",
+      "creator": {
+        "isGuest": true,
+        "id": "ZVPOzXzcEZyIGeHZRggX"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbfa9d93a-ba41-4372-a505-b151511a8b22.jp2/410,1146,1592,2761/max/0/default.jpg"
+    },
+    {
+      "id": "afbd36a9-1277-4996-800a-be4b1a6979c5",
+      "target": {
+        "source": "mishkan:page:bfa9d93a-ba41-4372-a505-b151511a8b22",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:451.2631578947368,4029.37496435481,2952.631578947369,1870"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "EXALTED and hallowed be God's great name,\nin the world which God created, according to plan.\nMay God's majesty be revealed in the days of our lifetime\nand the life of all Israel\nspeedily, imminently.\nTo which we say: Amen.\nBlessed be God's great name to all eternity.\nBlessed, praised, honored, exalted,\nextolled, glorified, adored, and lauded\nbe the name of the Holy Blessed One,\nbeyond all earthly words and songs of blessing, praise, and comfort.\nTo which we say: Amen.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:06:02.284Z",
+      "creator": {
+        "isGuest": true,
+        "id": "ZVPOzXzcEZyIGeHZRggX"
+      },
+      "modified": "2026-07-14T19:47:56.198Z",
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbfa9d93a-ba41-4372-a505-b151511a8b22.jp2/451,4029,2952,1870/max/0/default.jpg"
+    },
+    {
+      "id": "fe41d6b3-8587-4ce0-b255-b80f09be6136",
+      "target": {
+        "source": "mishkan:page:bfa9d93a-ba41-4372-a505-b151511a8b22",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:454.2440674856165,5973.2398671268675,3656.5681882946787,323.85064469598547"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "The WTP Kaddish is marked by long strings of synonyms of praise. The rhythmic repetition of\nthese words is meant to aid one in achieving a higher meditational state. Judith Z. Abrams",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:48:03.188Z",
+      "creator": {
+        "isGuest": true,
+        "id": "ZVPOzXzcEZyIGeHZRggX"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbfa9d93a-ba41-4372-a505-b151511a8b22.jp2/454,5973,3656,323/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/144"
+}

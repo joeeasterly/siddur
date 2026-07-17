@@ -1,0 +1,235 @@
+{
+  "_id": "1d22ad1b-bafa-48a8-bf42-71ae4eb2c142",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 14,
+  "global_page": 140,
+  "file_path": "/app/data/docs/mishkan/1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "129",
+  "annotations": [
+    {
+      "id": "86455c17-8652-4b18-947d-f2197538a253",
+      "target": {
+        "source": "mishkan:page:1d22ad1b-bafa-48a8-bf42-71ae4eb2c142",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2739.8947368421054,804.7368421052628,1864.2105263157896,833.6842105263162"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "דּוֹדִי לִי וַאֲנִי לוֹ הָרֹעֶה בַּשׁוֹשַׁנִּים.\nמִי זֹאת עֹלָה מִן־הַמִּדְבָּר,\nמְקֶטֶרֶת מוֹר וּלְבוֹנָה\nלִבַּבְתִּנִי, אֲחֹתִי כַלָּה.\nעוּרִי צָפוֹן וּבוֹאִי תֵימָן",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:41:21.810Z",
+      "creator": {
+        "isGuest": true,
+        "id": "G2ZvXM_0NibL6AXnYXFI"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/2739,804,1864,833/max/0/default.jpg"
+    },
+    {
+      "id": "067edfbd-7d2b-4f36-8c06-a810fda29ed7",
+      "target": {
+        "source": "mishkan:page:1d22ad1b-bafa-48a8-bf42-71ae4eb2c142",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:3284.105263157895,3016.3157894736846,1279.4736842105267,532.6315789473683"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "קוֹל דּוֹדִי הִנֵּה זֶה־בָּא,\nמְדַלֵּג עַל־הֶהָרִים,\nמְקַפֵּץ עַל־הַגְּבָעוֹת.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:41:32.467Z",
+      "creator": {
+        "isGuest": true,
+        "id": "G2ZvXM_0NibL6AXnYXFI"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/3284,3016,1279,532/max/0/default.jpg"
+    },
+    {
+      "id": "4fce978c-5543-4a67-9e29-333f02c5f94d",
+      "target": {
+        "source": "mishkan:page:1d22ad1b-bafa-48a8-bf42-71ae4eb2c142",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2820.9473684210525,4469.473684210528,1713.6842105263158,382.1052631578941"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "כִּי אֶשְׁמְרָה שַׁבָּת אֵל יִשְׁמְרֵנִי.\nאוֹת הִיא לְעוֹלְמֵי עַד בֵּינוֹ וּבֵינִי.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:41:48.363Z",
+      "creator": {
+        "isGuest": true,
+        "id": "G2ZvXM_0NibL6AXnYXFI"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/2820,4469,1713,382/max/0/default.jpg"
+    },
+    {
+      "id": "05059298-c6c5-4f28-abda-1a2f1ffbaea2",
+      "target": {
+        "source": "mishkan:page:1d22ad1b-bafa-48a8-bf42-71ae4eb2c142",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:3093.0526315789475,5662.105263157895,1435.7894736842109,364.73684210526335"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "אֵלֶּה חָמְדָה לִבִּי,\nחוּסָה כָּא וְאַל נָא תִּתְעַלָם.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T17:41:58.012Z",
+      "creator": {
+        "isGuest": true,
+        "id": "G2ZvXM_0NibL6AXnYXFI"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/3093,5662,1435,364/max/0/default.jpg"
+    },
+    {
+      "id": "2e98c00c-6f45-4281-a456-857006365766",
+      "target": {
+        "source": "mishkan:page:1d22ad1b-bafa-48a8-bf42-71ae4eb2c142",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3017.789473684211,712.1052631578943 3029.3684210526317,509.4736842105258 916.210526315789,665.7894736842104 898.8421052631574,2420 4604.105263157895,2501.0526315789475 4343.578947368421,1719.4736842105262 2635.684210526316,1678.9473684210525 2664.6315789473683,729.473684210526\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Dodi li vaani lo haro-eh bashoshanim.\nMi zot olah min hamidbar,\nM'kuteret mor ul'vonah . . .\nLibavtini achoti chalah.\nUri tzafon uvo-i teiman ...\nDODI LI\nMy beloved is mine and I am my beloved's who browses among the lilies.\nWho is this that comes up from the desert, in clouds of myrrh and frankincense?\nYou have captured my heart, my sister, my bride.\nAwake, O north wind, come, O south wind!\n(Song of Songs 2:16; 3:6; 4:9, 16)",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:42:22.922Z",
+      "creator": {
+        "isGuest": true,
+        "id": "G2ZvXM_0NibL6AXnYXFI"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/898,509,3706,1992/max/0/default.jpg"
+    },
+    {
+      "id": "ffbe3bc0-4718-4814-b4b6-410b446e27e0",
+      "target": {
+        "source": "mishkan:page:1d22ad1b-bafa-48a8-bf42-71ae4eb2c142",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3087.2631578947367,2883.1578947368425 3087.2631578947367,2721.0526315789475 829.3684210526312,2807.8947368421054 927.7894736842101,3965.7894736842113 4633.0526315789475,3971.5789473684217 4505.684210526317,3630.0000000000005 3156.7368421052633,3583.684210526316\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Kol dodi hinei zeh ba,\nmidaleig al heharim,\nKOL DODI\nm'kapeitz al hag'vaot.\nHark! My beloved comes leaping over the mountains, bounding over the hills.\n(Song of Songs 2:8)",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:42:38.729Z",
+      "creator": {
+        "isGuest": true,
+        "id": "G2ZvXM_0NibL6AXnYXFI"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/829,2721,3804,1250/max/0/default.jpg"
+    },
+    {
+      "id": "d80f457f-4731-4954-b590-f2abd0b11d99",
+      "target": {
+        "source": "mishkan:page:1d22ad1b-bafa-48a8-bf42-71ae4eb2c142",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3440.421052631579,4353.684210526316 3382.5263157894738,4180.000000000001 881.4736842105258,4261.052631578948 921.9999999999994,5181.578947368422 4627.263157894738,5175.782026674243 4523.0526315789475,4955.789473684211 2745.684210526316,4909.473684210527 2763.0526315789475,4411.578947368422\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "KI ESHM'RAH SHABBAT\nKi eshm'rah Shabbat El yishm'reini.\nOt hi l'olmei ad beino uveini.\nWhen I keep Shabbat, God watches over me. It is a sign forever between God and me.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:42:54.369Z",
+      "creator": {
+        "isGuest": true,
+        "id": "G2ZvXM_0NibL6AXnYXFI"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/881,4180,3746,1001/max/0/default.jpg"
+    },
+    {
+      "id": "87e4fc05-a7df-4c66-a3be-cfd7389cb684",
+      "target": {
+        "source": "mishkan:page:1d22ad1b-bafa-48a8-bf42-71ae4eb2c142",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3741.4736842105262,6270 875.6842105263154,6258.421052631579 945.1578947368416,5256.842105263159 3428.8421052631584,5320.526315789475 3382.5263157894738,5557.894736842107 2954.1052631578946,5592.631578947368 2988.842105263158,6084.736842105264 3718.315789473684,6102.105263157895\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Eileh chamdah libi,\nchusah na v'al na titalam.\nEILEH CHAMDAH LIBI\nGod is my heart's desire. Appear! Do not hide.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:44:02.655Z",
+      "creator": {
+        "isGuest": true,
+        "id": "G2ZvXM_0NibL6AXnYXFI"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/875,5256,2866,1014/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/129"
+}

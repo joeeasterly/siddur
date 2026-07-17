@@ -1,0 +1,69 @@
+{
+  "_id": "61e3a0dd-1f98-4276-9ff2-d681d049bd83",
+  "source_file": "1.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 1,
+  "global_page": 1,
+  "file_path": "/app/data/docs/mishkan/61e3a0dd-1f98-4276-9ff2-d681d049bd83.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "annotations": [
+    {
+      "id": "5d59be97-aadd-43ae-a8c0-a109e82ab07b",
+      "target": {
+        "source": "mishkan:page:61e3a0dd-1f98-4276-9ff2-d681d049bd83",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:774.0940917968752,3455.95703125,3039.1927246093746,384.8569824218753"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "MISHKAN T'FILAH"
+        }
+      ],
+      "created": "2026-07-11T14:08:29.707Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QCp1y426g9yA5n1XuCnD"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F61e3a0dd-1f98-4276-9ff2-d681d049bd83.jp2/774,3455,3039,384/max/0/default.jpg"
+    },
+    {
+      "id": "23816cf2-c51f-4a79-b2dc-0d83c2d0bc3b",
+      "target": {
+        "source": "mishkan:page:61e3a0dd-1f98-4276-9ff2-d681d049bd83",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:634.6100585937503,2583.04658203125,3206.4851562499994,953.4020996093755"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "משכן תפלה"
+        }
+      ],
+      "created": "2026-07-11T14:09:11.659Z",
+      "creator": {
+        "isGuest": true,
+        "id": "QCp1y426g9yA5n1XuCnD"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F61e3a0dd-1f98-4276-9ff2-d681d049bd83.jp2/634,2583,3206,953/max/0/default.jpg"
+    }
+  ],
+  "page_label": "half-title",
+  "page_url": "https://momoiro.hallyu.io/mishkan/half-title"
+}

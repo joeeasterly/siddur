@@ -1,0 +1,43 @@
+{
+  "_id": "e412f548-06bd-43c1-9116-f2e0176da553",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 11,
+  "global_page": 137,
+  "file_path": "/app/data/docs/mishkan/e412f548-06bd-43c1-9116-f2e0176da553.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "annotations": [
+    {
+      "id": "a71193a3-f259-4b00-a770-605a5684bc82",
+      "target": {
+        "source": "mishkan:page:e412f548-06bd-43c1-9116-f2e0176da553",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1128.771735788016,1049.0642382571075,2175.8635392428873,2591.9557323856616"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "I BEGIN WITH A PRAYER of gratitude\nfor all that is holy in my life.\nGod needs no words, no English or Hebrew,\nno semantics and no services.\nBut I need them.\nThrough prayer, I can sense my inner strength,\nmy inner purpose,\nmy inner joy, my capacity to love.\nAs I reach upward in prayer,\nCreator.\nI sense these qualities in my\nTo love God is to love each other,\nto work to make our lives better.\nTo love God is to love the world God created\nand to work to perfect it.\nTo love God is to love dreams of peace and joy\nthat illumine all of us,\nand to bring that vision to life.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-13T00:59:51.513Z",
+      "creator": {
+        "isGuest": true,
+        "id": "3fGjXKYhq8Fk3PgxDVGA"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe412f548-06bd-43c1-9116-f2e0176da553.jp2/1128,1049,2175,2591/max/0/default.jpg"
+    }
+  ],
+  "page_label": "126",
+  "page_url": "https://momoiro.hallyu.io/mishkan/126"
+}

@@ -1,0 +1,98 @@
+{
+  "_id": "4fe97ad8-b22f-449d-860d-dfcb9ac05cf1",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 21,
+  "global_page": 147,
+  "file_path": "/app/data/docs/mishkan/4fe97ad8-b22f-449d-860d-dfcb9ac05cf1.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "136",
+  "annotations": [
+    {
+      "id": "59c483ee-9d5a-485d-89a5-3db453ebb66b",
+      "target": {
+        "source": "mishkan:page:4fe97ad8-b22f-449d-860d-dfcb9ac05cf1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2373.3684210526317,752.6315789473687,1592.105263157895,2165.263157894737"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "מִזְמוֹר לְדָוִד.\nהָבוּ לַייָ בְּנֵי אֵלִים,\nהָבוּ לַייָ כָּבוֹד וָעֹז.\nהָבוּ לַייָ כְּבוֹד שְׁמוֹ,\nהִשְׁתַּחֲווּ לַייָ בְּהַדְרַת קְדֶשׁ.\nקוֹל יְיָ עַל־הַמָּיִם,\nאֵל הַכָּבוֹד הִרְעִים,\nT:\nיְיָ עַל־מַיִם רַבִּים.\nT:\nT\n>>\nקוֹל יְיָ בַּכֹּחַ קוֹל יְיָ בֶּהָדָר.\nקוֹל יְיָ שֹׁבֵר אֲרָזִים\nT\nוַיְשַׁבֵּר יְיָ אֶת־אַרְזֵי הַלְבָנוֹן,\nT:\nוַיַּרְקִידֵם כְּמוֹ־עֵגֶל\nלְבָנוֹן וְשִׂרְיוֹן כְּמוֹ בֶן־רְאֵמִים.\nT",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:48:17.040Z",
+      "creator": {
+        "isGuest": true,
+        "id": "u3yPMBNUdp7PLwc5OXhW"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F4fe97ad8-b22f-449d-860d-dfcb9ac05cf1.jp2/2373,752,1592,2165/max/0/default.jpg"
+    },
+    {
+      "id": "ac46330b-f6ae-44f4-a354-f6ff1431eaee",
+      "target": {
+        "source": "mishkan:page:4fe97ad8-b22f-449d-860d-dfcb9ac05cf1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2599.1578947368425,486.3157894736841 2593.3684210526317,874.2105263157895 1933.3684210526317,2993.157894736842 468.63157894736844,2935.263157894737 549.6842105263157,573.1578947368423\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "PSALM 29:1-11\nMIZMOR L'DAVID.\nHavu l'Adonai b'nei eilim,\nhavu l'Adonai kavod vaoz.\nHavu l'Adonai k'vod sh'mo,\nhishtachavu l'Adonai b'hadrat kodesh.\nKol Adonai al hamayim,\nEl hakavod hirim,\nAdonai al mayim rabim.\nKol Adonai bako-ach kol Adonai behadar.\nKol Adonai shoveir arazim\nvay'shabeir Adonai et arzei hal'vanon,\nvayarkideim k'mo eigel\nI'vanon v'siryon k'mo ven r'eimim.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:48:32.403Z",
+      "creator": {
+        "isGuest": true,
+        "id": "u3yPMBNUdp7PLwc5OXhW"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F4fe97ad8-b22f-449d-860d-dfcb9ac05cf1.jp2/468,486,2131,2507/max/0/default.jpg"
+    },
+    {
+      "id": "bd596677-faa8-4d3a-9c9e-f60ad193934c",
+      "target": {
+        "source": "mishkan:page:4fe97ad8-b22f-449d-860d-dfcb9ac05cf1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1284.9473684210525,3103.1578947368425,1939.4736842105267,2124.7368421052643"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "A PSALM OF DAVID.\nAscribe to Adonai, O divine beings,\nascribe to Adonai glory and strength.\nAscribe to Adonai the glory of God's name;\nbow down to Adonai, majestic in holiness.\nThe voice of Adonai is over the waters;\nthe God of glory thunders,\nAdonai, over the mighty waters.\nThe voice of Adonai is power;\nthe voice of Adonai is majesty;\nthe voice of Adonai breaks cedars;\nAdonai shatters the cedars of Lebanon.\nGod makes Lebanon skip like a calf,\nSirion, like a young wild ox.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T17:48:51.323Z",
+      "creator": {
+        "isGuest": true,
+        "id": "u3yPMBNUdp7PLwc5OXhW"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F4fe97ad8-b22f-449d-860d-dfcb9ac05cf1.jp2/1284,3103,1939,2124/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/136"
+}

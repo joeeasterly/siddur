@@ -1,0 +1,211 @@
+{
+  "_id": "57c34d72-3504-4b86-8741-451a75eb46f9",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 47,
+  "global_page": 173,
+  "file_path": "/app/data/docs/mishkan/57c34d72-3504-4b86-8741-451a75eb46f9.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "162",
+  "annotations": [
+    {
+      "id": "5339a200-4fd9-4d1f-b533-b59a2e57665e",
+      "target": {
+        "source": "mishkan:page:57c34d72-3504-4b86-8741-451a75eb46f9",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2588.853002070394,653.0134575569358,1534.521739130434,1565.83850931677"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "וְשָׁמְרוּ בְנֵי יִשְׂרָאֵל\nאֶת־הַשַּׁבָּת,\nלַעֲשׂוֹת אֶת־הַשַׁבָּת לְדֹרֹתָם\nבְּרִית עוֹלָם.\nבֵּינִי וּבֵין בְּנֵי יִשְׂרָאֵל\nאוֹת הִיא לְעלָם,\nTH\nכִּי־שֵׁשֶׁת יָמִים עָשָׂה יְיָ\nאֶת־הַשָּׁמַיִם וְאֶת־הָאָרֶץ,\nוּבַיּוֹם הַשְּׁבִיעִי שָׁבַת וַיִּנָּפַשׁ.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T19:58:03.357Z",
+      "creator": {
+        "isGuest": true,
+        "id": "2KFgwi8CBztauZiH_mK5"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/2588,653,1534,1565/max/0/default.jpg"
+    },
+    {
+      "id": "1c67f02c-7d36-495d-a7dc-f3ddfb2c4dea",
+      "target": {
+        "source": "mishkan:page:57c34d72-3504-4b86-8741-451a75eb46f9",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:417.55693581780525,637.3550724637678,1550.1801242236027,1581.496894409938"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "V'SHAMRU V'NEI YISRAEL\net HaShabbat,\nlaasot et HaShabbat I'dorotam\nb'rit olam.\nBeini u'vein b’nei Yisrael\not hi l'olam,\nki sheishet yamim asah Adonai\net hashamayim v'et haaretz,\nu'vayom hashvi-i shavat vayinafash.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:58:10.216Z",
+      "creator": {
+        "isGuest": true,
+        "id": "2KFgwi8CBztauZiH_mK5"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/417,637,1550,1581/max/0/default.jpg"
+    },
+    {
+      "id": "e7edfb3b-a77a-415f-8fb2-71ddb44741a6",
+      "target": {
+        "source": "mishkan:page:57c34d72-3504-4b86-8741-451a75eb46f9",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:814.2360248447203,2312.802277432712,2881.142857142858,809.0165631469977"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "THE PEOPLE OF ISRAEL shall keep Shabbat,\nobserving Shabbat throughout the ages as a covenant for all time.\nIt is a sign for all time between Me and the people of Israel.\nFor in six days Adonai made heaven and earth,\nand on the seventh day God ceased from work and was refreshed.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:58:17.532Z",
+      "creator": {
+        "isGuest": true,
+        "id": "2KFgwi8CBztauZiH_mK5"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/814,2312,2881,809/max/0/default.jpg"
+    },
+    {
+      "id": "708f1005-cbef-480c-b362-cd12e26887a5",
+      "target": {
+        "source": "mishkan:page:57c34d72-3504-4b86-8741-451a75eb46f9",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2510.561076604555,3414.1086956521735,1581.9825002588614,1310.0848861283644"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "ישְׂמָחוּ בְמַלְכוּתְךָ\nשׁוֹמְרֵי שַׁבָּת וְקְוֹרְאֵי עֹנֶג.\nעַם מְקַדְּשֵׁי שְׁבִיעִי,\nכֻּלָּם יִשְׂבְּעוּ וְיִתְעַנְגוּ מְטוּבָךְ.\nוְהַשְׁבִיעִי רָצִיתָ בּוֹ וְקִדַּשְׁתּוֹ,\nחֶמְדַת יָמִים אוֹתוֹ קָרָאתָ,\nזֵכֶר לְמַעֲשֵׂה בְרֵאשִׁית.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-14T19:58:23.442Z",
+      "creator": {
+        "isGuest": true,
+        "id": "2KFgwi8CBztauZiH_mK5"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/2510,3414,1581,1310/max/0/default.jpg"
+    },
+    {
+      "id": "31bffc9e-72e5-459a-a7cc-4efd109f2134",
+      "target": {
+        "source": "mishkan:page:57c34d72-3504-4b86-8741-451a75eb46f9",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:412.33747412008313,3403.6697722567283,1273.5486542443064,1226.573498964803"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "YISM'CHU v'malchut'cha\nshomrei Shabbat v'korei oneg.\nAm m'kad'shei shvi-i,\nkulam yisb'u v'yitangu mituvecha.\nV'hashvi-i ratzita bo v'kidashto,\nchemdat yamim oto karata,\nzeicher l'maaseh v'reishit.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:58:28.803Z",
+      "creator": {
+        "isGuest": true,
+        "id": "2KFgwi8CBztauZiH_mK5"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/412,3403,1273,1226/max/0/default.jpg"
+    },
+    {
+      "id": "e609bc98-9667-45f1-b92b-5cf2337cf57c",
+      "target": {
+        "source": "mishkan:page:57c34d72-3504-4b86-8741-451a75eb46f9",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:459.31262939958634,4729.413043478261,3465.7225672877844,918.6252587991721"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "THOSE WHO KEEP SHABBAT by calling it a delight\nwill rejoice in Your realm.\nThe people that hallow Shabbat will delight in Your goodness.\nFor, being pleased with the Seventh Day, You hallowed it\nas the most precious of days, drawing our attention to the work of Creation.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:58:34.257Z",
+      "creator": {
+        "isGuest": true,
+        "id": "2KFgwi8CBztauZiH_mK5"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/459,4729,3465,918/max/0/default.jpg"
+    },
+    {
+      "id": "c9ebd41f-2156-47dd-9619-172ee480b0c9",
+      "target": {
+        "source": "mishkan:page:57c34d72-3504-4b86-8741-451a75eb46f9",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:360.14285714285757,5715.891304347826,3742.3540372670805,741.1635610766043"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "V'shamru v'nei Yisrael... The people of Israel shall keep... Exodus 31:16-17\nYism'chu contains twenty-four Hebrew words said to correspond to the twenty-four hours of Shabbat.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:58:39.730Z",
+      "creator": {
+        "isGuest": true,
+        "id": "2KFgwi8CBztauZiH_mK5"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/360,5715,3742,741/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/162"
+}

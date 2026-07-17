@@ -1,0 +1,99 @@
+{
+  "_id": "2c1be662-be9a-4e4e-8f11-cce3f301b5c6",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 34,
+  "global_page": 160,
+  "file_path": "/app/data/docs/mishkan/2c1be662-be9a-4e4e-8f11-cce3f301b5c6.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "149",
+  "annotations": [
+    {
+      "id": "4a358350-1122-4bdd-b60a-e56a0ff834be",
+      "target": {
+        "source": "mishkan:page:2c1be662-be9a-4e4e-8f11-cce3f301b5c6",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1482.327122153209,653.7329192546582,2588.8530020703934,1884.225672877847"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "PRAISE to You, Adonai our God,\nfrom whom the evening flows.\nYour wisdom sets the way on which time and season glide;\nYour breath guides the sail of the stars.\nCreator of the tide of time and light,\nYou guide the current of day into night.\nAs heaven spans to infinity,\nYou set its course for eternity.\nPraise to You, Adonai our God,\nfrom whom the evening flows.\nבָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.\nBaruch atah, Adonai, hamaariv aravim.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:51:24.198Z",
+      "creator": {
+        "isGuest": true,
+        "id": "XKV9Hdls3N_BQumWyt7j"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2c1be662-be9a-4e4e-8f11-cce3f301b5c6.jp2/1482,653,2588,1884/max/0/default.jpg"
+    },
+    {
+      "id": "c925569b-12e8-4f38-9297-e1c423d930df",
+      "target": {
+        "source": "mishkan:page:2c1be662-be9a-4e4e-8f11-cce3f301b5c6",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1508.4244306418218,2751.9565217391305,2286.1242236024846,2124.3209109730847"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "THIS IS AN HOUR of change.\nWithin it we stand uncertain on the border of light.\nShall we draw back or cross over?\nWhere shall our hearts turn?\nShall we draw back, my brother, my sister,\nor cross over?\nThis is the hour of change, and within it,\nwe stand quietly\non the border of light.\nWhat lies before us?\nShall we draw back, my brother, my sister,\nor cross over?\nבָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.\nBaruch atah, Adonai, hamaariv aravim.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:51:33.513Z",
+      "creator": {
+        "isGuest": true,
+        "id": "XKV9Hdls3N_BQumWyt7j"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2c1be662-be9a-4e4e-8f11-cce3f301b5c6.jp2/1508,2751,2286,2124/max/0/default.jpg"
+    },
+    {
+      "id": "c42cc405-0360-4718-9aa6-63313c522b82",
+      "target": {
+        "source": "mishkan:page:2c1be662-be9a-4e4e-8f11-cce3f301b5c6",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:913.4057971014494,5530.340290480255,3784.109730848861,776.0557482372251"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "I know that the tide is not an independent force, but merely the submission of the water to the\nmovement of the moon in its orbit. And this orbit in its turn is subject to other orbits which are\nmightier far than it. And so the whole universe is held fast in the clinging grip of strong hands,\nthe forces of Earth and Sun, planets, and comets, and galaxies, blindly erupting forces ceaselessly\nstirring in ripples of silence to the very depth of black space. Amos Oz",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:51:40.520Z",
+      "creator": {
+        "isGuest": true,
+        "id": "XKV9Hdls3N_BQumWyt7j"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2c1be662-be9a-4e4e-8f11-cce3f301b5c6.jp2/913,5530,3784,776/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/149"
+}

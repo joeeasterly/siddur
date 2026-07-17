@@ -1,0 +1,127 @@
+{
+  "_id": "8608927d-cb17-4c37-bda8-31dbc624e144",
+  "source_file": "5.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 6,
+  "global_page": 193,
+  "file_path": "/app/data/docs/mishkan/8608927d-cb17-4c37-bda8-31dbc624e144.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "182",
+  "annotations": [
+    {
+      "id": "4b0ae6a9-eaa3-47dd-8fd8-e327a72d2f2a",
+      "target": {
+        "source": "mishkan:page:8608927d-cb17-4c37-bda8-31dbc624e144",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:459.473642800944,358.30055074744297,2698.594895437097,462.1557828481511"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "מָגֵן אָבוֹת וְאִמָּהוֹת",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-17T16:53:12.960Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Tdypgv4w8VGHffgzgDmZ"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8608927d-cb17-4c37-bda8-31dbc624e144.jp2/459,358,2698,462/max/0/default.jpg"
+    },
+    {
+      "id": "0f4cf3cd-dffe-494f-8b47-2ce74a4df908",
+      "target": {
+        "source": "mishkan:page:8608927d-cb17-4c37-bda8-31dbc624e144",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2230.2053501180176,841.2273800157357,1864.2014162077112,3219.5121951219517"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "בָּרוּךְ אַתָּה, יְיָ אֱלֹהֵינוּ\nוֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ,\nאֱלֹהֵי אַבְרָהָם, אֱלֹהֵי יִצְחָק\nוֵאלֹהֵי יַעֲקֹב, אֱלֹהֵי שָׂרָה,\nאֱלֹהֵי רִבְקָה, אֱלֹהֵי רָחֵל\nוֵאלֹהֵי לֵאָה.\nהָאֵל הַגָּדוֹל, הַגִּבּוֹר וְהַנּוֹרָא,\nאֵל עֶלְיוֹן, קוֹנֵה שָׁמַיִם וָאָרֶץ.\nמָגֵן אָבוֹת וְאִמָּהוֹת בִּדְבָרוֹ,\nמְחַיֶה הַכֹּל (מֵתִים) בְּמַאֲמָרוֹ.\nהָאֵל הַקָּדוֹשׁ שֶׁאֵין כָּמוֹהוּ,\nהַמֶּנִיחַ לְעַמּוֹ בְּיוֹם שַׁבַּת קָדְשׁוֹ\nכִּי בָם רָצָה לְהָנִיחַ לָהֶם\nלְפָנָיו נַעֲבֹד בְּיִרְאָה וָפַחַד,\nוְנוֹדֶה לִשְׁמוֹ בְּכָל יוֹם תָּמִיד,\nמְעוֹן הַבְּרָכוֹת, אֵל הַהוֹדָאוֹת,\nאֲדוֹן הַשָׁלוֹם, מְקַדְּשׁ הַשַׁבָּת\nוּמְבָרֵךְ שְׁבִיעִי, וּמֵנִיחַ בִּקְדֶשָׁה לְעַם\nמְדֵשְׁנֵי־עֹנֶג, זֵכֶר לְמַעֲשֵׂה בְרֵאשִׁית.",
+          "language": "he"
+        }
+      ],
+      "created": "2026-07-17T16:53:23.672Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Tdypgv4w8VGHffgzgDmZ"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8608927d-cb17-4c37-bda8-31dbc624e144.jp2/2230,841,1864,3219/max/0/default.jpg"
+    },
+    {
+      "id": "944f4d3d-256c-4346-8cf1-109d96f5f9e6",
+      "target": {
+        "source": "mishkan:page:8608927d-cb17-4c37-bda8-31dbc624e144",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:433.5098347757671,882.769472856019,1677.261998426436,3214.3194335169164"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "BARUCH atah, Adonai Eloheinu\nv'Elohei avoteinu v'imoteinu,\nElohei Avraham, Elohei Yitzchak,\nv'Elohei Yaakov, Elohei Sarah,\nElohei Rivkah, Elohei Rachel\nv'Elohei Leah.\nHa-El hagadol hagibor v'hanora,\nEl elyon, konei shamayim vaaretz.\nMagein avot v'imahot bidvaro,\nm'chayei hakol (meitim) b'maamaro.\nHa-El hakadosh, she-ein kamohu,\nhameiniach l'amo b'yom Shabbat kodsho\nki vam ratzah l'haniach lahem\nl'fanav naavod b'yirah vafachad,\nv'nodeh lish'mo b'chol yom tamid,\nm'on hab'rachot, El hahodaot,\nAdon hashalom, m'kadeish HaShabbat\num'vareich shvi-i, umeiniach bik'dushah l'am\nm'dushnei oneg, zecher l'maasei v'reishit.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:53:32.981Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Tdypgv4w8VGHffgzgDmZ"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8608927d-cb17-4c37-bda8-31dbc624e144.jp2/433,882,1677,3214/max/0/default.jpg"
+    },
+    {
+      "id": "cdd4ea54-3856-4042-8444-d18da9c32540",
+      "target": {
+        "source": "mishkan:page:8608927d-cb17-4c37-bda8-31dbc624e144",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:459.473642800944,4133.438237608183,3416.8371361132963,2103.068450039339"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "BLESSED ARE YOU, Adonai our God and God of those who came before us:\nGod of Abraham, God of Isaac, God of Jacob,\nGod of Sarah, God of Rebecca, God of Rachel and God of Leah.\nGreat, mighty and revered God, God transcendent,\nMaker of heaven and earth.\nWith a word, You shielded our ancestors; with a phrase, You give all things life.\nSacred God, beyond compare,\nwho took joy in providing rest for Your people on Your holy Shabbat day.\nWe will serve You reverently,\nacknowledging on each and every day forever, just who You are:\nthe One to whom blessing goes, the One to whom thanksgiving is due,\nSource of peace, who recalls the time of creation\nby sanctifying Shabbat, blessing the seventh day,\nand in holiness, granting rest to a people overflowing with joy.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-17T16:53:41.621Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Tdypgv4w8VGHffgzgDmZ"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8608927d-cb17-4c37-bda8-31dbc624e144.jp2/459,4133,3416,2103/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/182"
+}

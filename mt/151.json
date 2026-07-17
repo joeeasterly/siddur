@@ -1,0 +1,99 @@
+{
+  "_id": "159334fe-ad0b-4002-8538-3037b579ab9d",
+  "source_file": "4.pdf",
+  "document_title": "CCAR Mishkan T'filah",
+  "local_page": 36,
+  "global_page": 162,
+  "file_path": "/app/data/docs/mishkan/159334fe-ad0b-4002-8538-3037b579ab9d.jp2",
+  "format": "image/jp2",
+  "dpi": 600,
+  "color_space": "grayscale",
+  "page_label": "151",
+  "annotations": [
+    {
+      "id": "e7cf0b55-ddce-4924-a5df-510ef0b18625",
+      "target": {
+        "source": "mishkan:page:159334fe-ad0b-4002-8538-3037b579ab9d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1393.5962732919256,622.4161490683233,2192.173913043478,2155.63768115942"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "AS YOU TAUGHT TORAH\nto those whose names I bear,\nteach me Torah, too.\nIts mystery beckons,\nyet I struggle with its truth.\nYou meant Torah for me:\ndid You mean the struggle for me, too?\nDon't let me struggle alone;\nhelp me\nto understand,\nto be wise, to listen, to know...\nLead me into the mystery.\nבָּרוּךְ אַתָּה, יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל.\nBaruch atah, Adonai, ohev amo Yisrael.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:52:18.214Z",
+      "creator": {
+        "isGuest": true,
+        "id": "KQMbuYqx1n5EXi9HO_Ke"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F159334fe-ad0b-4002-8538-3037b579ab9d.jp2/1393,622,2192,2155/max/0/default.jpg"
+    },
+    {
+      "id": "aef627bb-4057-43f7-b652-dd0350023304",
+      "target": {
+        "source": "mishkan:page:159334fe-ad0b-4002-8538-3037b579ab9d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1351.840579710145,2981.6128364389233,2155.63768115942,2489.683229813665"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "WISDOM AND WONDER,\npassion and instruction,\nstory and symbol.\nAll these things,\nYour Torah gives to us.\nAnd the more we devote ourselves to it,\nthe more it grows and gives.\nWhat could be a truer token\nof Your abiding love\nthan this holiest of Your works,\nand the living language\nthat gives it form?\nבָּרוּךְ אַתָּה, יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל.\nBaruch atah, Adonai, ohev amo Yisrael.",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:52:27.205Z",
+      "creator": {
+        "isGuest": true,
+        "id": "KQMbuYqx1n5EXi9HO_Ke"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F159334fe-ad0b-4002-8538-3037b579ab9d.jp2/1351,2981,2155,2489/max/0/default.jpg"
+    },
+    {
+      "id": "f73f09c5-5065-42ac-8188-d3a3dc7e7ce5",
+      "target": {
+        "source": "mishkan:page:159334fe-ad0b-4002-8538-3037b579ab9d",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:908.1863354037267,5544.3685300207035,3690.159420289855,725.5051759834369"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "transcribing",
+          "value": "Torah is what God has revealed to us, and what we discern of God: ideas and ideals, laws and\nmitzvot, our religious heritage. It unfolds our memories of Abraham and Sarah, of Moses and\nMiriam and the Prophets. It is legislation and explanation, allowing questions that challenge,\nanswers that inspire: all a quest for meaning. It is our way of life, a path for our souls, and the\ndesign for a better world. John Rayner",
+          "language": "en"
+        }
+      ],
+      "created": "2026-07-14T19:52:34.384Z",
+      "creator": {
+        "isGuest": true,
+        "id": "KQMbuYqx1n5EXi9HO_Ke"
+      },
+      "image_url": "https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F159334fe-ad0b-4002-8538-3037b579ab9d.jp2/908,5544,3690,725/max/0/default.jpg"
+    }
+  ],
+  "page_url": "https://momoiro.hallyu.io/mishkan/151"
+}
