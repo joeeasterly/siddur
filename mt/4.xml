@@ -7,27 +7,25 @@
     <body>
       <div type="page" n="4">
         <pb n="4"/>
-        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/2741,1917,1393,674/max/0/default.jpg">
+        <lg>
           <l>בָּרְכוּ אֶת יְיָ הַמְבֹרָךְ!</l>
-          <l>בָּרוּךְ יְיָ הַמְבֹרָךְ</l>
-          <l>לְעוֹלָם וָעֶד!</l>
-        </lg>
-        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/386,1981,1421,548/max/0/default.jpg">
           <l>BAR’CHU et Adonai hamvorach!</l>
+          <l>בָּרוּךְ יְיָ הַמְבֹרָךְ</l>
           <l>Baruch Adonai ham&apos;vorach</l>
+          <l>לְעוֹלָם וָעֶד!</l>
           <l>l&apos;olam va-ed!</l>
         </lg>
-        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/1094,2642,2265,620/max/0/default.jpg">
+        <lg>
           <l>PRAISE ADONAI to whom praise is due forever!</l>
           <l>Praised be Adonai to whom praise is due,</l>
           <l>now and forever!</l>
         </lg>
-        <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/676,968,3124,800/max/0/default.jpg">
+        <lg>
           <l>שְׁמַע וּבִרְכוֹתֶיהָ</l>
           <l>T</l>
           <l>SH&apos;MA UVIRCHOTEHA - SH&apos;MA AND ITS BLESSINGS</l>
         </lg>
-        <lg xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/357,5524,3721,794/max/0/default.jpg">
+        <lg>
           <l>All holy acts require summoning.</l>
           <l>For those who choose: The prayer leader at the word</l>
           <l>Bar&apos;chu (the call to worship) bends</l>
