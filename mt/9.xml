@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="9">
+        <pb n="9"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F68fbdb9d-2065-4305-a611-cdee2a4c575d.jp2/1350,634,2545,2099/max/0/default.jpg">
+          AS YOU TAUGHT TORAH<lb/>
+        to those whose names I bear,<lb/>
+        teach me Torah, too.<lb/>
+        Its mystery beckons,<lb/>
+        yet I struggle with its truth.<lb/>
+        You meant Torah for me:<lb/>
+        did You mean the struggle for me, too?<lb/>
+        Don&apos;t let me struggle alone;<lb/>
+        help me to understand,<lb/>
+        to be wise, to listen, to know...<lb/>
+        Lead me into the mystery.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל.<lb/>
+        Baruch atah, Adonai, ohev amo Yisrael.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F68fbdb9d-2065-4305-a611-cdee2a4c575d.jp2/1339,2896,2580,1634/max/0/default.jpg">
+          ALL GOODNESS and truth are Yours, O God;<lb/>
+        may no evil estrange us from You.<lb/>
+        Let error not confound us;<lb/>
+        help us understand Your will.<lb/>
+        In adversity and prosperity, may Your law be our light.<lb/>
+        May our deeds reflect Your love.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל.<lb/>
+        Baruch atah, Adonai, ohev amo Yisrael.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

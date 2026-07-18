@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="123">
+        <pb n="123"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6a70eda4-9d9d-4a80-88c3-dcc400478284.jp2/2636,507,1832,2723/max/0/default.jpg">
+          בָּרוּךְ אַתָּה, יְיָ<lb/>
+        אֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,<lb/>
+        בּוֹרֵא פְּרִי הַגָּפֶן.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ<lb/>
+        אֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,<lb/>
+        אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְרָצָה בָנוּ,<lb/>
+        וְשַׁבַּת קָדְשׁוֹ<lb/>
+        בְּאַהֲבָה וּבְרָצוֹן הִנְחִילָנוּ,<lb/>
+        זִכָּרוֹן לְמַעֲשֵׂה בְרֵאשִׁית.<lb/>
+        כִּי הוּא יוֹם תְּחִלָּה לְמִקְרָאֵי קְדֶשׁ,<lb/>
+        זכר לִיצִיאַת מִצְרָיִם.<lb/>
+        כִּי בָנוּ בָחַרְתָּ, וְאוֹתָנוּ קִדַּשְׁתָּ<lb/>
+        מִכָּל הָעַמִּים.<lb/>
+        וְשַׁבַּת קָדְשְׁךָ<lb/>
+        בְּאַהֲבָה וּבְרָצוֹן הִנְחַלְתָּנוּ.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, מְקַדְּשׁ הַשַׁבָּת.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6a70eda4-9d9d-4a80-88c3-dcc400478284.jp2/1005,498,1612,2786/max/0/default.jpg">
+          BARUCH atah, Adonai<lb/>
+        Eloheinu, Melech haolam,<lb/>
+        borei p&apos;ri hagafen.<lb/>
+        Baruch atah, Adonai<lb/>
+        Eloheinu, Melech haolam,<lb/>
+        asher kid&apos;shanu b&apos;mitzvotav v&apos;ratzah vanu,<lb/>
+        v&apos;Shabbat kodsho<lb/>
+        b&apos;ahavah uv&apos;ratzon hinchilanu,<lb/>
+        zikaron l&apos;maaseih v&apos;reishit.<lb/>
+        Ki hu yom t&apos;chilah I&apos;mikra-ei kodesh,<lb/>
+        zecher litziat Mitzrayim.<lb/>
+        Ki vanu vacharta, v&apos;otanu kidashta,<lb/>
+        mikol haamim.<lb/>
+        V&apos;Shabbat kodsh&apos;cha<lb/>
+        b&apos;ahavah uv&apos;ratzon hinchaltanu.<lb/>
+        Baruch atah, Adonai, m&apos;kadeish HaShabbat.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6a70eda4-9d9d-4a80-88c3-dcc400478284.jp2/1010,3308,3294,1867/max/0/default.jpg">
+          PRAISE TO YOU, Adonai our God, Sovereign of the universe,<lb/>
+        Creator of the fruit of the vine.<lb/>
+        Praise to You, Adonai our God, Sovereign of the universe<lb/>
+        who finding favor with us, sanctified us with mitzvot.<lb/>
+        In love and favor, You made the holy Shabbat our heritage<lb/>
+        as a reminder of the work of Creation.<lb/>
+        As first among our sacred days, it recalls the Exodus from Egypt.<lb/>
+        You chose us and set us apart from the peoples.<lb/>
+        In love and favor You have given us Your holy Shabbat as an inheritance.<lb/>
+        Praise to You, Adonai, who sanctifies Shabbat.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, מְקַדֶשׁ הַשַׁבָּת.<lb/>
+        Baruch atah, Adonai, m&apos;kadeish HaShabbat.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

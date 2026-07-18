@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="title">
+        <pb n="title"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff6397c96-ab14-4465-a05f-ea12b6ea118e.jp2/711,2535,3143,1401/max/0/default.jpg">
+          משכן תפלה<lb/>
+        MISHKAN T&apos;FILAH
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff6397c96-ab14-4465-a05f-ea12b6ea118e.jp2/624,4098,3514,2257/max/0/default.jpg">
+          A Reform Siddur<lb/>
+        PULPIT EDITION<lb/>
+        וְעָשׂוּ לִי מִקְדָּשׁ וְשָׁכַנְתִּי בְּתוֹכָם<lb/>
+        &quot;And let them build Me a sanctuary that I may dwell in their midst.&quot;<lb/>
+        CENTRAL CONFERENCE OF AMERICAN RABBIS<lb/>
+        5767<lb/>
+        NEW YORK 2007
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff6397c96-ab14-4465-a05f-ea12b6ea118e.jp2/2315,654,1893,544/max/0/default.jpg">
+          Weekdays, Shabbat, Festivals and other occasions of public worship
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

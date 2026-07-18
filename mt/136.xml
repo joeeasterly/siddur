@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="136">
+        <pb n="136"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F4fe97ad8-b22f-449d-860d-dfcb9ac05cf1.jp2/2373,752,1592,2165/max/0/default.jpg">
+          מִזְמוֹר לְדָוִד.<lb/>
+        הָבוּ לַייָ בְּנֵי אֵלִים,<lb/>
+        הָבוּ לַייָ כָּבוֹד וָעֹז.<lb/>
+        הָבוּ לַייָ כְּבוֹד שְׁמוֹ,<lb/>
+        הִשְׁתַּחֲווּ לַייָ בְּהַדְרַת קְדֶשׁ.<lb/>
+        קוֹל יְיָ עַל־הַמָּיִם,<lb/>
+        אֵל הַכָּבוֹד הִרְעִים,<lb/>
+        T:<lb/>
+        יְיָ עַל־מַיִם רַבִּים.<lb/>
+        T:<lb/>
+        T<lb/>
+        &gt;&gt;<lb/>
+        קוֹל יְיָ בַּכֹּחַ קוֹל יְיָ בֶּהָדָר.<lb/>
+        קוֹל יְיָ שֹׁבֵר אֲרָזִים<lb/>
+        T<lb/>
+        וַיְשַׁבֵּר יְיָ אֶת־אַרְזֵי הַלְבָנוֹן,<lb/>
+        T:<lb/>
+        וַיַּרְקִידֵם כְּמוֹ־עֵגֶל<lb/>
+        לְבָנוֹן וְשִׂרְיוֹן כְּמוֹ בֶן־רְאֵמִים.<lb/>
+        T
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F4fe97ad8-b22f-449d-860d-dfcb9ac05cf1.jp2/468,486,2131,2507/max/0/default.jpg">
+          PSALM 29:1-11<lb/>
+        MIZMOR L&apos;DAVID.<lb/>
+        Havu l&apos;Adonai b&apos;nei eilim,<lb/>
+        havu l&apos;Adonai kavod vaoz.<lb/>
+        Havu l&apos;Adonai k&apos;vod sh&apos;mo,<lb/>
+        hishtachavu l&apos;Adonai b&apos;hadrat kodesh.<lb/>
+        Kol Adonai al hamayim,<lb/>
+        El hakavod hirim,<lb/>
+        Adonai al mayim rabim.<lb/>
+        Kol Adonai bako-ach kol Adonai behadar.<lb/>
+        Kol Adonai shoveir arazim<lb/>
+        vay&apos;shabeir Adonai et arzei hal&apos;vanon,<lb/>
+        vayarkideim k&apos;mo eigel<lb/>
+        I&apos;vanon v&apos;siryon k&apos;mo ven r&apos;eimim.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F4fe97ad8-b22f-449d-860d-dfcb9ac05cf1.jp2/1284,3103,1939,2124/max/0/default.jpg">
+          A PSALM OF DAVID.<lb/>
+        Ascribe to Adonai, O divine beings,<lb/>
+        ascribe to Adonai glory and strength.<lb/>
+        Ascribe to Adonai the glory of God&apos;s name;<lb/>
+        bow down to Adonai, majestic in holiness.<lb/>
+        The voice of Adonai is over the waters;<lb/>
+        the God of glory thunders,<lb/>
+        Adonai, over the mighty waters.<lb/>
+        The voice of Adonai is power;<lb/>
+        the voice of Adonai is majesty;<lb/>
+        the voice of Adonai breaks cedars;<lb/>
+        Adonai shatters the cedars of Lebanon.<lb/>
+        God makes Lebanon skip like a calf,<lb/>
+        Sirion, like a young wild ox.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

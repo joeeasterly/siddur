@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="156">
+        <pb n="156"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F64376cda-8438-49da-8f1a-bf326e73d8be.jp2/2369,376,1685,2855/max/0/default.jpg">
+          אמת וָאֶמוּנָה כָּל־זֹאת<lb/>
+        וְקַיָּם עָלֵינוּ, כִּי הוּא יְיָ אֱלֹהֵינוּ<lb/>
+        וְאֵין זוּלָתוֹ, וַאֲנַחְנוּ יִשְׂרָאֵל עַמּוֹ.<lb/>
+        הַפּוֹדֵנוּ מִיַּד מְלָכִים, מַלְכֵּנוּ<lb/>
+        הַגּוֹאֲלֵנוּ מִכַּף כָּל־הֶעָרִיצִים,<lb/>
+        הָעוֹשֶׂה גְדוֹלוֹת עַד אֵין חֵקֶר<lb/>
+        וְנִפְלָאוֹת עַד אֵין מִסְפָּר, הַשָּׁם<lb/>
+        נַפְשֵׁנוּ בַּחַיִּים, וְלֹא נָתַן לַמּוֹט<lb/>
+        רַגְלֵנוּ, הָעָשֶׂה לָנוּ נִסִים<lb/>
+        בְּפַרְעֹה, אוֹתוֹת וּמוֹפְתִים<lb/>
+        בְּאַדְמַת בְּנֵי חָם. וַיּוֹצֵא אֶת־<lb/>
+        עַמּוֹ יִשְׂרָאֵל מִתּוֹכָם לְחֵרוּת<lb/>
+        עוֹלָם. וְרָאוּ בָנָיו גְּבוּרָתוֹ, שִׁבְּחוּ<lb/>
+        וְהוֹדוּ לִשְׁמוֹ. וּמַלְכוּתוֹ בְּרָצוֹן<lb/>
+        קִבְּלוּ עֲלֵיהֶם, מֹשֶׁה וּמִרְיָם<lb/>
+        וּבְנֵי יִשְׂרָאֵל לְךָ עָנוּ שִׁירָה<lb/>
+        בְּשִׂמְחָה רַבָּה, וְאָמְרוּ כָלָם:<lb/>
+        T
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F64376cda-8438-49da-8f1a-bf326e73d8be.jp2/422,376,1419,2849/max/0/default.jpg">
+          EMET ve-emunah kol zot,<lb/>
+        v&apos;kayam aleinu, ki hu Adonai Eloheinu<lb/>
+        v&apos;ein zulato, vaanachnu Yisrael amo.<lb/>
+        Hapodeinu miyad m&apos;lachim, Malkeinu<lb/>
+        hago-aleinu mikaf kol he-aritzim,<lb/>
+        haoseh g&apos;dolot ad ein cheiker<lb/>
+        v&apos;niflaot ad ein mispar, hasam<lb/>
+        nafsheinu bachayim, v&apos;lo natan lamot<lb/>
+        ragleinu, haoseh lanu nisim<lb/>
+        b&apos;Faroh, otot umoftim<lb/>
+        b&apos;admat b&apos;nei Cham. Vayotzei et<lb/>
+        amo Yisrael mitocham l&apos;cheirut<lb/>
+        olam. V&apos;ra-u vanav g&apos;vurato, shib&apos;chu<lb/>
+        v&apos;hodu lishmo. Umalchuto b&apos;ratzon<lb/>
+        kiblu aleihem. Moshe uMiryam<lb/>
+        uv&apos;nei Yisrael l&apos;cha anu shirah<lb/>
+        b&apos;simchah rabah, v&apos;amru chulam:
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F64376cda-8438-49da-8f1a-bf326e73d8be.jp2/448,3267,3027,2171/max/0/default.jpg">
+          ALL THIS WE HOLD to be true and trustworthy for us.<lb/>
+        You alone are our God, and we are Israel Your people.<lb/>
+        You are our Sovereign and Savior,<lb/>
+        who delivers us from oppressors&apos; hands<lb/>
+        and saves us from tyrants&apos; fists.<lb/>
+        You work wonders without number, marvels beyond count.<lb/>
+        You give us life and steady our footsteps.<lb/>
+        You performed miracles for us before Pharaoh,<lb/>
+        signs and wonders in the land of the Egyptians;<lb/>
+        You led Your people Israel out from their midst to freedom for all time.<lb/>
+        When Your children witnessed Your dominance<lb/>
+        they praised Your Name in gratitude.<lb/>
+        And they accepted Your sovereignty<lb/>
+        Moses, Miriam and all Israel sang to You together,<lb/>
+        lifting their voices joyously:
+        </ab>
+        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F64376cda-8438-49da-8f1a-bf326e73d8be.jp2/381,5731,3507,568/max/0/default.jpg">
+          Haoseh g&apos;dolot... You work wonders... Job 9:10<lb/>
+        Hasam nafsheinu bachayim... You give us life... Psalm 66:9
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

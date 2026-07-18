@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="145">
+        <pb n="145"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6018d4fb-ce9c-48c7-b994-853a4e612645.jp2/2829,1027,1724,2365/max/0/default.jpg">
+          למדני, אֱלֹהִי, בָּרֵךְ וְהִתְפַּלֵּל<lb/>
+        על סוֹד עָלֶה קָמֵל,<lb/>
+        עַל נְגַהּ פְּרִי בָּשֵׁל,<lb/>
+        עַל הַחֲרוּת הַזֹּאת:<lb/>
+        לִרְאוֹת, לָחוּשׁ, לִנְשֹׁם,<lb/>
+        לָדַעַת, לְיַחֵל, לְהִכָּשֵׁל.<lb/>
+        לַמֵּד אֶת שִׂפְתוֹתַי<lb/>
+        בְּרָכָה וְשִׁיר הַלֵּל,<lb/>
+        בְּהִתְחַדֵּשׁ זְמַנְךְ<lb/>
+        עם בְּקֶר וְעִם לֵיל,<lb/>
+        לְבַל יִהְיֶה יוֹמִי הַיּוֹם<lb/>
+        כִּתְמוֹל שִׁלְשׁוֹם,<lb/>
+        לְבַל יִהְיֶה עָלַי יּוֹמִי הֶרְגֵל.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6018d4fb-ce9c-48c7-b994-853a4e612645.jp2/812,1080,1625,2303/max/0/default.jpg">
+          LAMDEINI, Elohai, bareich v’hitpaleil<lb/>
+        al sod aleh kameil,<lb/>
+        al nogah p&apos;ri basheil,<lb/>
+        al hacheirut hazot;<lb/>
+        Lirot, lachush, linshom,<lb/>
+        ladaat, layacheil, l&apos;hikasheil.<lb/>
+        Lameid et siftotai<lb/>
+        b&apos;rachah v&apos;shir hallel,<lb/>
+        b&apos;hit&apos;chadeish z&apos;mancha<lb/>
+        im boker v&apos;im leil,<lb/>
+        I&apos;val yih&apos;yeh yomi hayom<lb/>
+        kitmol shilshom,<lb/>
+        I&apos;val yih&apos;yeh alai yomi hergeil.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6018d4fb-ce9c-48c7-b994-853a4e612645.jp2/1532,3492,1943,1657/max/0/default.jpg">
+          TEACH ME, O God, a blessing, a prayer<lb/>
+        on the mystery of a withered leaf,<lb/>
+        on ripened fruit so fair,<lb/>
+        on the freedom to see, to sense,<lb/>
+        to breathe, to know, to hope, to despair.<lb/>
+        Teach my lips a blessing, a hymn of praise,<lb/>
+        as each morning and night<lb/>
+        You renew Your days,<lb/>
+        lest my day be today as the one before;<lb/>
+        lest routine set my ways.
+        </ab>
+        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6018d4fb-ce9c-48c7-b994-853a4e612645.jp2/1547,5431,2193,672/max/0/default.jpg">
+          ENTRANCES to holiness are everywhere.<lb/>
+        The possibility of ascent is all the time,<lb/>
+        even at unlikely times and through unlikely places.<lb/>
+        There is no place on earth without the Presence.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

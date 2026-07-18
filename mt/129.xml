@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="129">
+        <pb n="129"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/2739,804,1864,833/max/0/default.jpg">
+          דּוֹדִי לִי וַאֲנִי לוֹ הָרֹעֶה בַּשׁוֹשַׁנִּים.<lb/>
+        מִי זֹאת עֹלָה מִן־הַמִּדְבָּר,<lb/>
+        מְקֶטֶרֶת מוֹר וּלְבוֹנָה<lb/>
+        לִבַּבְתִּנִי, אֲחֹתִי כַלָּה.<lb/>
+        עוּרִי צָפוֹן וּבוֹאִי תֵימָן
+        </ab>
+        <ab xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/3284,3016,1279,532/max/0/default.jpg">
+          קוֹל דּוֹדִי הִנֵּה זֶה־בָּא,<lb/>
+        מְדַלֵּג עַל־הֶהָרִים,<lb/>
+        מְקַפֵּץ עַל־הַגְּבָעוֹת.
+        </ab>
+        <ab xml:id="block_C" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/2820,4469,1713,382/max/0/default.jpg">
+          כִּי אֶשְׁמְרָה שַׁבָּת אֵל יִשְׁמְרֵנִי.<lb/>
+        אוֹת הִיא לְעוֹלְמֵי עַד בֵּינוֹ וּבֵינִי.
+        </ab>
+        <ab xml:id="block_D" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/3093,5662,1435,364/max/0/default.jpg">
+          אֵלֶּה חָמְדָה לִבִּי,<lb/>
+        חוּסָה כָּא וְאַל נָא תִּתְעַלָם.
+        </ab>
+        <ab xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/898,509,3706,1992/max/0/default.jpg">
+          Dodi li vaani lo haro-eh bashoshanim.<lb/>
+        Mi zot olah min hamidbar,<lb/>
+        M&apos;kuteret mor ul&apos;vonah . . .<lb/>
+        Libavtini achoti chalah.<lb/>
+        Uri tzafon uvo-i teiman ...<lb/>
+        DODI LI<lb/>
+        My beloved is mine and I am my beloved&apos;s who browses among the lilies.<lb/>
+        Who is this that comes up from the desert, in clouds of myrrh and frankincense?<lb/>
+        You have captured my heart, my sister, my bride.<lb/>
+        Awake, O north wind, come, O south wind!<lb/>
+        (Song of Songs 2:16; 3:6; 4:9, 16)
+        </ab>
+        <ab xml:id="block_F" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/829,2721,3804,1250/max/0/default.jpg">
+          Kol dodi hinei zeh ba,<lb/>
+        midaleig al heharim,<lb/>
+        KOL DODI<lb/>
+        m&apos;kapeitz al hag&apos;vaot.<lb/>
+        Hark! My beloved comes leaping over the mountains, bounding over the hills.<lb/>
+        (Song of Songs 2:8)
+        </ab>
+        <ab xml:id="block_G" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/881,4180,3746,1001/max/0/default.jpg">
+          KI ESHM&apos;RAH SHABBAT<lb/>
+        Ki eshm&apos;rah Shabbat El yishm&apos;reini.<lb/>
+        Ot hi l&apos;olmei ad beino uveini.<lb/>
+        When I keep Shabbat, God watches over me. It is a sign forever between God and me.
+        </ab>
+        <ab xml:id="block_H" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1d22ad1b-bafa-48a8-bf42-71ae4eb2c142.jp2/875,5256,2866,1014/max/0/default.jpg">
+          Eileh chamdah libi,<lb/>
+        chusah na v&apos;al na titalam.<lb/>
+        EILEH CHAMDAH LIBI<lb/>
+        God is my heart&apos;s desire. Appear! Do not hide.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

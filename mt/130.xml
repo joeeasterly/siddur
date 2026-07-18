@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="130">
+        <pb n="130"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/626,482,3111,942/max/0/default.jpg">
+          קַבָּלַת שַׁבָּת<lb/>
+        KABBALAT SHABBAT - WELCOMING SHABBAT<lb/>
+        This section, until Shalom Aleichem on page 142, does not offer alternative readings.<lb/>
+        PSALM 95:1-7
+        </ab>
+        <ab xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/2362,1390,1592,2737/max/0/default.jpg">
+          לְכוּ גְרַנְנָה לַייָ,<lb/>
+        נָרִיעָה לְצוּר יִשְׁעֵנוּ.<lb/>
+        נְקַדְמָה פָנָיו בְּתוֹדָה,<lb/>
+        בִּזְמִרוֹת נָרִיעַ לוֹ.<lb/>
+        כִּי אֵל גָּדוֹל יְיָ,<lb/>
+        וּמֶלֶךְ גָּדוֹל עַל־כָּל־אֱלֹהִים.<lb/>
+        אֲשֶׁר בְּיָדוֹ מֶחְקְרֵי אָרֶץ,<lb/>
+        וְתוֹעֲפוֹת הָרִים לוֹ.<lb/>
+        אֲשֶׁר־לוֹ הַיָּם וְהוּא עָשָׂהוּ,<lb/>
+        וְיַבֶּשֶׁת יָדָיו יָצָרוּ.<lb/>
+        בְּאוּ נִשְׁתַּחֲוֶה וְנִכְרָעָה<lb/>
+        נִבְרְכָה לִפְנֵי־יְיָ עֹשֵׂנוּ.<lb/>
+        כִּי־הוּא אֱלֹהֵינוּ,<lb/>
+        וַאֲנַחְנוּ עַם מַרְעִיתוֹ וְצֹאן יָדוֹ,<lb/>
+        הַיּוֹם אִם־בְּקֹלוֹ תִשְׁמָעוּ.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/475,1313,1309,2803/max/0/default.jpg">
+          L&apos;CHU n&apos;ran&apos;na l&apos;Adonai,<lb/>
+        nariyah l&apos;tzur yisheinu.<lb/>
+        N&apos;kadmah fanav b&apos;todah,<lb/>
+        bizmirot naria lo.<lb/>
+        Ki El gadol Adonai,<lb/>
+        uMelech gadol al kol elohim.<lb/>
+        Asher b&apos;yado mech&apos;k&apos;rei aretz,<lb/>
+        v&apos;to-afot harim lo.<lb/>
+        Asher lo hayam v&apos;hu asahu,<lb/>
+        v&apos;yabeshet yadav yatzaru.<lb/>
+        Bo-u nishtachaveh v&apos;nichraah,<lb/>
+        nivr&apos;cha lifnei Adonai oseinu.<lb/>
+        Ki hu Eloheinu,<lb/>
+        vaanachnu am marito v&apos;tzon yado.<lb/>
+        Hayom im b&apos;kolo tishma-u.
+        </ab>
+        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/1240,4110,2166,927/max/0/default.jpg">
+          COME, LET US SING joyously to Adonai,<lb/>
+        raise a shout for our Rock and Deliverer;<lb/>
+        let us come into God&apos;s presence with praise;<lb/>
+        let us raise a shout for God in song!<lb/>
+        For Adonai is a great God,<lb/>
+        the great ruler of all divine beings.
+        </ab>
+        <ab xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/491,5404,3629,975/max/0/default.jpg">
+          Kabbalat Shabbat, &quot;Welcoming Shabbat,&quot; is one of the ritual innovations of the<lb/>
+        circle of Kabbalists (Jewish mystics) who gathered around Rabbi Isaac Luria in sixteenth-century<lb/>
+        Safed in the Land of Israel.<lb/>
+        Psalms 95-99, 29 — This cycle of six psalms, representing the six days of creation, enjoins all<lb/>
+        creation to sing out the praises of God. God&apos;s creative power is revealed in the world around us;<lb/>
+        God&apos;s sovereignty is over all nature and all nations.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

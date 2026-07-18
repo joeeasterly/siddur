@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="151">
+        <pb n="151"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F159334fe-ad0b-4002-8538-3037b579ab9d.jp2/1393,622,2192,2155/max/0/default.jpg">
+          AS YOU TAUGHT TORAH<lb/>
+        to those whose names I bear,<lb/>
+        teach me Torah, too.<lb/>
+        Its mystery beckons,<lb/>
+        yet I struggle with its truth.<lb/>
+        You meant Torah for me:<lb/>
+        did You mean the struggle for me, too?<lb/>
+        Don&apos;t let me struggle alone;<lb/>
+        help me<lb/>
+        to understand,<lb/>
+        to be wise, to listen, to know...<lb/>
+        Lead me into the mystery.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל.<lb/>
+        Baruch atah, Adonai, ohev amo Yisrael.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F159334fe-ad0b-4002-8538-3037b579ab9d.jp2/1351,2981,2155,2489/max/0/default.jpg">
+          WISDOM AND WONDER,<lb/>
+        passion and instruction,<lb/>
+        story and symbol.<lb/>
+        All these things,<lb/>
+        Your Torah gives to us.<lb/>
+        And the more we devote ourselves to it,<lb/>
+        the more it grows and gives.<lb/>
+        What could be a truer token<lb/>
+        of Your abiding love<lb/>
+        than this holiest of Your works,<lb/>
+        and the living language<lb/>
+        that gives it form?<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל.<lb/>
+        Baruch atah, Adonai, ohev amo Yisrael.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F159334fe-ad0b-4002-8538-3037b579ab9d.jp2/908,5544,3690,725/max/0/default.jpg">
+          Torah is what God has revealed to us, and what we discern of God: ideas and ideals, laws and<lb/>
+        mitzvot, our religious heritage. It unfolds our memories of Abraham and Sarah, of Moses and<lb/>
+        Miriam and the Prophets. It is legislation and explanation, allowing questions that challenge,<lb/>
+        answers that inspire: all a quest for meaning. It is our way of life, a path for our souls, and the<lb/>
+        design for a better world. John Rayner
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

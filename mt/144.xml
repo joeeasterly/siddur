@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="144">
+        <pb n="144"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbfa9d93a-ba41-4372-a505-b151511a8b22.jp2/2408,1134,1690,2784/max/0/default.jpg">
+          יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵהּ רַבָּא<lb/>
+        בְּעָלְמָא דִי בְרָא כִרְעוּתֵהּ,<lb/>
+        וְיַמְלִיךְ מַלְכוּתֵהּ<lb/>
+        בְּחַיֵּיכוֹן וּבְיוֹמֵיכוֹן<lb/>
+        וּבְחַיֵּי דְכָל בֵּית יִשְׂרָאֵל,<lb/>
+        בַּעֲגָלָא וּבִזְמַן קָרִיב,<lb/>
+        וְאִמְרוּ: אָמֵן.<lb/>
+        יְהֵא שְׁמֵהּ רַבָּא מְבָרַךְ<lb/>
+        לְעָלַם וּלְעָלְמֵי עָלְמַיָּא.<lb/>
+        יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר<lb/>
+        וְיִתְרוֹמַם וְיִתְנַשֵׂא,<lb/>
+        וְיִתְהַדָּר וְיִתְעַלֶּה וְיִתְהַלֵּל<lb/>
+        שְׁמֵהּ דְּקָדְשָׁא בְּרִיךְ הוּא,<lb/>
+        לְעֵלָא מִן כָּל בִּרְכָתָא וְשִׁירָתָא,<lb/>
+        תִּשְׁבְּחָתָא וְנֶחֱמָתָא,<lb/>
+        דַּאֲמִירָן בְּעָלְמָא, וְאִמְרוּ: אָמֵן.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbfa9d93a-ba41-4372-a505-b151511a8b22.jp2/410,1146,1592,2761/max/0/default.jpg">
+          YITGADAL v&apos;yitkadash sh’meih raba<lb/>
+        b&apos;alma di vra chiruteih,<lb/>
+        v&apos;yamlich malchuteih<lb/>
+        b&apos;chayeichon<lb/>
+        uv&apos;yomeichon<lb/>
+        uv&apos;chayei d&apos;chol beit Yisrael,<lb/>
+        baagala uvizman kariv,<lb/>
+        v&apos;imru: Amen.<lb/>
+        Y&apos;hei sh&apos;meih raba m&apos;varach<lb/>
+        l&apos;alam ul&apos;almei almaya.<lb/>
+        Yitbarach v&apos;yishtabach v&apos;yitpaar<lb/>
+        v&apos;yitromam v&apos;yitnasei,<lb/>
+        v&apos;yit&apos;hadar v&apos;yitaleh v&apos;yit’halal<lb/>
+        sh&apos;meih d&apos;kudsha b&apos;rich hu,<lb/>
+        l&apos;eila min kol birchata v&apos;shirata,<lb/>
+        tushb&apos;chata v&apos;nechemata,<lb/>
+        daamiran b&apos;alma, v&apos;imru: Amen.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbfa9d93a-ba41-4372-a505-b151511a8b22.jp2/451,4029,2952,1870/max/0/default.jpg">
+          EXALTED and hallowed be God&apos;s great name,<lb/>
+        in the world which God created, according to plan.<lb/>
+        May God&apos;s majesty be revealed in the days of our lifetime<lb/>
+        and the life of all Israel<lb/>
+        speedily, imminently.<lb/>
+        To which we say: Amen.<lb/>
+        Blessed be God&apos;s great name to all eternity.<lb/>
+        Blessed, praised, honored, exalted,<lb/>
+        extolled, glorified, adored, and lauded<lb/>
+        be the name of the Holy Blessed One,<lb/>
+        beyond all earthly words and songs of blessing, praise, and comfort.<lb/>
+        To which we say: Amen.
+        </ab>
+        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbfa9d93a-ba41-4372-a505-b151511a8b22.jp2/454,5973,3656,323/max/0/default.jpg">
+          The WTP Kaddish is marked by long strings of synonyms of praise. The rhythmic repetition of<lb/>
+        these words is meant to aid one in achieving a higher meditational state. Judith Z. Abrams
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

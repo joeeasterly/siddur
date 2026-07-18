@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="150">
+        <pb n="150"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2dfcffc2-0b2d-469b-a718-c744fdcf7c9f.jp2/2416,381,1717,2536/max/0/default.jpg">
+          אהֲבַת עוֹלָם<lb/>
+        בֵּית יִשְׂרָאֵל עַמְךְ אָהָבְתָּ,<lb/>
+        תּוֹרָה וּמִצְוֹת,<lb/>
+        IT T<lb/>
+        חֲקִים וּמִשְׁפָּטִים, אוֹתָנוּ לִמַּדְתָּ.<lb/>
+        עַל כֵּן, יְיָ אֱלֹהֵינוּ,<lb/>
+        בְּשָׁכְבֵּנוּ וּבְקוּמֵנוּ<lb/>
+        נָשִׂים בְּחֵקֶיךָ,<lb/>
+        וְנִשְׂמַח בְּדִבְרֵי תוֹרָתְךָ<lb/>
+        וּבְמִצְוֹתֶיךָ לְעוֹלָם וָעֶד.<lb/>
+        כִּי הֵם חַיֵּינוּ וְאֹרֶךְ יָמֵינוּ<lb/>
+        וּבָהֶם נֶהְגֶה יוֹמָם וָלָיְלָה.<lb/>
+        וְאַהֲבָתְךָ<lb/>
+        T<lb/>
+        אַל תָּסִיר מִמֶּנּוּ לְעוֹלָמִים.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ,<lb/>
+        אוֹהֵב עַמּוֹ יִשְׂרָאֵל.<lb/>
+        T
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2dfcffc2-0b2d-469b-a718-c744fdcf7c9f.jp2/422,365,1430,2479/max/0/default.jpg">
+          AHAVAT OLAM<lb/>
+        beit Yisrael amcha ahavta,<lb/>
+        Torah umitzvot,<lb/>
+        chukim umishpatim, otanu limad&apos;ta.<lb/>
+        Al kein, Adonai Eloheinu,<lb/>
+        b&apos;shochbeinu uv&apos;kumeinu<lb/>
+        nasiach b&apos;chukecha,<lb/>
+        v&apos;nismach b&apos;divrei Torat&apos;cha<lb/>
+        uv&apos;mitzvotecha l&apos;olam va-ed.<lb/>
+        Ki heim chayeinu v&apos;orech yameinu<lb/>
+        uvahem neh&apos;geh yomam valailah.<lb/>
+        V&apos;ahavat&apos;cha<lb/>
+        al tasir mimenu l&apos;olamim.<lb/>
+        Baruch atah, Adonai,<lb/>
+        ohev amo Yisrael.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2dfcffc2-0b2d-469b-a718-c744fdcf7c9f.jp2/1012,2928,2531,1821/max/0/default.jpg">
+          EVERLASTING LOVE You offered Your people Israel<lb/>
+        by teaching us Torah and mitzvot, laws and precepts.<lb/>
+        Therefore, Adonai our God,<lb/>
+        when we lie down and when we rise up,<lb/>
+        we will meditate on Your laws and Your commandments.<lb/>
+        We will rejoice in Your Torah forever.<lb/>
+        Day and night we will reflect on them<lb/>
+        for they are our life and doing them lengthens our days.<lb/>
+        Never remove Your love from us.<lb/>
+        Praise to You, Adonai, who loves Your people Israel.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל.<lb/>
+        Baruch atah, Adonai, ohev amo Yisrael.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="125">
+        <pb n="125"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6aa47c5f-6a21-47bd-aa5d-f26297c5ae5f.jp2/1290,840,2635,2974/max/0/default.jpg">
+          WHERE HAS THIS WEEK VANISHED?<lb/>
+        Is it lost forever?<lb/>
+        Will I ever recover anything from it?<lb/>
+        The joy of life, the unexpected victory,<lb/>
+        the realized hope, the task accomplished?<lb/>
+        Will I ever be able to banish the memory of pain,<lb/>
+        the sting of defeat, the heaviness of boredom?<lb/>
+        On this day let me keep for a while what must drift away.<lb/>
+        On this day let me be free of the burdens that must return.<lb/>
+        On this day, Shabbat, abide.<lb/>
+        Help me to withdraw for a while<lb/>
+        from the flight of time.<lb/>
+        Contain the retreat of the hours and days from the<lb/>
+        grasp of frantic life.<lb/>
+        Let me learn to pause, if only for this day.<lb/>
+        Let me find peace on this day.<lb/>
+        Let me enter into a quiet world this day.<lb/>
+        On this day, Shabbat, abide.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

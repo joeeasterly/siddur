@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="5">
+        <pb n="5"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/2827,381,1682,1104/max/0/default.jpg">
+          בָּרוּךְ אַתָּה, יְיָ<lb/>
+        אֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,<lb/>
+        אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ<lb/>
+        עַל מִצְוַת קְרִיאַת שְׁמַע<lb/>
+        לְהַמְלִיכוֹ בְּלֵבָב שָׁלֵם וּלְיַחְדוֹ<lb/>
+        בְּלֵב טוֹב וּלְעָבְדוֹ בְּנֶפֶשׁ חֲפֵצָה.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/857,379,1440,1092/max/0/default.jpg">
+          BARUCH atah, Adonai<lb/>
+        Eloheinu, Melech haolam,<lb/>
+        asher kid&apos;shanu b&apos;mitzvotav v&apos;tzivanu<lb/>
+        al mitzvat k&apos;riat sh&apos;ma<lb/>
+        l&apos;hamlicho b&apos;leivav shaleim ul&apos;yachdo<lb/>
+        b&apos;leiv tov ul&apos;ovdo b&apos;nefesh chafeitzah.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/1325,1530,2757,910/max/0/default.jpg">
+          PRAISED ARE YOU, Adonai our God, Ruler of the Universe,<lb/>
+        who hallows us with mitzvot,<lb/>
+        commanding us how to recite the Sh&apos;ma:<lb/>
+        to declare wholeheartedly God&apos;s rule,<lb/>
+        to declare earnestly God is One,<lb/>
+        and to willingly worship God.
+        </ab>
+        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/1276,2879,2307,1281/max/0/default.jpg">
+          THREE THINGS there are together in my eye<lb/>
+        that keep the thought of Thee forever nigh.<lb/>
+        I think about Thy great and holy name<lb/>
+        whenever I look up and see the sky.<lb/>
+        My thoughts are roused to know how I was made,<lb/>
+        seeing the earth&apos;s expanse where I abide.<lb/>
+        The musings of my mind when I look inside<lb/>
+        at all times, O my soul, &quot;Bless Adonai!&quot;
+        </ab>
+        <ab xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/861,4613,3782,610/max/0/default.jpg">
+          What does it mean to be called to worship? All serious activity requires preparation. The prayers<lb/>
+        and blessings that precede Bar&apos;chu are warm-ups for the individual. Now communal prayer<lb/>
+        begins. The leader asks, “Are you ready to pray?&quot; And we respond, &quot;Yes! Let us pray!&quot;<lb/>
+        adapted from Richard Levy
+        </ab>
+        <ab xml:id="block_F" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/872,5205,3717,1081/max/0/default.jpg">
+          Baruch atah, Praised are You: So important was the recitation of the Shma to our ancestors in Eretz Yisrael, that they introduced it with a blessing. That blessing fell out of use over a thousand years ago; we reclaim it here as part of our liturgical heritage.<lb/>
+        There are three main avenues by which one arrives at meaning in life. The first is by creating a life or doing a deed. The second is by experiencing something or encountering someone; in other words, meaning can be found not only in work but also in love. Third: even the helpless victim of a hopeless situation, facing a fate that cannot be changed, may rise above himself, grow beyond himself, and by so doing, change himself. Viktor E. Frankl
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="7">
+        <pb n="7"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1aee1623-17b5-49e6-ba6f-82375213fc3c.jp2/1177,726,3202,1657/max/0/default.jpg">
+          OUR PRAISE to You, Eternal One, who brings the evening evermore:<lb/>
+        wisely parting the gates of time, ushering in the seasons;<lb/>
+        arraying with care the star-spangled sky;<lb/>
+        unfurling light, then darkness, then light.<lb/>
+        Gently You fold the day into the night,<lb/>
+        Adonai Tzvaot is Your Name!<lb/>
+        Living God, Your reign arches over us, Your light is everlasting.<lb/>
+        Our praise to You, Eternal One, who brings the evening evermore.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.<lb/>
+        Baruch atah, Adonai, hamaariv aravim.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1aee1623-17b5-49e6-ba6f-82375213fc3c.jp2/1194,2556,2659,1980/max/0/default.jpg">
+          EVER-LIVING GOD, Your majesty is proclaimed<lb/>
+        by the marvels of earth and sky.<lb/>
+        Sun, moon and stars testify to the power of Your wisdom.<lb/>
+        Day follows day in endless succession<lb/>
+        and the years vanish from our sight,<lb/>
+        but Your sovereignty endures.<lb/>
+        Though all things pass,<lb/>
+        let not Your glory depart from our lives.<lb/>
+        Help us to become co-workers with You,<lb/>
+        and fill our days with abiding worth.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ הַמַּעֲרִיב עֲרָבִים.<lb/>
+        Baruch atah, Adonai, hamaariv aravim.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1aee1623-17b5-49e6-ba6f-82375213fc3c.jp2/929,5303,3641,1001/max/0/default.jpg">
+          The darkness of the first day differed from the darkness that preceded creation. The root of<lb/>
+        maariv can also mean “mix,&quot; suggesting God mixed light into the primordial darkness. The<lb/>
+        tiniest sparks of light can transform darkness.<lb/>
+        To be &quot;religious&quot; might mean to have an intuitive feeling of the unity of the cosmos. ... Oneness<lb/>
+        is grounded in scientific reality: we are made of the same stuff as all of creation. The deepest marvel<lb/>
+        is the unity in diversity. Daniel Matt
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

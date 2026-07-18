@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="126">
+        <pb n="126"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe412f548-06bd-43c1-9116-f2e0176da553.jp2/1128,1049,2175,2591/max/0/default.jpg">
+          I BEGIN WITH A PRAYER of gratitude<lb/>
+        for all that is holy in my life.<lb/>
+        God needs no words, no English or Hebrew,<lb/>
+        no semantics and no services.<lb/>
+        But I need them.<lb/>
+        Through prayer, I can sense my inner strength,<lb/>
+        my inner purpose,<lb/>
+        my inner joy, my capacity to love.<lb/>
+        As I reach upward in prayer,<lb/>
+        Creator.<lb/>
+        I sense these qualities in my<lb/>
+        To love God is to love each other,<lb/>
+        to work to make our lives better.<lb/>
+        To love God is to love the world God created<lb/>
+        and to work to perfect it.<lb/>
+        To love God is to love dreams of peace and joy<lb/>
+        that illumine all of us,<lb/>
+        and to bring that vision to life.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

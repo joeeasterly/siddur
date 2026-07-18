@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="128">
+        <pb n="128"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/2771,759,1348,363/max/0/default.jpg">
+          הִנֵּה מַה־טוֹב וּמַה־נָעִים<lb/>
+        שבת אַחִים גַּם־יָחַד.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/416,527,3735,917/max/0/default.jpg">
+          HINEIH MAH TOV<lb/>
+        Hineih mah tov u&apos;mah na-im<lb/>
+        shevet achim gam yachad.<lb/>
+        How good and how pleasant it is that brothers and sisters dwell together.<lb/>
+        (Psalm 133:1)
+        </ab>
+        <ab xml:id="block_C" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/2570,1890,1537,229/max/0/default.jpg">
+          מַה יָפֶה הַיּוֹם, שַׁבָּת שָׁלוֹם.
+        </ab>
+        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/480,1673,2640,613/max/0/default.jpg">
+          MAH YAFEH HAYOM<lb/>
+        Mah yafeh hayom, Shabbat shalom.<lb/>
+        How lovely today is, Shabbat Shalom.
+        </ab>
+        <ab xml:id="block_E" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/2790,2726,1308,694/max/0/default.jpg">
+          יְדִיד נֶפֶשׁ, אָב הָרַחֲמָן,<lb/>
+        מְשׁוֹךְ עַבְדְּךָ אֶל רְצוֹנֶךָ.<lb/>
+        יָרוּץ עַבְדְּךָ כְּמוֹ אַיָּל,<lb/>
+        יִשְׁתַּחֲוֶה אֶל מוּל הֲדָרֶךְ.
+        </ab>
+        <ab xml:id="block_F" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/428,2512,3311,1280/max/0/default.jpg">
+          Y&apos;DID NEFESH<lb/>
+        Y&apos;did nefesh, av harachaman,<lb/>
+        m&apos;shoch avd&apos;cha el r&apos;tzonecha.<lb/>
+        Yarutz avd&apos;cha k&apos;mo ayal,<lb/>
+        yishtachaveh el mul hadarecha.<lb/>
+        <lb/>
+        Heart&apos;s delight, Source of mercy, draw Your servant into Your arms:<lb/>
+        I leap like a deer to stand in awe before You.
+        </ab>
+        <ab xml:id="block_G" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/2159,4226,1945,1007/max/0/default.jpg">
+          הַחַמָּה מֵרֹאשׁ הָאִילָנוֹת נִסְתַּלְקָה,<lb/>
+        בְּאוּ וְנֵצֵא לִקְרַאת שַׁבָּת הַמַּלְכָּה.<lb/>
+        הִנֵּה הִיא יוֹרֶדֶת, הַקְדוֹשָׁה הַבְּרוּכָה.<lb/>
+        וְעִמָּהּ מַלְאָכִים, צְבָא שָׁלוֹם וּמְנוּחָה.<lb/>
+        בְּאִי בְּאִי הַמַּלְכָּה, בְּאִי בְּאִי הַכַּלָּה.<lb/>
+        שָׁלוֹם עֲלֵיכֶם, מַלְאֲכֵי הַשָּׁלוֹם.
+        </ab>
+        <ab xml:id="block_H" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc5045a-17a7-4fd9-a4a1-edf1934927c7.jp2/439,3983,2912,2408/max/0/default.jpg">
+          SHABBAT HAMALKAH<lb/>
+        <lb/>
+        Hachamah meirosh ha-ilanot nistalkah,<lb/>
+        bo-u v&apos;neitzei likrat Shabbat hamalkah.<lb/>
+        Hinei hi yoredet, hak&apos;doshah hab&apos;ruchah.<lb/>
+        V&apos;imah malachim, tz&apos;va shalom um&apos;nuchah.<lb/>
+        Bo-i bo-i hamalkah, bo-i bo-i hakalah.<lb/>
+        Shalom aleichem, malachei hashalom.<lb/>
+        <lb/>
+        The sun on the treetops no longer is seen;<lb/>
+        come, gather to welcome the Sabbath, our queen.<lb/>
+        Behold her descending, the holy, the blessed,<lb/>
+        and with her the angels of peace and of rest.<lb/>
+        Draw near, draw near, and here abide,<lb/>
+        draw near, draw near, O Sabbath bride.<lb/>
+        Peace also to you, you angels of peace.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

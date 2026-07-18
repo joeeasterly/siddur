@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="163">
+        <pb n="163"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F26115641-5696-4140-a029-ab0b4657cfe8.jp2/1336,1227,2813,767/max/0/default.jpg">
+          WE ARE A PEOPLE in whom the past endures,<lb/>
+        in whom the present is inconceivable without moments gone by.<lb/>
+        The Exodus lasted a moment, a moment enduring forever.<lb/>
+        What happened once upon a time happens all the time.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F26115641-5696-4140-a029-ab0b4657cfe8.jp2/1357,2432,2233,824/max/0/default.jpg">
+          A THOUGHT has blown the market place away.<lb/>
+        There is a song on the wind and joy in the trees.<lb/>
+        Shabbat arrives in the world,<lb/>
+        scattering a song in the silence of the night:<lb/>
+        Eternity utters a day.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F26115641-5696-4140-a029-ab0b4657cfe8.jp2/929,6008,3611,250/max/0/default.jpg">
+          More than the Jewish People has kept Shabbat, Shabbat has kept the Jewish People. Ahad Ha-Am
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

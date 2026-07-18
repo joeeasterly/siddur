@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="2">
+        <pb n="2"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff89e9a08-3e22-44fd-bbdc-b310ef605810.jp2/827,1425,2532,1449/max/0/default.jpg">
+          WE ARE CALLED unto life, destiny uncertain.<lb/>
+        Yet we offer thanks for what we know,<lb/>
+        for health and healing, for labor and repose,<lb/>
+        for renewal of beauty in earth and sky,<lb/>
+        for that blend of human-holy which inspires compassion,<lb/>
+        and for hope: eternal, promising light.<lb/>
+        For life, for health, for hope,<lb/>
+        for beautiful, bountiful blessing,<lb/>
+        all praise to the Source of Being.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff89e9a08-3e22-44fd-bbdc-b310ef605810.jp2/2340,2974,1072,351/max/0/default.jpg">
+          בָּרוּךְ אַתָּה, יְיָ,<lb/>
+        מְקוֹר נֶפֶשׁ כָּל חַי.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff89e9a08-3e22-44fd-bbdc-b310ef605810.jp2/882,2996,906,349/max/0/default.jpg">
+          Baruch atah, Adonai,<lb/>
+        M&apos;kor nefesh kol chai.
+        </ab>
+        <ab xml:id="block_D" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff89e9a08-3e22-44fd-bbdc-b310ef605810.jp2/1099,521,2315,764/max/0/default.jpg">
+          עַרְבִית לְחוֹל<lb/>
+        AR&apos;VIT L&apos;CHOL WEEKDAY EVENING
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

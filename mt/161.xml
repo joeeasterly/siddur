@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="161">
+        <pb n="161"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F21782d13-ea69-4574-b2fb-a0794243f023.jp2/1278,773,2813,1461/max/0/default.jpg">
+          LET THERE BE love and understanding among us.<lb/>
+        and friendship be our shelter from life&apos;s storms.<lb/>
+        Let peace<lb/>
+        Adonai, help us to walk with good companions,<lb/>
+        to live with hope in our hearts and eternity in our thoughts,<lb/>
+        that we may lie down in peace and rise up waiting to do Your will.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, הַפּוֹרֵשׂ סֶכַּת שָׁלוֹם עָלֵינוּ<lb/>
+        וְעַל כָּל עַמּוֹ יִשְׂרָאֵל וְעַל יְרוּשָׁלָיִם.<lb/>
+        Baruch atah, Adonai, haporeis sukat shalom aleinu<lb/>
+        v&apos;al kol amo Yisrael v&apos;al Yerushalayim.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F21782d13-ea69-4574-b2fb-a0794243f023.jp2/1283,2547,2625,2046/max/0/default.jpg">
+          GIVE US A PLACE TO REST, Adonai, our God.<lb/>
+        Bring us into shelter<lb/>
+        in the soft, long, evening shadows of Your truth.<lb/>
+        For with You are true protection and safety,<lb/>
+        and in Your Presence are acceptance and gentle love.<lb/>
+        Watch over us as we go forth.<lb/>
+        Prepare for us as we return.<lb/>
+        Spread over us Your shelter of peace,<lb/>
+        over all we love - over our Jerusalem and Yours.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, הַפּוֹרֵשׂ סֶכַּת שָׁלוֹם עָלֵינוּ<lb/>
+        וְעַל כָּל עַמּוֹ יִשְׂרָאֵל וְעַל יְרוּשָׁלָיִם.<lb/>
+        Baruch atah, Adonai, haporeis sukat shalom aleinu<lb/>
+        v&apos;al kol amo Yisrael v&apos;al Yerushalayim.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="127">
+        <pb n="127"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F5934c640-c594-4a01-b631-fbbf6794f3f6.jp2/1383,491,2075,2916/max/0/default.jpg">
+          THERE ARE DAYS when we seek things<lb/>
+        for ourselves and measure failure<lb/>
+        by what we do not gain.<lb/>
+        On Shabbat, we seek not to acquire<lb/>
+        but to share.<lb/>
+        There are days when we exploit nature<lb/>
+        as if it were a horn of plenty<lb/>
+        that can never be exhausted.<lb/>
+        On Shabbat, we stand in wonder<lb/>
+        before the mystery of creation.<lb/>
+        There are days when we act as if we<lb/>
+        cared nothing for the rights of others.<lb/>
+        On Shabbat, we remember that justice is<lb/>
+        our duty and a better world our goal.<lb/>
+        So we embrace Shabbat:<lb/>
+        day of rest, day of wonder, day of peace.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F5934c640-c594-4a01-b631-fbbf6794f3f6.jp2/1373,3560,2313,1196/max/0/default.jpg">
+          WE OFFER THANKS, O God, for this Shabbat<lb/>
+        which unites us in faith and hope.<lb/>
+        For Shabbat holiness, which inspires sacred living,<lb/>
+        for Shabbat memories, glowing even in darkness,<lb/>
+        for Shabbat peace, born of friendship and love,<lb/>
+        we offer thanks and blessing, O God.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

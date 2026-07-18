@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="148">
+        <pb n="148"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/2380,366,1670,2828/max/0/default.jpg">
+          בָּרוּךְ אַתָּה, יְיָ<lb/>
+        אֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,<lb/>
+        אֲשֶׁר בִּדְבָרוֹ מַעֲרִיב עֲרָבִים,<lb/>
+        בְּחָכְמָה פּוֹתֵחַ שְׁעָרִים,<lb/>
+        וּבִתְבוּנָה מְשַׁנָּה עִתִּים<lb/>
+        וּמַחֲלִיף אֶת הַזְמַנִים,<lb/>
+        וּמְחַבֵּר אֶת הַכּוֹכָבִים<lb/>
+        בְּמִשְׁמְרוֹתֵיהֶם בָּרָקִיעַ כִּרְצוֹנוֹ.<lb/>
+        בּוֹרֵא יוֹם וָלַיְלָה,<lb/>
+        גוֹלֵל אוֹר מִפְּנֵי חֹשֶׁךְ<lb/>
+        וְחָשֶׁךְ מִפְּנֵי אוֹר,<lb/>
+        וּמַעֲבִיר יוֹם וּמֵבִיא לָיְלָה,<lb/>
+        TIT<lb/>
+        וּמַבְדִּיל בֵּין יוֹם וּבֵין לָיְלָה,<lb/>
+        TIT<lb/>
+        יְיָ צְבָאוֹת שְׁמוֹ.<lb/>
+        אֵל חַי וְקַיָּם,<lb/>
+        תָּמִיד יִמְלֹךְ עָלֵינוּ לְעוֹלָם וָעֶד.<lb/>
+        ז<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/443,356,1419,2823/max/0/default.jpg">
+          BARUCH atah, Adonai<lb/>
+        Eloheinu, Melech haolam,<lb/>
+        asher bidvaro maariv aravim,<lb/>
+        b&apos;chochmah potei-ach sh&apos;arim,<lb/>
+        uvitvunah m&apos;shaneh itim<lb/>
+        umachalif et haz&apos;manim,<lb/>
+        um&apos;sadeir et hakochavim<lb/>
+        b&apos;mishm&apos;roteihem barakia kirtzono.<lb/>
+        Borei yom valailah,<lb/>
+        goleil or mipnei choshech,<lb/>
+        v&apos;choshech mipnei or.<lb/>
+        Umaavir yom umeivi lailah,<lb/>
+        umavdil bein yom uvein lailah,<lb/>
+        Adonai Tz&apos;vaot sh&apos;mo.<lb/>
+        El chai v&apos;kayam,<lb/>
+        tamid yimloch aleinu l&apos;olam va-ed.<lb/>
+        Baruch atah, Adonai, hamaariv aravim.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/433,3362,2828,1941/max/0/default.jpg">
+          BLESSED are You, Adonai our God, Ruler of the universe,<lb/>
+        who speaks the evening into being,<lb/>
+        skillfully opens the gates,<lb/>
+        thoughtfully alters the time and changes the seasons,<lb/>
+        and arranges the stars in their heavenly courses according to plan.<lb/>
+        You are Creator of day and night,<lb/>
+        rolling light away from darkness and darkness from light,<lb/>
+        transforming day into night and distinguishing one from the other.<lb/>
+        Adonai Tzvaot is Your Name.<lb/>
+        Ever-living God, may You reign continually over us into eternity.<lb/>
+        Blessed are You, Adonai, who brings on evening.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.<lb/>
+        Baruch atah, Adonai, hamaariv aravim.
+        </ab>
+        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/433,5445,3617,861/max/0/default.jpg">
+          Adonai Tzvaot: this is one of many names that help elucidate God&apos;s attributes.<lb/>
+        God designs, creates and arranges the universe with order and purpose.<lb/>
+        The darkness of the first day differed from the darkness that preceded creation. The root of<lb/>
+        maariv can also mean “mix,&quot; suggesting God mixed light into the primordial darkness.<lb/>
+        The tiniest spark of light can transform darkness.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

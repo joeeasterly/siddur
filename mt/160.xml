@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="160">
+        <pb n="160"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe59f67dd-99a3-401a-a69a-4ab8b41cd9b6.jp2/2171,376,1879,2969/max/0/default.jpg">
+          השְׁכִּיבֵנוּ, יְיָ אֱלֹהֵינוּ,<lb/>
+        לְשָׁלוֹם, וְהַעֲמִידֵנוּ שׁוֹמְרֵנוּ לְחַיִים,<lb/>
+        וּפְרֹשׂ עָלֵינוּ סֶכַּת שְׁלוֹמֶךְ,<lb/>
+        וְתַקְנֵנוּ בְּעֵצָה טוֹבָה מִלְפָנֶיךָ,<lb/>
+        וְהוֹשִׁיעֵנוּ לְמַעַן שְׁמֶךְ.<lb/>
+        וְהָגֵן בַּעֲדֵנוּ,<lb/>
+        וְהָסֵר מֵעָלֵינוּ אוֹיֵב, דֶּבֶר,<lb/>
+        וְחֶרֶב, וְרָעָב, וְיָגוֹן,<lb/>
+        וְהָרְחֵק מִמֶּנּוּ עָוֹן וָפֶשַׁע.<lb/>
+        וּבְצֵל כְּנָפֶיךָ תַּסְתִּירֵנוּ,<lb/>
+        כִּי אֵל שׁוֹמְרֵנוּ וּמַצִילֵנוּ אָתָּה,<lb/>
+        כִּי אֵל חַנּוּן וְרַחוּם אָתָּה.<lb/>
+        וּשְׁמֹר צֵאתֵנוּ וּבוֹאֵנוּ<lb/>
+        לְחַיִּים וּלְשָׁלוֹם<lb/>
+        מֵעַתָּה וְעַד עוֹלָם.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ,<lb/>
+        הַפּוֹרֵשׂ סֶכַּת שָׁלוֹם עָלֵינוּ<lb/>
+        וְעַל כָּל עַמּוֹ יִשְׂרָאֵל וְעַל יְרוּשָׁלָיִם.<lb/>
+        ז
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe59f67dd-99a3-401a-a69a-4ab8b41cd9b6.jp2/448,345,1602,2975/max/0/default.jpg">
+          HASHKIVEINU, Adonai Eloheinu,<lb/>
+        l&apos;shalom, v&apos;haamideinu shomreinu l&apos;chayim,<lb/>
+        ufros aleinu sukat sh&apos;lomecha,<lb/>
+        v&apos;takneinu b&apos;eitzah tovah milfanecha,<lb/>
+        v&apos;hoshi-einu l&apos;maan sh&apos;mecha.<lb/>
+        V&apos;hagein baadeinu,<lb/>
+        v&apos;haseir mei-aleinu oyeiv, dever,<lb/>
+        v&apos;cherev, v&apos;raav, v&apos;yagon,<lb/>
+        v&apos;harcheik mimenu avon vafesha.<lb/>
+        Uv&apos;tzeil k&apos;nafecha tastireinu,<lb/>
+        ki El shomreinu umatzileinu atah,<lb/>
+        ki El chanun v&apos;rachum atah.<lb/>
+        Ushmor tzeiteinu uvo-einu<lb/>
+        l&apos;chayim ul&apos;shalom,<lb/>
+        mei-atah v&apos;ad olam.<lb/>
+        Baruch atah, Adonai,<lb/>
+        haporeis sukat shalom aleinu<lb/>
+        val kol amo Yisrael v&apos;al Yerushalayim.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe59f67dd-99a3-401a-a69a-4ab8b41cd9b6.jp2/396,3508,3637,2338/max/0/default.jpg">
+          GRANT, O GOD, that we lie down in<lb/>
+        peace,<lb/>
+        and raise us up, our Guardian, to life renewed.<lb/>
+        Spread over us the shelter of Your peace.<lb/>
+        Guide us with Your good counsel; for Your Name&apos;s sake, be our help.<lb/>
+        Shield and shelter us beneath the shadow of Your wings.<lb/>
+        Defend us against enemies, illness, war, famine and sorrow.<lb/>
+        Distance us from wrongdoing.<lb/>
+        For You, God, watch over us and deliver us. For You, God, are gracious and merciful.<lb/>
+        Guard our going and coming, to life and to peace, evermore.<lb/>
+        Blessed are You, Adonai, Guardian of Israel, whose shelter of peace is spread over us,<lb/>
+        over all Your people Israel, and over Jerusalem.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, הַפּוֹרֵשׂ סֶכַּת שָׁלוֹם עָלֵינוּ<lb/>
+        וְעַל כָּל עַמּוֹ יִשְׂרָאֵל וְעַל יְרוּשָׁלָיִם.<lb/>
+        Baruch atah, Adonai, haporeis sukat shalom aleinu<lb/>
+        v&apos;al kol amo Yisrael v&apos;al Yerushalayim.
+        </ab>
+        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe59f67dd-99a3-401a-a69a-4ab8b41cd9b6.jp2/375,5967,3716,447/max/0/default.jpg">
+          Grant, O God, that we lie down in peace... Following a reading from Seder Rav Amram, our first<lb/>
+        known comprehensive prayerbook, circa 860 C.E.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

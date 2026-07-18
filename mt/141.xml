@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="141">
+        <pb n="141"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/3148,683,1331,2512/max/0/default.jpg">
+          י מָלָךְ גֵאוּת לָבֵשׁ,<lb/>
+        לָבֵשׁ יְיָ עז הִתְאַגָּר,<lb/>
+        אַף־תִּכּוֹן תֵּבֵל בַּל־תְּמוֹט.<lb/>
+        נָכוֹן כִּסְאֲךָ מֵאָז,<lb/>
+        מֵעוֹלָם אָתָּה.<lb/>
+        נָשְׂאוּ נְהָרוֹת, יְיָ,<lb/>
+        נָשְׂאוּ נְהָרוֹת קוֹלָם,<lb/>
+        יִשְׂאוּ נְהָרוֹת דָּכְיָם.<lb/>
+        מִקְלוֹת מַיִם רַבִּים,<lb/>
+        אַדִּירִים מִשְׁבְּרֵי יָם,<lb/>
+        אַדִּיר בַּמָּרוֹם יְיָ<lb/>
+        עֵדֹתֶיךָ נֶאֶמְנוּ מְאֹד,<lb/>
+        לְבֵיתְךָ נָאֲוָה קְדֶשׁ,<lb/>
+        י לְאֹרֶךְ יָמִים.<lb/>
+        T
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/1040,532,2061,2698/max/0/default.jpg">
+          PSALM 93:1-5<lb/>
+        ADONAI MALACH gei-ut laveish,<lb/>
+        laveish Adonai oz hitazar,<lb/>
+        af tikon teiveil bal timot.<lb/>
+        Nachon kisacha mei-az,<lb/>
+        mei-olam atah.<lb/>
+        Nasu n&apos;harot Adonai,<lb/>
+        nasu n&apos;harot kolam,<lb/>
+        yisu n&apos;harot dochyam.<lb/>
+        Mikolot mayim rabim,<lb/>
+        adirim mishb&apos;rei yam,<lb/>
+        adir bamarom Adonai.<lb/>
+        Eidotecha ne-emnu m&apos;od,<lb/>
+        I&apos;veitcha naavah kodesh,<lb/>
+        Adonai l&apos;orech yamim.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/1596,3311,1835,2466/max/0/default.jpg">
+          ADONAI IS SOVEREIGN,<lb/>
+        God is robed in grandeur;<lb/>
+        Adonai is robed,<lb/>
+        God is girded with strength.<lb/>
+        The world stands firm;<lb/>
+        it cannot be shaken.<lb/>
+        Your throne stands firm from of old;<lb/>
+        from eternity You have existed.<lb/>
+        The ocean sounds, Adonai,<lb/>
+        the ocean sounds its thunder,<lb/>
+        the ocean sounds its pounding.<lb/>
+        Above the thunder of the mighty waters,<lb/>
+        more majestic than the breakers of the sea<lb/>
+        is Adonai, majestic on high.<lb/>
+        Your decrees are indeed enduring;<lb/>
+        holiness befits Your house,<lb/>
+        Adonai, for all times.
+        </ab>
+        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/959,5866,3624,351/max/0/default.jpg">
+          Proclaiming the completion of God&apos;s work of creation and the establishment of<lb/>
+        divine sovereignty over all, this psalm serves as a fitting climax to Kabbalat Shabbat. See M. Tamid 7:4
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

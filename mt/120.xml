@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="120">
+        <pb n="120"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6c4bac16-639d-4efb-80fc-190ead3118e5.jp2/1272,471,2023,699/max/0/default.jpg">
+          קַבָּלַת פָּנִים<lb/>
+        KABBALAT PANIM WELCOMING
+        </ab>
+        <ab xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6c4bac16-639d-4efb-80fc-190ead3118e5.jp2/2866,1829,1223,941/max/0/default.jpg">
+          בָּרוּךְ אַתָּה, יְיָ<lb/>
+        אֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,<lb/>
+        אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו,<lb/>
+        וְצִוָּנוּ לְהַדְלִיק<lb/>
+        נֵר שֶׁל שַׁבָּת.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6c4bac16-639d-4efb-80fc-190ead3118e5.jp2/406,1871,1087,908/max/0/default.jpg">
+          BARUCH atah, Adonai<lb/>
+        Eloheinu, Melech haolam,<lb/>
+        asher kid&apos;shanu b&apos;mitzvotav,<lb/>
+        v&apos;tzivanu l&apos;hadlik<lb/>
+        ner shel Shabbat.
+        </ab>
+        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6c4bac16-639d-4efb-80fc-190ead3118e5.jp2/874,2830,2840,527/max/0/default.jpg">
+          BLESSED ARE YOU, Adonai our God, Sovereign of the universe,<lb/>
+        who hallows us with mitzvot,<lb/>
+        commanding us to kindle the light of Shabbat.
+        </ab>
+        <ab xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6c4bac16-639d-4efb-80fc-190ead3118e5.jp2/455,5674,3687,594/max/0/default.jpg">
+          Shabbat Candle Blessing - The mitzvah of kindling Shabbat lights in the home is an early rabbinic<lb/>
+        practice (M. Shabbat 2:1ff.) The Shabbat candle blessing is first recorded in the ninth-century<lb/>
+        prayerbook, Seder Rav Amram. Lighting Shabbat candles as part of the synagogue service is an<lb/>
+        innovation of Reform Judaism.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

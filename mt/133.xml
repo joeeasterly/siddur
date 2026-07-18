@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="133">
+        <pb n="133"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F59bbccf2-4f20-41e3-a8e1-658c5fa5c68a.jp2/1576,486,2460,1621/max/0/default.jpg">
+          ADONAI IS SOVEREIGN!<lb/>
+        Let the earth exult, the many islands rejoice!<lb/>
+        Dense clouds are around God,<lb/>
+        righteousness and justice are the base of God&apos;s throne.<lb/>
+        O you who love Adonai, hate evil!<lb/>
+        God guards the lives of God&apos;s loyal ones,<lb/>
+        saving them from the hand of the wicked.<lb/>
+        Light is sown for the righteous,<lb/>
+        radiance for the upright.<lb/>
+        O you righteous, rejoice in Adonai<lb/>
+        and acclaim God&apos;s holy name!
+        </ab>
+        <ab xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F59bbccf2-4f20-41e3-a8e1-658c5fa5c68a.jp2/2647,2408,1823,2008/max/0/default.jpg">
+          מזְמוֹר.<lb/>
+        שִׁירוּ לַייָ שִׁיר חָדָשׁ,<lb/>
+        כִּי־נִפְלָאוֹת עָשָׂה,<lb/>
+        הוֹשִׁיעָה לוֹ יְמִינוֹ וּזְרוֹעַ קָדְשׁוֹ.<lb/>
+        הוֹדִיעַ יְיָ יְשׁוּעָתוֹ,<lb/>
+        T:<lb/>
+        לְעֵינֵי הַגּוֹיִם גְלָּה צִדְקָתוֹ.<lb/>
+        זָכַר חַסְדּוֹ וֶאֱמוּנָתוֹ<lb/>
+        לְבֵית יִשְׂרָאֵל, רָאוּ כָל־אַפְסֵי אָרֶץ<lb/>
+        אֵת יְשׁוּעַת אֱלֹהֵינוּ.<lb/>
+        הָרִיעוּ לַייָ כָּל־הָאָרֶץ<lb/>
+        ז<lb/>
+        פִּצְחוּ וְרַנְנוּ וְזַמֵרוּ.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F59bbccf2-4f20-41e3-a8e1-658c5fa5c68a.jp2/840,2194,2195,2240/max/0/default.jpg">
+          PSALM 98:1-9<lb/>
+        MIZMOR.<lb/>
+        Shiru l&apos;Adonai shir chadash,<lb/>
+        ki niflaot asah,<lb/>
+        hoshiah lo y&apos;mino uz&apos;ro-a kodsho.<lb/>
+        Hodia Adonai y&apos;shuato,<lb/>
+        l&apos;einei hagoyim gilah tzidkato.<lb/>
+        Zachar chasdo ve-emunato<lb/>
+        I&apos;veit Yisrael, ra-u chol afsei aret<lb/>
+        et y&apos;shuat Eloheinu.<lb/>
+        Hariu l&apos;Adonai kol haaretz<lb/>
+        pitz&apos;chu v&apos;ran&apos;nu v&apos;zameiru.
+        </ab>
+        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F59bbccf2-4f20-41e3-a8e1-658c5fa5c68a.jp2/1477,4481,2512,1678/max/0/default.jpg">
+          A PSALM.<lb/>
+        Sing to Adonai a new song,<lb/>
+        for God has worked wonders;<lb/>
+        God&apos;s right hand, God&apos;s holy arm,<lb/>
+        has won God victory.<lb/>
+        Adonai has manifested God&apos;s victory,<lb/>
+        has displayed God&apos;s triumph in the sight of the nations.<lb/>
+        God was mindful of God&apos;s steadfast love and faithfulness<lb/>
+        toward the house of Israel;<lb/>
+        all the ends of the earth beheld the victory of our God.<lb/>
+        Raise a shout to Adonai, all the earth,<lb/>
+        break into joyous songs of praise!
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

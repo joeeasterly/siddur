@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="183">
+        <pb n="183"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdcc65add-9d62-4301-a80b-ae6dabfb905b.jp2/1440,1298,2554,3126/max/0/default.jpg">
+          LET US PRAISE Adonai,<lb/>
+        Source of knowledge and light,<lb/>
+        from whom we draw wisdom and insight.<lb/>
+        Let us savor the fullness of each and every day<lb/>
+        and fill our souls with the treasures of Shabbat.<lb/>
+        And let us appreciate these distinctions:<lb/>
+        sacred from profane, charity from greed,<lb/>
+        purpose from drift.<lb/>
+        Let us affirm our covenant as God&apos;s people.<lb/>
+        Let us honor those who study Torah.<lb/>
+        Let us uphold the truth of ongoing revelation.<lb/>
+        Let us celebrate the glory of our tradition<lb/>
+        and draw refreshment from the wellsprings of prayer.<lb/>
+        Let us respect tradition and encourage creative faith.<lb/>
+        And let us dress ourselves in the garments of God<lb/>
+        compassion for the needy, embrace of the stranger<lb/>
+        and then spread the canopy of peace over all the world.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdcc65add-9d62-4301-a80b-ae6dabfb905b.jp2/1607,358,3062,440/max/0/default.jpg">
+          MAGEIN AVOT V&apos;IMAHOT
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdcc65add-9d62-4301-a80b-ae6dabfb905b.jp2/900,5530,3707,747/max/0/default.jpg">
+          In this traditional prayer that summarizes the Amidah for Friday night, God appears uniquely as<lb/>
+        mon hab&apos;rachot, literally, an “abode” (or “place&quot;) of blessing. Over time, however,<lb/>
+        this reading was lost through a scribal error, and does not appear in traditional prayer books. We<lb/>
+        restore it here, so as to sense God as a place where we can enter and be at home, a spiritual<lb/>
+        destination where we go to find the blessings we seek.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

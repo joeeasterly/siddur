@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="139">
+        <pb n="139"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/2821,579,1368,643/max/0/default.jpg">
+          הִתְעוֹרְרִי, הִתְעוֹרְרִי,<lb/>
+        כִּי בָא אוֹרֵךְ, קְוּמִי אוֹרִי,<lb/>
+        עוּרִי עוּרִי, שִׁיר דַבֵּרִי,<lb/>
+        כְּבוֹד יְיָ עָלַיִךְ נִגְלָה.<lb/>
+        T
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/995,585,1078,626/max/0/default.jpg">
+          Hitor&apos;ri, hitor&apos;ri,<lb/>
+        ki va oreich, kumi ori,<lb/>
+        uri uri shir dabeiri,<lb/>
+        K&apos;vod Adonai alayich niglah.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/1082,1258,2556,214/max/0/default.jpg">
+          Awake, awake, your light has come! Arise, shine, awake and sing:<lb/>
+        the Eternal&apos;s glory dawns upon you.
+        </ab>
+        <ab xml:id="block_D" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/2769,1501,1415,667/max/0/default.jpg">
+          לֹא תֵבוֹשִׁי וְלֹא תִכָּלְמִי,<lb/>
+        מַה תִּשְׁתּוֹחֲחִי וּמַה הֶאֱמִי,<lb/>
+        בָּךְ יֶחֱסוּ עֲנִי עַמִּי,<lb/>
+        וְנִבְנְתָה עִיר עַל תִּלָּהּ.<lb/>
+        T
+        </ab>
+        <ab xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/989,1536,1171,619/max/0/default.jpg">
+          Lo teivoshi v&apos;lo tikalmi,<lb/>
+        mah tishtochachi umah tehemi,<lb/>
+        bach yechesu aniyei ami,<lb/>
+        v&apos;nivn&apos;tah ir al tilah.
+        </ab>
+        <ab xml:id="block_F" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/1070,2174,3188,226/max/0/default.jpg">
+          An end to shame and degradation; forget your sorrow; quiet your groans. The<lb/>
+        afflicted of my people find respite in you, the city renewed upon its ancient ruins.
+        </ab>
+        <ab xml:id="block_G" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/3001,2434,1205,643/max/0/default.jpg">
+          וְהָיוּ לִמְשְׁפָּה שׁאֹסָיִךְ,<lb/>
+        וְרָחֲקוּ כָּל מְבַלְעָיִךְ,<lb/>
+        יָשִׂישׂ עָלַיִךְ אֱלֹהָיִךְ,<lb/>
+        כִּמְשׂוֹשׂ חָתָן עַל כַּלָּה.<lb/>
+        T T
+        </ab>
+        <ab xml:id="block_H" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/1012,2452,1014,649/max/0/default.jpg">
+          V&apos;hayu lim&apos;shisah shosayich,<lb/>
+        v&apos;rachaku kol m&apos;valayich,<lb/>
+        yasis alayich Elohayich,<lb/>
+        kimsos chatan al kalah.
+        </ab>
+        <ab xml:id="block_I" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/1087,3124,2533,220/max/0/default.jpg">
+          The scavengers are scattered, your devourers have fled;<lb/>
+        as a bridegroom rejoices in his bride, your God takes joy in you.
+        </ab>
+        <ab xml:id="block_J" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/3018,3350,1159,684/max/0/default.jpg">
+          יָמִין וּשְׂמֹאל תִּפְרוֹצִי,<lb/>
+        וְאֶת־יְיָ תַּעֲרִיצִי,<lb/>
+        על יַד אִישׁ בֶּן פַּרְצִי,<lb/>
+        וְנִשְׂמְחָה וְנָגִילָה.<lb/>
+        ז
+        </ab>
+        <ab xml:id="block_K" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/983,3403,869,626/max/0/default.jpg">
+          Yamin usmol tifrotzi,<lb/>
+        v&apos;et Adonai taaritzi,<lb/>
+        al yad ish ben partzi,<lb/>
+        v&apos;nism&apos;chah v&apos;nagilah.
+        </ab>
+        <ab xml:id="block_L" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/1134,4069,2614,197/max/0/default.jpg">
+          Your space will be broad, your worship free: await the promised one;<lb/>
+        we will exult, we will sing for joy!
+        </ab>
+        <ab xml:id="block_M" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/2763,4307,1414,655/max/0/default.jpg">
+          בְּוֹאִי בְשָׁלוֹם עֲטֶרֶת בַּעְלָהּ,<lb/>
+        גַּם בְּשִׂמְחָה וּבְצָהֲלָה,<lb/>
+        תּוֹךְ אֱמוּנֵי עַם סְגַלָּה,<lb/>
+        בּוֹאִי כַלָּה, בּוֹאִי כַלָּה.
+        </ab>
+        <ab xml:id="block_N" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/1006,4353,1031,597/max/0/default.jpg">
+          Bo-i v&apos;shalom ateret ba&apos;lah,<lb/>
+        gam b&apos;simchah uv&apos;tzoholah,<lb/>
+        toch emunei am s&apos;gulah,<lb/>
+        bo-i chalah, bo-i chalah.
+        </ab>
+        <ab xml:id="block_O" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/1134,4968,2788,237/max/0/default.jpg">
+          Enter in peace, O crown of your husband; enter in gladness, enter in joy.<lb/>
+        Come to the people that keeps its faith. Enter, O bride! Enter, O bride!
+        </ab>
+        <ab xml:id="block_P" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe1164a13-6c4a-487b-aa82-afdf23e97aaa.jp2/902,5432,3704,423/max/0/default.jpg">
+          בּוֹאִי בְשָׁלוֹם<lb/>
+        For those who choose: When the congregation reaches the last verse, beginning D<lb/>
+        Bo-i v&apos;shalom, Enter in peace, all rise and turn toward the entrance of the sanctuary, as if to greet<lb/>
+        the Presence of Shabbat.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

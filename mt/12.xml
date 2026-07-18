@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="12">
+        <pb n="12"/>
+        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F083484bf-d185-4ca5-b71c-608f81c5d61e.jp2/2435,365,1757,2849/max/0/default.jpg">
+          וְאָהַבְתָּ אֶת יְיָ אֱלֹהֶיךָ<lb/>
+        בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךְ וּבְכָל־<lb/>
+        מְאֹדֶךָ: וְהָיוּ הַדְּבָרִים הָאֵלֶּה<lb/>
+        אֲשֶׁר אָנֹכִי מְצַוּךְ הַיּוֹם עַל־<lb/>
+        לְבָבֶךָ: וְשִׁנַּנְתָּם לְבָנֶיךָ וְדִבַּרְתָּ<lb/>
+        בָּם בְּשִׁבְתְּךָ בְּבֵיתֶךָ וּבְלֶכְתְּךָ<lb/>
+        בַדֶּרֶךְ וּבְשָׁכְבְּךָ וּבְקוּמֶךְ:<lb/>
+        T<lb/>
+        וּקְשַׁרְתָּם לְאוֹת עַל־יָדֶךְ וְהָיוּ<lb/>
+        לְטְטָפְת בֵּין עֵינֶיךָ: וּכְתַבְתָּם<lb/>
+        עַל־מְחֲזוֹת בֵּיתֶךָ וּבִשְׁעָרֶיךָ:<lb/>
+        ለ<lb/>
+        לְמַעַן תִּזְכְּרוּ וַעֲשִׂיתֶם אֶת־<lb/>
+        כָּל־מִצְוֹתָי וִהְיִיתֶם קְדֹשִׁים<lb/>
+        לֵאלֹהֵיכֶם: אֲנִי יְיָ אֱלֹהֵיכֶם<lb/>
+        אֲשֶׁר הוֹצֵאתִי אֶתְכֶם מֵאֶרֶץ<lb/>
+        מִצְרַיִם לִהְיוֹת לָכֶם לֵאלֹהִים<lb/>
+        אֲנִי יְיָ אֱלֹהֵיכֶם:<lb/>
+        &gt;&gt;<lb/>
+        T:
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F083484bf-d185-4ca5-b71c-608f81c5d61e.jp2/397,310,1661,2862/max/0/default.jpg">
+          V&apos;AHAVTA et Adonai Elohecha,<lb/>
+        b&apos;chol l&apos;vav&apos;cha uv&apos;chol nafsh&apos;cha uv&apos;chol<lb/>
+        m&apos;odecha. V&apos;hayu had&apos;varim ha-eileh<lb/>
+        asher anochi m&apos;tzav&apos;cha hayom al<lb/>
+        I&apos;vavecha. V&apos;shinantam l&apos;vanecha v&apos;dibarta<lb/>
+        bam b&apos;shivt&apos;cha b&apos;veitecha uv&apos;lecht&apos;cha<lb/>
+        vaderech uv&apos;shochb&apos;cha uv&apos;kumecha.<lb/>
+        Uk&apos;shartam l&apos;ot al yadecha v&apos;hayu<lb/>
+        l&apos;totafot bein einecha. Uch&apos;tavtam<lb/>
+        al m&apos;zuzot beitecha uvisharecha.<lb/>
+        I&apos;maan tizk&apos;ru vaasitem et<lb/>
+        kol mitzvotai vih&apos;yitem k&apos;doshim<lb/>
+        l&apos;Eloheichem. Ani Adonai Eloheichem,<lb/>
+        asher hotzeiti et-chem mei-eretz<lb/>
+        Mitzrayim lih&apos;yot lachem l&apos;Elohim<lb/>
+        ani Adonai Eloheichem.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F083484bf-d185-4ca5-b71c-608f81c5d61e.jp2/380,3221,3665,2187/max/0/default.jpg">
+          YOU SHALL LOVE Adonai your God with all your heart,<lb/>
+        with all your soul, and with all your might.<lb/>
+        Take to heart these instructions with which I charge you this day.<lb/>
+        Impress them upon your children.<lb/>
+        Recite them when you stay at home and when you are away,<lb/>
+        when you lie down and when you get up.<lb/>
+        Bind them as a sign on your hand and let them serve as a symbol on your<lb/>
+        inscribe them on the doorposts of your house and on your gates.<lb/>
+        Thus you<lb/>
+        shall remember to observe all My commandments<lb/>
+        and to be holy to your God.<lb/>
+        I am Adonai, your God, who brought you out of the land of Egypt to be<lb/>
+        I am Adonai your God.<lb/>
+        »<lb/>
+        יְיָ אֱלֹהֵיכֶם אֱמֶת.<lb/>
+        T:<lb/>
+        Adonai Eloheichem EMET.<lb/>
+        forehead;<lb/>
+        your<lb/>
+        God:
+        </ab>
+        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F083484bf-d185-4ca5-b71c-608f81c5d61e.jp2/480,5569,3630,758/max/0/default.jpg">
+          For those who choose: At the end of the Shma, after the words Eloheichem, the word emet (&quot;true&quot;) is added as an immediate affirmation of its truth.<lb/>
+        V&apos;ahavta... You shall love... Deuteronomy 6:5-9<lb/>
+        L&apos;maan tizkru... Thus you shall remember... Numbers 15:40-41
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="175">
+        <pb n="175"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff41048ec-a261-44b0-8934-b901c5b2844d.jp2/2807,353,1775,1069/max/0/default.jpg">
+          רְצָה, יְיָ אֱלֹהֵינוּ, בְּעַמָּךְ יִשְׂרָאֵל,<lb/>
+        וּתְפִלָּתָם בְּאַהֲבָה תְקַבֵּל,<lb/>
+        וּתְהִי לְרָצוֹן תָּמִיד<lb/>
+        עֲבוֹדַת יִשְׂרָאֵל עַמֶּךָ.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ,<lb/>
+        שֶׁאוֹתְךָ לְבַדְּךָ בְּיִרְאָה נַעֲבֹד.<lb/>
+        T
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff41048ec-a261-44b0-8934-b901c5b2844d.jp2/870,342,3007,2358/max/0/default.jpg">
+          R&apos;TZEI, Adonai Eloheinu, b&apos;amcha Yisrael,<lb/>
+        ut&apos;filatam b&apos;ahavah t&apos;kabeil,<lb/>
+        ut&apos;hi l&apos;ratzon tamid<lb/>
+        avodat Yisrael amecha.<lb/>
+        Baruch atah, Adonai,<lb/>
+        she-ot-cha l&apos;vadcha b&apos;yirah naavod.<lb/>
+        EVERPRESENT ONE, may we, Your people Israel,<lb/>
+        be worthy in our deeds and our prayer.<lb/>
+        Wherever we live, wherever we seek You<lb/>
+        in this land, in Zion restored, in all lands<lb/>
+        You are our God, whom alone we serve in reverence.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, שֶׁאוֹתְךָ לְבַדְּךָ בְּיִרְאָה נַעֲבֹד.<lb/>
+        T:<lb/>
+        Baruch atah, Adonai, she-ot&apos;cha l&apos;vad&apos;cha b&apos;yirah naavod.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff41048ec-a261-44b0-8934-b901c5b2844d.jp2/831,2907,2854,2186/max/0/default.jpg">
+          YOU ARE WITH US in our prayer, our love and our doubt,<lb/>
+        in our longing to feel Your Presence and do Your will.<lb/>
+        You are the still clear voice within us.<lb/>
+        Therefore, O God, when doubt troubles us,<lb/>
+        when anxiety makes us tremble,<lb/>
+        when pain clouds the mind,<lb/>
+        we look inward for the answer to our prayers.<lb/>
+        There may we find You,<lb/>
+        and there find courage, insight and endurance.<lb/>
+        And let our worship bring us closer to one another,<lb/>
+        that all Israel, and all who seek You,<lb/>
+        may find new strength for Your service.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, שֶׁאוֹתְךָ לְבַדְּךָ בְּיִרְאָה נַעֲבֹד.<lb/>
+        Baruch atah, Adonai, she-ot&apos;cha l&apos;vad&apos;cha b&apos;yirah naavod.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

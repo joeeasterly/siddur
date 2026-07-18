@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="170">
+        <pb n="170"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc3966c-f794-41a9-b536-11f6a2ce43e9.jp2/2543,625,1592,1082/max/0/default.jpg">
+          אַתָּה קָדוֹשׁ וְשִׁמְךְ קָדוֹשׁ<lb/>
+        וּקְדוֹשִׁים בְּכָל יוֹם<lb/>
+        יְהַלְלוּךְ סֶלָה.*<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, הָאֵל הַקָּדוֹשׁ.<lb/>
+        *SHABBAT SHUVAH - בָּרוּךְ אַתָּה,<lb/>
+        יְיָ, הַמֶּלֶךְ הַקָּדוֹשׁ.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc3966c-f794-41a9-b536-11f6a2ce43e9.jp2/424,648,1493,1047/max/0/default.jpg">
+          ATAH kadosh v&apos;shimcha kadosh<lb/>
+        uk&apos;doshim b&apos;chol yom<lb/>
+        y&apos;hal&apos;lucha, selah.*<lb/>
+        Baruch atah Adonai, Ha-El hakadosh.<lb/>
+        *SHABBAT SHUVAH - Baruch atah,<lb/>
+        Adonai, HaMelech hakadosh.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc3966c-f794-41a9-b536-11f6a2ce43e9.jp2/1263,2178,2084,1781/max/0/default.jpg">
+          YOU ARE HOLY, Your Name is holy,<lb/>
+        and those who are holy praise You every day.*<lb/>
+        Blessed are You, Adonai, the Holy God.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, הָאֵל הַקָּדוֹשׁ.<lb/>
+        Baruch atah, Adonai, Ha-El hakadosh.<lb/>
+        *SHABBAT SHUVAH -<lb/>
+        Praised are You, Adonai, Holy Sovereign.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ, הַמֶּלֶךְ הַקָּדוֹשׁ.<lb/>
+        Baruch atah, Adonai, HaMelech hakadosh.
+        </ab>
+        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1dc3966c-f794-41a9-b536-11f6a2ce43e9.jp2/412,5830,3705,474/max/0/default.jpg">
+          This third blessing of praise in the y Amidah emphasizes God&apos;s holy nature. Even God&apos;s<lb/>
+        name is holy.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

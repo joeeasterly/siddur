@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="174">
+        <pb n="174"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/2240,394,1869,1220/max/0/default.jpg">
+          רְצָה, יְיָ אֱלֹהֵינוּ, בְּעַמְךְ יִשְׂרָאֵל,<lb/>
+        וּתְפִלָּתָם בְּאַהֲבָה תְקַבֵּל,<lb/>
+        וּתְהִי לְרָצוֹן תָּמִיד<lb/>
+        עֲבוֹדַת יִשְׂרָאֵל עַמֶּךָ.<lb/>
+        אֵל קָרוֹב לְכָל קִרְאָיו,<lb/>
+        פְּנֵה אֶל עֲבָדֶיךָ וְחָנֵּנוּ,<lb/>
+        שְׁפוֹךְ רוּחֲךָ עָלֵינוּ.
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/423,347,1723,1246/max/0/default.jpg">
+          R&apos;TZEI, Adonai Eloheinu, b’amcha Yisrael,<lb/>
+        ut&apos;filatam b&apos;ahavah t&apos;kabeil,<lb/>
+        ut&apos;hi l&apos;ratzon tamid<lb/>
+        avodat Yisrael amecha.<lb/>
+        El karov l&apos;chol korav,<lb/>
+        p&apos;nei el avadecha v&apos;choneinu,<lb/>
+        sh&apos;foch ruchacha aleinu.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/371,1609,2861,763/max/0/default.jpg">
+          FIND FAVOR, Adonai, our God, with Your people Israel<lb/>
+        and accept their prayer in love.<lb/>
+        May the worship of Your people Israel always be acceptable.<lb/>
+        God who is near to all who call, turn lovingly to Your servants.<lb/>
+        Pour out Your spirit upon us.
+        </ab>
+        <ab xml:id="block_D" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/2360,2596,1661,1599/max/0/default.jpg">
+          אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ,<lb/>
+        יַעֲלֶה וְיָבֹא וְיִזְכֵר זִכְרוֹנֵנוּ<lb/>
+        וְזִכְרוֹן כָּל עַמָּךְ בֵּית יִשְׂרָאֵל לְפָנֶיךָ,<lb/>
+        לְטוֹבָה, לְחֵן וּלְחֶסֶד וּלְרַחֲמִים,<lb/>
+        לְחַיִּים וּלְשָׁלוֹם, בְּיוֹם<lb/>
+        ראשׁ הַחֹדֶשׁ הַזֶּה.<lb/>
+        חַג הַמַּצוֹת הַזֶּה.<lb/>
+        חַג הַסֵּכּוֹת הַזֶּה.<lb/>
+        זָכְרֵנוּ, יְיָ אֱלֹהֵינוּ, בּוֹ לְטוֹבָה. אָמֵן.<lb/>
+        וּפָקְדֵנוּ בוֹ לִבְרָכָה. אָמֵן.<lb/>
+        וְהוֹשִׁיעֵנוּ בוֹ לְחַיִּים. אָמֵן.
+        </ab>
+        <ab xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/464,2435,2612,1750/max/0/default.jpg">
+          ROSH CHODESH, PESACH, AND SUKKOT<lb/>
+        Eloheinu v&apos;Elohei avoteinu v&apos;imoteinu,<lb/>
+        yaaleh v&apos;yavo, v&apos;yizacheir zichroneinu<lb/>
+        v&apos;zichron kol amcha beit Yisrael l&apos;fanecha,<lb/>
+        l&apos;tovah, l&apos;chein ul&apos;chesed ul&apos;rachamim,<lb/>
+        l&apos;chayim ul&apos;shalom, b&apos;Yom<lb/>
+        Rosh HaChodesh hazeh.<lb/>
+        Chag HaMatzot hazeh.<lb/>
+        Chag HaSukkot hazeh.<lb/>
+        Zochreinu, Adonai Eloheinu, bo l&apos;tovah. Amen.<lb/>
+        Ufokdeinu vo liv&apos;rachah. Amen.<lb/>
+        V&apos;hoshi-einu vo l&apos;chayim. Amen.
+        </ab>
+        <ab xml:id="block_F" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/921,4226,2710,784/max/0/default.jpg">
+          Our God and God of our fathers and mothers, on this<lb/>
+        (first day of the new month) - (day of Pesach)-(day of Sukkot)<lb/>
+        be mindful of us and all Your people Israel,<lb/>
+        for good, for love, for compassion, life and<lb/>
+        Remember us for wellbeing. Amen.<lb/>
+        peace.<lb/>
+        Visit us with blessing. Amen. Help us to a fuller life. Amen.
+        </ab>
+        <ab xml:id="block_G" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/2832,5192,1292,1111/max/0/default.jpg">
+          וְתֶחֱזֶינָה עֵינֵינוּ בְּשׁוּבְךְ<lb/>
+        לְצִיּוֹן בְּרַחֲמִים.<lb/>
+        בָּרוּךְ אַתָּה, יְיָ,<lb/>
+        הַמַּחֲזִיר שְׁכִינָתוֹ לְצִיּוֹן.
+        </ab>
+        <ab xml:id="block_H" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F8c66befe-d02e-4efa-b14b-057325ded09e.jp2/324,5171,2497,1085/max/0/default.jpg">
+          V&apos;techezenah eineinu b&apos;shuv&apos;cha<lb/>
+        l&apos;Tzion b&apos;rachamim.<lb/>
+        LET OUR EYES BEHOLD Your loving return to Zion.<lb/>
+        Blessed are You, Adonai, whose Presence returns to Zion.<lb/>
+        Baruch atah, Adonai,<lb/>
+        hamachazir Shechinato l&apos;Tzion.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

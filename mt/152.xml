@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="152">
+        <pb n="152"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fed8709b9-ea6c-4b79-b63b-03430d862073.jp2/360,1285,3982,1602/max/0/default.jpg">
+          שמע ישראל יהוה
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fed8709b9-ea6c-4b79-b63b-03430d862073.jp2/584,3947,3460,970/max/0/default.jpg">
+          שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד!<lb/>
+        Sh&apos;ma Yisrael, Adonai Eloheinu, Adonai Echad!<lb/>
+        Hear, O Israel, Adonai is our God, Adonai is One!
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fed8709b9-ea6c-4b79-b63b-03430d862073.jp2/474,5560,3632,281/max/0/default.jpg">
+          Sh&apos;ma Yisrael... Hear, O Israel... Deuteronomy 6:4
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

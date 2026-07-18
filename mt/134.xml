@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="134">
+        <pb n="134"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb062ae13-3b6f-49f6-967b-75a00a750420.jp2/2784,538,1221,1985/max/0/default.jpg">
+          זַמְּרוּ לַייָ בְּכִנּוֹר,<lb/>
+        בְּכִנּוֹר וְקוֹל זִמְרָה.<lb/>
+        בַּחֲצֹצְרוֹת וְקוֹל שׁוֹפָר<lb/>
+        הָרִיעוּ לִפְנֵי הַמֶּלֶךְ יְיָ.<lb/>
+        יִרְעַם הַיָּם וּמְלֹאוֹ<lb/>
+        תֵּבֵל וְיֹשְׁבֵי בָהּ.<lb/>
+        נְהָרוֹת יִמְחֲאוּ־כָף<lb/>
+        יַחַד הָרִים יְרַנֵּנוּ.<lb/>
+        לִפְנֵי־יְיָ כִּי־בָא<lb/>
+        לִשְׁפּט הָאָרֶץ<lb/>
+        יִשְׁפּט תֵּבֵל בְּצֶדֶק<lb/>
+        וְעַמִּים בְּמֵישָׁרִים.<lb/>
+        T:
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb062ae13-3b6f-49f6-967b-75a00a750420.jp2/572,521,1117,1945/max/0/default.jpg">
+          Zamru l&apos;Adonai b&apos;chinor,<lb/>
+        b&apos;chinor v&apos;kol zimrah.<lb/>
+        Bachatzotz&apos;rot v&apos;kol shofar<lb/>
+        hariu lifnei HaMelech Adonai.<lb/>
+        Yiram hayam um&apos;lo-o<lb/>
+        teiveil v&apos;yoshvei vah.<lb/>
+        N&apos;harot yimcha-u chaf<lb/>
+        yachad harim y&apos;raneinu.<lb/>
+        Lifnei Adonai ki va<lb/>
+        lishpot haaretz<lb/>
+        yishpot teiveil b&apos;tzedek<lb/>
+        v&apos;amim b&apos;meisharim.
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fb062ae13-3b6f-49f6-967b-75a00a750420.jp2/1348,2692,1904,1841/max/0/default.jpg">
+          SING PRAISE TO ADONAI with the lyre,<lb/>
+        with the lyre and melodious song.<lb/>
+        With trumpets and the blast of the horn<lb/>
+        raise a shout before Adonai, the ruler.<lb/>
+        Let the sea and all within it thunder,<lb/>
+        the world and its inhabitants;<lb/>
+        let the rivers clap their hands,<lb/>
+        the mountains sing joyously together<lb/>
+        at the presence of Adonai,<lb/>
+        for God is coming to rule the earth;<lb/>
+        God will rule the world justly,<lb/>
+        and its peoples with equity.
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

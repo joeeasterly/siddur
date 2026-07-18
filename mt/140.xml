@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="../teiHeader.xml"/>
+  <text>
+    <body>
+      <div type="page" n="140">
+        <pb n="140"/>
+        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F4bf6c8f6-be45-483a-9ddb-2a0a5f2f1953.jp2/2457,665,1563,3566/max/0/default.jpg">
+          מזמור שיר<lb/>
+        לְיוֹם הַשַׁבָּת.<lb/>
+        טוֹב לְהֹדוֹת לַייָ<lb/>
+        וּלְזַמֵּר לְשִׁמְךְ עֶלְיוֹן.<lb/>
+        לְהַגִּיד בַּבֹּקֶר חַסְדֶּךָ,<lb/>
+        וֶאֱמוּנָתְךָ בַּלֵּילוֹת.<lb/>
+        עֲלֵי עָשׂוֹר וַעֲלֵי נָבֶל,<lb/>
+        עֲלֵי הִגָּיוֹן בְּכִנּוֹר.<lb/>
+        כִּי שִׂמַּחְתַּנִי יְיָ בְּפָעָלֶךְ<lb/>
+        בְּמַעֲשֵׂי יָדֶיךָ אֲרַנֵּן.<lb/>
+        מַה־גָּדְלוּ מַעֲשֶׂיךָ, יְיָ<lb/>
+        מְאֹד עָמְקוּ מַחְשְׁבֹתֶיךָ.<lb/>
+        אִישׁ בַּעַר לֹא יֵדָע<lb/>
+        וּכְסִיל לֹא־יָבִין אֶת־זֹאת.<lb/>
+        צַדִּיק כַּתָּמָר יִפְרָח<lb/>
+        כְּאֶרֶז בַּלְבָנוֹן יִשְׂגֶה.<lb/>
+        שְׁתוּלִים בְּבֵית יְיָ,<lb/>
+        בְּחַצְרוֹת אֱלֹהֵינוּ יַפְרִיחוּ.<lb/>
+        עוֹד יְנוּבוּן בְּשִׂיבָה,<lb/>
+        דְּשֵׁנִים וְרַעֲנַנִּים יִהְיוּ.<lb/>
+        לְהַגִּיד כִּי־יָשָׁר יְיָ,<lb/>
+        צוּרִי וְלֹא־עַוְלָתָה בּוֹ.<lb/>
+        TIT
+        </ab>
+        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F4bf6c8f6-be45-483a-9ddb-2a0a5f2f1953.jp2/575,515,2200,3699/max/0/default.jpg">
+          MIZMOR SHIR<lb/>
+        I&apos;yom HaShabbat.<lb/>
+        Tov l&apos;hodot l&apos;Adonai<lb/>
+        ul&apos;zameir l&apos;shimcha elyon.<lb/>
+        L&apos;hagid babokeir chasdecha,<lb/>
+        ve-emunatcha baleilot.<lb/>
+        Alei asor vaalei navel<lb/>
+        alei higayon b&apos;chinor.<lb/>
+        Ki simachtani Adonai b&apos;fo-olecha<lb/>
+        b&apos;maasei yadecha aranein.<lb/>
+        Mah gadlu maasecha Adonai,<lb/>
+        m&apos;od amku machsh&apos;votecha.<lb/>
+        Ish baar lo yeida<lb/>
+        uch&apos;sil lo yavin et zot.<lb/>
+        Tzaddik katamar yifrach<lb/>
+        k&apos;erez bal&apos;vanon yisgeh.<lb/>
+        Sh&apos;tulim b&apos;veit Adonai,<lb/>
+        b&apos;chatzrot Eloheinu yafrichu.<lb/>
+        Od y&apos;nuvun b&apos;seivah,<lb/>
+        d&apos;sheinim v&apos;raananim yih&apos;yu.<lb/>
+        L&apos;hagid ki yashar Adonai,<lb/>
+        tzuri v&apos;lo avlatah bo.<lb/>
+        PSALM 92:1-7, 13-16
+        </ab>
+        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F4bf6c8f6-be45-483a-9ddb-2a0a5f2f1953.jp2/564,4191,3450,1586/max/0/default.jpg">
+          A PSALM. A SONG for Shabbat.<lb/>
+        It is good to praise Adonai; to sing hymns to Your name, O Most High,<lb/>
+        to proclaim Your steadfast love at daybreak, Your faithfulness each night,<lb/>
+        with a ten-stringed harp, with voice and lyre together.<lb/>
+        You have gladdened me by Your deeds, Adonai; I shout for joy at Your handiwork.<lb/>
+        How great are Your works, Adonai, how very subtle Your designs!<lb/>
+        A brute cannot know, a fool cannot understand this:<lb/>
+        The righteous bloom like a date-palm; they thrive like a cedar in Lebanon;<lb/>
+        planted in the house of Adonai, they flourish in the courts of our God.<lb/>
+        In old age they still produce fruit; they are full of sap and freshness,<lb/>
+        attesting that Adonai is upright, my Rock, in whom there is no wrong.
+        </ab>
+        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F4bf6c8f6-be45-483a-9ddb-2a0a5f2f1953.jp2/454,5858,3658,445/max/0/default.jpg">
+          Psalm 92 - The psalm sung by the Levites in the ancient Temple (M. Tamid 7:4), taken by the<lb/>
+        Rabbis to refer to the longed-for future time when every day will be like Shabbat.<lb/>
+        Mechilta d&apos;Rabbi Yishma-eil, Masechta d&apos;Shabta I
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>
