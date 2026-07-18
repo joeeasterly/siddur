@@ -7,59 +7,59 @@
     <body>
       <div type="page" n="131">
         <pb n="131"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F83109835-d147-4d4a-8c0b-fb53e8cf3580.jp2/1366,521,2454,1354/max/0/default.jpg">
-          In God&apos;s hand are the depths of the earth;<lb/>
-        the peaks of the mountains are God&apos;s.<lb/>
-        God&apos;s is the sea, God made it;<lb/>
-        and the land, which God&apos;s hands fashioned.<lb/>
-        Come, let us bow down and kneel,<lb/>
-        bend the knee before Adonai our maker,<lb/>
-        for Adonai is our God,<lb/>
-        and we are the people God tends, the flock in God&apos;s care.<lb/>
-        O, if you would but heed God&apos;s charge this day.
-        </ab>
-        <ab xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F83109835-d147-4d4a-8c0b-fb53e8cf3580.jp2/2599,2142,1858,3103/max/0/default.jpg">
-          שירוּ לַייָ שִׁיר חָדָשׁ,<lb/>
-        שִׁירוּ לַייָ כָּל־הָאָרֶץ.<lb/>
-        שִׁירוּ לַייָ, בָּרְכוּ שְׁמוֹ,<lb/>
-        בַּשְׂרוּ מִיּוֹם לְיוֹם יְשׁוּעָתוֹ.<lb/>
-        סַפְּרוּ בַגּוֹיִם כְּבוֹדוֹ,<lb/>
-        בְּכָל־הָעַמִּים נִפְלְאוֹתָיו.<lb/>
-        כִּי גָדוֹל יְיָ וּמְהֵלָל מְאֹד,<lb/>
-        נוֹרָא הוּא עַל־כָּל־אֱלֹהִים.<lb/>
-        כִּי כָּל־אֱלֹהֵי הָעַמִּים אֱלִילִים<lb/>
-        וַיְיָ שָׁמַיִם עָשָׂה.<lb/>
-        הוֹד וְהָדָר לְפָנָיו,<lb/>
-        עז וְתִפְאֶרֶת בְּמִקְדָּשׁוֹ.<lb/>
-        יִשְׂמְחוּ הַשָּׁמַיִם וְתָגֵל הָאָרֶץ<lb/>
-        יִרְעַם הַיָּם וּמְלֹאוֹ.<lb/>
-        יַעֲלוּ שָׂדַי וְכָל־אֲשֶׁר־בּוֹ,<lb/>
-        אָז יְרַנְּנוּ כָּל־עֲנֵי־יָעַר.<lb/>
-        זן<lb/>
-        לִפְנֵי יְיָ כִּי בָא, כִּי בָא לִשְׁפּט הָאָרֶץ,<lb/>
-        יִשְׁפּט תֵּבֵל בְּצֶדֶק וְעַמִּים בֶּאֱמוּנָתוֹ
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F83109835-d147-4d4a-8c0b-fb53e8cf3580.jp2/1041,1974,2113,3294/max/0/default.jpg">
-          PSALM 96:1-6, 11-13<lb/>
-        SHIRU l&apos;Adonai shir chadash,<lb/>
-        shiru l&apos;Adonai kol haaretz.<lb/>
-        Shiru l&apos;Adonai bar&apos;chu sh&apos;mo,<lb/>
-        basru miyom l&apos;yom y&apos;shuato.<lb/>
-        Sapru vagoyim k&apos;vodo,<lb/>
-        b&apos;chol haamim niflotav.<lb/>
-        Ki gadol Adonai um&apos;hulal m&apos;od,<lb/>
-        nora hu al kol elohim.<lb/>
-        Ki kol elohei haamim elilim<lb/>
-        v&apos;Adonai shamayim asah.<lb/>
-        Hod v&apos;hadar l&apos;fanav,<lb/>
-        oz v&apos;tiferet b&apos;mikdasho.<lb/>
-        Yism&apos;chu hashamayim v&apos;tageil haaretz<lb/>
-        yiram hayam um❜lo-o.<lb/>
-        Yaaloz saddai v&apos;chol asher bo<lb/>
-        az y&apos;ran&apos;nu kol atzei yaar.<lb/>
-        Lifnei Adonai ki va, ki va lishpot haaretz<lb/>
-        yishpot teiveil b&apos;tzedek v&apos;amim be-emunato.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F83109835-d147-4d4a-8c0b-fb53e8cf3580.jp2/1366,521,2454,1354/max/0/default.jpg">
+          <l>In God&apos;s hand are the depths of the earth;</l>
+          <l>the peaks of the mountains are God&apos;s.</l>
+          <l>God&apos;s is the sea, God made it;</l>
+          <l>and the land, which God&apos;s hands fashioned.</l>
+          <l>Come, let us bow down and kneel,</l>
+          <l>bend the knee before Adonai our maker,</l>
+          <l>for Adonai is our God,</l>
+          <l>and we are the people God tends, the flock in God&apos;s care.</l>
+          <l>O, if you would but heed God&apos;s charge this day.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F83109835-d147-4d4a-8c0b-fb53e8cf3580.jp2/2599,2142,1858,3103/max/0/default.jpg">
+          <l>שירוּ לַייָ שִׁיר חָדָשׁ,</l>
+          <l>שִׁירוּ לַייָ כָּל־הָאָרֶץ.</l>
+          <l>שִׁירוּ לַייָ, בָּרְכוּ שְׁמוֹ,</l>
+          <l>בַּשְׂרוּ מִיּוֹם לְיוֹם יְשׁוּעָתוֹ.</l>
+          <l>סַפְּרוּ בַגּוֹיִם כְּבוֹדוֹ,</l>
+          <l>בְּכָל־הָעַמִּים נִפְלְאוֹתָיו.</l>
+          <l>כִּי גָדוֹל יְיָ וּמְהֵלָל מְאֹד,</l>
+          <l>נוֹרָא הוּא עַל־כָּל־אֱלֹהִים.</l>
+          <l>כִּי כָּל־אֱלֹהֵי הָעַמִּים אֱלִילִים</l>
+          <l>וַיְיָ שָׁמַיִם עָשָׂה.</l>
+          <l>הוֹד וְהָדָר לְפָנָיו,</l>
+          <l>עז וְתִפְאֶרֶת בְּמִקְדָּשׁוֹ.</l>
+          <l>יִשְׂמְחוּ הַשָּׁמַיִם וְתָגֵל הָאָרֶץ</l>
+          <l>יִרְעַם הַיָּם וּמְלֹאוֹ.</l>
+          <l>יַעֲלוּ שָׂדַי וְכָל־אֲשֶׁר־בּוֹ,</l>
+          <l>אָז יְרַנְּנוּ כָּל־עֲנֵי־יָעַר.</l>
+          <l>זן</l>
+          <l>לִפְנֵי יְיָ כִּי בָא, כִּי בָא לִשְׁפּט הָאָרֶץ,</l>
+          <l>יִשְׁפּט תֵּבֵל בְּצֶדֶק וְעַמִּים בֶּאֱמוּנָתוֹ</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F83109835-d147-4d4a-8c0b-fb53e8cf3580.jp2/1041,1974,2113,3294/max/0/default.jpg">
+          <l>PSALM 96:1-6, 11-13</l>
+          <l>SHIRU l&apos;Adonai shir chadash,</l>
+          <l>shiru l&apos;Adonai kol haaretz.</l>
+          <l>Shiru l&apos;Adonai bar&apos;chu sh&apos;mo,</l>
+          <l>basru miyom l&apos;yom y&apos;shuato.</l>
+          <l>Sapru vagoyim k&apos;vodo,</l>
+          <l>b&apos;chol haamim niflotav.</l>
+          <l>Ki gadol Adonai um&apos;hulal m&apos;od,</l>
+          <l>nora hu al kol elohim.</l>
+          <l>Ki kol elohei haamim elilim</l>
+          <l>v&apos;Adonai shamayim asah.</l>
+          <l>Hod v&apos;hadar l&apos;fanav,</l>
+          <l>oz v&apos;tiferet b&apos;mikdasho.</l>
+          <l>Yism&apos;chu hashamayim v&apos;tageil haaretz</l>
+          <l>yiram hayam um❜lo-o.</l>
+          <l>Yaaloz saddai v&apos;chol asher bo</l>
+          <l>az y&apos;ran&apos;nu kol atzei yaar.</l>
+          <l>Lifnei Adonai ki va, ki va lishpot haaretz</l>
+          <l>yishpot teiveil b&apos;tzedek v&apos;amim be-emunato.</l>
+        </lg>
       </div>
     </body>
   </text>

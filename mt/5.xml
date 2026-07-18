@@ -7,50 +7,50 @@
     <body>
       <div type="page" n="5">
         <pb n="5"/>
-        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/2827,381,1682,1104/max/0/default.jpg">
-          בָּרוּךְ אַתָּה, יְיָ<lb/>
-        אֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,<lb/>
-        אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ<lb/>
-        עַל מִצְוַת קְרִיאַת שְׁמַע<lb/>
-        לְהַמְלִיכוֹ בְּלֵבָב שָׁלֵם וּלְיַחְדוֹ<lb/>
-        בְּלֵב טוֹב וּלְעָבְדוֹ בְּנֶפֶשׁ חֲפֵצָה.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/857,379,1440,1092/max/0/default.jpg">
-          BARUCH atah, Adonai<lb/>
-        Eloheinu, Melech haolam,<lb/>
-        asher kid&apos;shanu b&apos;mitzvotav v&apos;tzivanu<lb/>
-        al mitzvat k&apos;riat sh&apos;ma<lb/>
-        l&apos;hamlicho b&apos;leivav shaleim ul&apos;yachdo<lb/>
-        b&apos;leiv tov ul&apos;ovdo b&apos;nefesh chafeitzah.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/1325,1530,2757,910/max/0/default.jpg">
-          PRAISED ARE YOU, Adonai our God, Ruler of the Universe,<lb/>
-        who hallows us with mitzvot,<lb/>
-        commanding us how to recite the Sh&apos;ma:<lb/>
-        to declare wholeheartedly God&apos;s rule,<lb/>
-        to declare earnestly God is One,<lb/>
-        and to willingly worship God.
-        </ab>
-        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/1276,2879,2307,1281/max/0/default.jpg">
-          THREE THINGS there are together in my eye<lb/>
-        that keep the thought of Thee forever nigh.<lb/>
-        I think about Thy great and holy name<lb/>
-        whenever I look up and see the sky.<lb/>
-        My thoughts are roused to know how I was made,<lb/>
-        seeing the earth&apos;s expanse where I abide.<lb/>
-        The musings of my mind when I look inside<lb/>
-        at all times, O my soul, &quot;Bless Adonai!&quot;
-        </ab>
-        <ab xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/861,4613,3782,610/max/0/default.jpg">
-          What does it mean to be called to worship? All serious activity requires preparation. The prayers<lb/>
-        and blessings that precede Bar&apos;chu are warm-ups for the individual. Now communal prayer<lb/>
-        begins. The leader asks, “Are you ready to pray?&quot; And we respond, &quot;Yes! Let us pray!&quot;<lb/>
-        adapted from Richard Levy
-        </ab>
-        <ab xml:id="block_F" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/872,5205,3717,1081/max/0/default.jpg">
-          Baruch atah, Praised are You: So important was the recitation of the Shma to our ancestors in Eretz Yisrael, that they introduced it with a blessing. That blessing fell out of use over a thousand years ago; we reclaim it here as part of our liturgical heritage.<lb/>
-        There are three main avenues by which one arrives at meaning in life. The first is by creating a life or doing a deed. The second is by experiencing something or encountering someone; in other words, meaning can be found not only in work but also in love. Third: even the helpless victim of a hopeless situation, facing a fate that cannot be changed, may rise above himself, grow beyond himself, and by so doing, change himself. Viktor E. Frankl
-        </ab>
+        <lg xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/2827,381,1682,1104/max/0/default.jpg">
+          <l>בָּרוּךְ אַתָּה, יְיָ</l>
+          <l>אֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,</l>
+          <l>אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ</l>
+          <l>עַל מִצְוַת קְרִיאַת שְׁמַע</l>
+          <l>לְהַמְלִיכוֹ בְּלֵבָב שָׁלֵם וּלְיַחְדוֹ</l>
+          <l>בְּלֵב טוֹב וּלְעָבְדוֹ בְּנֶפֶשׁ חֲפֵצָה.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/857,379,1440,1092/max/0/default.jpg">
+          <l>BARUCH atah, Adonai</l>
+          <l>Eloheinu, Melech haolam,</l>
+          <l>asher kid&apos;shanu b&apos;mitzvotav v&apos;tzivanu</l>
+          <l>al mitzvat k&apos;riat sh&apos;ma</l>
+          <l>l&apos;hamlicho b&apos;leivav shaleim ul&apos;yachdo</l>
+          <l>b&apos;leiv tov ul&apos;ovdo b&apos;nefesh chafeitzah.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/1325,1530,2757,910/max/0/default.jpg">
+          <l>PRAISED ARE YOU, Adonai our God, Ruler of the Universe,</l>
+          <l>who hallows us with mitzvot,</l>
+          <l>commanding us how to recite the Sh&apos;ma:</l>
+          <l>to declare wholeheartedly God&apos;s rule,</l>
+          <l>to declare earnestly God is One,</l>
+          <l>and to willingly worship God.</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/1276,2879,2307,1281/max/0/default.jpg">
+          <l>THREE THINGS there are together in my eye</l>
+          <l>that keep the thought of Thee forever nigh.</l>
+          <l>I think about Thy great and holy name</l>
+          <l>whenever I look up and see the sky.</l>
+          <l>My thoughts are roused to know how I was made,</l>
+          <l>seeing the earth&apos;s expanse where I abide.</l>
+          <l>The musings of my mind when I look inside</l>
+          <l>at all times, O my soul, &quot;Bless Adonai!&quot;</l>
+        </lg>
+        <lg xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/861,4613,3782,610/max/0/default.jpg">
+          <l>What does it mean to be called to worship? All serious activity requires preparation. The prayers</l>
+          <l>and blessings that precede Bar&apos;chu are warm-ups for the individual. Now communal prayer</l>
+          <l>begins. The leader asks, “Are you ready to pray?&quot; And we respond, &quot;Yes! Let us pray!&quot;</l>
+          <l>adapted from Richard Levy</l>
+        </lg>
+        <lg xml:id="block_F" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F051c3a8f-0c58-444d-ada6-1a4ea721005d.jp2/872,5205,3717,1081/max/0/default.jpg">
+          <l>Baruch atah, Praised are You: So important was the recitation of the Shma to our ancestors in Eretz Yisrael, that they introduced it with a blessing. That blessing fell out of use over a thousand years ago; we reclaim it here as part of our liturgical heritage.</l>
+          <l>There are three main avenues by which one arrives at meaning in life. The first is by creating a life or doing a deed. The second is by experiencing something or encountering someone; in other words, meaning can be found not only in work but also in love. Third: even the helpless victim of a hopeless situation, facing a fate that cannot be changed, may rise above himself, grow beyond himself, and by so doing, change himself. Viktor E. Frankl</l>
+        </lg>
       </div>
     </body>
   </text>

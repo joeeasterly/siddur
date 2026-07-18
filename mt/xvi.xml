@@ -7,11 +7,11 @@
     <body>
       <div type="page" n="xvi">
         <pb n="xvi"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F9c3cdcc2-02a4-4d44-baac-caf917264a1e.jp2/428,405,3722,694/max/0/default.jpg">
-          Source citations for prayers and readings by contemporary authors are found in the<lb/>
-        back of the book. Citations for the commentaries are found within the text.<lb/>
-        An extensive selection of musical texts is found at the back of the book.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F9c3cdcc2-02a4-4d44-baac-caf917264a1e.jp2/428,405,3722,694/max/0/default.jpg">
+          <l>Source citations for prayers and readings by contemporary authors are found in the</l>
+          <l>back of the book. Citations for the commentaries are found within the text.</l>
+          <l>An extensive selection of musical texts is found at the back of the book.</l>
+        </lg>
       </div>
     </body>
   </text>

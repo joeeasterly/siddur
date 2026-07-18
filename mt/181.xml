@@ -7,46 +7,46 @@
     <body>
       <div type="page" n="181">
         <pb n="181"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Feba774b0-9a35-4c40-b608-cc45d4bd1ee2.jp2/1352,395,1809,1502/max/0/default.jpg">
-          CREATE a pure heart within me;<lb/>
-        let my soul wake up in Your light.<lb/>
-        Open me to Your Presence;<lb/>
-        flood me with Your holy spirit.<lb/>
-        Then I will stand and sing out<lb/>
-        the power of Your forgiveness.<lb/>
-        I will teach Your love to the lonely;<lb/>
-        the lost will find their way home.<lb/>
-        Adonai, open up my lips<lb/>
-        and my mouth will declare Your praise.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Feba774b0-9a35-4c40-b608-cc45d4bd1ee2.jp2/1383,2116,2636,3442/max/0/default.jpg">
-          WE REACH for You, our God<lb/>
-        from our quiet places.<lb/>
-        May we stand still, for a brief moment,<lb/>
-        and listen to the rain -<lb/>
-        Stand still, for a brief moment,<lb/>
-        and watch the play of sunlight and shadow on the leaves.<lb/>
-        For a brief moment listen to the world.<lb/>
-        Let us stop the wheels of every day to be aware of Shabbat.<lb/>
-        Find the stillness of the sanctuary which the soul cherished.<lb/>
-        Renew the Covenant of an ancient people.<lb/>
-        We need a quiet space to test the balance of our days.<lb/>
-        The weight of our own deeds<lb/>
-        against the heaviness of the world&apos;s demands.<lb/>
-        The balance is precarious - steady us with faith:<lb/>
-        Quiet places and stillness -<lb/>
-        where we will hear our own best impulses speak.<lb/>
-        Quiet places and stillness<lb/>
-        from which we will reach out to each other.<lb/>
-        We will find strength in silence<lb/>
-        and with this strength<lb/>
-        we will turn again to Your service.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Feba774b0-9a35-4c40-b608-cc45d4bd1ee2.jp2/879,5595,3634,727/max/0/default.jpg">
-          For those who count the Omer, every evening between Pesach and Shavuot, turn to page 570.<lb/>
-        Reading of the Torah is on page 362. Aleinu and Kaddish are on pages 586–587.<lb/>
-        Create a pure heart within me . . . adapted from Psalm 51
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Feba774b0-9a35-4c40-b608-cc45d4bd1ee2.jp2/1352,395,1809,1502/max/0/default.jpg">
+          <l>CREATE a pure heart within me;</l>
+          <l>let my soul wake up in Your light.</l>
+          <l>Open me to Your Presence;</l>
+          <l>flood me with Your holy spirit.</l>
+          <l>Then I will stand and sing out</l>
+          <l>the power of Your forgiveness.</l>
+          <l>I will teach Your love to the lonely;</l>
+          <l>the lost will find their way home.</l>
+          <l>Adonai, open up my lips</l>
+          <l>and my mouth will declare Your praise.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Feba774b0-9a35-4c40-b608-cc45d4bd1ee2.jp2/1383,2116,2636,3442/max/0/default.jpg">
+          <l>WE REACH for You, our God</l>
+          <l>from our quiet places.</l>
+          <l>May we stand still, for a brief moment,</l>
+          <l>and listen to the rain -</l>
+          <l>Stand still, for a brief moment,</l>
+          <l>and watch the play of sunlight and shadow on the leaves.</l>
+          <l>For a brief moment listen to the world.</l>
+          <l>Let us stop the wheels of every day to be aware of Shabbat.</l>
+          <l>Find the stillness of the sanctuary which the soul cherished.</l>
+          <l>Renew the Covenant of an ancient people.</l>
+          <l>We need a quiet space to test the balance of our days.</l>
+          <l>The weight of our own deeds</l>
+          <l>against the heaviness of the world&apos;s demands.</l>
+          <l>The balance is precarious - steady us with faith:</l>
+          <l>Quiet places and stillness -</l>
+          <l>where we will hear our own best impulses speak.</l>
+          <l>Quiet places and stillness</l>
+          <l>from which we will reach out to each other.</l>
+          <l>We will find strength in silence</l>
+          <l>and with this strength</l>
+          <l>we will turn again to Your service.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Feba774b0-9a35-4c40-b608-cc45d4bd1ee2.jp2/879,5595,3634,727/max/0/default.jpg">
+          <l>For those who count the Omer, every evening between Pesach and Shavuot, turn to page 570.</l>
+          <l>Reading of the Torah is on page 362. Aleinu and Kaddish are on pages 586–587.</l>
+          <l>Create a pure heart within me . . . adapted from Psalm 51</l>
+        </lg>
       </div>
     </body>
   </text>

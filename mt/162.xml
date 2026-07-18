@@ -7,65 +7,65 @@
     <body>
       <div type="page" n="162">
         <pb n="162"/>
-        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/2588,653,1534,1565/max/0/default.jpg">
-          וְשָׁמְרוּ בְנֵי יִשְׂרָאֵל<lb/>
-        אֶת־הַשַּׁבָּת,<lb/>
-        לַעֲשׂוֹת אֶת־הַשַׁבָּת לְדֹרֹתָם<lb/>
-        בְּרִית עוֹלָם.<lb/>
-        בֵּינִי וּבֵין בְּנֵי יִשְׂרָאֵל<lb/>
-        אוֹת הִיא לְעלָם,<lb/>
-        TH<lb/>
-        כִּי־שֵׁשֶׁת יָמִים עָשָׂה יְיָ<lb/>
-        אֶת־הַשָּׁמַיִם וְאֶת־הָאָרֶץ,<lb/>
-        וּבַיּוֹם הַשְּׁבִיעִי שָׁבַת וַיִּנָּפַשׁ.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/417,637,1550,1581/max/0/default.jpg">
-          V&apos;SHAMRU V&apos;NEI YISRAEL<lb/>
-        et HaShabbat,<lb/>
-        laasot et HaShabbat I&apos;dorotam<lb/>
-        b&apos;rit olam.<lb/>
-        Beini u&apos;vein b’nei Yisrael<lb/>
-        ot hi l&apos;olam,<lb/>
-        ki sheishet yamim asah Adonai<lb/>
-        et hashamayim v&apos;et haaretz,<lb/>
-        u&apos;vayom hashvi-i shavat vayinafash.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/814,2312,2881,809/max/0/default.jpg">
-          THE PEOPLE OF ISRAEL shall keep Shabbat,<lb/>
-        observing Shabbat throughout the ages as a covenant for all time.<lb/>
-        It is a sign for all time between Me and the people of Israel.<lb/>
-        For in six days Adonai made heaven and earth,<lb/>
-        and on the seventh day God ceased from work and was refreshed.
-        </ab>
-        <ab xml:id="block_D" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/2510,3414,1581,1310/max/0/default.jpg">
-          ישְׂמָחוּ בְמַלְכוּתְךָ<lb/>
-        שׁוֹמְרֵי שַׁבָּת וְקְוֹרְאֵי עֹנֶג.<lb/>
-        עַם מְקַדְּשֵׁי שְׁבִיעִי,<lb/>
-        כֻּלָּם יִשְׂבְּעוּ וְיִתְעַנְגוּ מְטוּבָךְ.<lb/>
-        וְהַשְׁבִיעִי רָצִיתָ בּוֹ וְקִדַּשְׁתּוֹ,<lb/>
-        חֶמְדַת יָמִים אוֹתוֹ קָרָאתָ,<lb/>
-        זֵכֶר לְמַעֲשֵׂה בְרֵאשִׁית.
-        </ab>
-        <ab xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/412,3403,1273,1226/max/0/default.jpg">
-          YISM&apos;CHU v&apos;malchut&apos;cha<lb/>
-        shomrei Shabbat v&apos;korei oneg.<lb/>
-        Am m&apos;kad&apos;shei shvi-i,<lb/>
-        kulam yisb&apos;u v&apos;yitangu mituvecha.<lb/>
-        V&apos;hashvi-i ratzita bo v&apos;kidashto,<lb/>
-        chemdat yamim oto karata,<lb/>
-        zeicher l&apos;maaseh v&apos;reishit.
-        </ab>
-        <ab xml:id="block_F" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/459,4729,3465,918/max/0/default.jpg">
-          THOSE WHO KEEP SHABBAT by calling it a delight<lb/>
-        will rejoice in Your realm.<lb/>
-        The people that hallow Shabbat will delight in Your goodness.<lb/>
-        For, being pleased with the Seventh Day, You hallowed it<lb/>
-        as the most precious of days, drawing our attention to the work of Creation.
-        </ab>
-        <ab xml:id="block_G" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/360,5715,3742,741/max/0/default.jpg">
-          V&apos;shamru v&apos;nei Yisrael... The people of Israel shall keep... Exodus 31:16-17<lb/>
-        Yism&apos;chu contains twenty-four Hebrew words said to correspond to the twenty-four hours of Shabbat.
-        </ab>
+        <lg xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/2588,653,1534,1565/max/0/default.jpg">
+          <l>וְשָׁמְרוּ בְנֵי יִשְׂרָאֵל</l>
+          <l>אֶת־הַשַּׁבָּת,</l>
+          <l>לַעֲשׂוֹת אֶת־הַשַׁבָּת לְדֹרֹתָם</l>
+          <l>בְּרִית עוֹלָם.</l>
+          <l>בֵּינִי וּבֵין בְּנֵי יִשְׂרָאֵל</l>
+          <l>אוֹת הִיא לְעלָם,</l>
+          <l>TH</l>
+          <l>כִּי־שֵׁשֶׁת יָמִים עָשָׂה יְיָ</l>
+          <l>אֶת־הַשָּׁמַיִם וְאֶת־הָאָרֶץ,</l>
+          <l>וּבַיּוֹם הַשְּׁבִיעִי שָׁבַת וַיִּנָּפַשׁ.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/417,637,1550,1581/max/0/default.jpg">
+          <l>V&apos;SHAMRU V&apos;NEI YISRAEL</l>
+          <l>et HaShabbat,</l>
+          <l>laasot et HaShabbat I&apos;dorotam</l>
+          <l>b&apos;rit olam.</l>
+          <l>Beini u&apos;vein b’nei Yisrael</l>
+          <l>ot hi l&apos;olam,</l>
+          <l>ki sheishet yamim asah Adonai</l>
+          <l>et hashamayim v&apos;et haaretz,</l>
+          <l>u&apos;vayom hashvi-i shavat vayinafash.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/814,2312,2881,809/max/0/default.jpg">
+          <l>THE PEOPLE OF ISRAEL shall keep Shabbat,</l>
+          <l>observing Shabbat throughout the ages as a covenant for all time.</l>
+          <l>It is a sign for all time between Me and the people of Israel.</l>
+          <l>For in six days Adonai made heaven and earth,</l>
+          <l>and on the seventh day God ceased from work and was refreshed.</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/2510,3414,1581,1310/max/0/default.jpg">
+          <l>ישְׂמָחוּ בְמַלְכוּתְךָ</l>
+          <l>שׁוֹמְרֵי שַׁבָּת וְקְוֹרְאֵי עֹנֶג.</l>
+          <l>עַם מְקַדְּשֵׁי שְׁבִיעִי,</l>
+          <l>כֻּלָּם יִשְׂבְּעוּ וְיִתְעַנְגוּ מְטוּבָךְ.</l>
+          <l>וְהַשְׁבִיעִי רָצִיתָ בּוֹ וְקִדַּשְׁתּוֹ,</l>
+          <l>חֶמְדַת יָמִים אוֹתוֹ קָרָאתָ,</l>
+          <l>זֵכֶר לְמַעֲשֵׂה בְרֵאשִׁית.</l>
+        </lg>
+        <lg xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/412,3403,1273,1226/max/0/default.jpg">
+          <l>YISM&apos;CHU v&apos;malchut&apos;cha</l>
+          <l>shomrei Shabbat v&apos;korei oneg.</l>
+          <l>Am m&apos;kad&apos;shei shvi-i,</l>
+          <l>kulam yisb&apos;u v&apos;yitangu mituvecha.</l>
+          <l>V&apos;hashvi-i ratzita bo v&apos;kidashto,</l>
+          <l>chemdat yamim oto karata,</l>
+          <l>zeicher l&apos;maaseh v&apos;reishit.</l>
+        </lg>
+        <lg xml:id="block_F" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/459,4729,3465,918/max/0/default.jpg">
+          <l>THOSE WHO KEEP SHABBAT by calling it a delight</l>
+          <l>will rejoice in Your realm.</l>
+          <l>The people that hallow Shabbat will delight in Your goodness.</l>
+          <l>For, being pleased with the Seventh Day, You hallowed it</l>
+          <l>as the most precious of days, drawing our attention to the work of Creation.</l>
+        </lg>
+        <lg xml:id="block_G" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F57c34d72-3504-4b86-8741-451a75eb46f9.jp2/360,5715,3742,741/max/0/default.jpg">
+          <l>V&apos;shamru v&apos;nei Yisrael... The people of Israel shall keep... Exodus 31:16-17</l>
+          <l>Yism&apos;chu contains twenty-four Hebrew words said to correspond to the twenty-four hours of Shabbat.</l>
+        </lg>
       </div>
     </body>
   </text>

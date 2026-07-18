@@ -7,31 +7,31 @@
     <body>
       <div type="page" n="146">
         <pb n="146"/>
-        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/709,992,3121,767/max/0/default.jpg">
-          שְׁמַע וּבִרְכוֹתֶיהָ<lb/>
-        SH&apos;MA UVIRCHOTEHA — SH&apos;MA AND ITS BLESSINGS
-        </ab>
-        <ab xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/2808,2000,1383,615/max/0/default.jpg">
-          בָּרְכוּ אֶת יְיָ הַמְבֹרָךְ!<lb/>
-        בָּרוּךְ יְיָ הַמְבֹרָךְ<lb/>
-        לְעוֹלָם וָעֶד!
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/469,1989,1336,595/max/0/default.jpg">
-          BAR’CHU et Adonai hamvorach!<lb/>
-        Baruch Adonai ham&apos;vorach<lb/>
-        l&apos;olam va-ed!
-        </ab>
-        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/1204,2701,2219,552/max/0/default.jpg">
-          PRAISE ADONAI to whom praise is due forever!<lb/>
-        Praised be Adonai to whom praise is due,<lb/>
-        now and forever!
-        </ab>
-        <ab xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/433,5674,3695,741/max/0/default.jpg">
-          The Shma is one of the prayers one may recite in any language. M. Sotah 7:1<lb/>
-        For those who choose: The prayer leader at the word Bar&apos;chu (the call to worship) bends<lb/>
-        the knees and bows from the waist, and at » Adonai stands straight. »77 Baruch Adonai is the<lb/>
-        communal response, whereupon the community repeats the choreography of the first line.
-        </ab>
+        <lg xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/709,992,3121,767/max/0/default.jpg">
+          <l>שְׁמַע וּבִרְכוֹתֶיהָ</l>
+          <l>SH&apos;MA UVIRCHOTEHA — SH&apos;MA AND ITS BLESSINGS</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/2808,2000,1383,615/max/0/default.jpg">
+          <l>בָּרְכוּ אֶת יְיָ הַמְבֹרָךְ!</l>
+          <l>בָּרוּךְ יְיָ הַמְבֹרָךְ</l>
+          <l>לְעוֹלָם וָעֶד!</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/469,1989,1336,595/max/0/default.jpg">
+          <l>BAR’CHU et Adonai hamvorach!</l>
+          <l>Baruch Adonai ham&apos;vorach</l>
+          <l>l&apos;olam va-ed!</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/1204,2701,2219,552/max/0/default.jpg">
+          <l>PRAISE ADONAI to whom praise is due forever!</l>
+          <l>Praised be Adonai to whom praise is due,</l>
+          <l>now and forever!</l>
+        </lg>
+        <lg xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F057b76ce-b994-48fb-b262-10b58728149a.jp2/433,5674,3695,741/max/0/default.jpg">
+          <l>The Shma is one of the prayers one may recite in any language. M. Sotah 7:1</l>
+          <l>For those who choose: The prayer leader at the word Bar&apos;chu (the call to worship) bends</l>
+          <l>the knees and bows from the waist, and at » Adonai stands straight. »77 Baruch Adonai is the</l>
+          <l>communal response, whereupon the community repeats the choreography of the first line.</l>
+        </lg>
       </div>
     </body>
   </text>

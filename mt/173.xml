@@ -7,45 +7,45 @@
     <body>
       <div type="page" n="173">
         <pb n="173"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F424d385a-a4aa-4105-9a59-f238801ca8dc.jp2/1238,387,2558,1615/max/0/default.jpg">
-          MAY THESE HOURS of rest and renewal<lb/>
-        open our hearts to joy and our minds to truth.<lb/>
-        May all who struggle find rest on this day.<lb/>
-        May all who suffer find solace.<lb/>
-        May all who hurt find healing on this day.<lb/>
-        May all who despair find purpose.<lb/>
-        May all who hunger find fulfillment on this day.<lb/>
-        And may this day fulfill its promise.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, מְקַדֵּשׁ הַשַׁבָּת.<lb/>
-        Baruch atah, Adonai, m&apos;kadeish HaShabbat.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F424d385a-a4aa-4105-9a59-f238801ca8dc.jp2/1354,2147,2952,3178/max/0/default.jpg">
-          DISTURB US, Adonai, ruffle us from our complacency;<lb/>
-        Make us dissatisfied. Dissatisfied with the peace of ignorance,<lb/>
-        the quietude which arises from a shunning of the horror, the defeat,<lb/>
-        the bitterness and the poverty, physical and spiritual, of humans.<lb/>
-        Shock us, Adonai, deny to us the false Shabbat which gives us<lb/>
-        the delusions of satisfaction amid a world of war and hatred;<lb/>
-        Wake us, O God, and shake us<lb/>
-        from the sweet and sad poignancies rendered by<lb/>
-        half forgotten melodies and rubric prayers of yesteryears;<lb/>
-        Make us know that the border of the sanctuary<lb/>
-        is not the border of living<lb/>
-        and the walls of Your temples are not shelters<lb/>
-        from the winds of truth, justice and reality.<lb/>
-        Disturb us, O God, and vex us;<lb/>
-        let not Your Shabbat be a day of torpor and slumber;<lb/>
-        let it be a time to be stirred and spurred to action.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, מְקַדֶשׁ הַשַׁבָּת.<lb/>
-        Baruch atah, Adonai, m&apos;kadeish HaShabbat.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F424d385a-a4aa-4105-9a59-f238801ca8dc.jp2/920,5609,3739,764/max/0/default.jpg">
-          The meaning of Shabbat is to celebrate time rather than space. Six days a week we live under the<lb/>
-        tyranny of things in space; on Shabbat we try to become attuned to the holiness of time. It is a<lb/>
-        day on which we are called upon to share in what is eternal in time, to turn from the results of<lb/>
-        Creation to the mystery of Creation, from the world of Creation to the creation of the world.<lb/>
-        Abraham Joshua Heschel
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F424d385a-a4aa-4105-9a59-f238801ca8dc.jp2/1238,387,2558,1615/max/0/default.jpg">
+          <l>MAY THESE HOURS of rest and renewal</l>
+          <l>open our hearts to joy and our minds to truth.</l>
+          <l>May all who struggle find rest on this day.</l>
+          <l>May all who suffer find solace.</l>
+          <l>May all who hurt find healing on this day.</l>
+          <l>May all who despair find purpose.</l>
+          <l>May all who hunger find fulfillment on this day.</l>
+          <l>And may this day fulfill its promise.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, מְקַדֵּשׁ הַשַׁבָּת.</l>
+          <l>Baruch atah, Adonai, m&apos;kadeish HaShabbat.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F424d385a-a4aa-4105-9a59-f238801ca8dc.jp2/1354,2147,2952,3178/max/0/default.jpg">
+          <l>DISTURB US, Adonai, ruffle us from our complacency;</l>
+          <l>Make us dissatisfied. Dissatisfied with the peace of ignorance,</l>
+          <l>the quietude which arises from a shunning of the horror, the defeat,</l>
+          <l>the bitterness and the poverty, physical and spiritual, of humans.</l>
+          <l>Shock us, Adonai, deny to us the false Shabbat which gives us</l>
+          <l>the delusions of satisfaction amid a world of war and hatred;</l>
+          <l>Wake us, O God, and shake us</l>
+          <l>from the sweet and sad poignancies rendered by</l>
+          <l>half forgotten melodies and rubric prayers of yesteryears;</l>
+          <l>Make us know that the border of the sanctuary</l>
+          <l>is not the border of living</l>
+          <l>and the walls of Your temples are not shelters</l>
+          <l>from the winds of truth, justice and reality.</l>
+          <l>Disturb us, O God, and vex us;</l>
+          <l>let not Your Shabbat be a day of torpor and slumber;</l>
+          <l>let it be a time to be stirred and spurred to action.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, מְקַדֶשׁ הַשַׁבָּת.</l>
+          <l>Baruch atah, Adonai, m&apos;kadeish HaShabbat.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F424d385a-a4aa-4105-9a59-f238801ca8dc.jp2/920,5609,3739,764/max/0/default.jpg">
+          <l>The meaning of Shabbat is to celebrate time rather than space. Six days a week we live under the</l>
+          <l>tyranny of things in space; on Shabbat we try to become attuned to the holiness of time. It is a</l>
+          <l>day on which we are called upon to share in what is eternal in time, to turn from the results of</l>
+          <l>Creation to the mystery of Creation, from the world of Creation to the creation of the world.</l>
+          <l>Abraham Joshua Heschel</l>
+        </lg>
       </div>
     </body>
   </text>

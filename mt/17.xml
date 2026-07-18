@@ -7,26 +7,26 @@
     <body>
       <div type="page" n="17">
         <pb n="17"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdc6213ea-2082-4217-b0ac-15875a9144f4.jp2/1580,845,2163,1130/max/0/default.jpg">
-          A VERY OLD SONG aroused me into life<lb/>
-        when it drove away my low spirits.<lb/>
-        with its royal language.<lb/>
-        A song of a generation silenced<lb/>
-        from the days of old<lb/>
-        aroused me into life.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdc6213ea-2082-4217-b0ac-15875a9144f4.jp2/1604,2261,2246,1993/max/0/default.jpg">
-          STANDING on the parted shores of history,<lb/>
-        we still believe what we were taught<lb/>
-        before ever we stood at Sinai:<lb/>
-        that wherever we are, it is eternally Egypt<lb/>
-        that there is a better place, a Promised Land;<lb/>
-        that the winding way to that promise passes<lb/>
-        through the wilderness<lb/>
-        that there is no way to get from here to there<lb/>
-        except by joining hands, marching<lb/>
-        together.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdc6213ea-2082-4217-b0ac-15875a9144f4.jp2/1580,845,2163,1130/max/0/default.jpg">
+          <l>A VERY OLD SONG aroused me into life</l>
+          <l>when it drove away my low spirits.</l>
+          <l>with its royal language.</l>
+          <l>A song of a generation silenced</l>
+          <l>from the days of old</l>
+          <l>aroused me into life.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdc6213ea-2082-4217-b0ac-15875a9144f4.jp2/1604,2261,2246,1993/max/0/default.jpg">
+          <l>STANDING on the parted shores of history,</l>
+          <l>we still believe what we were taught</l>
+          <l>before ever we stood at Sinai:</l>
+          <l>that wherever we are, it is eternally Egypt</l>
+          <l>that there is a better place, a Promised Land;</l>
+          <l>that the winding way to that promise passes</l>
+          <l>through the wilderness</l>
+          <l>that there is no way to get from here to there</l>
+          <l>except by joining hands, marching</l>
+          <l>together.</l>
+        </lg>
       </div>
     </body>
   </text>

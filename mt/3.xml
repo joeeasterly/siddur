@@ -7,26 +7,26 @@
     <body>
       <div type="page" n="3">
         <pb n="3"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F77d8fea6-6d89-4181-ae34-1f84cfad8057.jp2/1024,1070,3205,2838/max/0/default.jpg">
-          TELL THEM I&apos;m struggling to sing with angels<lb/>
-        who hint at it in black words printed on old paper gold-edged by time.<lb/>
-        Tell them I wrestle the mirror every morning.<lb/>
-        Tell them I sit here invisible in space;<lb/>
-        nose running, coffee cold &amp; bitter.<lb/>
-        Tell them I tell them everything<lb/>
-        &amp; everything is never enough.<lb/>
-        Tell them I&apos;m davening &amp; voices rise up from within to startle children.<lb/>
-        Tell them I walk off into the woods to sing.<lb/>
-        Tell them I sing loudest next to waterfalls.<lb/>
-        Tell them the books get fewer, words go deeper<lb/>
-        some take months to get thru.<lb/>
-        Tell them there are moments when it&apos;s all perfect;<lb/>
-        above &amp; below, it&apos;s perfect,<lb/>
-        even in moments in between where sparks in space<lb/>
-        (terrible, beautiful sparks in space)<lb/>
-        are merely metaphors for the void between<lb/>
-        one pore &amp; another.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F77d8fea6-6d89-4181-ae34-1f84cfad8057.jp2/1024,1070,3205,2838/max/0/default.jpg">
+          <l>TELL THEM I&apos;m struggling to sing with angels</l>
+          <l>who hint at it in black words printed on old paper gold-edged by time.</l>
+          <l>Tell them I wrestle the mirror every morning.</l>
+          <l>Tell them I sit here invisible in space;</l>
+          <l>nose running, coffee cold &amp; bitter.</l>
+          <l>Tell them I tell them everything</l>
+          <l>&amp; everything is never enough.</l>
+          <l>Tell them I&apos;m davening &amp; voices rise up from within to startle children.</l>
+          <l>Tell them I walk off into the woods to sing.</l>
+          <l>Tell them I sing loudest next to waterfalls.</l>
+          <l>Tell them the books get fewer, words go deeper</l>
+          <l>some take months to get thru.</l>
+          <l>Tell them there are moments when it&apos;s all perfect;</l>
+          <l>above &amp; below, it&apos;s perfect,</l>
+          <l>even in moments in between where sparks in space</l>
+          <l>(terrible, beautiful sparks in space)</l>
+          <l>are merely metaphors for the void between</l>
+          <l>one pore &amp; another.</l>
+        </lg>
       </div>
     </body>
   </text>

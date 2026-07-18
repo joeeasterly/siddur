@@ -7,49 +7,49 @@
     <body>
       <div type="page" n="171">
         <pb n="171"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/908,677,3456,1586/max/0/default.jpg">
-          DAYS PASS and the years vanish, and we walk sightless among miracles.<lb/>
-        God, fill our eyes with seeing and our minds with knowing;<lb/>
-        let there be moments when Your Presence, like lightning,<lb/>
-        illumines the darkness in which we walk.<lb/>
-        Help us to see, wherever we gaze, that the bush burns unconsumed.<lb/>
-        And we, clay touched by God, will reach out for holiness, and exclaim in wonder:<lb/>
-        How filled with awe is this place, and we did not know it!<lb/>
-        Blessed is the Eternal One, the Holy God!<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, הָאֵל הַקָּדוֹשׁ.<lb/>
-        Baruch atah, Adonai, Ha-El hakadosh.
-        </ab>
-        <ab xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/3085,2634,1140,1540/max/0/default.jpg">
-          יָהּ אָנָה אֶמְצָאֲךָ<lb/>
-        מְקוֹמְךָ נַעֲלָה וְנֶעְלָם<lb/>
-        וְאָנָה לֹא אֶמְצָאֲךָ<lb/>
-        כְּבוֹדְךָ מָלֵא עוֹלָם.<lb/>
-        TIT<lb/>
-        דָּרַשְׁתִּי קִרְבָתְךָ<lb/>
-        בְּכָל לִבִּי קְרָאתִיךָ<lb/>
-        וּבְצֵאתִי לִקְרָאתְךָ<lb/>
-        לִקְרָאתִי מְצָאתִיךָ.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/1151,2639,1771,1476/max/0/default.jpg">
-          WHERE might I go to find You,<lb/>
-        Exalted, Hidden One?<lb/>
-        Yet where would I not go to find You,<lb/>
-        Everpresent, Eternal One?<lb/>
-        My heart cries out to You:<lb/>
-        Please draw near to me.<lb/>
-        The moment I reach out for You,<lb/>
-        I find You reaching in for me.
-        </ab>
-        <ab xml:id="block_D" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/1887,4156,1719,399/max/0/default.jpg">
-          בָּרוּךְ אַתָּה, יְיָ, הָאֵל הַקָּדוֹשׁ.<lb/>
-        Baruch atah, Adonai, Ha-El hakadosh.
-        </ab>
-        <ab xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/957,5561,3619,778/max/0/default.jpg">
-          Holiness occurs when power and goodness co-exist in perfect harmony.<lb/>
-        adapted from Mordecai Kaplan<lb/>
-        How shall we sanctify God&apos;s name? By being holy ourselves. How do we accomplish this? Let our<lb/>
-        prayers bring us to sacred deed, to actions that promote justice, harmony and peace.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/908,677,3456,1586/max/0/default.jpg">
+          <l>DAYS PASS and the years vanish, and we walk sightless among miracles.</l>
+          <l>God, fill our eyes with seeing and our minds with knowing;</l>
+          <l>let there be moments when Your Presence, like lightning,</l>
+          <l>illumines the darkness in which we walk.</l>
+          <l>Help us to see, wherever we gaze, that the bush burns unconsumed.</l>
+          <l>And we, clay touched by God, will reach out for holiness, and exclaim in wonder:</l>
+          <l>How filled with awe is this place, and we did not know it!</l>
+          <l>Blessed is the Eternal One, the Holy God!</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, הָאֵל הַקָּדוֹשׁ.</l>
+          <l>Baruch atah, Adonai, Ha-El hakadosh.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/3085,2634,1140,1540/max/0/default.jpg">
+          <l>יָהּ אָנָה אֶמְצָאֲךָ</l>
+          <l>מְקוֹמְךָ נַעֲלָה וְנֶעְלָם</l>
+          <l>וְאָנָה לֹא אֶמְצָאֲךָ</l>
+          <l>כְּבוֹדְךָ מָלֵא עוֹלָם.</l>
+          <l>TIT</l>
+          <l>דָּרַשְׁתִּי קִרְבָתְךָ</l>
+          <l>בְּכָל לִבִּי קְרָאתִיךָ</l>
+          <l>וּבְצֵאתִי לִקְרָאתְךָ</l>
+          <l>לִקְרָאתִי מְצָאתִיךָ.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/1151,2639,1771,1476/max/0/default.jpg">
+          <l>WHERE might I go to find You,</l>
+          <l>Exalted, Hidden One?</l>
+          <l>Yet where would I not go to find You,</l>
+          <l>Everpresent, Eternal One?</l>
+          <l>My heart cries out to You:</l>
+          <l>Please draw near to me.</l>
+          <l>The moment I reach out for You,</l>
+          <l>I find You reaching in for me.</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/1887,4156,1719,399/max/0/default.jpg">
+          <l>בָּרוּךְ אַתָּה, יְיָ, הָאֵל הַקָּדוֹשׁ.</l>
+          <l>Baruch atah, Adonai, Ha-El hakadosh.</l>
+        </lg>
+        <lg xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F04173a81-88b0-4f0a-a4ef-16ecb510549d.jp2/957,5561,3619,778/max/0/default.jpg">
+          <l>Holiness occurs when power and goodness co-exist in perfect harmony.</l>
+          <l>adapted from Mordecai Kaplan</l>
+          <l>How shall we sanctify God&apos;s name? By being holy ourselves. How do we accomplish this? Let our</l>
+          <l>prayers bring us to sacred deed, to actions that promote justice, harmony and peace.</l>
+        </lg>
       </div>
     </body>
   </text>

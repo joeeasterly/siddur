@@ -7,12 +7,12 @@
     <body>
       <div type="page" n="half-title">
         <pb n="half-title"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F61e3a0dd-1f98-4276-9ff2-d681d049bd83.jp2/774,3455,3039,384/max/0/default.jpg">
-          MISHKAN T&apos;FILAH
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F61e3a0dd-1f98-4276-9ff2-d681d049bd83.jp2/634,2583,3206,953/max/0/default.jpg">
-          משכן תפלה
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F61e3a0dd-1f98-4276-9ff2-d681d049bd83.jp2/774,3455,3039,384/max/0/default.jpg">
+          <l>MISHKAN T&apos;FILAH</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F61e3a0dd-1f98-4276-9ff2-d681d049bd83.jp2/634,2583,3206,953/max/0/default.jpg">
+          <l>משכן תפלה</l>
+        </lg>
       </div>
     </body>
   </text>

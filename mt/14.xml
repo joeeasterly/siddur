@@ -7,66 +7,66 @@
     <body>
       <div type="page" n="14">
         <pb n="14"/>
-        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff5e5aeee-e3e1-4cdd-a205-f804cc2f1d1d.jp2/2379,369,1745,2857/max/0/default.jpg">
-          אמֶת וֶאֱמוּנָה כָּל זֹאת<lb/>
-        וְקַיָּם עָלֵינוּ, כִּי הוּא יְיָ אֱלֹהֵינוּ<lb/>
-        וְאֵין זוּלָתוֹ, וַאֲנַחְנוּ יִשְׂרָאֵל עַמּוֹ.<lb/>
-        הַפּוֹדֵנוּ מִיַּד מְלָכִים, מַלְכֵּנוּ<lb/>
-        הַגּוֹאֲלֵנוּ מִכַּף כָּל הֶעָרִיצִים,<lb/>
-        הָעֹשֶׂה גְדֹלוֹת עַד אֵין חֵקֶר<lb/>
-        וְנִפְלָאוֹת עַד אֵין מִסְפָּר, הַשָּׁם<lb/>
-        נַפְשֵׁנוּ בַּחַיִּים, וְלֹא נָתַן לַמּוֹט<lb/>
-        רַגְלֵנוּ הָעוֹשֶׂה לָנוּ נִסִים<lb/>
-        בְּפַרְעֹה, אוֹתוֹת וּמוֹפְתִים<lb/>
-        בְּאַדְמַת בְּנֵי חָם. וַיּוֹצֵא אֶת<lb/>
-        עַמּוֹ יִשְׂרָאֵל מִתּוֹכָם לְחֵרוּת<lb/>
-        עוֹלָם. וְרָאוּ בָנָיו גְבוּרָתוֹ, שִׁבְּחוּ<lb/>
-        וְהוֹדוּ לִשְׁמוֹ. וּמַלְכוּתוֹ בְּרָצוֹן<lb/>
-        קִבְּלוּ עֲלֵיהֶם, מֹשֶׁה וּמִרְיָם<lb/>
-        וּבְנֵי יִשְׂרָאֵל לְךָ עָנוּ שִׁירָה<lb/>
-        בְּשִׂמְחָה רַבָּה, וְאָמְרוּ כָלָם:
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff5e5aeee-e3e1-4cdd-a205-f804cc2f1d1d.jp2/463,396,1438,2812/max/0/default.jpg">
-          EMET ve-emunah kol zot,<lb/>
-        v&apos;kayam aleinu, ki hu Adonai Eloheinu<lb/>
-        v&apos;ein zulato, vaanachnu Yisrael amo.<lb/>
-        Hapodeinu miyad m&apos;lachim, Malkeinu<lb/>
-        hago-aleinu mikaf kol he-aritzim,<lb/>
-        haoseh g&apos;dolot ad ein cheiker<lb/>
-        v&apos;niflaot ad ein mispar, hasam<lb/>
-        nafsheinu bachayim, v&apos;lo natan lamot<lb/>
-        ragleinu, haoseh lanu nisim<lb/>
-        b&apos;faroh, otot umoftim<lb/>
-        b&apos;admat b&apos;nei Cham. Vayotzei et<lb/>
-        amo Yisrael mitocham l&apos;cheirut<lb/>
-        olam. V&apos;ra-u vanav g&apos;vurato, shib&apos;chu<lb/>
-        v&apos;hodu lishmo. Umalchuto b&apos;ratzon<lb/>
-        kiblu aleihem. Moshe uMiryam<lb/>
-        uv&apos;nei Yisrael l&apos;cha anu shirah<lb/>
-        b&apos;simchah rabah, v&apos;amru chulam:
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff5e5aeee-e3e1-4cdd-a205-f804cc2f1d1d.jp2/451,3296,3166,2088/max/0/default.jpg">
-          ALL THIS WE HOLD to be true and trustworthy for us.<lb/>
-        You alone are our God, and we are Israel Your people.<lb/>
-        You are our Sovereign and Savior,<lb/>
-        who delivers us from oppressors&apos; hands<lb/>
-        and saves us from tyrants&apos; fists.<lb/>
-        You work wonders without number, marvels beyond count.<lb/>
-        You give us life and steady our footsteps.<lb/>
-        You performed miracles for us before Pharaoh,<lb/>
-        signs and wonders in the land of the Egyptians;<lb/>
-        You led Your people Israel out from their midst to freedom for all time.<lb/>
-        When Your children witnessed Your dominance<lb/>
-        they praised Your Name in gratitude.<lb/>
-        And they accepted Your sovereignty<lb/>
-        Moses, Miriam and all Israel sang to You together,<lb/>
-        lifting their voices joyously:
-        </ab>
-        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff5e5aeee-e3e1-4cdd-a205-f804cc2f1d1d.jp2/410,5806,3711,486/max/0/default.jpg">
-          Haoseh g&apos;dolot... You work wonders... Job 9:10<lb/>
-        הַשָּׁם נַפְשֵׁנוּ בַּחַיִּים<lb/>
-        Hasam nafsheinu bachayim... You give us life... Psalm 66:9
-        </ab>
+        <lg xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff5e5aeee-e3e1-4cdd-a205-f804cc2f1d1d.jp2/2379,369,1745,2857/max/0/default.jpg">
+          <l>אמֶת וֶאֱמוּנָה כָּל זֹאת</l>
+          <l>וְקַיָּם עָלֵינוּ, כִּי הוּא יְיָ אֱלֹהֵינוּ</l>
+          <l>וְאֵין זוּלָתוֹ, וַאֲנַחְנוּ יִשְׂרָאֵל עַמּוֹ.</l>
+          <l>הַפּוֹדֵנוּ מִיַּד מְלָכִים, מַלְכֵּנוּ</l>
+          <l>הַגּוֹאֲלֵנוּ מִכַּף כָּל הֶעָרִיצִים,</l>
+          <l>הָעֹשֶׂה גְדֹלוֹת עַד אֵין חֵקֶר</l>
+          <l>וְנִפְלָאוֹת עַד אֵין מִסְפָּר, הַשָּׁם</l>
+          <l>נַפְשֵׁנוּ בַּחַיִּים, וְלֹא נָתַן לַמּוֹט</l>
+          <l>רַגְלֵנוּ הָעוֹשֶׂה לָנוּ נִסִים</l>
+          <l>בְּפַרְעֹה, אוֹתוֹת וּמוֹפְתִים</l>
+          <l>בְּאַדְמַת בְּנֵי חָם. וַיּוֹצֵא אֶת</l>
+          <l>עַמּוֹ יִשְׂרָאֵל מִתּוֹכָם לְחֵרוּת</l>
+          <l>עוֹלָם. וְרָאוּ בָנָיו גְבוּרָתוֹ, שִׁבְּחוּ</l>
+          <l>וְהוֹדוּ לִשְׁמוֹ. וּמַלְכוּתוֹ בְּרָצוֹן</l>
+          <l>קִבְּלוּ עֲלֵיהֶם, מֹשֶׁה וּמִרְיָם</l>
+          <l>וּבְנֵי יִשְׂרָאֵל לְךָ עָנוּ שִׁירָה</l>
+          <l>בְּשִׂמְחָה רַבָּה, וְאָמְרוּ כָלָם:</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff5e5aeee-e3e1-4cdd-a205-f804cc2f1d1d.jp2/463,396,1438,2812/max/0/default.jpg">
+          <l>EMET ve-emunah kol zot,</l>
+          <l>v&apos;kayam aleinu, ki hu Adonai Eloheinu</l>
+          <l>v&apos;ein zulato, vaanachnu Yisrael amo.</l>
+          <l>Hapodeinu miyad m&apos;lachim, Malkeinu</l>
+          <l>hago-aleinu mikaf kol he-aritzim,</l>
+          <l>haoseh g&apos;dolot ad ein cheiker</l>
+          <l>v&apos;niflaot ad ein mispar, hasam</l>
+          <l>nafsheinu bachayim, v&apos;lo natan lamot</l>
+          <l>ragleinu, haoseh lanu nisim</l>
+          <l>b&apos;faroh, otot umoftim</l>
+          <l>b&apos;admat b&apos;nei Cham. Vayotzei et</l>
+          <l>amo Yisrael mitocham l&apos;cheirut</l>
+          <l>olam. V&apos;ra-u vanav g&apos;vurato, shib&apos;chu</l>
+          <l>v&apos;hodu lishmo. Umalchuto b&apos;ratzon</l>
+          <l>kiblu aleihem. Moshe uMiryam</l>
+          <l>uv&apos;nei Yisrael l&apos;cha anu shirah</l>
+          <l>b&apos;simchah rabah, v&apos;amru chulam:</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff5e5aeee-e3e1-4cdd-a205-f804cc2f1d1d.jp2/451,3296,3166,2088/max/0/default.jpg">
+          <l>ALL THIS WE HOLD to be true and trustworthy for us.</l>
+          <l>You alone are our God, and we are Israel Your people.</l>
+          <l>You are our Sovereign and Savior,</l>
+          <l>who delivers us from oppressors&apos; hands</l>
+          <l>and saves us from tyrants&apos; fists.</l>
+          <l>You work wonders without number, marvels beyond count.</l>
+          <l>You give us life and steady our footsteps.</l>
+          <l>You performed miracles for us before Pharaoh,</l>
+          <l>signs and wonders in the land of the Egyptians;</l>
+          <l>You led Your people Israel out from their midst to freedom for all time.</l>
+          <l>When Your children witnessed Your dominance</l>
+          <l>they praised Your Name in gratitude.</l>
+          <l>And they accepted Your sovereignty</l>
+          <l>Moses, Miriam and all Israel sang to You together,</l>
+          <l>lifting their voices joyously:</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff5e5aeee-e3e1-4cdd-a205-f804cc2f1d1d.jp2/410,5806,3711,486/max/0/default.jpg">
+          <l>Haoseh g&apos;dolot... You work wonders... Job 9:10</l>
+          <l>הַשָּׁם נַפְשֵׁנוּ בַּחַיִּים</l>
+          <l>Hasam nafsheinu bachayim... You give us life... Psalm 66:9</l>
+        </lg>
       </div>
     </body>
   </text>

@@ -7,12 +7,12 @@
     <body>
       <div type="page" n="1">
         <pb n="1"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdd40323c-ace3-42d6-bc35-4d18598f47e3.jp2/1309,903,2285,723/max/0/default.jpg">
-          תְּפִלּוֹת לְחוֹל
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdd40323c-ace3-42d6-bc35-4d18598f47e3.jp2/1115,1802,2807,332/max/0/default.jpg">
-          PRAYERS FOR WEEKDAYS
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdd40323c-ace3-42d6-bc35-4d18598f47e3.jp2/1309,903,2285,723/max/0/default.jpg">
+          <l>תְּפִלּוֹת לְחוֹל</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdd40323c-ace3-42d6-bc35-4d18598f47e3.jp2/1115,1802,2807,332/max/0/default.jpg">
+          <l>PRAYERS FOR WEEKDAYS</l>
+        </lg>
       </div>
     </body>
   </text>

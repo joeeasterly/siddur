@@ -7,35 +7,35 @@
     <body>
       <div type="page" n="124">
         <pb n="124"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fec9451f2-4119-4754-ba44-85fb24e64400.jp2/382,851,3576,2137/max/0/default.jpg">
-          WE ENTER THIS SANCTUARY to welcome Shabbat.<lb/>
-        Within these walls we sit surrounded by numberless generations.<lb/>
-        Our ancestors built the synagogue as a visible sign of God&apos;s Presence in their midst.<lb/>
-        Throughout our long history and our endless wanderings, it has endured,<lb/>
-        a beacon of truth, love, and justice for all humanity.<lb/>
-        Its presence guided our ancestors to lives of righteousness,<lb/>
-        holding up to them a vision of their truest selves.<lb/>
-        Now we, in our turn, come into this sanctuary to affirm the sacredness of our lives.<lb/>
-        May we enter this place in peace.<lb/>
-        May holiness wrap around us as we cross its threshold.<lb/>
-        Weariness, doubt, the flaws within our human hearts,<lb/>
-        the harshness of the week - let these drop away at the door.<lb/>
-        In the brightness of Shabbat, let peace settle upon us as we lift our hearts in prayer.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fec9451f2-4119-4754-ba44-85fb24e64400.jp2/395,3291,2923,2248/max/0/default.jpg">
-          MAY THE DOOR of this synagogue be wide enough<lb/>
-        to receive all who hunger for love, all who are lonely for friendship.<lb/>
-        May it welcome all who have cares to unburden,<lb/>
-        thanks to express, hopes to nurture.<lb/>
-        May the door of this synagogue be narrow enough<lb/>
-        to shut out pettiness and pride, envy and enmity.<lb/>
-        May its threshold be no stumbling block<lb/>
-        to young or straying feet.<lb/>
-        May it be too high to admit complacency,<lb/>
-        selfishness and harshness.<lb/>
-        May this synagogue be, for all who enter,<lb/>
-        the doorway to a richer and more meaningful life.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fec9451f2-4119-4754-ba44-85fb24e64400.jp2/382,851,3576,2137/max/0/default.jpg">
+          <l>WE ENTER THIS SANCTUARY to welcome Shabbat.</l>
+          <l>Within these walls we sit surrounded by numberless generations.</l>
+          <l>Our ancestors built the synagogue as a visible sign of God&apos;s Presence in their midst.</l>
+          <l>Throughout our long history and our endless wanderings, it has endured,</l>
+          <l>a beacon of truth, love, and justice for all humanity.</l>
+          <l>Its presence guided our ancestors to lives of righteousness,</l>
+          <l>holding up to them a vision of their truest selves.</l>
+          <l>Now we, in our turn, come into this sanctuary to affirm the sacredness of our lives.</l>
+          <l>May we enter this place in peace.</l>
+          <l>May holiness wrap around us as we cross its threshold.</l>
+          <l>Weariness, doubt, the flaws within our human hearts,</l>
+          <l>the harshness of the week - let these drop away at the door.</l>
+          <l>In the brightness of Shabbat, let peace settle upon us as we lift our hearts in prayer.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fec9451f2-4119-4754-ba44-85fb24e64400.jp2/395,3291,2923,2248/max/0/default.jpg">
+          <l>MAY THE DOOR of this synagogue be wide enough</l>
+          <l>to receive all who hunger for love, all who are lonely for friendship.</l>
+          <l>May it welcome all who have cares to unburden,</l>
+          <l>thanks to express, hopes to nurture.</l>
+          <l>May the door of this synagogue be narrow enough</l>
+          <l>to shut out pettiness and pride, envy and enmity.</l>
+          <l>May its threshold be no stumbling block</l>
+          <l>to young or straying feet.</l>
+          <l>May it be too high to admit complacency,</l>
+          <l>selfishness and harshness.</l>
+          <l>May this synagogue be, for all who enter,</l>
+          <l>the doorway to a richer and more meaningful life.</l>
+        </lg>
       </div>
     </body>
   </text>

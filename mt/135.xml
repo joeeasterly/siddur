@@ -7,60 +7,60 @@
     <body>
       <div type="page" n="135">
         <pb n="135"/>
-        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F440fcb99-7c44-4a5d-ad9c-bc45915b1c0a.jp2/3064,672,1437,2858/max/0/default.jpg">
-          מָלָךְ יִרְגְזוּ עַמִּים,<lb/>
-        יֹשֵׁב כְּרוּבִים תָּנוּט הָאָרֶץ.<lb/>
-        יְיָ בְּצִיּוֹן גָּדוֹל<lb/>
-        וְרָם הוּא עַל־כָּל־הָעַמִּים.<lb/>
-        יוֹדוּ שִׁמְךְ גָּדוֹל וְנוֹרָא,<lb/>
-        קָדוֹשׁ הוּא.<lb/>
-        וְעַז מֶלֶךְ מִשְׁפָּט אָהֵב,<lb/>
-        אַתָּה כּוֹנַנְתָּ מֵישָׁרִים,<lb/>
-        מִשְׁפָּט וּצְדָקָה בְּיַעֲקֹב<lb/>
-        אַתָּה עָשִׂיתָ.<lb/>
-        רוֹמְמוּ יְיָ אֱלֹהֵינוּ<lb/>
-        וְהִשְׁתַּחֲווּ לַהֲדֹם רַגְלָיו,<lb/>
-        קָדוֹשׁ הוּא.<lb/>
-        רוֹמְמוּ יְיָ אֱלֹהֵינוּ<lb/>
-        וְהִשְׁתַּחֲווּ לְהַר קָדְשׁוֹ,<lb/>
-        כִּי קָדוֹשׁ יְיָ אֱלֹהֵינוּ.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F440fcb99-7c44-4a5d-ad9c-bc45915b1c0a.jp2/1024,515,2122,3061/max/0/default.jpg">
-          PSALM 99: 1-5, 9<lb/>
-        ADONAI MALACH yirg&apos;zu amim,<lb/>
-        yosheiv k&apos;ruvim tanut haaretz.<lb/>
-        Adonai b&apos;Tzion gadol<lb/>
-        v&apos;ram hu al kol haamim.<lb/>
-        Yodu shimcha gadol v&apos;nora,<lb/>
-        kadosh hu.<lb/>
-        V&apos;oz Melech mishpat aheiv,<lb/>
-        atah konanta meisharim,<lb/>
-        mishpat utz’dakah b&apos;Yaakov<lb/>
-        atah asita.<lb/>
-        Rom&apos;mu Adonai Eloheinu<lb/>
-        v&apos;hishtachavu lahadom raglav,<lb/>
-        kadosh hu.<lb/>
-        Rom&apos;mu Adonai Eloheinu<lb/>
-        v&apos;hishtachavu l&apos;har kodsho,<lb/>
-        ki kadosh Adonai Eloheinu.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F440fcb99-7c44-4a5d-ad9c-bc45915b1c0a.jp2/1673,3745,2353,2156/max/0/default.jpg">
-          ADONAI ENTHRONED on cherubim, is sovereign,<lb/>
-        peoples tremble, the earth quakes.<lb/>
-        Adonai is great in Zion,<lb/>
-        and exalted above all peoples.<lb/>
-        They praise Your name as great and awesome;<lb/>
-        God is holy!<lb/>
-        Mighty ruler who loves justice,<lb/>
-        it was You who established equity,<lb/>
-        You who worked righteous judgment in Jacob.<lb/>
-        Exalt Adonai our God<lb/>
-        and bow down to God&apos;s footstool;<lb/>
-        God is holy!<lb/>
-        Exalt Adonai our God,<lb/>
-        and bow toward God&apos;s holy hill,<lb/>
-        for Adonai our God is holy.
-        </ab>
+        <lg xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F440fcb99-7c44-4a5d-ad9c-bc45915b1c0a.jp2/3064,672,1437,2858/max/0/default.jpg">
+          <l>מָלָךְ יִרְגְזוּ עַמִּים,</l>
+          <l>יֹשֵׁב כְּרוּבִים תָּנוּט הָאָרֶץ.</l>
+          <l>יְיָ בְּצִיּוֹן גָּדוֹל</l>
+          <l>וְרָם הוּא עַל־כָּל־הָעַמִּים.</l>
+          <l>יוֹדוּ שִׁמְךְ גָּדוֹל וְנוֹרָא,</l>
+          <l>קָדוֹשׁ הוּא.</l>
+          <l>וְעַז מֶלֶךְ מִשְׁפָּט אָהֵב,</l>
+          <l>אַתָּה כּוֹנַנְתָּ מֵישָׁרִים,</l>
+          <l>מִשְׁפָּט וּצְדָקָה בְּיַעֲקֹב</l>
+          <l>אַתָּה עָשִׂיתָ.</l>
+          <l>רוֹמְמוּ יְיָ אֱלֹהֵינוּ</l>
+          <l>וְהִשְׁתַּחֲווּ לַהֲדֹם רַגְלָיו,</l>
+          <l>קָדוֹשׁ הוּא.</l>
+          <l>רוֹמְמוּ יְיָ אֱלֹהֵינוּ</l>
+          <l>וְהִשְׁתַּחֲווּ לְהַר קָדְשׁוֹ,</l>
+          <l>כִּי קָדוֹשׁ יְיָ אֱלֹהֵינוּ.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F440fcb99-7c44-4a5d-ad9c-bc45915b1c0a.jp2/1024,515,2122,3061/max/0/default.jpg">
+          <l>PSALM 99: 1-5, 9</l>
+          <l>ADONAI MALACH yirg&apos;zu amim,</l>
+          <l>yosheiv k&apos;ruvim tanut haaretz.</l>
+          <l>Adonai b&apos;Tzion gadol</l>
+          <l>v&apos;ram hu al kol haamim.</l>
+          <l>Yodu shimcha gadol v&apos;nora,</l>
+          <l>kadosh hu.</l>
+          <l>V&apos;oz Melech mishpat aheiv,</l>
+          <l>atah konanta meisharim,</l>
+          <l>mishpat utz’dakah b&apos;Yaakov</l>
+          <l>atah asita.</l>
+          <l>Rom&apos;mu Adonai Eloheinu</l>
+          <l>v&apos;hishtachavu lahadom raglav,</l>
+          <l>kadosh hu.</l>
+          <l>Rom&apos;mu Adonai Eloheinu</l>
+          <l>v&apos;hishtachavu l&apos;har kodsho,</l>
+          <l>ki kadosh Adonai Eloheinu.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F440fcb99-7c44-4a5d-ad9c-bc45915b1c0a.jp2/1673,3745,2353,2156/max/0/default.jpg">
+          <l>ADONAI ENTHRONED on cherubim, is sovereign,</l>
+          <l>peoples tremble, the earth quakes.</l>
+          <l>Adonai is great in Zion,</l>
+          <l>and exalted above all peoples.</l>
+          <l>They praise Your name as great and awesome;</l>
+          <l>God is holy!</l>
+          <l>Mighty ruler who loves justice,</l>
+          <l>it was You who established equity,</l>
+          <l>You who worked righteous judgment in Jacob.</l>
+          <l>Exalt Adonai our God</l>
+          <l>and bow down to God&apos;s footstool;</l>
+          <l>God is holy!</l>
+          <l>Exalt Adonai our God,</l>
+          <l>and bow toward God&apos;s holy hill,</l>
+          <l>for Adonai our God is holy.</l>
+        </lg>
       </div>
     </body>
   </text>

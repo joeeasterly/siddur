@@ -7,22 +7,22 @@
     <body>
       <div type="page" n="title">
         <pb n="title"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff6397c96-ab14-4465-a05f-ea12b6ea118e.jp2/711,2535,3143,1401/max/0/default.jpg">
-          משכן תפלה<lb/>
-        MISHKAN T&apos;FILAH
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff6397c96-ab14-4465-a05f-ea12b6ea118e.jp2/624,4098,3514,2257/max/0/default.jpg">
-          A Reform Siddur<lb/>
-        PULPIT EDITION<lb/>
-        וְעָשׂוּ לִי מִקְדָּשׁ וְשָׁכַנְתִּי בְּתוֹכָם<lb/>
-        &quot;And let them build Me a sanctuary that I may dwell in their midst.&quot;<lb/>
-        CENTRAL CONFERENCE OF AMERICAN RABBIS<lb/>
-        5767<lb/>
-        NEW YORK 2007
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff6397c96-ab14-4465-a05f-ea12b6ea118e.jp2/2315,654,1893,544/max/0/default.jpg">
-          Weekdays, Shabbat, Festivals and other occasions of public worship
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff6397c96-ab14-4465-a05f-ea12b6ea118e.jp2/711,2535,3143,1401/max/0/default.jpg">
+          <l>משכן תפלה</l>
+          <l>MISHKAN T&apos;FILAH</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff6397c96-ab14-4465-a05f-ea12b6ea118e.jp2/624,4098,3514,2257/max/0/default.jpg">
+          <l>A Reform Siddur</l>
+          <l>PULPIT EDITION</l>
+          <l>וְעָשׂוּ לִי מִקְדָּשׁ וְשָׁכַנְתִּי בְּתוֹכָם</l>
+          <l>&quot;And let them build Me a sanctuary that I may dwell in their midst.&quot;</l>
+          <l>CENTRAL CONFERENCE OF AMERICAN RABBIS</l>
+          <l>5767</l>
+          <l>NEW YORK 2007</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ff6397c96-ab14-4465-a05f-ea12b6ea118e.jp2/2315,654,1893,544/max/0/default.jpg">
+          <l>Weekdays, Shabbat, Festivals and other occasions of public worship</l>
+        </lg>
       </div>
     </body>
   </text>

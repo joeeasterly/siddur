@@ -7,26 +7,26 @@
     <body>
       <div type="page" n="125">
         <pb n="125"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6aa47c5f-6a21-47bd-aa5d-f26297c5ae5f.jp2/1290,840,2635,2974/max/0/default.jpg">
-          WHERE HAS THIS WEEK VANISHED?<lb/>
-        Is it lost forever?<lb/>
-        Will I ever recover anything from it?<lb/>
-        The joy of life, the unexpected victory,<lb/>
-        the realized hope, the task accomplished?<lb/>
-        Will I ever be able to banish the memory of pain,<lb/>
-        the sting of defeat, the heaviness of boredom?<lb/>
-        On this day let me keep for a while what must drift away.<lb/>
-        On this day let me be free of the burdens that must return.<lb/>
-        On this day, Shabbat, abide.<lb/>
-        Help me to withdraw for a while<lb/>
-        from the flight of time.<lb/>
-        Contain the retreat of the hours and days from the<lb/>
-        grasp of frantic life.<lb/>
-        Let me learn to pause, if only for this day.<lb/>
-        Let me find peace on this day.<lb/>
-        Let me enter into a quiet world this day.<lb/>
-        On this day, Shabbat, abide.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F6aa47c5f-6a21-47bd-aa5d-f26297c5ae5f.jp2/1290,840,2635,2974/max/0/default.jpg">
+          <l>WHERE HAS THIS WEEK VANISHED?</l>
+          <l>Is it lost forever?</l>
+          <l>Will I ever recover anything from it?</l>
+          <l>The joy of life, the unexpected victory,</l>
+          <l>the realized hope, the task accomplished?</l>
+          <l>Will I ever be able to banish the memory of pain,</l>
+          <l>the sting of defeat, the heaviness of boredom?</l>
+          <l>On this day let me keep for a while what must drift away.</l>
+          <l>On this day let me be free of the burdens that must return.</l>
+          <l>On this day, Shabbat, abide.</l>
+          <l>Help me to withdraw for a while</l>
+          <l>from the flight of time.</l>
+          <l>Contain the retreat of the hours and days from the</l>
+          <l>grasp of frantic life.</l>
+          <l>Let me learn to pause, if only for this day.</l>
+          <l>Let me find peace on this day.</l>
+          <l>Let me enter into a quiet world this day.</l>
+          <l>On this day, Shabbat, abide.</l>
+        </lg>
       </div>
     </body>
   </text>

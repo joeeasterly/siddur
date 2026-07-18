@@ -7,56 +7,56 @@
     <body>
       <div type="page" n="142">
         <pb n="142"/>
-        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffc190349-9494-455f-8a94-2aa0da4cd050.jp2/2306,370,1754,2941/max/0/default.jpg">
-          שׁלוֹם עֲלֵיכֶם, מַלְאֲכֵי הַשָּׁרַת,<lb/>
-        מַלְאֲכֵי עֶלְיוֹן,<lb/>
-        מִמֶּלֶךְ מַלְכֵי הַמְלָכִים,<lb/>
-        הַקָּדוֹשׁ בָּרוּךְ הוּא.<lb/>
-        בּוֹאֲכֶם לְשָׁלוֹם, מַלְאֲכֵי הַשָׁלוֹם,<lb/>
-        מַלְאֲכֵי עֶלְיוֹן,<lb/>
-        מִמֶּלֶךְ מַלְכֵי הַמְּלָכִים,<lb/>
-        הַקָּדוֹשׁ בָּרוּךְ הוּא.<lb/>
-        בָּרְכוּנִי לְשָׁלוֹם, מַלְאֲכֵי הַשָּׁלוֹם,<lb/>
-        מַלְאֲכֵי עֶלְיוֹן,<lb/>
-        מִמֶּלֶךְ מַלְכֵי הַמְּלָכִים,<lb/>
-        הַקָּדוֹשׁ בָּרוּךְ הוּא.<lb/>
-        צֵאתְכֶם לְשָׁלוֹם, מַלְאֲכֵי הַשָׁלוֹם,<lb/>
-        מַלְאֲכֵי עֶלְיוֹן,<lb/>
-        מִמֶּלֶךְ מַלְכֵי הַמְּלָכִים,<lb/>
-        הַקָּדוֹשׁ בָּרוּךְ הוּא.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffc190349-9494-455f-8a94-2aa0da4cd050.jp2/407,411,1597,2865/max/0/default.jpg">
-          SHALOM aleichem, malachei hashareit,<lb/>
-        malachei elyon,<lb/>
-        mimelech malchei ham&apos;lachim,<lb/>
-        HaKadosh Baruch Hu.<lb/>
-        Bo-achem l&apos;shalom, malachei hashalom,<lb/>
-        malachei elyon,<lb/>
-        mimelech malchei ham&apos;lachim,<lb/>
-        HaKadosh Baruch Hu.<lb/>
-        Bar&apos;chuni l&apos;shalom, malachei hashalom,<lb/>
-        malachei elyon,<lb/>
-        mimelech malchei ham&apos;lachim,<lb/>
-        HaKadosh Baruch Hu.<lb/>
-        Tzeit&apos;chem l&apos;shalom, malachei hashalom,<lb/>
-        malachei elyon,<lb/>
-        mimelech malchei ham&apos;lachim,<lb/>
-        HaKadosh Baruch Hu.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffc190349-9494-455f-8a94-2aa0da4cd050.jp2/639,3357,3300,1534/max/0/default.jpg">
-          PEACE BE TO YOU, O ministering angels, messengers of the Most High,<lb/>
-        Majesty of majesties, Holy One of Blessing.<lb/>
-        Enter in peace, O messengers of peace, angels of the Most High,<lb/>
-        Majesty of majesties, Holy One of Blessing.<lb/>
-        Bless me with peace, O messengers of peace, angels of the Most High,<lb/>
-        Majesty of majesties, Holy One of Blessing.<lb/>
-        Depart in peace, O messengers of peace, angels of the Most High,<lb/>
-        Majesty of majesties, Holy One of Blessing.
-        </ab>
-        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffc190349-9494-455f-8a94-2aa0da4cd050.jp2/413,5830,3693,573/max/0/default.jpg">
-          Shalom Aleichem - A 17th-century Shabbat table-song (z&apos;mirah), probably composed under the influence of Lurianic Kabbalah, alludes to Shabbat 119b, which<lb/>
-        states that two angels accompany each person home from the synagogue as Shabbat begins.
-        </ab>
+        <lg xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffc190349-9494-455f-8a94-2aa0da4cd050.jp2/2306,370,1754,2941/max/0/default.jpg">
+          <l>שׁלוֹם עֲלֵיכֶם, מַלְאֲכֵי הַשָּׁרַת,</l>
+          <l>מַלְאֲכֵי עֶלְיוֹן,</l>
+          <l>מִמֶּלֶךְ מַלְכֵי הַמְלָכִים,</l>
+          <l>הַקָּדוֹשׁ בָּרוּךְ הוּא.</l>
+          <l>בּוֹאֲכֶם לְשָׁלוֹם, מַלְאֲכֵי הַשָׁלוֹם,</l>
+          <l>מַלְאֲכֵי עֶלְיוֹן,</l>
+          <l>מִמֶּלֶךְ מַלְכֵי הַמְּלָכִים,</l>
+          <l>הַקָּדוֹשׁ בָּרוּךְ הוּא.</l>
+          <l>בָּרְכוּנִי לְשָׁלוֹם, מַלְאֲכֵי הַשָּׁלוֹם,</l>
+          <l>מַלְאֲכֵי עֶלְיוֹן,</l>
+          <l>מִמֶּלֶךְ מַלְכֵי הַמְּלָכִים,</l>
+          <l>הַקָּדוֹשׁ בָּרוּךְ הוּא.</l>
+          <l>צֵאתְכֶם לְשָׁלוֹם, מַלְאֲכֵי הַשָׁלוֹם,</l>
+          <l>מַלְאֲכֵי עֶלְיוֹן,</l>
+          <l>מִמֶּלֶךְ מַלְכֵי הַמְּלָכִים,</l>
+          <l>הַקָּדוֹשׁ בָּרוּךְ הוּא.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffc190349-9494-455f-8a94-2aa0da4cd050.jp2/407,411,1597,2865/max/0/default.jpg">
+          <l>SHALOM aleichem, malachei hashareit,</l>
+          <l>malachei elyon,</l>
+          <l>mimelech malchei ham&apos;lachim,</l>
+          <l>HaKadosh Baruch Hu.</l>
+          <l>Bo-achem l&apos;shalom, malachei hashalom,</l>
+          <l>malachei elyon,</l>
+          <l>mimelech malchei ham&apos;lachim,</l>
+          <l>HaKadosh Baruch Hu.</l>
+          <l>Bar&apos;chuni l&apos;shalom, malachei hashalom,</l>
+          <l>malachei elyon,</l>
+          <l>mimelech malchei ham&apos;lachim,</l>
+          <l>HaKadosh Baruch Hu.</l>
+          <l>Tzeit&apos;chem l&apos;shalom, malachei hashalom,</l>
+          <l>malachei elyon,</l>
+          <l>mimelech malchei ham&apos;lachim,</l>
+          <l>HaKadosh Baruch Hu.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffc190349-9494-455f-8a94-2aa0da4cd050.jp2/639,3357,3300,1534/max/0/default.jpg">
+          <l>PEACE BE TO YOU, O ministering angels, messengers of the Most High,</l>
+          <l>Majesty of majesties, Holy One of Blessing.</l>
+          <l>Enter in peace, O messengers of peace, angels of the Most High,</l>
+          <l>Majesty of majesties, Holy One of Blessing.</l>
+          <l>Bless me with peace, O messengers of peace, angels of the Most High,</l>
+          <l>Majesty of majesties, Holy One of Blessing.</l>
+          <l>Depart in peace, O messengers of peace, angels of the Most High,</l>
+          <l>Majesty of majesties, Holy One of Blessing.</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffc190349-9494-455f-8a94-2aa0da4cd050.jp2/413,5830,3693,573/max/0/default.jpg">
+          <l>Shalom Aleichem - A 17th-century Shabbat table-song (z&apos;mirah), probably composed under the influence of Lurianic Kabbalah, alludes to Shabbat 119b, which</l>
+          <l>states that two angels accompany each person home from the synagogue as Shabbat begins.</l>
+        </lg>
       </div>
     </body>
   </text>

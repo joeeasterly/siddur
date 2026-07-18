@@ -7,56 +7,56 @@
     <body>
       <div type="page" n="122">
         <pb n="122"/>
-        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/2679,1272,1339,430/max/0/default.jpg">
-          וַיְהִי עֶרֶב וַיְהִי בְקֶר<lb/>
-        יוֹם הַשְּׁשִׁי.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/546,1277,1270,407/max/0/default.jpg">
-          VAY&apos;HI EREV vay&apos;hi voker<lb/>
-        yom hashishi.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/1033,1758,2587,343/max/0/default.jpg">
-          AND THERE WAS EVENING and there was morning,<lb/>
-        the sixth day.
-        </ab>
-        <ab xml:id="block_D" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/2067,2331,1933,1522/max/0/default.jpg">
-          וַיְכַלּוּ הַשָּׁמַיִם וְהָאָרֶץ<lb/>
-        וְכָל־צְבָאָם.<lb/>
-        וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי<lb/>
-        מְלַאכְתּוֹ אֲשֶׁר עָשָׂה.<lb/>
-        וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי<lb/>
-        מִכָּל־מְלַאכְתּוֹ אֲשֶׁר עָשָׂה.<lb/>
-        וַיְבָרֶךְ אֱלֹהִים אֶת־יוֹם הַשְּׁבִיעִי<lb/>
-        וַיְקַדַּשׁ אֹתוֹ, כִּי בוֹ שָׁבַת מִכָּל־<lb/>
-        מְלַאכְתּוֹ אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשׂוֹת.
-        </ab>
-        <ab xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/547,2340,1485,1522/max/0/default.jpg">
-          VAY&apos;CHULU hashamayim v&apos;haaretz<lb/>
-        v&apos;chol tz&apos;vaam.<lb/>
-        Vay&apos;chal Elohim bayom hashvi-i<lb/>
-        m&apos;lachto asher asah.<lb/>
-        Vayishbot bayom hashvi-i<lb/>
-        mikol m&apos;lachto asher asah.<lb/>
-        Vay&apos;varech Elohim et yom hashvi-i<lb/>
-        vay&apos;kadeish oto ki vo shavat mikol<lb/>
-        m&apos;lachto asher bara Elohim laasot.
-        </ab>
-        <ab xml:id="block_F" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/565,3953,3192,773/max/0/default.jpg">
-          THE HEAVEN AND THE EARTH were finished, and all their array.<lb/>
-        On the seventh day God finished the work that God had been doing,<lb/>
-        and God ceased on the seventh day from all the work that God had done.<lb/>
-        And God blessed the seventh day and declared it holy,<lb/>
-        because on it God ceased from all the work of creation that God had done.
-        </ab>
-        <ab xml:id="block_G" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/475,5261,3676,1053/max/0/default.jpg">
-          Shabbat Kiddush -The beginning of Shabbat is marked by reciting a benediction sanctifying<lb/>
-        the day (Kiddush HaYom or K&apos;dushat HaYom, &quot;Sanctification of the Day&quot;; M. B&apos;rachot 8:1 and<lb/>
-        P&apos;sachim 10:2). The benediction praises God for the gift of Shabbat that marks Israel as unique.<lb/>
-        Since Kiddush is recited over a cup of wine, symbolizing joy, it is preceded by the wine<lb/>
-        benediction, borei pri hagafen, &quot;Creator of the fruit of the vine.&quot;<lb/>
-        Vayhi erev... And there was evening... Genesis 1:31<lb/>
-        Vay&apos;chulu... The heaven and the earth... Genesis 2:1-3
-        </ab>
+        <lg xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/2679,1272,1339,430/max/0/default.jpg">
+          <l>וַיְהִי עֶרֶב וַיְהִי בְקֶר</l>
+          <l>יוֹם הַשְּׁשִׁי.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/546,1277,1270,407/max/0/default.jpg">
+          <l>VAY&apos;HI EREV vay&apos;hi voker</l>
+          <l>yom hashishi.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/1033,1758,2587,343/max/0/default.jpg">
+          <l>AND THERE WAS EVENING and there was morning,</l>
+          <l>the sixth day.</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/2067,2331,1933,1522/max/0/default.jpg">
+          <l>וַיְכַלּוּ הַשָּׁמַיִם וְהָאָרֶץ</l>
+          <l>וְכָל־צְבָאָם.</l>
+          <l>וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי</l>
+          <l>מְלַאכְתּוֹ אֲשֶׁר עָשָׂה.</l>
+          <l>וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי</l>
+          <l>מִכָּל־מְלַאכְתּוֹ אֲשֶׁר עָשָׂה.</l>
+          <l>וַיְבָרֶךְ אֱלֹהִים אֶת־יוֹם הַשְּׁבִיעִי</l>
+          <l>וַיְקַדַּשׁ אֹתוֹ, כִּי בוֹ שָׁבַת מִכָּל־</l>
+          <l>מְלַאכְתּוֹ אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשׂוֹת.</l>
+        </lg>
+        <lg xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/547,2340,1485,1522/max/0/default.jpg">
+          <l>VAY&apos;CHULU hashamayim v&apos;haaretz</l>
+          <l>v&apos;chol tz&apos;vaam.</l>
+          <l>Vay&apos;chal Elohim bayom hashvi-i</l>
+          <l>m&apos;lachto asher asah.</l>
+          <l>Vayishbot bayom hashvi-i</l>
+          <l>mikol m&apos;lachto asher asah.</l>
+          <l>Vay&apos;varech Elohim et yom hashvi-i</l>
+          <l>vay&apos;kadeish oto ki vo shavat mikol</l>
+          <l>m&apos;lachto asher bara Elohim laasot.</l>
+        </lg>
+        <lg xml:id="block_F" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/565,3953,3192,773/max/0/default.jpg">
+          <l>THE HEAVEN AND THE EARTH were finished, and all their array.</l>
+          <l>On the seventh day God finished the work that God had been doing,</l>
+          <l>and God ceased on the seventh day from all the work that God had done.</l>
+          <l>And God blessed the seventh day and declared it holy,</l>
+          <l>because on it God ceased from all the work of creation that God had done.</l>
+        </lg>
+        <lg xml:id="block_G" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fdb1168f5-cd1c-4884-a764-f69dc5d49486.jp2/475,5261,3676,1053/max/0/default.jpg">
+          <l>Shabbat Kiddush -The beginning of Shabbat is marked by reciting a benediction sanctifying</l>
+          <l>the day (Kiddush HaYom or K&apos;dushat HaYom, &quot;Sanctification of the Day&quot;; M. B&apos;rachot 8:1 and</l>
+          <l>P&apos;sachim 10:2). The benediction praises God for the gift of Shabbat that marks Israel as unique.</l>
+          <l>Since Kiddush is recited over a cup of wine, symbolizing joy, it is preceded by the wine</l>
+          <l>benediction, borei pri hagafen, &quot;Creator of the fruit of the vine.&quot;</l>
+          <l>Vayhi erev... And there was evening... Genesis 1:31</l>
+          <l>Vay&apos;chulu... The heaven and the earth... Genesis 2:1-3</l>
+        </lg>
       </div>
     </body>
   </text>

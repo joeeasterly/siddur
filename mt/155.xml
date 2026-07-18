@@ -7,34 +7,34 @@
     <body>
       <div type="page" n="155">
         <pb n="155"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fec2949ff-501b-43a7-b23b-c0b13e64d1dd.jp2/1469,756,2225,2511/max/0/default.jpg">
-          LOVE your God with every heartbeat,<lb/>
-        with every breath,<lb/>
-        with every conscious act.<lb/>
-        Keep in mind the words I command you today.<lb/>
-        Teach them to your children,<lb/>
-        talk about them at work:<lb/>
-        whether you are tired or you are rested.<lb/>
-        Let them guide the work of your hands;<lb/>
-        keep them in the forefront of your vision.<lb/>
-        Do not leave them at the doorway of your house,<lb/>
-        or outside your gate.<lb/>
-        They are reminders to do all of My mitzvot,<lb/>
-        so that you can be holy for God.<lb/>
-        I am Adonai your God.<lb/>
-        I led you out of Egypt to become your God,<lb/>
-        I am Adonai your God!
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fec2949ff-501b-43a7-b23b-c0b13e64d1dd.jp2/922,5045,3647,1318/max/0/default.jpg">
-          Judaism is a doing which can be grasped only by the heart. Julius Lester<lb/>
-        When people come to you for help, do not turn them off with pious words, saying: “Have faith<lb/>
-        and take your troubles to God!&quot; Act instead as if there were no God, as though there were only<lb/>
-        one person in all the world who could help - only yourself. Martin Buber<lb/>
-        Abaye said: Spread the love of God through your actions. If you yourself study and help others<lb/>
-        to do so, if your business activities are decent and trustworthy, what will people say? “Have you<lb/>
-        seen the behavior of one who studies Torah? How beautiful! What a fine person!&quot; Thus Isaiah<lb/>
-        (49:3) taught, &quot;You are My servant Israel. I will be glorified through you.&quot; based on Yoma 86a
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fec2949ff-501b-43a7-b23b-c0b13e64d1dd.jp2/1469,756,2225,2511/max/0/default.jpg">
+          <l>LOVE your God with every heartbeat,</l>
+          <l>with every breath,</l>
+          <l>with every conscious act.</l>
+          <l>Keep in mind the words I command you today.</l>
+          <l>Teach them to your children,</l>
+          <l>talk about them at work:</l>
+          <l>whether you are tired or you are rested.</l>
+          <l>Let them guide the work of your hands;</l>
+          <l>keep them in the forefront of your vision.</l>
+          <l>Do not leave them at the doorway of your house,</l>
+          <l>or outside your gate.</l>
+          <l>They are reminders to do all of My mitzvot,</l>
+          <l>so that you can be holy for God.</l>
+          <l>I am Adonai your God.</l>
+          <l>I led you out of Egypt to become your God,</l>
+          <l>I am Adonai your God!</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fec2949ff-501b-43a7-b23b-c0b13e64d1dd.jp2/922,5045,3647,1318/max/0/default.jpg">
+          <l>Judaism is a doing which can be grasped only by the heart. Julius Lester</l>
+          <l>When people come to you for help, do not turn them off with pious words, saying: “Have faith</l>
+          <l>and take your troubles to God!&quot; Act instead as if there were no God, as though there were only</l>
+          <l>one person in all the world who could help - only yourself. Martin Buber</l>
+          <l>Abaye said: Spread the love of God through your actions. If you yourself study and help others</l>
+          <l>to do so, if your business activities are decent and trustworthy, what will people say? “Have you</l>
+          <l>seen the behavior of one who studies Torah? How beautiful! What a fine person!&quot; Thus Isaiah</l>
+          <l>(49:3) taught, &quot;You are My servant Israel. I will be glorified through you.&quot; based on Yoma 86a</l>
+        </lg>
       </div>
     </body>
   </text>

@@ -7,11 +7,11 @@
     <body>
       <div type="page" n="119">
         <pb n="119"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffbb51714-d18a-49f9-b6f9-95f48a391029.jp2/1151,833,2809,1360/max/0/default.jpg">
-          תְּפִלּוֹת לְשַׁבָּת<lb/>
-        T&apos;FILOT L&apos;SHABBAT<lb/>
-        PRAYERS FOR SHABBAT
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffbb51714-d18a-49f9-b6f9-95f48a391029.jp2/1151,833,2809,1360/max/0/default.jpg">
+          <l>תְּפִלּוֹת לְשַׁבָּת</l>
+          <l>T&apos;FILOT L&apos;SHABBAT</l>
+          <l>PRAYERS FOR SHABBAT</l>
+        </lg>
       </div>
     </body>
   </text>

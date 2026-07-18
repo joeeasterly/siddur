@@ -7,50 +7,50 @@
     <body>
       <div type="page" n="179">
         <pb n="179"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/1378,602,3011,2284/max/0/default.jpg">
-          GRANT US PEACE, Your most precious gift,<lb/>
-        O Eternal Source of peace.<lb/>
-        And give us the will to proclaim its message<lb/>
-        to all the peoples of the earth.<lb/>
-        Bless our country as a safeguard of peace,<lb/>
-        its advocate among the nations.<lb/>
-        May contentment reign within our borders,<lb/>
-        health and happiness within our homes.<lb/>
-        Strengthen the bonds of friendship and fellowship<lb/>
-        among all the inhabitants of every land.<lb/>
-        Plant virtue in every soul,<lb/>
-        and may the love of Your Name hallow every home and every heart.<lb/>
-        Praised are You, Eternal One, who blesses our people with peace.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ הַמְבָרֵךְ אֶת עַמּוֹ יִשְׂרָאֵל בַּשָׁלוֹם.<lb/>
-        1:<lb/>
-        Baruch atah, Adonai, ham&apos;vareich et amo Yisrael bashalom.
-        </ab>
-        <ab xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/2889,3089,1682,519/max/0/default.jpg">
-          לא־יִשָּׂא גוֹי אֶל גּוֹי חֶרֶב,<lb/>
-        וְלֹא־יִלְמְדוּ עוֹד מִלְחָמָה.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/848,3167,1313,399/max/0/default.jpg">
-          LO YISA GOI el goi cherev.<lb/>
-        V&apos;lo yilm&apos;du od milchamah.
-        </ab>
-        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/838,3593,3634,233/max/0/default.jpg">
-          NATION shall not take up sword against nation; they shall never again know war.
-        </ab>
-        <ab xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/1446,4102,2149,1059/max/0/default.jpg">
-          DON&apos;T STOP after beating the swords<lb/>
-        into ploughshares, don&apos;t stop! Go on beating<lb/>
-        and make musical instruments out of them.<lb/>
-        Whoever wants to make war again<lb/>
-        will have to turn them into ploughshares first.
-        </ab>
-        <ab xml:id="block_F" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/916,5234,3785,1142/max/0/default.jpg">
-          Great is peace, for peace is to the world as leaven is to dough. Perek HaShalom 1:1<lb/>
-        By three things does the world endure: justice, truth, and peace. R. Muna said: The three are one<lb/>
-        because if justice is done, truth has been effected and peace is brought about. Perek HaShalom 1:2<lb/>
-        Great is peace, for even in a time of war one should begin (by attempting to arrange) peace.<lb/>
-        Perek HaShalom 1:14<lb/>
-        NN Lo yisa goi... Nation shall not... Isaiah 2:4
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/1378,602,3011,2284/max/0/default.jpg">
+          <l>GRANT US PEACE, Your most precious gift,</l>
+          <l>O Eternal Source of peace.</l>
+          <l>And give us the will to proclaim its message</l>
+          <l>to all the peoples of the earth.</l>
+          <l>Bless our country as a safeguard of peace,</l>
+          <l>its advocate among the nations.</l>
+          <l>May contentment reign within our borders,</l>
+          <l>health and happiness within our homes.</l>
+          <l>Strengthen the bonds of friendship and fellowship</l>
+          <l>among all the inhabitants of every land.</l>
+          <l>Plant virtue in every soul,</l>
+          <l>and may the love of Your Name hallow every home and every heart.</l>
+          <l>Praised are You, Eternal One, who blesses our people with peace.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ הַמְבָרֵךְ אֶת עַמּוֹ יִשְׂרָאֵל בַּשָׁלוֹם.</l>
+          <l>1:</l>
+          <l>Baruch atah, Adonai, ham&apos;vareich et amo Yisrael bashalom.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/2889,3089,1682,519/max/0/default.jpg">
+          <l>לא־יִשָּׂא גוֹי אֶל גּוֹי חֶרֶב,</l>
+          <l>וְלֹא־יִלְמְדוּ עוֹד מִלְחָמָה.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/848,3167,1313,399/max/0/default.jpg">
+          <l>LO YISA GOI el goi cherev.</l>
+          <l>V&apos;lo yilm&apos;du od milchamah.</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/838,3593,3634,233/max/0/default.jpg">
+          <l>NATION shall not take up sword against nation; they shall never again know war.</l>
+        </lg>
+        <lg xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/1446,4102,2149,1059/max/0/default.jpg">
+          <l>DON&apos;T STOP after beating the swords</l>
+          <l>into ploughshares, don&apos;t stop! Go on beating</l>
+          <l>and make musical instruments out of them.</l>
+          <l>Whoever wants to make war again</l>
+          <l>will have to turn them into ploughshares first.</l>
+        </lg>
+        <lg xml:id="block_F" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F34d6bcb7-665d-4fd5-8e0a-43e9fe49d3e8.jp2/916,5234,3785,1142/max/0/default.jpg">
+          <l>Great is peace, for peace is to the world as leaven is to dough. Perek HaShalom 1:1</l>
+          <l>By three things does the world endure: justice, truth, and peace. R. Muna said: The three are one</l>
+          <l>because if justice is done, truth has been effected and peace is brought about. Perek HaShalom 1:2</l>
+          <l>Great is peace, for even in a time of war one should begin (by attempting to arrange) peace.</l>
+          <l>Perek HaShalom 1:14</l>
+          <l>NN Lo yisa goi... Nation shall not... Isaiah 2:4</l>
+        </lg>
       </div>
     </body>
   </text>

@@ -7,24 +7,24 @@
     <body>
       <div type="page" n="159">
         <pb n="159"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F32474af2-eea9-431d-8117-b1b2a3917db9.jp2/1769,909,1748,1607/max/0/default.jpg">
-          SING THE SONG of men and women<lb/>
-        joined in understanding and respect.<lb/>
-        The song of God&apos;s miracles,<lb/>
-        an earth protected and cherished;<lb/>
-        a gift for our children<lb/>
-        and the generations to come.<lb/>
-        The song of a land once ravished by war,<lb/>
-        now quiet and content;<lb/>
-        her soldiers home, to leave no more.<lb/>
-        The song of a world redeemed:<lb/>
-        the song of peace.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F32474af2-eea9-431d-8117-b1b2a3917db9.jp2/947,5753,3666,498/max/0/default.jpg">
-          Salvation is the Jews&apos; victory over human limitations: ignorance or insensitivity. It is the conquest<lb/>
-        of sinfulness, of the evils resident within the self: pride, selfishness, hate, lust, cynicism, the<lb/>
-        deliberate rejection of goodness and truth. Milton Steinberg
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F32474af2-eea9-431d-8117-b1b2a3917db9.jp2/1769,909,1748,1607/max/0/default.jpg">
+          <l>SING THE SONG of men and women</l>
+          <l>joined in understanding and respect.</l>
+          <l>The song of God&apos;s miracles,</l>
+          <l>an earth protected and cherished;</l>
+          <l>a gift for our children</l>
+          <l>and the generations to come.</l>
+          <l>The song of a land once ravished by war,</l>
+          <l>now quiet and content;</l>
+          <l>her soldiers home, to leave no more.</l>
+          <l>The song of a world redeemed:</l>
+          <l>the song of peace.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F32474af2-eea9-431d-8117-b1b2a3917db9.jp2/947,5753,3666,498/max/0/default.jpg">
+          <l>Salvation is the Jews&apos; victory over human limitations: ignorance or insensitivity. It is the conquest</l>
+          <l>of sinfulness, of the evils resident within the self: pride, selfishness, hate, lust, cynicism, the</l>
+          <l>deliberate rejection of goodness and truth. Milton Steinberg</l>
+        </lg>
       </div>
     </body>
   </text>

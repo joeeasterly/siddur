@@ -7,33 +7,33 @@
     <body>
       <div type="page" n="161">
         <pb n="161"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F21782d13-ea69-4574-b2fb-a0794243f023.jp2/1278,773,2813,1461/max/0/default.jpg">
-          LET THERE BE love and understanding among us.<lb/>
-        and friendship be our shelter from life&apos;s storms.<lb/>
-        Let peace<lb/>
-        Adonai, help us to walk with good companions,<lb/>
-        to live with hope in our hearts and eternity in our thoughts,<lb/>
-        that we may lie down in peace and rise up waiting to do Your will.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, הַפּוֹרֵשׂ סֶכַּת שָׁלוֹם עָלֵינוּ<lb/>
-        וְעַל כָּל עַמּוֹ יִשְׂרָאֵל וְעַל יְרוּשָׁלָיִם.<lb/>
-        Baruch atah, Adonai, haporeis sukat shalom aleinu<lb/>
-        v&apos;al kol amo Yisrael v&apos;al Yerushalayim.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F21782d13-ea69-4574-b2fb-a0794243f023.jp2/1283,2547,2625,2046/max/0/default.jpg">
-          GIVE US A PLACE TO REST, Adonai, our God.<lb/>
-        Bring us into shelter<lb/>
-        in the soft, long, evening shadows of Your truth.<lb/>
-        For with You are true protection and safety,<lb/>
-        and in Your Presence are acceptance and gentle love.<lb/>
-        Watch over us as we go forth.<lb/>
-        Prepare for us as we return.<lb/>
-        Spread over us Your shelter of peace,<lb/>
-        over all we love - over our Jerusalem and Yours.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, הַפּוֹרֵשׂ סֶכַּת שָׁלוֹם עָלֵינוּ<lb/>
-        וְעַל כָּל עַמּוֹ יִשְׂרָאֵל וְעַל יְרוּשָׁלָיִם.<lb/>
-        Baruch atah, Adonai, haporeis sukat shalom aleinu<lb/>
-        v&apos;al kol amo Yisrael v&apos;al Yerushalayim.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F21782d13-ea69-4574-b2fb-a0794243f023.jp2/1278,773,2813,1461/max/0/default.jpg">
+          <l>LET THERE BE love and understanding among us.</l>
+          <l>and friendship be our shelter from life&apos;s storms.</l>
+          <l>Let peace</l>
+          <l>Adonai, help us to walk with good companions,</l>
+          <l>to live with hope in our hearts and eternity in our thoughts,</l>
+          <l>that we may lie down in peace and rise up waiting to do Your will.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, הַפּוֹרֵשׂ סֶכַּת שָׁלוֹם עָלֵינוּ</l>
+          <l>וְעַל כָּל עַמּוֹ יִשְׂרָאֵל וְעַל יְרוּשָׁלָיִם.</l>
+          <l>Baruch atah, Adonai, haporeis sukat shalom aleinu</l>
+          <l>v&apos;al kol amo Yisrael v&apos;al Yerushalayim.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F21782d13-ea69-4574-b2fb-a0794243f023.jp2/1283,2547,2625,2046/max/0/default.jpg">
+          <l>GIVE US A PLACE TO REST, Adonai, our God.</l>
+          <l>Bring us into shelter</l>
+          <l>in the soft, long, evening shadows of Your truth.</l>
+          <l>For with You are true protection and safety,</l>
+          <l>and in Your Presence are acceptance and gentle love.</l>
+          <l>Watch over us as we go forth.</l>
+          <l>Prepare for us as we return.</l>
+          <l>Spread over us Your shelter of peace,</l>
+          <l>over all we love - over our Jerusalem and Yours.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, הַפּוֹרֵשׂ סֶכַּת שָׁלוֹם עָלֵינוּ</l>
+          <l>וְעַל כָּל עַמּוֹ יִשְׂרָאֵל וְעַל יְרוּשָׁלָיִם.</l>
+          <l>Baruch atah, Adonai, haporeis sukat shalom aleinu</l>
+          <l>v&apos;al kol amo Yisrael v&apos;al Yerushalayim.</l>
+        </lg>
       </div>
     </body>
   </text>

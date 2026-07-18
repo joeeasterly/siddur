@@ -7,43 +7,43 @@
     <body>
       <div type="page" n="149">
         <pb n="149"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2c1be662-be9a-4e4e-8f11-cce3f301b5c6.jp2/1482,653,2588,1884/max/0/default.jpg">
-          PRAISE to You, Adonai our God,<lb/>
-        from whom the evening flows.<lb/>
-        Your wisdom sets the way on which time and season glide;<lb/>
-        Your breath guides the sail of the stars.<lb/>
-        Creator of the tide of time and light,<lb/>
-        You guide the current of day into night.<lb/>
-        As heaven spans to infinity,<lb/>
-        You set its course for eternity.<lb/>
-        Praise to You, Adonai our God,<lb/>
-        from whom the evening flows.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.<lb/>
-        Baruch atah, Adonai, hamaariv aravim.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2c1be662-be9a-4e4e-8f11-cce3f301b5c6.jp2/1508,2751,2286,2124/max/0/default.jpg">
-          THIS IS AN HOUR of change.<lb/>
-        Within it we stand uncertain on the border of light.<lb/>
-        Shall we draw back or cross over?<lb/>
-        Where shall our hearts turn?<lb/>
-        Shall we draw back, my brother, my sister,<lb/>
-        or cross over?<lb/>
-        This is the hour of change, and within it,<lb/>
-        we stand quietly<lb/>
-        on the border of light.<lb/>
-        What lies before us?<lb/>
-        Shall we draw back, my brother, my sister,<lb/>
-        or cross over?<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.<lb/>
-        Baruch atah, Adonai, hamaariv aravim.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2c1be662-be9a-4e4e-8f11-cce3f301b5c6.jp2/913,5530,3784,776/max/0/default.jpg">
-          I know that the tide is not an independent force, but merely the submission of the water to the<lb/>
-        movement of the moon in its orbit. And this orbit in its turn is subject to other orbits which are<lb/>
-        mightier far than it. And so the whole universe is held fast in the clinging grip of strong hands,<lb/>
-        the forces of Earth and Sun, planets, and comets, and galaxies, blindly erupting forces ceaselessly<lb/>
-        stirring in ripples of silence to the very depth of black space. Amos Oz
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2c1be662-be9a-4e4e-8f11-cce3f301b5c6.jp2/1482,653,2588,1884/max/0/default.jpg">
+          <l>PRAISE to You, Adonai our God,</l>
+          <l>from whom the evening flows.</l>
+          <l>Your wisdom sets the way on which time and season glide;</l>
+          <l>Your breath guides the sail of the stars.</l>
+          <l>Creator of the tide of time and light,</l>
+          <l>You guide the current of day into night.</l>
+          <l>As heaven spans to infinity,</l>
+          <l>You set its course for eternity.</l>
+          <l>Praise to You, Adonai our God,</l>
+          <l>from whom the evening flows.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.</l>
+          <l>Baruch atah, Adonai, hamaariv aravim.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2c1be662-be9a-4e4e-8f11-cce3f301b5c6.jp2/1508,2751,2286,2124/max/0/default.jpg">
+          <l>THIS IS AN HOUR of change.</l>
+          <l>Within it we stand uncertain on the border of light.</l>
+          <l>Shall we draw back or cross over?</l>
+          <l>Where shall our hearts turn?</l>
+          <l>Shall we draw back, my brother, my sister,</l>
+          <l>or cross over?</l>
+          <l>This is the hour of change, and within it,</l>
+          <l>we stand quietly</l>
+          <l>on the border of light.</l>
+          <l>What lies before us?</l>
+          <l>Shall we draw back, my brother, my sister,</l>
+          <l>or cross over?</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.</l>
+          <l>Baruch atah, Adonai, hamaariv aravim.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2c1be662-be9a-4e4e-8f11-cce3f301b5c6.jp2/913,5530,3784,776/max/0/default.jpg">
+          <l>I know that the tide is not an independent force, but merely the submission of the water to the</l>
+          <l>movement of the moon in its orbit. And this orbit in its turn is subject to other orbits which are</l>
+          <l>mightier far than it. And so the whole universe is held fast in the clinging grip of strong hands,</l>
+          <l>the forces of Earth and Sun, planets, and comets, and galaxies, blindly erupting forces ceaselessly</l>
+          <l>stirring in ripples of silence to the very depth of black space. Amos Oz</l>
+        </lg>
       </div>
     </body>
   </text>

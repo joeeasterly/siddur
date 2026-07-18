@@ -7,19 +7,19 @@
     <body>
       <div type="page" n="10">
         <pb n="10"/>
-        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2a22ba0a-429d-47c0-bfcf-0ea3f16927cb.jp2/280,1350,3969,1466/max/0/default.jpg">
-          שמע ישראל יהוה
-        </ab>
-        <ab xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2a22ba0a-429d-47c0-bfcf-0ea3f16927cb.jp2/516,4083,3473,323/max/0/default.jpg">
-          שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד!
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2a22ba0a-429d-47c0-bfcf-0ea3f16927cb.jp2/741,4391,3042,357/max/0/default.jpg">
-          Sh&apos;ma Yisrael, Adonai Eloheinu, Adonai Echad!<lb/>
-        Hear, O Israel, Adonai is our God, Adonai is One!
-        </ab>
-        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2a22ba0a-429d-47c0-bfcf-0ea3f16927cb.jp2/393,5575,3682,260/max/0/default.jpg">
-          Shma Yisrael... Hear, O Israel... Deuteronomy 6:4
-        </ab>
+        <lg xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2a22ba0a-429d-47c0-bfcf-0ea3f16927cb.jp2/280,1350,3969,1466/max/0/default.jpg">
+          <l>שמע ישראל יהוה</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2a22ba0a-429d-47c0-bfcf-0ea3f16927cb.jp2/516,4083,3473,323/max/0/default.jpg">
+          <l>שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד!</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2a22ba0a-429d-47c0-bfcf-0ea3f16927cb.jp2/741,4391,3042,357/max/0/default.jpg">
+          <l>Sh&apos;ma Yisrael, Adonai Eloheinu, Adonai Echad!</l>
+          <l>Hear, O Israel, Adonai is our God, Adonai is One!</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2a22ba0a-429d-47c0-bfcf-0ea3f16927cb.jp2/393,5575,3682,260/max/0/default.jpg">
+          <l>Shma Yisrael... Hear, O Israel... Deuteronomy 6:4</l>
+        </lg>
       </div>
     </body>
   </text>

@@ -7,45 +7,45 @@
     <body>
       <div type="page" n="137">
         <pb n="137"/>
-        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa8b1b4d4-80be-4f1b-b71b-ac258c3266fd.jp2/3052,532,1383,1806/max/0/default.jpg">
-          קוֹל יְיָ חֹצֵב לַהֲבוֹת אֵשׁ,<lb/>
-        קוֹל יְיָ יָחִיל מִדְבָּר,<lb/>
-        יְיָ מִדְבַּר קָדֵשׁ.<lb/>
-        יָחִיל<lb/>
-        קוֹל יְיָ יְחוֹלֵל אַיָּלוֹת<lb/>
-        וַיִּחֲשֹׁף יְעָרוֹת<lb/>
-        וּבְהֵיכָלוֹ כֻּלּוֹ אֹמֵר כָּבוֹד.<lb/>
-        יְיָ לַמַּבּוּל יָשָׁב<lb/>
-        וַיֵּשֶׁב יְיָ מֶלֶךְ לְעוֹלָם.<lb/>
-        T<lb/>
-        י עז לְעַמּוֹ יִתֵּן,<lb/>
-        &gt;&gt;<lb/>
-        יְיָ יְבָרֵךְ אֶת־עַמּוֹ בַשָּׁלוֹם.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa8b1b4d4-80be-4f1b-b71b-ac258c3266fd.jp2/997,503,1308,1841/max/0/default.jpg">
-          Kol Adonai chotzeiv lahavot eish,<lb/>
-        kol Adonai yachil midbar,<lb/>
-        yachil Adonai midbar Kadeish.<lb/>
-        Kol Adonai y&apos;choleil ayalot<lb/>
-        vayechesof y&apos;arot<lb/>
-        uv&apos;heichalo kulo omeir kavod.<lb/>
-        Adonai lamabul yashav<lb/>
-        vayeishev Adonai Melech l&apos;olam.<lb/>
-        Adonai oz l&apos;amo yitein<lb/>
-        Adonai y&apos;vareich et amo vashalom.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa8b1b4d4-80be-4f1b-b71b-ac258c3266fd.jp2/1553,2564,2211,1505/max/0/default.jpg">
-          THE VOICE OF ADONAI kindles flames of fire;<lb/>
-        the voice of Adonai convulses the wilderness;<lb/>
-        Adonai convulses the wilderness of Kadesh;<lb/>
-        the voice of Adonai causes hinds to calve,<lb/>
-        and strips forests bare;<lb/>
-        while in God&apos;s temple all say &quot;Glory!&quot;<lb/>
-        Adonai sat enthroned at the Flood;<lb/>
-        Adonai sits enthroned, sovereign forever.<lb/>
-        May Adonai grant strength to God&apos;s people;<lb/>
-        may Adonai bestow on God&apos;s people wellbeing.
-        </ab>
+        <lg xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa8b1b4d4-80be-4f1b-b71b-ac258c3266fd.jp2/3052,532,1383,1806/max/0/default.jpg">
+          <l>קוֹל יְיָ חֹצֵב לַהֲבוֹת אֵשׁ,</l>
+          <l>קוֹל יְיָ יָחִיל מִדְבָּר,</l>
+          <l>יְיָ מִדְבַּר קָדֵשׁ.</l>
+          <l>יָחִיל</l>
+          <l>קוֹל יְיָ יְחוֹלֵל אַיָּלוֹת</l>
+          <l>וַיִּחֲשֹׁף יְעָרוֹת</l>
+          <l>וּבְהֵיכָלוֹ כֻּלּוֹ אֹמֵר כָּבוֹד.</l>
+          <l>יְיָ לַמַּבּוּל יָשָׁב</l>
+          <l>וַיֵּשֶׁב יְיָ מֶלֶךְ לְעוֹלָם.</l>
+          <l>T</l>
+          <l>י עז לְעַמּוֹ יִתֵּן,</l>
+          <l>&gt;&gt;</l>
+          <l>יְיָ יְבָרֵךְ אֶת־עַמּוֹ בַשָּׁלוֹם.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa8b1b4d4-80be-4f1b-b71b-ac258c3266fd.jp2/997,503,1308,1841/max/0/default.jpg">
+          <l>Kol Adonai chotzeiv lahavot eish,</l>
+          <l>kol Adonai yachil midbar,</l>
+          <l>yachil Adonai midbar Kadeish.</l>
+          <l>Kol Adonai y&apos;choleil ayalot</l>
+          <l>vayechesof y&apos;arot</l>
+          <l>uv&apos;heichalo kulo omeir kavod.</l>
+          <l>Adonai lamabul yashav</l>
+          <l>vayeishev Adonai Melech l&apos;olam.</l>
+          <l>Adonai oz l&apos;amo yitein</l>
+          <l>Adonai y&apos;vareich et amo vashalom.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa8b1b4d4-80be-4f1b-b71b-ac258c3266fd.jp2/1553,2564,2211,1505/max/0/default.jpg">
+          <l>THE VOICE OF ADONAI kindles flames of fire;</l>
+          <l>the voice of Adonai convulses the wilderness;</l>
+          <l>Adonai convulses the wilderness of Kadesh;</l>
+          <l>the voice of Adonai causes hinds to calve,</l>
+          <l>and strips forests bare;</l>
+          <l>while in God&apos;s temple all say &quot;Glory!&quot;</l>
+          <l>Adonai sat enthroned at the Flood;</l>
+          <l>Adonai sits enthroned, sovereign forever.</l>
+          <l>May Adonai grant strength to God&apos;s people;</l>
+          <l>may Adonai bestow on God&apos;s people wellbeing.</l>
+        </lg>
       </div>
     </body>
   </text>

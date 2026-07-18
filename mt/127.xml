@@ -7,32 +7,32 @@
     <body>
       <div type="page" n="127">
         <pb n="127"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F5934c640-c594-4a01-b631-fbbf6794f3f6.jp2/1383,491,2075,2916/max/0/default.jpg">
-          THERE ARE DAYS when we seek things<lb/>
-        for ourselves and measure failure<lb/>
-        by what we do not gain.<lb/>
-        On Shabbat, we seek not to acquire<lb/>
-        but to share.<lb/>
-        There are days when we exploit nature<lb/>
-        as if it were a horn of plenty<lb/>
-        that can never be exhausted.<lb/>
-        On Shabbat, we stand in wonder<lb/>
-        before the mystery of creation.<lb/>
-        There are days when we act as if we<lb/>
-        cared nothing for the rights of others.<lb/>
-        On Shabbat, we remember that justice is<lb/>
-        our duty and a better world our goal.<lb/>
-        So we embrace Shabbat:<lb/>
-        day of rest, day of wonder, day of peace.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F5934c640-c594-4a01-b631-fbbf6794f3f6.jp2/1373,3560,2313,1196/max/0/default.jpg">
-          WE OFFER THANKS, O God, for this Shabbat<lb/>
-        which unites us in faith and hope.<lb/>
-        For Shabbat holiness, which inspires sacred living,<lb/>
-        for Shabbat memories, glowing even in darkness,<lb/>
-        for Shabbat peace, born of friendship and love,<lb/>
-        we offer thanks and blessing, O God.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F5934c640-c594-4a01-b631-fbbf6794f3f6.jp2/1383,491,2075,2916/max/0/default.jpg">
+          <l>THERE ARE DAYS when we seek things</l>
+          <l>for ourselves and measure failure</l>
+          <l>by what we do not gain.</l>
+          <l>On Shabbat, we seek not to acquire</l>
+          <l>but to share.</l>
+          <l>There are days when we exploit nature</l>
+          <l>as if it were a horn of plenty</l>
+          <l>that can never be exhausted.</l>
+          <l>On Shabbat, we stand in wonder</l>
+          <l>before the mystery of creation.</l>
+          <l>There are days when we act as if we</l>
+          <l>cared nothing for the rights of others.</l>
+          <l>On Shabbat, we remember that justice is</l>
+          <l>our duty and a better world our goal.</l>
+          <l>So we embrace Shabbat:</l>
+          <l>day of rest, day of wonder, day of peace.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F5934c640-c594-4a01-b631-fbbf6794f3f6.jp2/1373,3560,2313,1196/max/0/default.jpg">
+          <l>WE OFFER THANKS, O God, for this Shabbat</l>
+          <l>which unites us in faith and hope.</l>
+          <l>For Shabbat holiness, which inspires sacred living,</l>
+          <l>for Shabbat memories, glowing even in darkness,</l>
+          <l>for Shabbat peace, born of friendship and love,</l>
+          <l>we offer thanks and blessing, O God.</l>
+        </lg>
       </div>
     </body>
   </text>

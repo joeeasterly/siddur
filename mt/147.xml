@@ -7,43 +7,43 @@
     <body>
       <div type="page" n="147">
         <pb n="147"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbca69e6d-ab06-407c-b4ed-b0cc41cd8f38.jp2/1349,1012,2537,1704/max/0/default.jpg">
-          THERE IS ONE who sings the song of his own life,<lb/>
-        finding everything within himself.<lb/>
-        There is one who leaves the circle of her self,<lb/>
-        and sings the song of her people.<lb/>
-        There is one whose voice rings with the song of humanity,<lb/>
-        hoping for the highest perfection.<lb/>
-        And there is one who rises even higher,<lb/>
-        uniting with all creatures, with all worlds,<lb/>
-        filling the universe with<lb/>
-        song.<lb/>
-        N&apos;vareich!<lb/>
-        נְבָרֵךְ!<lb/>
-        Let us bless!
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbca69e6d-ab06-407c-b4ed-b0cc41cd8f38.jp2/1370,2992,2464,1943/max/0/default.jpg">
-          O GOD, You are as near as<lb/>
-        the very air we breathe,<lb/>
-        yet<lb/>
-        farther than the farthermost star.<lb/>
-        We yearn to reach You.<lb/>
-        We seek the light and warmth of Your Presence.<lb/>
-        Though we say You are near,<lb/>
-        we are lonely and alone.<lb/>
-        O let our desire be so strong<lb/>
-        that it will tear the veil that keeps You from our sight!<lb/>
-        Let Your light release our darkness<lb/>
-        and reveal the glory and joy of Your Presence.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbca69e6d-ab06-407c-b4ed-b0cc41cd8f38.jp2/906,5618,3689,677/max/0/default.jpg">
-          What does it mean to be called to worship? All serious activity requires preparation. The<lb/>
-        and blessings that precede 17, Bar&apos;chu are warm-ups for the individual. Now communal<lb/>
-        begins. The leader asks, “Are you ready to pray?&quot; And we respond, &quot;Yes! Let us pray!&quot;<lb/>
-        prayers<lb/>
-        prayer<lb/>
-        adapted from Richard Levy
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbca69e6d-ab06-407c-b4ed-b0cc41cd8f38.jp2/1349,1012,2537,1704/max/0/default.jpg">
+          <l>THERE IS ONE who sings the song of his own life,</l>
+          <l>finding everything within himself.</l>
+          <l>There is one who leaves the circle of her self,</l>
+          <l>and sings the song of her people.</l>
+          <l>There is one whose voice rings with the song of humanity,</l>
+          <l>hoping for the highest perfection.</l>
+          <l>And there is one who rises even higher,</l>
+          <l>uniting with all creatures, with all worlds,</l>
+          <l>filling the universe with</l>
+          <l>song.</l>
+          <l>N&apos;vareich!</l>
+          <l>נְבָרֵךְ!</l>
+          <l>Let us bless!</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbca69e6d-ab06-407c-b4ed-b0cc41cd8f38.jp2/1370,2992,2464,1943/max/0/default.jpg">
+          <l>O GOD, You are as near as</l>
+          <l>the very air we breathe,</l>
+          <l>yet</l>
+          <l>farther than the farthermost star.</l>
+          <l>We yearn to reach You.</l>
+          <l>We seek the light and warmth of Your Presence.</l>
+          <l>Though we say You are near,</l>
+          <l>we are lonely and alone.</l>
+          <l>O let our desire be so strong</l>
+          <l>that it will tear the veil that keeps You from our sight!</l>
+          <l>Let Your light release our darkness</l>
+          <l>and reveal the glory and joy of Your Presence.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbca69e6d-ab06-407c-b4ed-b0cc41cd8f38.jp2/906,5618,3689,677/max/0/default.jpg">
+          <l>What does it mean to be called to worship? All serious activity requires preparation. The</l>
+          <l>and blessings that precede 17, Bar&apos;chu are warm-ups for the individual. Now communal</l>
+          <l>begins. The leader asks, “Are you ready to pray?&quot; And we respond, &quot;Yes! Let us pray!&quot;</l>
+          <l>prayers</l>
+          <l>prayer</l>
+          <l>adapted from Richard Levy</l>
+        </lg>
       </div>
     </body>
   </text>

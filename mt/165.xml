@@ -7,36 +7,36 @@
     <body>
       <div type="page" n="165">
         <pb n="165"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F25eebc91-61d1-408a-bfdd-327edd468bc3.jp2/1506,767,2021,475/max/0/default.jpg">
-          PRAY AS IF everything depended on God.<lb/>
-        Act as if everything depended on you.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F25eebc91-61d1-408a-bfdd-327edd468bc3.jp2/1526,1540,2011,1377/max/0/default.jpg">
-          PRAYER INVITES<lb/>
-        God&apos;s Presence to suffuse our spirits,<lb/>
-        God&apos;s will to prevail in our lives.<lb/>
-        Prayer may not bring water to parched fields,<lb/>
-        nor mend a broken bridge,<lb/>
-        nor rebuild a ruined city.<lb/>
-        But prayer can water an arid soul,<lb/>
-        mend a broken heart,<lb/>
-        rebuild a weakened will.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F25eebc91-61d1-408a-bfdd-327edd468bc3.jp2/1526,3116,1397,1109/max/0/default.jpg">
-          IN AN ENVELOPE marked:<lb/>
-        Personal<lb/>
-        God addressed me a letter.<lb/>
-        In an envelope marked:<lb/>
-        Personal<lb/>
-        I have given my answer.
-        </ab>
-        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F25eebc91-61d1-408a-bfdd-327edd468bc3.jp2/906,5441,3694,828/max/0/default.jpg">
-          Every word of one&apos;s prayer should be like a rose that is picked from a bush. One gathers rose upon<lb/>
-        rose until a bouquet is formed and can be offered to God as a beautiful blessing.<lb/>
-        Nachman of Bratzlav<lb/>
-        God has placed abilities and challenges in our heart, without regard to gender. Each of us has the<lb/>
-        duty, whether man or woman, to realize those gifts God has given. Regina Jonas
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F25eebc91-61d1-408a-bfdd-327edd468bc3.jp2/1506,767,2021,475/max/0/default.jpg">
+          <l>PRAY AS IF everything depended on God.</l>
+          <l>Act as if everything depended on you.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F25eebc91-61d1-408a-bfdd-327edd468bc3.jp2/1526,1540,2011,1377/max/0/default.jpg">
+          <l>PRAYER INVITES</l>
+          <l>God&apos;s Presence to suffuse our spirits,</l>
+          <l>God&apos;s will to prevail in our lives.</l>
+          <l>Prayer may not bring water to parched fields,</l>
+          <l>nor mend a broken bridge,</l>
+          <l>nor rebuild a ruined city.</l>
+          <l>But prayer can water an arid soul,</l>
+          <l>mend a broken heart,</l>
+          <l>rebuild a weakened will.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F25eebc91-61d1-408a-bfdd-327edd468bc3.jp2/1526,3116,1397,1109/max/0/default.jpg">
+          <l>IN AN ENVELOPE marked:</l>
+          <l>Personal</l>
+          <l>God addressed me a letter.</l>
+          <l>In an envelope marked:</l>
+          <l>Personal</l>
+          <l>I have given my answer.</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F25eebc91-61d1-408a-bfdd-327edd468bc3.jp2/906,5441,3694,828/max/0/default.jpg">
+          <l>Every word of one&apos;s prayer should be like a rose that is picked from a bush. One gathers rose upon</l>
+          <l>rose until a bouquet is formed and can be offered to God as a beautiful blessing.</l>
+          <l>Nachman of Bratzlav</l>
+          <l>God has placed abilities and challenges in our heart, without regard to gender. Each of us has the</l>
+          <l>duty, whether man or woman, to realize those gifts God has given. Regina Jonas</l>
+        </lg>
       </div>
     </body>
   </text>

@@ -7,49 +7,49 @@
     <body>
       <div type="page" n="16">
         <pb n="16"/>
-        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd8feaace-d9e8-4f0c-9017-fa2108712e04.jp2/2435,356,1665,1947/max/0/default.jpg">
-          מִי כָמֹכָה בָּאֵלִם, יְיָ!<lb/>
-        מִי כָּמְכָה נֶהְדָר בַּקְדֶשׁ,<lb/>
-        נוֹרָא תְהִלָּת, עָשָׂה פֶלֶא:<lb/>
-        מַלְכוּתְךָ רָאוּ בָנֶיךָ,<lb/>
-        בּוֹקֵעַ יָם לִפְנֵי מֹשֶׁה וּמִרְיָם.<lb/>
-        זֶה אֵלִי, עָנוּ וְאָמְרוּ,<lb/>
-        יְיָ יִמְלֹךְ לְעֹלָם וָעֶד!<lb/>
-        &gt;&gt;<lb/>
-        T:<lb/>
-        וְנֶאֱמַר: כִּי פָדָה יְיָ אֶת יַעֲקֹב<lb/>
-        וּגְאָלוֹ מִיַּד חָזָק מִמֶּנּוּ.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, גְאַל יִשְׂרָאֵל.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd8feaace-d9e8-4f0c-9017-fa2108712e04.jp2/334,404,1786,1874/max/0/default.jpg">
-          MI CHAMOCHAH ba-eilim, Adonai!<lb/>
-        Mi kamochah nedar bakodesh,<lb/>
-        nora t&apos;hilot, oseih fele!<lb/>
-        Malchut&apos;cha ra-u vanecha,<lb/>
-        bokei-a yam lifnei Moshe uMiryam.<lb/>
-        Zeh Eli, anu v&apos;amru,<lb/>
-        Adonai yimloch l&apos;olam va-ed!<lb/>
-        V&apos;ne-emar: ki fadah Adonai et Yaakov,<lb/>
-        ug&apos;alo miyad chazak mimenu.<lb/>
-        Baruch atah, Adonai, gaal Yisrael.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd8feaace-d9e8-4f0c-9017-fa2108712e04.jp2/1172,2419,2155,2555/max/0/default.jpg">
-          WHO IS LIKE YOU, O God,<lb/>
-        among the gods that are worshipped?<lb/>
-        Who is like You, majestic in holiness,<lb/>
-        awesome in splendor, working wonders?<lb/>
-        Your children witnessed Your sovereignty,<lb/>
-        the sea splitting before Moses and Miriam.<lb/>
-        &quot;This is our God!&quot; they cried.<lb/>
-        &quot;Adonai will reign forever and ever!&quot;<lb/>
-        Thus it is said,<lb/>
-        &quot;Adonai redeemed Jacob,<lb/>
-        from a hand stronger<lb/>
-        than his own.&quot;<lb/>
-        Praised are You, Adonai, for redeeming Israel.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, גְאַל יִשְׂרָאֵל.<lb/>
-        Baruch atah, Adonai, gaal Yisrael.
-        </ab>
+        <lg xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd8feaace-d9e8-4f0c-9017-fa2108712e04.jp2/2435,356,1665,1947/max/0/default.jpg">
+          <l>מִי כָמֹכָה בָּאֵלִם, יְיָ!</l>
+          <l>מִי כָּמְכָה נֶהְדָר בַּקְדֶשׁ,</l>
+          <l>נוֹרָא תְהִלָּת, עָשָׂה פֶלֶא:</l>
+          <l>מַלְכוּתְךָ רָאוּ בָנֶיךָ,</l>
+          <l>בּוֹקֵעַ יָם לִפְנֵי מֹשֶׁה וּמִרְיָם.</l>
+          <l>זֶה אֵלִי, עָנוּ וְאָמְרוּ,</l>
+          <l>יְיָ יִמְלֹךְ לְעֹלָם וָעֶד!</l>
+          <l>&gt;&gt;</l>
+          <l>T:</l>
+          <l>וְנֶאֱמַר: כִּי פָדָה יְיָ אֶת יַעֲקֹב</l>
+          <l>וּגְאָלוֹ מִיַּד חָזָק מִמֶּנּוּ.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, גְאַל יִשְׂרָאֵל.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd8feaace-d9e8-4f0c-9017-fa2108712e04.jp2/334,404,1786,1874/max/0/default.jpg">
+          <l>MI CHAMOCHAH ba-eilim, Adonai!</l>
+          <l>Mi kamochah nedar bakodesh,</l>
+          <l>nora t&apos;hilot, oseih fele!</l>
+          <l>Malchut&apos;cha ra-u vanecha,</l>
+          <l>bokei-a yam lifnei Moshe uMiryam.</l>
+          <l>Zeh Eli, anu v&apos;amru,</l>
+          <l>Adonai yimloch l&apos;olam va-ed!</l>
+          <l>V&apos;ne-emar: ki fadah Adonai et Yaakov,</l>
+          <l>ug&apos;alo miyad chazak mimenu.</l>
+          <l>Baruch atah, Adonai, gaal Yisrael.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd8feaace-d9e8-4f0c-9017-fa2108712e04.jp2/1172,2419,2155,2555/max/0/default.jpg">
+          <l>WHO IS LIKE YOU, O God,</l>
+          <l>among the gods that are worshipped?</l>
+          <l>Who is like You, majestic in holiness,</l>
+          <l>awesome in splendor, working wonders?</l>
+          <l>Your children witnessed Your sovereignty,</l>
+          <l>the sea splitting before Moses and Miriam.</l>
+          <l>&quot;This is our God!&quot; they cried.</l>
+          <l>&quot;Adonai will reign forever and ever!&quot;</l>
+          <l>Thus it is said,</l>
+          <l>&quot;Adonai redeemed Jacob,</l>
+          <l>from a hand stronger</l>
+          <l>than his own.&quot;</l>
+          <l>Praised are You, Adonai, for redeeming Israel.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, גְאַל יִשְׂרָאֵל.</l>
+          <l>Baruch atah, Adonai, gaal Yisrael.</l>
+        </lg>
       </div>
     </body>
   </text>

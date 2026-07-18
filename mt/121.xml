@@ -7,31 +7,31 @@
     <body>
       <div type="page" n="121">
         <pb n="121"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F85a84500-632f-4652-b426-17be4a29b7d4.jp2/886,1476,2665,1021/max/0/default.jpg">
-          AS THESE SHABBAT CANDLES give light<lb/>
-        to all who behold them,<lb/>
-        so may we, by our lives, give light to all who behold us.<lb/>
-        As their brightness reminds us<lb/>
-        of the generations of Israel who have kindled light,<lb/>
-        so may we, in our own day, be among those who kindle light.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F85a84500-632f-4652-b426-17be4a29b7d4.jp2/885,2788,2590,1292/max/0/default.jpg">
-          ○ SOURCE of light and truth,<lb/>
-        Creator of the eternal law of goodness,<lb/>
-        help us to find knowledge by which to live.<lb/>
-        Lead us to take the words we shall speak<lb/>
-        into our hearts and our lives.<lb/>
-        Bless all who enter this sanctuary in need,<lb/>
-        all who bring the offerings of their hearts.<lb/>
-        May our worship lead us to acts of kindness, peace and love.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F85a84500-632f-4652-b426-17be4a29b7d4.jp2/881,5649,2089,638/max/0/default.jpg">
-          Help me perfect my ways of loving and caring.<lb/>
-        Inspire me to make myself whole<lb/>
-        so that I may honor Your name and<lb/>
-        create a world of justice and peace.<lb/>
-        Martin Buber
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F85a84500-632f-4652-b426-17be4a29b7d4.jp2/886,1476,2665,1021/max/0/default.jpg">
+          <l>AS THESE SHABBAT CANDLES give light</l>
+          <l>to all who behold them,</l>
+          <l>so may we, by our lives, give light to all who behold us.</l>
+          <l>As their brightness reminds us</l>
+          <l>of the generations of Israel who have kindled light,</l>
+          <l>so may we, in our own day, be among those who kindle light.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F85a84500-632f-4652-b426-17be4a29b7d4.jp2/885,2788,2590,1292/max/0/default.jpg">
+          <l>○ SOURCE of light and truth,</l>
+          <l>Creator of the eternal law of goodness,</l>
+          <l>help us to find knowledge by which to live.</l>
+          <l>Lead us to take the words we shall speak</l>
+          <l>into our hearts and our lives.</l>
+          <l>Bless all who enter this sanctuary in need,</l>
+          <l>all who bring the offerings of their hearts.</l>
+          <l>May our worship lead us to acts of kindness, peace and love.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F85a84500-632f-4652-b426-17be4a29b7d4.jp2/881,5649,2089,638/max/0/default.jpg">
+          <l>Help me perfect my ways of loving and caring.</l>
+          <l>Inspire me to make myself whole</l>
+          <l>so that I may honor Your name and</l>
+          <l>create a world of justice and peace.</l>
+          <l>Martin Buber</l>
+        </lg>
       </div>
     </body>
   </text>

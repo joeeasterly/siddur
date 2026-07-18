@@ -7,17 +7,17 @@
     <body>
       <div type="page" n="152">
         <pb n="152"/>
-        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fed8709b9-ea6c-4b79-b63b-03430d862073.jp2/360,1285,3982,1602/max/0/default.jpg">
-          שמע ישראל יהוה
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fed8709b9-ea6c-4b79-b63b-03430d862073.jp2/584,3947,3460,970/max/0/default.jpg">
-          שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד!<lb/>
-        Sh&apos;ma Yisrael, Adonai Eloheinu, Adonai Echad!<lb/>
-        Hear, O Israel, Adonai is our God, Adonai is One!
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fed8709b9-ea6c-4b79-b63b-03430d862073.jp2/474,5560,3632,281/max/0/default.jpg">
-          Sh&apos;ma Yisrael... Hear, O Israel... Deuteronomy 6:4
-        </ab>
+        <lg xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fed8709b9-ea6c-4b79-b63b-03430d862073.jp2/360,1285,3982,1602/max/0/default.jpg">
+          <l>שמע ישראל יהוה</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fed8709b9-ea6c-4b79-b63b-03430d862073.jp2/584,3947,3460,970/max/0/default.jpg">
+          <l>שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד!</l>
+          <l>Sh&apos;ma Yisrael, Adonai Eloheinu, Adonai Echad!</l>
+          <l>Hear, O Israel, Adonai is our God, Adonai is One!</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fed8709b9-ea6c-4b79-b63b-03430d862073.jp2/474,5560,3632,281/max/0/default.jpg">
+          <l>Sh&apos;ma Yisrael... Hear, O Israel... Deuteronomy 6:4</l>
+        </lg>
       </div>
     </body>
   </text>

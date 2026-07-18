@@ -7,39 +7,39 @@
     <body>
       <div type="page" n="15">
         <pb n="15"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2249731d-a0fb-4395-8feb-03a6eb7672de.jp2/1475,703,1883,1595/max/0/default.jpg">
-          SING THE SONG of men and women<lb/>
-        joined in understanding and respect.<lb/>
-        The song of God&apos;s miracles,<lb/>
-        an earth protected and cherished:<lb/>
-        a gift for our children<lb/>
-        and the generations to come.<lb/>
-        The song of a land once ravished by war,<lb/>
-        now quiet and content:<lb/>
-        her soldiers home, to leave no more.<lb/>
-        The song of a world redeemed:<lb/>
-        the song of peace.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2249731d-a0fb-4395-8feb-03a6eb7672de.jp2/1436,2528,2579,2868/max/0/default.jpg">
-          IN A WORLD torn by violence and pain,<lb/>
-        a world far from wholeness and peace,<lb/>
-        give us the courage to say, Adonai:<lb/>
-        There is one God in heaven and earth.<lb/>
-        The high heavens declare Your glory;<lb/>
-        may earth reveal Your justice and love.<lb/>
-        From bondage in Egypt, we were delivered;<lb/>
-        at Sinai, we bound ourselves to Your way.<lb/>
-        Inspired by prophets and instructed by sages,<lb/>
-        time and again, we overcame oppressive forces.<lb/>
-        Though our failings are many and our faults are great,<lb/>
-        it has been our glory to bear witness to our God,<lb/>
-        keeping alive in dark ages<lb/>
-        Your vision of a world redeemed.<lb/>
-        Let us continue to work for the day<lb/>
-        when the nations will be one and at peace.<lb/>
-        Then shall we rejoice as Israel did,<lb/>
-        singing on the shores of the Sea:
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2249731d-a0fb-4395-8feb-03a6eb7672de.jp2/1475,703,1883,1595/max/0/default.jpg">
+          <l>SING THE SONG of men and women</l>
+          <l>joined in understanding and respect.</l>
+          <l>The song of God&apos;s miracles,</l>
+          <l>an earth protected and cherished:</l>
+          <l>a gift for our children</l>
+          <l>and the generations to come.</l>
+          <l>The song of a land once ravished by war,</l>
+          <l>now quiet and content:</l>
+          <l>her soldiers home, to leave no more.</l>
+          <l>The song of a world redeemed:</l>
+          <l>the song of peace.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F2249731d-a0fb-4395-8feb-03a6eb7672de.jp2/1436,2528,2579,2868/max/0/default.jpg">
+          <l>IN A WORLD torn by violence and pain,</l>
+          <l>a world far from wholeness and peace,</l>
+          <l>give us the courage to say, Adonai:</l>
+          <l>There is one God in heaven and earth.</l>
+          <l>The high heavens declare Your glory;</l>
+          <l>may earth reveal Your justice and love.</l>
+          <l>From bondage in Egypt, we were delivered;</l>
+          <l>at Sinai, we bound ourselves to Your way.</l>
+          <l>Inspired by prophets and instructed by sages,</l>
+          <l>time and again, we overcame oppressive forces.</l>
+          <l>Though our failings are many and our faults are great,</l>
+          <l>it has been our glory to bear witness to our God,</l>
+          <l>keeping alive in dark ages</l>
+          <l>Your vision of a world redeemed.</l>
+          <l>Let us continue to work for the day</l>
+          <l>when the nations will be one and at peace.</l>
+          <l>Then shall we rejoice as Israel did,</l>
+          <l>singing on the shores of the Sea:</l>
+        </lg>
       </div>
     </body>
   </text>

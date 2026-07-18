@@ -7,34 +7,34 @@
     <body>
       <div type="page" n="177">
         <pb n="177"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffafef4ba-a46e-42e3-b72c-ed8e65799067.jp2/1362,1278,2736,1214/max/0/default.jpg">
-          GOD OF GOODNESS, we give thanks<lb/>
-        for the gift of life, wonder beyond words;<lb/>
-        for the awareness of soul, our light within;<lb/>
-        for the world around us, so filled with beauty;<lb/>
-        for the richness of the earth, which day by day sustains us;<lb/>
-        for all these and more, we offer thanks.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, הַטוֹב שִׁמְךְ וּלְךָ נָאֶה לְהוֹדוֹת.<lb/>
-        Baruch atah, Adonai, hatov shimcha ul&apos;cha na-eh l&apos;hodot.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffafef4ba-a46e-42e3-b72c-ed8e65799067.jp2/1368,2788,2788,1640/max/0/default.jpg">
-          WHEN WE BEHOLD Your heavens, the work of Your fingers,<lb/>
-        the moon and stars that You set in place<lb/>
-        What are we humans that You are mindful of us?<lb/>
-        We mortals that You take note of us?<lb/>
-        You made us little less than divine,<lb/>
-        adorned us with glory and majesty.<lb/>
-        You gave us dominion over Your handiwork,<lb/>
-        laying the world at our feet...<lb/>
-        how majestic is Your name throughout the earth!<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, הַטוֹב שִׁמְךְ וּלְךָ נָאֶה לְהוֹדוֹת.<lb/>
-        Baruch atah, Adonai, hatov shimcha ul&apos;cha na-eh l&apos;hodot.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffafef4ba-a46e-42e3-b72c-ed8e65799067.jp2/952,5665,3650,612/max/0/default.jpg">
-          For those who choose: On page 176, at the word in Modim, one bows at the waist. At »<lb/>
-        Adonai, one stands up straight.<lb/>
-        When we behold Your heavens... Psalm 8:4-7, 10
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffafef4ba-a46e-42e3-b72c-ed8e65799067.jp2/1362,1278,2736,1214/max/0/default.jpg">
+          <l>GOD OF GOODNESS, we give thanks</l>
+          <l>for the gift of life, wonder beyond words;</l>
+          <l>for the awareness of soul, our light within;</l>
+          <l>for the world around us, so filled with beauty;</l>
+          <l>for the richness of the earth, which day by day sustains us;</l>
+          <l>for all these and more, we offer thanks.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, הַטוֹב שִׁמְךְ וּלְךָ נָאֶה לְהוֹדוֹת.</l>
+          <l>Baruch atah, Adonai, hatov shimcha ul&apos;cha na-eh l&apos;hodot.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffafef4ba-a46e-42e3-b72c-ed8e65799067.jp2/1368,2788,2788,1640/max/0/default.jpg">
+          <l>WHEN WE BEHOLD Your heavens, the work of Your fingers,</l>
+          <l>the moon and stars that You set in place</l>
+          <l>What are we humans that You are mindful of us?</l>
+          <l>We mortals that You take note of us?</l>
+          <l>You made us little less than divine,</l>
+          <l>adorned us with glory and majesty.</l>
+          <l>You gave us dominion over Your handiwork,</l>
+          <l>laying the world at our feet...</l>
+          <l>how majestic is Your name throughout the earth!</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, הַטוֹב שִׁמְךְ וּלְךָ נָאֶה לְהוֹדוֹת.</l>
+          <l>Baruch atah, Adonai, hatov shimcha ul&apos;cha na-eh l&apos;hodot.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Ffafef4ba-a46e-42e3-b72c-ed8e65799067.jp2/952,5665,3650,612/max/0/default.jpg">
+          <l>For those who choose: On page 176, at the word in Modim, one bows at the waist. At »</l>
+          <l>Adonai, one stands up straight.</l>
+          <l>When we behold Your heavens... Psalm 8:4-7, 10</l>
+        </lg>
       </div>
     </body>
   </text>

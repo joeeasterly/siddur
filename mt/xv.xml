@@ -7,40 +7,40 @@
     <body>
       <div type="page" n="xv">
         <pb n="xv"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1cbdcd6e-7af0-4207-9a50-df3e11620bbf.jp2/885,272,3716,5818/max/0/default.jpg">
-          A Note on Style and Usage<lb/>
-        Mishkan T&apos;filah offers many opportunities for diverse usage and worship styles. Most<lb/>
-        of the prayers in this siddur are set as a two-page spread, with the keva (primary,<lb/>
-        traditional) liturgy on the right-hand page and alternative prayer choices on the left-<lb/>
-        hand side. The right-hand Hebrew text is accompanied by a faithful translation, and<lb/>
-        transliteration; the left-hand page contains poetry, prayers and kavanot (meditations)<lb/>
-        thematically tied to the keva text but reflecting diverse theological points of view.<lb/>
-        Layouts of the prayers invite different usage. Some passages are set to facilitate<lb/>
-        responsive readings, though all passages allow for unison offering. It is suggested that<lb/>
-        the community vary its vocal expression in prayer, with quieter or more exuberant<lb/>
-        tones at appropriate moments, as guided by the worship leader.<lb/>
-        The two-page spreads are intended so that only one prayer per page spread is read,<lb/>
-        either in Hebrew or English. Once that single piece is prayed, the worshipper turns the<lb/>
-        page. Thus pages need be announced only when they are skipped. (These simple<lb/>
-        instructions at the beginning of each service will guide new worshippers.) If the<lb/>
-        worship leader begins each prayer slowly, this will help worshippers to locate their<lb/>
-        places easily.<lb/>
-        A linear-style service option is offered in Service II for Friday night and Shabbat<lb/>
-        morning. Linear pages are designed with a blue frame around the page. The English in<lb/>
-        these services is not a direct translation of the Hebrew prayers.<lb/>
-        To pray the most traditional liturgy, one would use the right-hand side of the two-<lb/>
-        page spread of any service (except Services II).<lb/>
-        &quot;Stage directions&quot; and choreography such as when to stand or sit are minimized for<lb/>
-        maximum flexibility and with respect for varying congregational customs.<lb/>
-        Spiritual commentaries, notes on rabbinic practices, and source citations span the<lb/>
-        bottom of the pages, below the liturgical frame. The heading &quot;For those who choose&quot;<lb/>
-        refers to Jewish customs established by long usage. While not binding, many<lb/>
-        congregants will find them meaningful, and their use can enhance one&apos;s kavanah. Text<lb/>
-        sources are abbreviated: M. Shabbat 2:1 is read as Mishnah Shabbat, chapter 2,<lb/>
-        paragraph 1. Shabbat 2b-3a refers to the Talmud tractate Shabbat, page 2b to page 3a.<lb/>
-        Rubric headings are on the outside margins, indicating the current prayer&apos;s place<lb/>
-        within the service.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F1cbdcd6e-7af0-4207-9a50-df3e11620bbf.jp2/885,272,3716,5818/max/0/default.jpg">
+          <l>A Note on Style and Usage</l>
+          <l>Mishkan T&apos;filah offers many opportunities for diverse usage and worship styles. Most</l>
+          <l>of the prayers in this siddur are set as a two-page spread, with the keva (primary,</l>
+          <l>traditional) liturgy on the right-hand page and alternative prayer choices on the left-</l>
+          <l>hand side. The right-hand Hebrew text is accompanied by a faithful translation, and</l>
+          <l>transliteration; the left-hand page contains poetry, prayers and kavanot (meditations)</l>
+          <l>thematically tied to the keva text but reflecting diverse theological points of view.</l>
+          <l>Layouts of the prayers invite different usage. Some passages are set to facilitate</l>
+          <l>responsive readings, though all passages allow for unison offering. It is suggested that</l>
+          <l>the community vary its vocal expression in prayer, with quieter or more exuberant</l>
+          <l>tones at appropriate moments, as guided by the worship leader.</l>
+          <l>The two-page spreads are intended so that only one prayer per page spread is read,</l>
+          <l>either in Hebrew or English. Once that single piece is prayed, the worshipper turns the</l>
+          <l>page. Thus pages need be announced only when they are skipped. (These simple</l>
+          <l>instructions at the beginning of each service will guide new worshippers.) If the</l>
+          <l>worship leader begins each prayer slowly, this will help worshippers to locate their</l>
+          <l>places easily.</l>
+          <l>A linear-style service option is offered in Service II for Friday night and Shabbat</l>
+          <l>morning. Linear pages are designed with a blue frame around the page. The English in</l>
+          <l>these services is not a direct translation of the Hebrew prayers.</l>
+          <l>To pray the most traditional liturgy, one would use the right-hand side of the two-</l>
+          <l>page spread of any service (except Services II).</l>
+          <l>&quot;Stage directions&quot; and choreography such as when to stand or sit are minimized for</l>
+          <l>maximum flexibility and with respect for varying congregational customs.</l>
+          <l>Spiritual commentaries, notes on rabbinic practices, and source citations span the</l>
+          <l>bottom of the pages, below the liturgical frame. The heading &quot;For those who choose&quot;</l>
+          <l>refers to Jewish customs established by long usage. While not binding, many</l>
+          <l>congregants will find them meaningful, and their use can enhance one&apos;s kavanah. Text</l>
+          <l>sources are abbreviated: M. Shabbat 2:1 is read as Mishnah Shabbat, chapter 2,</l>
+          <l>paragraph 1. Shabbat 2b-3a refers to the Talmud tractate Shabbat, page 2b to page 3a.</l>
+          <l>Rubric headings are on the outside margins, indicating the current prayer&apos;s place</l>
+          <l>within the service.</l>
+        </lg>
       </div>
     </body>
   </text>

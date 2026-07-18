@@ -7,16 +7,16 @@
     <body>
       <div type="page" n="ix">
         <pb n="ix"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa3f6fae8-9ac8-4a8b-9632-93d6a9941699.jp2/854,400,3710,1501/max/0/default.jpg">
-          The desert mishkan was a portable sanctuary. Its care was guarded by the Levites and<lb/>
-        the priests yet it invited all to bring their offerings. Today, we are all caretakers of<lb/>
-        Mishkan T&apos;filah; may our offerings be acceptable before God.<lb/>
-        May all who enter find joy, solace and meaning.<lb/>
-        RABBI ELYSE D. FRISHMAN<lb/>
-        Editor<lb/>
-        RABBI PETER S. KNOBEL<lb/>
-        Chair of the Editorial Committee
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa3f6fae8-9ac8-4a8b-9632-93d6a9941699.jp2/854,400,3710,1501/max/0/default.jpg">
+          <l>The desert mishkan was a portable sanctuary. Its care was guarded by the Levites and</l>
+          <l>the priests yet it invited all to bring their offerings. Today, we are all caretakers of</l>
+          <l>Mishkan T&apos;filah; may our offerings be acceptable before God.</l>
+          <l>May all who enter find joy, solace and meaning.</l>
+          <l>RABBI ELYSE D. FRISHMAN</l>
+          <l>Editor</l>
+          <l>RABBI PETER S. KNOBEL</l>
+          <l>Chair of the Editorial Committee</l>
+        </lg>
       </div>
     </body>
   </text>

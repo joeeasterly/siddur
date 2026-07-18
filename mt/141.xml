@@ -7,63 +7,63 @@
     <body>
       <div type="page" n="141">
         <pb n="141"/>
-        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/3148,683,1331,2512/max/0/default.jpg">
-          י מָלָךְ גֵאוּת לָבֵשׁ,<lb/>
-        לָבֵשׁ יְיָ עז הִתְאַגָּר,<lb/>
-        אַף־תִּכּוֹן תֵּבֵל בַּל־תְּמוֹט.<lb/>
-        נָכוֹן כִּסְאֲךָ מֵאָז,<lb/>
-        מֵעוֹלָם אָתָּה.<lb/>
-        נָשְׂאוּ נְהָרוֹת, יְיָ,<lb/>
-        נָשְׂאוּ נְהָרוֹת קוֹלָם,<lb/>
-        יִשְׂאוּ נְהָרוֹת דָּכְיָם.<lb/>
-        מִקְלוֹת מַיִם רַבִּים,<lb/>
-        אַדִּירִים מִשְׁבְּרֵי יָם,<lb/>
-        אַדִּיר בַּמָּרוֹם יְיָ<lb/>
-        עֵדֹתֶיךָ נֶאֶמְנוּ מְאֹד,<lb/>
-        לְבֵיתְךָ נָאֲוָה קְדֶשׁ,<lb/>
-        י לְאֹרֶךְ יָמִים.<lb/>
-        T
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/1040,532,2061,2698/max/0/default.jpg">
-          PSALM 93:1-5<lb/>
-        ADONAI MALACH gei-ut laveish,<lb/>
-        laveish Adonai oz hitazar,<lb/>
-        af tikon teiveil bal timot.<lb/>
-        Nachon kisacha mei-az,<lb/>
-        mei-olam atah.<lb/>
-        Nasu n&apos;harot Adonai,<lb/>
-        nasu n&apos;harot kolam,<lb/>
-        yisu n&apos;harot dochyam.<lb/>
-        Mikolot mayim rabim,<lb/>
-        adirim mishb&apos;rei yam,<lb/>
-        adir bamarom Adonai.<lb/>
-        Eidotecha ne-emnu m&apos;od,<lb/>
-        I&apos;veitcha naavah kodesh,<lb/>
-        Adonai l&apos;orech yamim.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/1596,3311,1835,2466/max/0/default.jpg">
-          ADONAI IS SOVEREIGN,<lb/>
-        God is robed in grandeur;<lb/>
-        Adonai is robed,<lb/>
-        God is girded with strength.<lb/>
-        The world stands firm;<lb/>
-        it cannot be shaken.<lb/>
-        Your throne stands firm from of old;<lb/>
-        from eternity You have existed.<lb/>
-        The ocean sounds, Adonai,<lb/>
-        the ocean sounds its thunder,<lb/>
-        the ocean sounds its pounding.<lb/>
-        Above the thunder of the mighty waters,<lb/>
-        more majestic than the breakers of the sea<lb/>
-        is Adonai, majestic on high.<lb/>
-        Your decrees are indeed enduring;<lb/>
-        holiness befits Your house,<lb/>
-        Adonai, for all times.
-        </ab>
-        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/959,5866,3624,351/max/0/default.jpg">
-          Proclaiming the completion of God&apos;s work of creation and the establishment of<lb/>
-        divine sovereignty over all, this psalm serves as a fitting climax to Kabbalat Shabbat. See M. Tamid 7:4
-        </ab>
+        <lg xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/3148,683,1331,2512/max/0/default.jpg">
+          <l>י מָלָךְ גֵאוּת לָבֵשׁ,</l>
+          <l>לָבֵשׁ יְיָ עז הִתְאַגָּר,</l>
+          <l>אַף־תִּכּוֹן תֵּבֵל בַּל־תְּמוֹט.</l>
+          <l>נָכוֹן כִּסְאֲךָ מֵאָז,</l>
+          <l>מֵעוֹלָם אָתָּה.</l>
+          <l>נָשְׂאוּ נְהָרוֹת, יְיָ,</l>
+          <l>נָשְׂאוּ נְהָרוֹת קוֹלָם,</l>
+          <l>יִשְׂאוּ נְהָרוֹת דָּכְיָם.</l>
+          <l>מִקְלוֹת מַיִם רַבִּים,</l>
+          <l>אַדִּירִים מִשְׁבְּרֵי יָם,</l>
+          <l>אַדִּיר בַּמָּרוֹם יְיָ</l>
+          <l>עֵדֹתֶיךָ נֶאֶמְנוּ מְאֹד,</l>
+          <l>לְבֵיתְךָ נָאֲוָה קְדֶשׁ,</l>
+          <l>י לְאֹרֶךְ יָמִים.</l>
+          <l>T</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/1040,532,2061,2698/max/0/default.jpg">
+          <l>PSALM 93:1-5</l>
+          <l>ADONAI MALACH gei-ut laveish,</l>
+          <l>laveish Adonai oz hitazar,</l>
+          <l>af tikon teiveil bal timot.</l>
+          <l>Nachon kisacha mei-az,</l>
+          <l>mei-olam atah.</l>
+          <l>Nasu n&apos;harot Adonai,</l>
+          <l>nasu n&apos;harot kolam,</l>
+          <l>yisu n&apos;harot dochyam.</l>
+          <l>Mikolot mayim rabim,</l>
+          <l>adirim mishb&apos;rei yam,</l>
+          <l>adir bamarom Adonai.</l>
+          <l>Eidotecha ne-emnu m&apos;od,</l>
+          <l>I&apos;veitcha naavah kodesh,</l>
+          <l>Adonai l&apos;orech yamim.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/1596,3311,1835,2466/max/0/default.jpg">
+          <l>ADONAI IS SOVEREIGN,</l>
+          <l>God is robed in grandeur;</l>
+          <l>Adonai is robed,</l>
+          <l>God is girded with strength.</l>
+          <l>The world stands firm;</l>
+          <l>it cannot be shaken.</l>
+          <l>Your throne stands firm from of old;</l>
+          <l>from eternity You have existed.</l>
+          <l>The ocean sounds, Adonai,</l>
+          <l>the ocean sounds its thunder,</l>
+          <l>the ocean sounds its pounding.</l>
+          <l>Above the thunder of the mighty waters,</l>
+          <l>more majestic than the breakers of the sea</l>
+          <l>is Adonai, majestic on high.</l>
+          <l>Your decrees are indeed enduring;</l>
+          <l>holiness befits Your house,</l>
+          <l>Adonai, for all times.</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Faa6ae277-3add-45f8-97ed-a5b73365ae25.jp2/959,5866,3624,351/max/0/default.jpg">
+          <l>Proclaiming the completion of God&apos;s work of creation and the establishment of</l>
+          <l>divine sovereignty over all, this psalm serves as a fitting climax to Kabbalat Shabbat. See M. Tamid 7:4</l>
+        </lg>
       </div>
     </body>
   </text>

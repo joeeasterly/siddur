@@ -7,38 +7,38 @@
     <body>
       <div type="page" n="169">
         <pb n="169"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F81fc0734-47ed-4ea9-a1ed-e858addef062.jp2/1210,841,3032,3679/max/0/default.jpg">
-          WE PRAY that we might know before whom we stand:<lb/>
-        the Power whose gift is life,<lb/>
-        who quickens those who have forgotten how to live.<lb/>
-        We<lb/>
-        pray<lb/>
-        for the winds to disperse the choking air of sadness,<lb/>
-        for cleansing rains to make parched hopes flower,<lb/>
-        and to give all of us the strength to rise up toward the sun.<lb/>
-        We pray for love to encompass us<lb/>
-        for no other reason save that we are human,<lb/>
-        for love through which we may all blossom into persons<lb/>
-        who have gained power over our own lives.<lb/>
-        We<lb/>
-        pray to stand upright, we fallen;<lb/>
-        to be healed, we sufferers;<lb/>
-        we pray to break the bonds that keep us from the world of beauty;<lb/>
-        we pray for opened eyes,<lb/>
-        we who are blind to our own authentic selves.<lb/>
-        We pray that we may walk in the garden of a purposeful life,<lb/>
-        our own powers in touch with the power of the world.<lb/>
-        Praised be the God whose gift is life,<lb/>
-        whose cleansing rains let parched men and women<lb/>
-        flower toward the sun.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, מְחַיֶה הַכֹּל וְהַמֶּתִים).<lb/>
-        Baruch atah, Adonai, m&apos;chayeih hakol (hameitim).
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F81fc0734-47ed-4ea9-a1ed-e858addef062.jp2/861,5697,3815,593/max/0/default.jpg">
-          The metaphor &quot;reviving the dead&quot; is widely used rabbinically. The Talmud recommends saying<lb/>
-        Baruch atah Adonai, mchayeih hameitim for greeting a friend after a lapse of seeing the person for twelve months, and for awakening from sleep.<lb/>
-        B&apos;rachot 58b, Y. B&apos;rachot 4:2
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F81fc0734-47ed-4ea9-a1ed-e858addef062.jp2/1210,841,3032,3679/max/0/default.jpg">
+          <l>WE PRAY that we might know before whom we stand:</l>
+          <l>the Power whose gift is life,</l>
+          <l>who quickens those who have forgotten how to live.</l>
+          <l>We</l>
+          <l>pray</l>
+          <l>for the winds to disperse the choking air of sadness,</l>
+          <l>for cleansing rains to make parched hopes flower,</l>
+          <l>and to give all of us the strength to rise up toward the sun.</l>
+          <l>We pray for love to encompass us</l>
+          <l>for no other reason save that we are human,</l>
+          <l>for love through which we may all blossom into persons</l>
+          <l>who have gained power over our own lives.</l>
+          <l>We</l>
+          <l>pray to stand upright, we fallen;</l>
+          <l>to be healed, we sufferers;</l>
+          <l>we pray to break the bonds that keep us from the world of beauty;</l>
+          <l>we pray for opened eyes,</l>
+          <l>we who are blind to our own authentic selves.</l>
+          <l>We pray that we may walk in the garden of a purposeful life,</l>
+          <l>our own powers in touch with the power of the world.</l>
+          <l>Praised be the God whose gift is life,</l>
+          <l>whose cleansing rains let parched men and women</l>
+          <l>flower toward the sun.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, מְחַיֶה הַכֹּל וְהַמֶּתִים).</l>
+          <l>Baruch atah, Adonai, m&apos;chayeih hakol (hameitim).</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F81fc0734-47ed-4ea9-a1ed-e858addef062.jp2/861,5697,3815,593/max/0/default.jpg">
+          <l>The metaphor &quot;reviving the dead&quot; is widely used rabbinically. The Talmud recommends saying</l>
+          <l>Baruch atah Adonai, mchayeih hameitim for greeting a friend after a lapse of seeing the person for twelve months, and for awakening from sleep.</l>
+          <l>B&apos;rachot 58b, Y. B&apos;rachot 4:2</l>
+        </lg>
       </div>
     </body>
   </text>

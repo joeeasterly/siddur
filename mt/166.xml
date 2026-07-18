@@ -7,64 +7,64 @@
     <body>
       <div type="page" n="166">
         <pb n="166"/>
-        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F27f103a4-d375-4a38-971f-527462f06472.jp2/2104,372,1955,2530/max/0/default.jpg">
-          בָּרוּךְ אַתָּה, יְיָ אֱלֹהֵינוּ<lb/>
-        וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ, אֱלֹהֵי<lb/>
-        אַבְרָהָם, אֱלֹהֵי יִצְחָק וֵאלֹהֵי יַעֲקֹב,<lb/>
-        אֱלֹהֵי שָׂרָה, אֱלֹהֵי רִבְקָה, אֱלֹהֵי<lb/>
-        רָחֵל וֵאלֹהֵי לֵאָה. הָאֵל הַגָּדוֹל<lb/>
-        הַגִּבּוֹר וְהַנּוֹרָא, אֵל עֶלְיוֹן, גּוֹמֵל<lb/>
-        חֲסָדִים טוֹבִים וְקוֹנֵה הַכֹּל, וְזוֹכֵר<lb/>
-        חַסְדֵי אָבוֹת וְאִמָּהוֹת, וּמֵבִיא גְאֻלָּה<lb/>
-        לִבְנֵי בְנֵיהֶם לְמַעַן שְׁמוֹ בְּאַהֲבָה.<lb/>
-        *SHABBAT SHUVAH - זָכְרֵנוּ לְחַיִים,<lb/>
-        מֶלֶךְ חָפֵץ בַּחַיִּים,<lb/>
-        וְכָתְבֵנוּ בְּסֵפֶר הַחַיִּים,<lb/>
-        לְמַעַנְךָ אֱלֹהִים חַיִים.<lb/>
-        מֶלֶךְ עוֹזֵר וּמוֹשִׁיעַ וּמָגֵן.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ,<lb/>
-        מָגֵן אַבְרָהָם וְעֶזְרַת שָׂרָה.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F27f103a4-d375-4a38-971f-527462f06472.jp2/347,352,1667,2550/max/0/default.jpg">
-          BARUCH atah, Adonai Eloheinu<lb/>
-        v&apos;Elohei avoteinu v&apos;imoteinu, Elohei<lb/>
-        Avraham, Elohei Yitzchak v&apos;Elohei Yaakov,<lb/>
-        Elohei Sarah, Elohei Rivkah, Elohei<lb/>
-        Rachel v&apos;Elohei Leah. Ha-El hagadol<lb/>
-        hagibor v&apos;hanora, El elyon, gomeil<lb/>
-        chasadim tovim, v&apos;koneih hakol, v&apos;zocheir<lb/>
-        chasdei avot v&apos;imahot, umeivi g&apos;ulah<lb/>
-        livnei v&apos;neihem I&apos;maan sh&apos;mo b&apos;ahavah.<lb/>
-        *SHABBAT SHUVAH - Zochreinu l&apos;chayim,<lb/>
-        Melech chafeitz bachayim,<lb/>
-        v&apos;chotveinu b&apos;sefer hachayim,<lb/>
-        I&apos;maancha Elohim chayim.<lb/>
-        Melech ozeir umoshia umagen.<lb/>
-        Baruch atah, Adonai,<lb/>
-        magein Avraham v&apos;ezrat Sarah.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F27f103a4-d375-4a38-971f-527462f06472.jp2/377,2992,3642,1935/max/0/default.jpg">
-          BLESSED ARE YOU, Adonai our God, God of our fathers and mothers,<lb/>
-        God of Abraham, God of Isaac, and God of Jacob,<lb/>
-        God of Sarah, God of Rebecca, God of Rachel, and God of Leah,<lb/>
-        the great, mighty and awesome God, transcendent God<lb/>
-        who bestows loving kindness, creates everything out of love,<lb/>
-        remembers the love of our fathers and mothers,<lb/>
-        and brings redemption to their children&apos;s children for the sake of the Divine Name.<lb/>
-        *Shabbat SHUVAH - Remember us for life, O Sovereign who delights in life,<lb/>
-        and inscribe us in the Book of Life, for Your sake, Living God.<lb/>
-        Sovereign, Deliverer, Helper and Shield,<lb/>
-        Blessed are You, Adonai, Sarah&apos;s Helper, Abraham&apos;s Shield.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, מָגֵן אַבְרָהָם וְעֶזְרַת שָׂרָה.<lb/>
-        Baruch atah, Adonai, magein Avraham v&apos;ezrat Sarah.
-        </ab>
-        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F27f103a4-d375-4a38-971f-527462f06472.jp2/317,5404,3771,863/max/0/default.jpg">
-          *SHABBAT SHUVAH: The Shabbat between Rosh HaShanah and Yom Kippur.<lb/>
-        For those who choose: At the beginning and end of the blessing, one bends the knees and bows<lb/>
-        from the waist at the word Baruch and stands straight at the word &quot; Adonai.<lb/>
-        Avot v&apos;imahot... As God has been gracious to our forebears, so may we receive<lb/>
-        divine favor.
-        </ab>
+        <lg xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F27f103a4-d375-4a38-971f-527462f06472.jp2/2104,372,1955,2530/max/0/default.jpg">
+          <l>בָּרוּךְ אַתָּה, יְיָ אֱלֹהֵינוּ</l>
+          <l>וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ, אֱלֹהֵי</l>
+          <l>אַבְרָהָם, אֱלֹהֵי יִצְחָק וֵאלֹהֵי יַעֲקֹב,</l>
+          <l>אֱלֹהֵי שָׂרָה, אֱלֹהֵי רִבְקָה, אֱלֹהֵי</l>
+          <l>רָחֵל וֵאלֹהֵי לֵאָה. הָאֵל הַגָּדוֹל</l>
+          <l>הַגִּבּוֹר וְהַנּוֹרָא, אֵל עֶלְיוֹן, גּוֹמֵל</l>
+          <l>חֲסָדִים טוֹבִים וְקוֹנֵה הַכֹּל, וְזוֹכֵר</l>
+          <l>חַסְדֵי אָבוֹת וְאִמָּהוֹת, וּמֵבִיא גְאֻלָּה</l>
+          <l>לִבְנֵי בְנֵיהֶם לְמַעַן שְׁמוֹ בְּאַהֲבָה.</l>
+          <l>*SHABBAT SHUVAH - זָכְרֵנוּ לְחַיִים,</l>
+          <l>מֶלֶךְ חָפֵץ בַּחַיִּים,</l>
+          <l>וְכָתְבֵנוּ בְּסֵפֶר הַחַיִּים,</l>
+          <l>לְמַעַנְךָ אֱלֹהִים חַיִים.</l>
+          <l>מֶלֶךְ עוֹזֵר וּמוֹשִׁיעַ וּמָגֵן.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ,</l>
+          <l>מָגֵן אַבְרָהָם וְעֶזְרַת שָׂרָה.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F27f103a4-d375-4a38-971f-527462f06472.jp2/347,352,1667,2550/max/0/default.jpg">
+          <l>BARUCH atah, Adonai Eloheinu</l>
+          <l>v&apos;Elohei avoteinu v&apos;imoteinu, Elohei</l>
+          <l>Avraham, Elohei Yitzchak v&apos;Elohei Yaakov,</l>
+          <l>Elohei Sarah, Elohei Rivkah, Elohei</l>
+          <l>Rachel v&apos;Elohei Leah. Ha-El hagadol</l>
+          <l>hagibor v&apos;hanora, El elyon, gomeil</l>
+          <l>chasadim tovim, v&apos;koneih hakol, v&apos;zocheir</l>
+          <l>chasdei avot v&apos;imahot, umeivi g&apos;ulah</l>
+          <l>livnei v&apos;neihem I&apos;maan sh&apos;mo b&apos;ahavah.</l>
+          <l>*SHABBAT SHUVAH - Zochreinu l&apos;chayim,</l>
+          <l>Melech chafeitz bachayim,</l>
+          <l>v&apos;chotveinu b&apos;sefer hachayim,</l>
+          <l>I&apos;maancha Elohim chayim.</l>
+          <l>Melech ozeir umoshia umagen.</l>
+          <l>Baruch atah, Adonai,</l>
+          <l>magein Avraham v&apos;ezrat Sarah.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F27f103a4-d375-4a38-971f-527462f06472.jp2/377,2992,3642,1935/max/0/default.jpg">
+          <l>BLESSED ARE YOU, Adonai our God, God of our fathers and mothers,</l>
+          <l>God of Abraham, God of Isaac, and God of Jacob,</l>
+          <l>God of Sarah, God of Rebecca, God of Rachel, and God of Leah,</l>
+          <l>the great, mighty and awesome God, transcendent God</l>
+          <l>who bestows loving kindness, creates everything out of love,</l>
+          <l>remembers the love of our fathers and mothers,</l>
+          <l>and brings redemption to their children&apos;s children for the sake of the Divine Name.</l>
+          <l>*Shabbat SHUVAH - Remember us for life, O Sovereign who delights in life,</l>
+          <l>and inscribe us in the Book of Life, for Your sake, Living God.</l>
+          <l>Sovereign, Deliverer, Helper and Shield,</l>
+          <l>Blessed are You, Adonai, Sarah&apos;s Helper, Abraham&apos;s Shield.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, מָגֵן אַבְרָהָם וְעֶזְרַת שָׂרָה.</l>
+          <l>Baruch atah, Adonai, magein Avraham v&apos;ezrat Sarah.</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F27f103a4-d375-4a38-971f-527462f06472.jp2/317,5404,3771,863/max/0/default.jpg">
+          <l>*SHABBAT SHUVAH: The Shabbat between Rosh HaShanah and Yom Kippur.</l>
+          <l>For those who choose: At the beginning and end of the blessing, one bends the knees and bows</l>
+          <l>from the waist at the word Baruch and stands straight at the word &quot; Adonai.</l>
+          <l>Avot v&apos;imahot... As God has been gracious to our forebears, so may we receive</l>
+          <l>divine favor.</l>
+        </lg>
       </div>
     </body>
   </text>

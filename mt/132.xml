@@ -7,55 +7,55 @@
     <body>
       <div type="page" n="132">
         <pb n="132"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe213fd4e-603a-4c6c-bb03-3812bfa35269.jp2/1308,503,2240,2906/max/0/default.jpg">
-          SING TO ADONAI a new song,<lb/>
-        sing to Adonai, all the earth.<lb/>
-        Sing to Adonai, bless God&apos;s name,<lb/>
-        proclaim God&apos;s victory day after day.<lb/>
-        Tell of God&apos;s glory among the nations,<lb/>
-        God&apos;s wondrous deeds, among all peoples.<lb/>
-        For Adonai is great and much acclaimed,<lb/>
-        God is held in awe by all divine beings.<lb/>
-        All the gods of the peoples are mere idols,<lb/>
-        but Adonai made the heavens.<lb/>
-        Glory and majesty are before God;<lb/>
-        strength and splendor are in God&apos;s temple.<lb/>
-        Let the heavens rejoice and the earth exult;<lb/>
-        let the sea and all within it thunder,<lb/>
-        the fields and everything in them exult;<lb/>
-        then shall all the trees of the forest shout for joy<lb/>
-        at the presence of Adonai, for God is coming,<lb/>
-        for God is coming to rule the earth;<lb/>
-        God will rule the world justly,<lb/>
-        and its peoples in faithfulness.
-        </ab>
-        <ab xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe213fd4e-603a-4c6c-bb03-3812bfa35269.jp2/2604,3832,1406,2188/max/0/default.jpg">
-          מָלָךְ, תָּגֵל הָאָרֶץ,<lb/>
-        יִשְׂמְחוּ אִים רַבִּים.<lb/>
-        עָנָן וַעֲרָפֶל סְבִיבָיו<lb/>
-        צֶדֶק וּמִשְׁפָּט מְכוֹן כִּסְאוֹ.<lb/>
-        אֹהֲבֵי יְיָ שִׂנְאוּ רָע,<lb/>
-        שֹׁמֵר נַפְשׁוֹת חֲסִידָיו<lb/>
-        מִיַּד רְשָׁעִים יַצִילֵם.<lb/>
-        אוֹר זָרֵעַ לַצַדִּיק<lb/>
-        וּלְיִשְׁרֵי־לֵב שִׂמְחָה.<lb/>
-        שִׂמְחוּ צַדִּיקִים בַּיץ<lb/>
-        וְהוֹדוּ לְזֵכֶר קָדְשׁוֹ.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe213fd4e-603a-4c6c-bb03-3812bfa35269.jp2/503,3537,2269,2541/max/0/default.jpg">
-          PSALM 97:1-2, 10-12<lb/>
-        ADONAI malach tageil haaretz,<lb/>
-        yism&apos;chu iyim rabim.<lb/>
-        Anan vaarafel s&apos;vivav<lb/>
-        tzedek umishpat m&apos;chon kiso.<lb/>
-        Ohavei Adonai sinu ra,<lb/>
-        shomeir nafshot chasidav<lb/>
-        miyad r’sha-im yatzileim.<lb/>
-        Or zarua latzaddik<lb/>
-        ul&apos;yishrei lev simchah.<lb/>
-        Simchu tzaddikim b&apos;Adonai<lb/>
-        v&apos;hodu l&apos;zeicher kodsho.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe213fd4e-603a-4c6c-bb03-3812bfa35269.jp2/1308,503,2240,2906/max/0/default.jpg">
+          <l>SING TO ADONAI a new song,</l>
+          <l>sing to Adonai, all the earth.</l>
+          <l>Sing to Adonai, bless God&apos;s name,</l>
+          <l>proclaim God&apos;s victory day after day.</l>
+          <l>Tell of God&apos;s glory among the nations,</l>
+          <l>God&apos;s wondrous deeds, among all peoples.</l>
+          <l>For Adonai is great and much acclaimed,</l>
+          <l>God is held in awe by all divine beings.</l>
+          <l>All the gods of the peoples are mere idols,</l>
+          <l>but Adonai made the heavens.</l>
+          <l>Glory and majesty are before God;</l>
+          <l>strength and splendor are in God&apos;s temple.</l>
+          <l>Let the heavens rejoice and the earth exult;</l>
+          <l>let the sea and all within it thunder,</l>
+          <l>the fields and everything in them exult;</l>
+          <l>then shall all the trees of the forest shout for joy</l>
+          <l>at the presence of Adonai, for God is coming,</l>
+          <l>for God is coming to rule the earth;</l>
+          <l>God will rule the world justly,</l>
+          <l>and its peoples in faithfulness.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe213fd4e-603a-4c6c-bb03-3812bfa35269.jp2/2604,3832,1406,2188/max/0/default.jpg">
+          <l>מָלָךְ, תָּגֵל הָאָרֶץ,</l>
+          <l>יִשְׂמְחוּ אִים רַבִּים.</l>
+          <l>עָנָן וַעֲרָפֶל סְבִיבָיו</l>
+          <l>צֶדֶק וּמִשְׁפָּט מְכוֹן כִּסְאוֹ.</l>
+          <l>אֹהֲבֵי יְיָ שִׂנְאוּ רָע,</l>
+          <l>שֹׁמֵר נַפְשׁוֹת חֲסִידָיו</l>
+          <l>מִיַּד רְשָׁעִים יַצִילֵם.</l>
+          <l>אוֹר זָרֵעַ לַצַדִּיק</l>
+          <l>וּלְיִשְׁרֵי־לֵב שִׂמְחָה.</l>
+          <l>שִׂמְחוּ צַדִּיקִים בַּיץ</l>
+          <l>וְהוֹדוּ לְזֵכֶר קָדְשׁוֹ.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe213fd4e-603a-4c6c-bb03-3812bfa35269.jp2/503,3537,2269,2541/max/0/default.jpg">
+          <l>PSALM 97:1-2, 10-12</l>
+          <l>ADONAI malach tageil haaretz,</l>
+          <l>yism&apos;chu iyim rabim.</l>
+          <l>Anan vaarafel s&apos;vivav</l>
+          <l>tzedek umishpat m&apos;chon kiso.</l>
+          <l>Ohavei Adonai sinu ra,</l>
+          <l>shomeir nafshot chasidav</l>
+          <l>miyad r’sha-im yatzileim.</l>
+          <l>Or zarua latzaddik</l>
+          <l>ul&apos;yishrei lev simchah.</l>
+          <l>Simchu tzaddikim b&apos;Adonai</l>
+          <l>v&apos;hodu l&apos;zeicher kodsho.</l>
+        </lg>
       </div>
     </body>
   </text>

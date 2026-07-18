@@ -7,69 +7,69 @@
     <body>
       <div type="page" n="148">
         <pb n="148"/>
-        <ab xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/2380,366,1670,2828/max/0/default.jpg">
-          בָּרוּךְ אַתָּה, יְיָ<lb/>
-        אֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,<lb/>
-        אֲשֶׁר בִּדְבָרוֹ מַעֲרִיב עֲרָבִים,<lb/>
-        בְּחָכְמָה פּוֹתֵחַ שְׁעָרִים,<lb/>
-        וּבִתְבוּנָה מְשַׁנָּה עִתִּים<lb/>
-        וּמַחֲלִיף אֶת הַזְמַנִים,<lb/>
-        וּמְחַבֵּר אֶת הַכּוֹכָבִים<lb/>
-        בְּמִשְׁמְרוֹתֵיהֶם בָּרָקִיעַ כִּרְצוֹנוֹ.<lb/>
-        בּוֹרֵא יוֹם וָלַיְלָה,<lb/>
-        גוֹלֵל אוֹר מִפְּנֵי חֹשֶׁךְ<lb/>
-        וְחָשֶׁךְ מִפְּנֵי אוֹר,<lb/>
-        וּמַעֲבִיר יוֹם וּמֵבִיא לָיְלָה,<lb/>
-        TIT<lb/>
-        וּמַבְדִּיל בֵּין יוֹם וּבֵין לָיְלָה,<lb/>
-        TIT<lb/>
-        יְיָ צְבָאוֹת שְׁמוֹ.<lb/>
-        אֵל חַי וְקַיָּם,<lb/>
-        תָּמִיד יִמְלֹךְ עָלֵינוּ לְעוֹלָם וָעֶד.<lb/>
-        ז<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/443,356,1419,2823/max/0/default.jpg">
-          BARUCH atah, Adonai<lb/>
-        Eloheinu, Melech haolam,<lb/>
-        asher bidvaro maariv aravim,<lb/>
-        b&apos;chochmah potei-ach sh&apos;arim,<lb/>
-        uvitvunah m&apos;shaneh itim<lb/>
-        umachalif et haz&apos;manim,<lb/>
-        um&apos;sadeir et hakochavim<lb/>
-        b&apos;mishm&apos;roteihem barakia kirtzono.<lb/>
-        Borei yom valailah,<lb/>
-        goleil or mipnei choshech,<lb/>
-        v&apos;choshech mipnei or.<lb/>
-        Umaavir yom umeivi lailah,<lb/>
-        umavdil bein yom uvein lailah,<lb/>
-        Adonai Tz&apos;vaot sh&apos;mo.<lb/>
-        El chai v&apos;kayam,<lb/>
-        tamid yimloch aleinu l&apos;olam va-ed.<lb/>
-        Baruch atah, Adonai, hamaariv aravim.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/433,3362,2828,1941/max/0/default.jpg">
-          BLESSED are You, Adonai our God, Ruler of the universe,<lb/>
-        who speaks the evening into being,<lb/>
-        skillfully opens the gates,<lb/>
-        thoughtfully alters the time and changes the seasons,<lb/>
-        and arranges the stars in their heavenly courses according to plan.<lb/>
-        You are Creator of day and night,<lb/>
-        rolling light away from darkness and darkness from light,<lb/>
-        transforming day into night and distinguishing one from the other.<lb/>
-        Adonai Tzvaot is Your Name.<lb/>
-        Ever-living God, may You reign continually over us into eternity.<lb/>
-        Blessed are You, Adonai, who brings on evening.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.<lb/>
-        Baruch atah, Adonai, hamaariv aravim.
-        </ab>
-        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/433,5445,3617,861/max/0/default.jpg">
-          Adonai Tzvaot: this is one of many names that help elucidate God&apos;s attributes.<lb/>
-        God designs, creates and arranges the universe with order and purpose.<lb/>
-        The darkness of the first day differed from the darkness that preceded creation. The root of<lb/>
-        maariv can also mean “mix,&quot; suggesting God mixed light into the primordial darkness.<lb/>
-        The tiniest spark of light can transform darkness.
-        </ab>
+        <lg xml:id="block_A" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/2380,366,1670,2828/max/0/default.jpg">
+          <l>בָּרוּךְ אַתָּה, יְיָ</l>
+          <l>אֱלֹהֵינוּ, מֶלֶךְ הָעוֹלָם,</l>
+          <l>אֲשֶׁר בִּדְבָרוֹ מַעֲרִיב עֲרָבִים,</l>
+          <l>בְּחָכְמָה פּוֹתֵחַ שְׁעָרִים,</l>
+          <l>וּבִתְבוּנָה מְשַׁנָּה עִתִּים</l>
+          <l>וּמַחֲלִיף אֶת הַזְמַנִים,</l>
+          <l>וּמְחַבֵּר אֶת הַכּוֹכָבִים</l>
+          <l>בְּמִשְׁמְרוֹתֵיהֶם בָּרָקִיעַ כִּרְצוֹנוֹ.</l>
+          <l>בּוֹרֵא יוֹם וָלַיְלָה,</l>
+          <l>גוֹלֵל אוֹר מִפְּנֵי חֹשֶׁךְ</l>
+          <l>וְחָשֶׁךְ מִפְּנֵי אוֹר,</l>
+          <l>וּמַעֲבִיר יוֹם וּמֵבִיא לָיְלָה,</l>
+          <l>TIT</l>
+          <l>וּמַבְדִּיל בֵּין יוֹם וּבֵין לָיְלָה,</l>
+          <l>TIT</l>
+          <l>יְיָ צְבָאוֹת שְׁמוֹ.</l>
+          <l>אֵל חַי וְקַיָּם,</l>
+          <l>תָּמִיד יִמְלֹךְ עָלֵינוּ לְעוֹלָם וָעֶד.</l>
+          <l>ז</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/443,356,1419,2823/max/0/default.jpg">
+          <l>BARUCH atah, Adonai</l>
+          <l>Eloheinu, Melech haolam,</l>
+          <l>asher bidvaro maariv aravim,</l>
+          <l>b&apos;chochmah potei-ach sh&apos;arim,</l>
+          <l>uvitvunah m&apos;shaneh itim</l>
+          <l>umachalif et haz&apos;manim,</l>
+          <l>um&apos;sadeir et hakochavim</l>
+          <l>b&apos;mishm&apos;roteihem barakia kirtzono.</l>
+          <l>Borei yom valailah,</l>
+          <l>goleil or mipnei choshech,</l>
+          <l>v&apos;choshech mipnei or.</l>
+          <l>Umaavir yom umeivi lailah,</l>
+          <l>umavdil bein yom uvein lailah,</l>
+          <l>Adonai Tz&apos;vaot sh&apos;mo.</l>
+          <l>El chai v&apos;kayam,</l>
+          <l>tamid yimloch aleinu l&apos;olam va-ed.</l>
+          <l>Baruch atah, Adonai, hamaariv aravim.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/433,3362,2828,1941/max/0/default.jpg">
+          <l>BLESSED are You, Adonai our God, Ruler of the universe,</l>
+          <l>who speaks the evening into being,</l>
+          <l>skillfully opens the gates,</l>
+          <l>thoughtfully alters the time and changes the seasons,</l>
+          <l>and arranges the stars in their heavenly courses according to plan.</l>
+          <l>You are Creator of day and night,</l>
+          <l>rolling light away from darkness and darkness from light,</l>
+          <l>transforming day into night and distinguishing one from the other.</l>
+          <l>Adonai Tzvaot is Your Name.</l>
+          <l>Ever-living God, may You reign continually over us into eternity.</l>
+          <l>Blessed are You, Adonai, who brings on evening.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, הַמַּעֲרִיב עֲרָבִים.</l>
+          <l>Baruch atah, Adonai, hamaariv aravim.</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fe2a4594b-1c93-4982-a4d2-39f0e1d5b221.jp2/433,5445,3617,861/max/0/default.jpg">
+          <l>Adonai Tzvaot: this is one of many names that help elucidate God&apos;s attributes.</l>
+          <l>God designs, creates and arranges the universe with order and purpose.</l>
+          <l>The darkness of the first day differed from the darkness that preceded creation. The root of</l>
+          <l>maariv can also mean “mix,&quot; suggesting God mixed light into the primordial darkness.</l>
+          <l>The tiniest spark of light can transform darkness.</l>
+        </lg>
       </div>
     </body>
   </text>

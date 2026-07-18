@@ -7,31 +7,31 @@
     <body>
       <div type="page" n="9">
         <pb n="9"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F68fbdb9d-2065-4305-a611-cdee2a4c575d.jp2/1350,634,2545,2099/max/0/default.jpg">
-          AS YOU TAUGHT TORAH<lb/>
-        to those whose names I bear,<lb/>
-        teach me Torah, too.<lb/>
-        Its mystery beckons,<lb/>
-        yet I struggle with its truth.<lb/>
-        You meant Torah for me:<lb/>
-        did You mean the struggle for me, too?<lb/>
-        Don&apos;t let me struggle alone;<lb/>
-        help me to understand,<lb/>
-        to be wise, to listen, to know...<lb/>
-        Lead me into the mystery.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל.<lb/>
-        Baruch atah, Adonai, ohev amo Yisrael.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F68fbdb9d-2065-4305-a611-cdee2a4c575d.jp2/1339,2896,2580,1634/max/0/default.jpg">
-          ALL GOODNESS and truth are Yours, O God;<lb/>
-        may no evil estrange us from You.<lb/>
-        Let error not confound us;<lb/>
-        help us understand Your will.<lb/>
-        In adversity and prosperity, may Your law be our light.<lb/>
-        May our deeds reflect Your love.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל.<lb/>
-        Baruch atah, Adonai, ohev amo Yisrael.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F68fbdb9d-2065-4305-a611-cdee2a4c575d.jp2/1350,634,2545,2099/max/0/default.jpg">
+          <l>AS YOU TAUGHT TORAH</l>
+          <l>to those whose names I bear,</l>
+          <l>teach me Torah, too.</l>
+          <l>Its mystery beckons,</l>
+          <l>yet I struggle with its truth.</l>
+          <l>You meant Torah for me:</l>
+          <l>did You mean the struggle for me, too?</l>
+          <l>Don&apos;t let me struggle alone;</l>
+          <l>help me to understand,</l>
+          <l>to be wise, to listen, to know...</l>
+          <l>Lead me into the mystery.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל.</l>
+          <l>Baruch atah, Adonai, ohev amo Yisrael.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F68fbdb9d-2065-4305-a611-cdee2a4c575d.jp2/1339,2896,2580,1634/max/0/default.jpg">
+          <l>ALL GOODNESS and truth are Yours, O God;</l>
+          <l>may no evil estrange us from You.</l>
+          <l>Let error not confound us;</l>
+          <l>help us understand Your will.</l>
+          <l>In adversity and prosperity, may Your law be our light.</l>
+          <l>May our deeds reflect Your love.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, אוֹהֵב עַמּוֹ יִשְׂרָאֵל.</l>
+          <l>Baruch atah, Adonai, ohev amo Yisrael.</l>
+        </lg>
       </div>
     </body>
   </text>

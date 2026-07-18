@@ -7,64 +7,64 @@
     <body>
       <div type="page" n="178">
         <pb n="178"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F07d12af4-c485-4dfc-ae8d-e5bbe16b138e.jp2/2271,347,1817,2461/max/0/default.jpg">
-          שָׁלוֹם רָב עַל יִשְׂרָאֵל עַמָּךְ<lb/>
-        תָּשִׂים לְעוֹלָם,<lb/>
-        כִּי אַתָּה הוּא מֶלֶךְ אָדוֹן<lb/>
-        לְכָל הַשָּׁלוֹם.<lb/>
-        וְטוֹב בְּעֵינֶיךָ לְבָרֵךְ<lb/>
-        אֶת עַמְךְ יִשְׂרָאֵל<lb/>
-        בְּכָל עֵת וּבְכָל שָׁעָה בִּשְׁלוֹמֶךְ.<lb/>
-        SHABBAT SHUVAH - בְּסֵפֶר חַיִּים,<lb/>
-        בְּרָכָה וְשָׁלוֹם וּפַרְנָסָה טוֹבָה,<lb/>
-        נִזְכֵר וְנִכָּתֵב לְפָנֶיךָ,<lb/>
-        אֲנַחְנוּ וְכָל עַמְךְ בֵּית יִשְׂרָאֵל,<lb/>
-        לְחַיִּים טוֹבִים וּלְשָׁלוֹם.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, עוֹשֶׂה הַשָׁלוֹם.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ,<lb/>
-        הַמְבָרֵךְ אֶת עַמּוֹ יִשְׂרָאֵל בַּשָׁלוֹם.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F07d12af4-c485-4dfc-ae8d-e5bbe16b138e.jp2/350,368,1542,2445/max/0/default.jpg">
-          SHALOM RAV al Yisrael amcha<lb/>
-        tasim l&apos;olam,<lb/>
-        ki atah hu Melech Adon<lb/>
-        l&apos;chol hashalom.<lb/>
-        V&apos;tov b&apos;einecha l&apos;vareich<lb/>
-        et amcha Yisrael<lb/>
-        b&apos;chol eit uv&apos;chol shaah bishlomecha.<lb/>
-        SHABBAT SHUVAH-B&apos;sefer chayim,<lb/>
-        b&apos;rachah, v&apos;shalom, ufarnasah tovah,<lb/>
-        nizacheir v’nikateiv l&apos;fanecha,<lb/>
-        anachnu v&apos;chol amcha beit Yisrael,<lb/>
-        l&apos;chayim tovim ul&apos;shalom.<lb/>
-        Baruch atah, Adonai, oseih hashalom.<lb/>
-        Baruch atah, Adonai,<lb/>
-        ham&apos;vareich et amo Yisrael bashalom.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F07d12af4-c485-4dfc-ae8d-e5bbe16b138e.jp2/573,2928,3120,2482/max/0/default.jpg">
-          GRANT ABUNDANT PEACE to Israel Your people forever,<lb/>
-        for You are the Sovereign God of all peace.<lb/>
-        May it be pleasing to You to bless Your people Israel<lb/>
-        in every season and moment with Your peace.<lb/>
-        SHABBAT SHUVAH<lb/>
-        In the book of life, blessing, peace and prosperity,<lb/>
-        may we be remembered and inscribed by You,<lb/>
-        we and all Your people Israel for a good life and for peace.<lb/>
-        Blessed are You, Adonai, who makes peace.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, עוֹשֶׂה הַשָׁלוֹם.<lb/>
-        Baruch atah, Adonai, oseih hashalom.<lb/>
-        Blessed are You, Adonai, who blesses Your people Israel with<lb/>
-        peace.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ הַמְבָרֵךְ אֶת עַמּוֹ יִשְׂרָאֵל בַּשָׁלוֹם.<lb/>
-        1T:<lb/>
-        Baruch atah, Adonai, ham&apos;vareich et amo Yisrael bashalom.
-        </ab>
-        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F07d12af4-c485-4dfc-ae8d-e5bbe16b138e.jp2/355,5847,3712,566/max/0/default.jpg">
-          &quot;Seek peace and pursue it.&quot; (Psalm 34:15)... The midrash observes, we must “seek&quot;<lb/>
-        our own place, and “pursue it&quot; in every other place. Numbers Rabbah, Chukat 19:27<lb/>
-        peace<lb/>
-        in
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F07d12af4-c485-4dfc-ae8d-e5bbe16b138e.jp2/2271,347,1817,2461/max/0/default.jpg">
+          <l>שָׁלוֹם רָב עַל יִשְׂרָאֵל עַמָּךְ</l>
+          <l>תָּשִׂים לְעוֹלָם,</l>
+          <l>כִּי אַתָּה הוּא מֶלֶךְ אָדוֹן</l>
+          <l>לְכָל הַשָּׁלוֹם.</l>
+          <l>וְטוֹב בְּעֵינֶיךָ לְבָרֵךְ</l>
+          <l>אֶת עַמְךְ יִשְׂרָאֵל</l>
+          <l>בְּכָל עֵת וּבְכָל שָׁעָה בִּשְׁלוֹמֶךְ.</l>
+          <l>SHABBAT SHUVAH - בְּסֵפֶר חַיִּים,</l>
+          <l>בְּרָכָה וְשָׁלוֹם וּפַרְנָסָה טוֹבָה,</l>
+          <l>נִזְכֵר וְנִכָּתֵב לְפָנֶיךָ,</l>
+          <l>אֲנַחְנוּ וְכָל עַמְךְ בֵּית יִשְׂרָאֵל,</l>
+          <l>לְחַיִּים טוֹבִים וּלְשָׁלוֹם.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, עוֹשֶׂה הַשָׁלוֹם.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ,</l>
+          <l>הַמְבָרֵךְ אֶת עַמּוֹ יִשְׂרָאֵל בַּשָׁלוֹם.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F07d12af4-c485-4dfc-ae8d-e5bbe16b138e.jp2/350,368,1542,2445/max/0/default.jpg">
+          <l>SHALOM RAV al Yisrael amcha</l>
+          <l>tasim l&apos;olam,</l>
+          <l>ki atah hu Melech Adon</l>
+          <l>l&apos;chol hashalom.</l>
+          <l>V&apos;tov b&apos;einecha l&apos;vareich</l>
+          <l>et amcha Yisrael</l>
+          <l>b&apos;chol eit uv&apos;chol shaah bishlomecha.</l>
+          <l>SHABBAT SHUVAH-B&apos;sefer chayim,</l>
+          <l>b&apos;rachah, v&apos;shalom, ufarnasah tovah,</l>
+          <l>nizacheir v’nikateiv l&apos;fanecha,</l>
+          <l>anachnu v&apos;chol amcha beit Yisrael,</l>
+          <l>l&apos;chayim tovim ul&apos;shalom.</l>
+          <l>Baruch atah, Adonai, oseih hashalom.</l>
+          <l>Baruch atah, Adonai,</l>
+          <l>ham&apos;vareich et amo Yisrael bashalom.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F07d12af4-c485-4dfc-ae8d-e5bbe16b138e.jp2/573,2928,3120,2482/max/0/default.jpg">
+          <l>GRANT ABUNDANT PEACE to Israel Your people forever,</l>
+          <l>for You are the Sovereign God of all peace.</l>
+          <l>May it be pleasing to You to bless Your people Israel</l>
+          <l>in every season and moment with Your peace.</l>
+          <l>SHABBAT SHUVAH</l>
+          <l>In the book of life, blessing, peace and prosperity,</l>
+          <l>may we be remembered and inscribed by You,</l>
+          <l>we and all Your people Israel for a good life and for peace.</l>
+          <l>Blessed are You, Adonai, who makes peace.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, עוֹשֶׂה הַשָׁלוֹם.</l>
+          <l>Baruch atah, Adonai, oseih hashalom.</l>
+          <l>Blessed are You, Adonai, who blesses Your people Israel with</l>
+          <l>peace.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ הַמְבָרֵךְ אֶת עַמּוֹ יִשְׂרָאֵל בַּשָׁלוֹם.</l>
+          <l>1T:</l>
+          <l>Baruch atah, Adonai, ham&apos;vareich et amo Yisrael bashalom.</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F07d12af4-c485-4dfc-ae8d-e5bbe16b138e.jp2/355,5847,3712,566/max/0/default.jpg">
+          <l>&quot;Seek peace and pursue it.&quot; (Psalm 34:15)... The midrash observes, we must “seek&quot;</l>
+          <l>our own place, and “pursue it&quot; in every other place. Numbers Rabbah, Chukat 19:27</l>
+          <l>peace</l>
+          <l>in</l>
+        </lg>
       </div>
     </body>
   </text>

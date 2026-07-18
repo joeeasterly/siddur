@@ -7,30 +7,30 @@
     <body>
       <div type="page" n="19">
         <pb n="19"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbef66794-7a0f-4a86-ac76-0b8434a3267d.jp2/1241,727,2958,1453/max/0/default.jpg">
-          LET THERE BE love and understanding among us.<lb/>
-        Let peace and friendship be our shelter from life&apos;s storms.<lb/>
-        Adonai, help us to walk with good companions,<lb/>
-        to live with hope in our hearts and eternity in our thoughts,<lb/>
-        that we may lie down in peace and rise up waiting to do Your will.<lb/>
-        Blessed are You, Adonai, Guardian of Israel.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, שׁוֹמֵר עַמּוֹ יִשְׂרָאֵל לָעַד.<lb/>
-        Baruch atah, Adonai, shomeir amo Yisrael laad.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbef66794-7a0f-4a86-ac76-0b8434a3267d.jp2/1226,2450,2730,2134/max/0/default.jpg">
-          GIVE US A PLACE TO REST, Adonai, our God.<lb/>
-        Bring us into shelter<lb/>
-        in the soft, long, evening shadows of Your truth.<lb/>
-        For with You are true protection and safety,<lb/>
-        and in Your Presence are acceptance and gentle love.<lb/>
-        Watch over us as we go forth.<lb/>
-        Prepare for us as we return.<lb/>
-        Spread over us Your shelter of peace,<lb/>
-        over all we love — over our Jerusalem and Yours.<lb/>
-        Blessed are You, Adonai, Guardian of Israel.<lb/>
-        בָּרוּךְ אַתָּה, יְיָ, שׁוֹמֵר עַמּוֹ יִשְׂרָאֵל לָעַד.<lb/>
-        Baruch atah, Adonai, shomeir amo Yisrael laad.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbef66794-7a0f-4a86-ac76-0b8434a3267d.jp2/1241,727,2958,1453/max/0/default.jpg">
+          <l>LET THERE BE love and understanding among us.</l>
+          <l>Let peace and friendship be our shelter from life&apos;s storms.</l>
+          <l>Adonai, help us to walk with good companions,</l>
+          <l>to live with hope in our hearts and eternity in our thoughts,</l>
+          <l>that we may lie down in peace and rise up waiting to do Your will.</l>
+          <l>Blessed are You, Adonai, Guardian of Israel.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, שׁוֹמֵר עַמּוֹ יִשְׂרָאֵל לָעַד.</l>
+          <l>Baruch atah, Adonai, shomeir amo Yisrael laad.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fbef66794-7a0f-4a86-ac76-0b8434a3267d.jp2/1226,2450,2730,2134/max/0/default.jpg">
+          <l>GIVE US A PLACE TO REST, Adonai, our God.</l>
+          <l>Bring us into shelter</l>
+          <l>in the soft, long, evening shadows of Your truth.</l>
+          <l>For with You are true protection and safety,</l>
+          <l>and in Your Presence are acceptance and gentle love.</l>
+          <l>Watch over us as we go forth.</l>
+          <l>Prepare for us as we return.</l>
+          <l>Spread over us Your shelter of peace,</l>
+          <l>over all we love — over our Jerusalem and Yours.</l>
+          <l>Blessed are You, Adonai, Guardian of Israel.</l>
+          <l>בָּרוּךְ אַתָּה, יְיָ, שׁוֹמֵר עַמּוֹ יִשְׂרָאֵל לָעַד.</l>
+          <l>Baruch atah, Adonai, shomeir amo Yisrael laad.</l>
+        </lg>
       </div>
     </body>
   </text>

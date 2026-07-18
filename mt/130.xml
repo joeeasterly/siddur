@@ -7,62 +7,62 @@
     <body>
       <div type="page" n="130">
         <pb n="130"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/626,482,3111,942/max/0/default.jpg">
-          קַבָּלַת שַׁבָּת<lb/>
-        KABBALAT SHABBAT - WELCOMING SHABBAT<lb/>
-        This section, until Shalom Aleichem on page 142, does not offer alternative readings.<lb/>
-        PSALM 95:1-7
-        </ab>
-        <ab xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/2362,1390,1592,2737/max/0/default.jpg">
-          לְכוּ גְרַנְנָה לַייָ,<lb/>
-        נָרִיעָה לְצוּר יִשְׁעֵנוּ.<lb/>
-        נְקַדְמָה פָנָיו בְּתוֹדָה,<lb/>
-        בִּזְמִרוֹת נָרִיעַ לוֹ.<lb/>
-        כִּי אֵל גָּדוֹל יְיָ,<lb/>
-        וּמֶלֶךְ גָּדוֹל עַל־כָּל־אֱלֹהִים.<lb/>
-        אֲשֶׁר בְּיָדוֹ מֶחְקְרֵי אָרֶץ,<lb/>
-        וְתוֹעֲפוֹת הָרִים לוֹ.<lb/>
-        אֲשֶׁר־לוֹ הַיָּם וְהוּא עָשָׂהוּ,<lb/>
-        וְיַבֶּשֶׁת יָדָיו יָצָרוּ.<lb/>
-        בְּאוּ נִשְׁתַּחֲוֶה וְנִכְרָעָה<lb/>
-        נִבְרְכָה לִפְנֵי־יְיָ עֹשֵׂנוּ.<lb/>
-        כִּי־הוּא אֱלֹהֵינוּ,<lb/>
-        וַאֲנַחְנוּ עַם מַרְעִיתוֹ וְצֹאן יָדוֹ,<lb/>
-        הַיּוֹם אִם־בְּקֹלוֹ תִשְׁמָעוּ.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/475,1313,1309,2803/max/0/default.jpg">
-          L&apos;CHU n&apos;ran&apos;na l&apos;Adonai,<lb/>
-        nariyah l&apos;tzur yisheinu.<lb/>
-        N&apos;kadmah fanav b&apos;todah,<lb/>
-        bizmirot naria lo.<lb/>
-        Ki El gadol Adonai,<lb/>
-        uMelech gadol al kol elohim.<lb/>
-        Asher b&apos;yado mech&apos;k&apos;rei aretz,<lb/>
-        v&apos;to-afot harim lo.<lb/>
-        Asher lo hayam v&apos;hu asahu,<lb/>
-        v&apos;yabeshet yadav yatzaru.<lb/>
-        Bo-u nishtachaveh v&apos;nichraah,<lb/>
-        nivr&apos;cha lifnei Adonai oseinu.<lb/>
-        Ki hu Eloheinu,<lb/>
-        vaanachnu am marito v&apos;tzon yado.<lb/>
-        Hayom im b&apos;kolo tishma-u.
-        </ab>
-        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/1240,4110,2166,927/max/0/default.jpg">
-          COME, LET US SING joyously to Adonai,<lb/>
-        raise a shout for our Rock and Deliverer;<lb/>
-        let us come into God&apos;s presence with praise;<lb/>
-        let us raise a shout for God in song!<lb/>
-        For Adonai is a great God,<lb/>
-        the great ruler of all divine beings.
-        </ab>
-        <ab xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/491,5404,3629,975/max/0/default.jpg">
-          Kabbalat Shabbat, &quot;Welcoming Shabbat,&quot; is one of the ritual innovations of the<lb/>
-        circle of Kabbalists (Jewish mystics) who gathered around Rabbi Isaac Luria in sixteenth-century<lb/>
-        Safed in the Land of Israel.<lb/>
-        Psalms 95-99, 29 — This cycle of six psalms, representing the six days of creation, enjoins all<lb/>
-        creation to sing out the praises of God. God&apos;s creative power is revealed in the world around us;<lb/>
-        God&apos;s sovereignty is over all nature and all nations.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/626,482,3111,942/max/0/default.jpg">
+          <l>קַבָּלַת שַׁבָּת</l>
+          <l>KABBALAT SHABBAT - WELCOMING SHABBAT</l>
+          <l>This section, until Shalom Aleichem on page 142, does not offer alternative readings.</l>
+          <l>PSALM 95:1-7</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="he" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/2362,1390,1592,2737/max/0/default.jpg">
+          <l>לְכוּ גְרַנְנָה לַייָ,</l>
+          <l>נָרִיעָה לְצוּר יִשְׁעֵנוּ.</l>
+          <l>נְקַדְמָה פָנָיו בְּתוֹדָה,</l>
+          <l>בִּזְמִרוֹת נָרִיעַ לוֹ.</l>
+          <l>כִּי אֵל גָּדוֹל יְיָ,</l>
+          <l>וּמֶלֶךְ גָּדוֹל עַל־כָּל־אֱלֹהִים.</l>
+          <l>אֲשֶׁר בְּיָדוֹ מֶחְקְרֵי אָרֶץ,</l>
+          <l>וְתוֹעֲפוֹת הָרִים לוֹ.</l>
+          <l>אֲשֶׁר־לוֹ הַיָּם וְהוּא עָשָׂהוּ,</l>
+          <l>וְיַבֶּשֶׁת יָדָיו יָצָרוּ.</l>
+          <l>בְּאוּ נִשְׁתַּחֲוֶה וְנִכְרָעָה</l>
+          <l>נִבְרְכָה לִפְנֵי־יְיָ עֹשֵׂנוּ.</l>
+          <l>כִּי־הוּא אֱלֹהֵינוּ,</l>
+          <l>וַאֲנַחְנוּ עַם מַרְעִיתוֹ וְצֹאן יָדוֹ,</l>
+          <l>הַיּוֹם אִם־בְּקֹלוֹ תִשְׁמָעוּ.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/475,1313,1309,2803/max/0/default.jpg">
+          <l>L&apos;CHU n&apos;ran&apos;na l&apos;Adonai,</l>
+          <l>nariyah l&apos;tzur yisheinu.</l>
+          <l>N&apos;kadmah fanav b&apos;todah,</l>
+          <l>bizmirot naria lo.</l>
+          <l>Ki El gadol Adonai,</l>
+          <l>uMelech gadol al kol elohim.</l>
+          <l>Asher b&apos;yado mech&apos;k&apos;rei aretz,</l>
+          <l>v&apos;to-afot harim lo.</l>
+          <l>Asher lo hayam v&apos;hu asahu,</l>
+          <l>v&apos;yabeshet yadav yatzaru.</l>
+          <l>Bo-u nishtachaveh v&apos;nichraah,</l>
+          <l>nivr&apos;cha lifnei Adonai oseinu.</l>
+          <l>Ki hu Eloheinu,</l>
+          <l>vaanachnu am marito v&apos;tzon yado.</l>
+          <l>Hayom im b&apos;kolo tishma-u.</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/1240,4110,2166,927/max/0/default.jpg">
+          <l>COME, LET US SING joyously to Adonai,</l>
+          <l>raise a shout for our Rock and Deliverer;</l>
+          <l>let us come into God&apos;s presence with praise;</l>
+          <l>let us raise a shout for God in song!</l>
+          <l>For Adonai is a great God,</l>
+          <l>the great ruler of all divine beings.</l>
+        </lg>
+        <lg xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/491,5404,3629,975/max/0/default.jpg">
+          <l>Kabbalat Shabbat, &quot;Welcoming Shabbat,&quot; is one of the ritual innovations of the</l>
+          <l>circle of Kabbalists (Jewish mystics) who gathered around Rabbi Isaac Luria in sixteenth-century</l>
+          <l>Safed in the Land of Israel.</l>
+          <l>Psalms 95-99, 29 — This cycle of six psalms, representing the six days of creation, enjoins all</l>
+          <l>creation to sing out the praises of God. God&apos;s creative power is revealed in the world around us;</l>
+          <l>God&apos;s sovereignty is over all nature and all nations.</l>
+        </lg>
       </div>
     </body>
   </text>

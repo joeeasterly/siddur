@@ -7,142 +7,142 @@
     <body>
       <div type="page" n="v">
         <pb n="v"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F12098adc-d164-4f86-ab78-e70db4ced82b.jp2/908,816,1788,5141/max/0/default.jpg">
-          Introduction<lb/>
-        Acknowledgments<lb/>
-        A Note on Style and Usage<lb/>
-        Prayers for Weekdays<lb/>
-        vii<lb/>
-        xi<lb/>
-        XV<lb/>
-        Weekday Evening<lb/>
-        2<lb/>
-        Weekday Morning<lb/>
-        23<lb/>
-        Weekday Afternoon<lb/>
-        Ashrei, Psalm 145<lb/>
-        52<lb/>
-        Chatzi Kaddish<lb/>
-        57<lb/>
-        T&apos;filah<lb/>
-        74<lb/>
-        Weekday T&apos;filah<lb/>
-        74<lb/>
-        Mei-ein Sh&apos;moneh Esrei<lb/>
-        102<lb/>
-        Seder K&apos;riat HaTorah<lb/>
-        104<lb/>
-        Prayers of Our Community<lb/>
-        112<lb/>
-        Prayers for Shabbat<lb/>
-        Kabbalat Panim<lb/>
-        Candles<lb/>
-        120<lb/>
-        Kiddush for Shabbat Evening<lb/>
-        122<lb/>
-        Welcome<lb/>
-        124<lb/>
-        Shabbat Songs<lb/>
-        Kabbalat Shabbat<lb/>
-        128<lb/>
-        130<lb/>
-        Shabbat Evening<lb/>
-        144<lb/>
-        Magein Avot v&apos;Imahot<lb/>
-        182<lb/>
-        Shabbat Morning I<lb/>
-        184<lb/>
-        Shabbat Evening II<lb/>
-        263<lb/>
-        Shabbat Morning II<lb/>
-        287<lb/>
-        Shabbat Afternoon<lb/>
-        338<lb/>
-        Seder K&apos;riat HaTorah<lb/>
-        362<lb/>
-        Prayers of Our Community<lb/>
-        376<lb/>
-        Prayers for Festivals<lb/>
-        and Sacred Occasions<lb/>
-        Kabbalat Panim<lb/>
-        Candles<lb/>
-        384<lb/>
-        Kiddush for Festival Evening<lb/>
-        386<lb/>
-        Festival Evening<lb/>
-        388<lb/>
-        Festival Morning<lb/>
-        412
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F12098adc-d164-4f86-ab78-e70db4ced82b.jp2/2767,816,1788,5158/max/0/default.jpg">
-          Festival Afternoon<lb/>
-        Ashrei, Psalm 145<lb/>
-        442<lb/>
-        Chatzi Kaddish<lb/>
-        451<lb/>
-        T&apos;filah<lb/>
-        468<lb/>
-        Festival T&apos;filah<lb/>
-        468<lb/>
-        Seder K&apos;riat HaTorah for Festivals<lb/>
-        and Atzeret-Simchat Torah<lb/>
-        494<lb/>
-        Prayers of Our Community<lb/>
-        516<lb/>
-        Yom HaShoah<lb/>
-        521<lb/>
-        Yom HaZikaron<lb/>
-        534<lb/>
-        Yom HaAtzma-ut<lb/>
-        538<lb/>
-        Liturgical Insertions<lb/>
-        for Yom HaShoah Hodaah<lb/>
-        554<lb/>
-        for Yom HaAtzma-ut Hodaah<lb/>
-        555<lb/>
-        for Chanukah Hodaah<lb/>
-        556<lb/>
-        for Purim Hodaah<lb/>
-        557<lb/>
-        Hallel I<lb/>
-        558<lb/>
-        Hallel II<lb/>
-        560<lb/>
-        Counting the Omer<lb/>
-        570<lb/>
-        Waving the Lulav<lb/>
-        571<lb/>
-        Chanukah Candle Blessings<lb/>
-        572<lb/>
-        Purim Blessings<lb/>
-        573<lb/>
-        Yizkor<lb/>
-        574<lb/>
-        Aleinu and Kaddish<lb/>
-        586<lb/>
-        Blessings for the Home<lb/>
-        and Synagogue<lb/>
-        Blessing for a Woman / for a Man 602<lb/>
-        Blessing for a Child<lb/>
-        603<lb/>
-        Kiddush for Shabbat Morning<lb/>
-        604<lb/>
-        Kiddush for Festival Morning<lb/>
-        605<lb/>
-        HaMotzi and Birkat HaMazon<lb/>
-        606<lb/>
-        Havdalah<lb/>
-        610<lb/>
-        Songs and Hymns<lb/>
-        621<lb/>
-        Permissions<lb/>
-        Source Citations<lb/>
-        683<lb/>
-        687
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F12098adc-d164-4f86-ab78-e70db4ced82b.jp2/2211,358,966,295/max/0/default.jpg">
-          Contents
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F12098adc-d164-4f86-ab78-e70db4ced82b.jp2/908,816,1788,5141/max/0/default.jpg">
+          <l>Introduction</l>
+          <l>Acknowledgments</l>
+          <l>A Note on Style and Usage</l>
+          <l>Prayers for Weekdays</l>
+          <l>vii</l>
+          <l>xi</l>
+          <l>XV</l>
+          <l>Weekday Evening</l>
+          <l>2</l>
+          <l>Weekday Morning</l>
+          <l>23</l>
+          <l>Weekday Afternoon</l>
+          <l>Ashrei, Psalm 145</l>
+          <l>52</l>
+          <l>Chatzi Kaddish</l>
+          <l>57</l>
+          <l>T&apos;filah</l>
+          <l>74</l>
+          <l>Weekday T&apos;filah</l>
+          <l>74</l>
+          <l>Mei-ein Sh&apos;moneh Esrei</l>
+          <l>102</l>
+          <l>Seder K&apos;riat HaTorah</l>
+          <l>104</l>
+          <l>Prayers of Our Community</l>
+          <l>112</l>
+          <l>Prayers for Shabbat</l>
+          <l>Kabbalat Panim</l>
+          <l>Candles</l>
+          <l>120</l>
+          <l>Kiddush for Shabbat Evening</l>
+          <l>122</l>
+          <l>Welcome</l>
+          <l>124</l>
+          <l>Shabbat Songs</l>
+          <l>Kabbalat Shabbat</l>
+          <l>128</l>
+          <l>130</l>
+          <l>Shabbat Evening</l>
+          <l>144</l>
+          <l>Magein Avot v&apos;Imahot</l>
+          <l>182</l>
+          <l>Shabbat Morning I</l>
+          <l>184</l>
+          <l>Shabbat Evening II</l>
+          <l>263</l>
+          <l>Shabbat Morning II</l>
+          <l>287</l>
+          <l>Shabbat Afternoon</l>
+          <l>338</l>
+          <l>Seder K&apos;riat HaTorah</l>
+          <l>362</l>
+          <l>Prayers of Our Community</l>
+          <l>376</l>
+          <l>Prayers for Festivals</l>
+          <l>and Sacred Occasions</l>
+          <l>Kabbalat Panim</l>
+          <l>Candles</l>
+          <l>384</l>
+          <l>Kiddush for Festival Evening</l>
+          <l>386</l>
+          <l>Festival Evening</l>
+          <l>388</l>
+          <l>Festival Morning</l>
+          <l>412</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F12098adc-d164-4f86-ab78-e70db4ced82b.jp2/2767,816,1788,5158/max/0/default.jpg">
+          <l>Festival Afternoon</l>
+          <l>Ashrei, Psalm 145</l>
+          <l>442</l>
+          <l>Chatzi Kaddish</l>
+          <l>451</l>
+          <l>T&apos;filah</l>
+          <l>468</l>
+          <l>Festival T&apos;filah</l>
+          <l>468</l>
+          <l>Seder K&apos;riat HaTorah for Festivals</l>
+          <l>and Atzeret-Simchat Torah</l>
+          <l>494</l>
+          <l>Prayers of Our Community</l>
+          <l>516</l>
+          <l>Yom HaShoah</l>
+          <l>521</l>
+          <l>Yom HaZikaron</l>
+          <l>534</l>
+          <l>Yom HaAtzma-ut</l>
+          <l>538</l>
+          <l>Liturgical Insertions</l>
+          <l>for Yom HaShoah Hodaah</l>
+          <l>554</l>
+          <l>for Yom HaAtzma-ut Hodaah</l>
+          <l>555</l>
+          <l>for Chanukah Hodaah</l>
+          <l>556</l>
+          <l>for Purim Hodaah</l>
+          <l>557</l>
+          <l>Hallel I</l>
+          <l>558</l>
+          <l>Hallel II</l>
+          <l>560</l>
+          <l>Counting the Omer</l>
+          <l>570</l>
+          <l>Waving the Lulav</l>
+          <l>571</l>
+          <l>Chanukah Candle Blessings</l>
+          <l>572</l>
+          <l>Purim Blessings</l>
+          <l>573</l>
+          <l>Yizkor</l>
+          <l>574</l>
+          <l>Aleinu and Kaddish</l>
+          <l>586</l>
+          <l>Blessings for the Home</l>
+          <l>and Synagogue</l>
+          <l>Blessing for a Woman / for a Man 602</l>
+          <l>Blessing for a Child</l>
+          <l>603</l>
+          <l>Kiddush for Shabbat Morning</l>
+          <l>604</l>
+          <l>Kiddush for Festival Morning</l>
+          <l>605</l>
+          <l>HaMotzi and Birkat HaMazon</l>
+          <l>606</l>
+          <l>Havdalah</l>
+          <l>610</l>
+          <l>Songs and Hymns</l>
+          <l>621</l>
+          <l>Permissions</l>
+          <l>Source Citations</l>
+          <l>683</l>
+          <l>687</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F12098adc-d164-4f86-ab78-e70db4ced82b.jp2/2211,358,966,295/max/0/default.jpg">
+          <l>Contents</l>
+        </lg>
       </div>
     </body>
   </text>

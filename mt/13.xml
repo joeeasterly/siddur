@@ -7,29 +7,29 @@
     <body>
       <div type="page" n="13">
         <pb n="13"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F29460e9c-7125-4317-b460-459cab75c688.jp2/1363,1003,2729,2059/max/0/default.jpg">
-          LOVE GOD with all the power of your heart,<lb/>
-        with its yearnings, its passions,<lb/>
-        with all you hold dear in life,<lb/>
-        and with the fullness of what the world gives you.<lb/>
-        Wrap these words around your deeds as a holy garment<lb/>
-        and let them shape your home into a dwelling place of peace.<lb/>
-        Wherever you go scatter the words like seeds;<lb/>
-        let them be drops of water on the thirsty earth.<lb/>
-        Seal these words upon your heart<lb/>
-        that their sacredness may permeate your being,<lb/>
-        coursing through your veins,<lb/>
-        melting body into soul.
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F29460e9c-7125-4317-b460-459cab75c688.jp2/900,5235,3692,1084/max/0/default.jpg">
-          When people come to you for help, do not turn them off with pious words, saying: &quot;Have faith<lb/>
-        and take your troubles to God!&quot; Act instead as if there were no God, as though there were only<lb/>
-        one person in all the world who could help only yourself. Martin Buber<lb/>
-        Abaye said: Spread the love of God through your actions. If you yourself study and help others<lb/>
-        to do so, if your business activities are decent and trustworthy, what will people say? &quot;Have you<lb/>
-        seen the behavior of one who studies Torah? How beautiful! What a fine person!&quot; Thus Isaiah<lb/>
-        (49:3) taught, “You are My servant Israel. I will be glorified through you.&quot; based on Yoma 86a
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F29460e9c-7125-4317-b460-459cab75c688.jp2/1363,1003,2729,2059/max/0/default.jpg">
+          <l>LOVE GOD with all the power of your heart,</l>
+          <l>with its yearnings, its passions,</l>
+          <l>with all you hold dear in life,</l>
+          <l>and with the fullness of what the world gives you.</l>
+          <l>Wrap these words around your deeds as a holy garment</l>
+          <l>and let them shape your home into a dwelling place of peace.</l>
+          <l>Wherever you go scatter the words like seeds;</l>
+          <l>let them be drops of water on the thirsty earth.</l>
+          <l>Seal these words upon your heart</l>
+          <l>that their sacredness may permeate your being,</l>
+          <l>coursing through your veins,</l>
+          <l>melting body into soul.</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F29460e9c-7125-4317-b460-459cab75c688.jp2/900,5235,3692,1084/max/0/default.jpg">
+          <l>When people come to you for help, do not turn them off with pious words, saying: &quot;Have faith</l>
+          <l>and take your troubles to God!&quot; Act instead as if there were no God, as though there were only</l>
+          <l>one person in all the world who could help only yourself. Martin Buber</l>
+          <l>Abaye said: Spread the love of God through your actions. If you yourself study and help others</l>
+          <l>to do so, if your business activities are decent and trustworthy, what will people say? &quot;Have you</l>
+          <l>seen the behavior of one who studies Torah? How beautiful! What a fine person!&quot; Thus Isaiah</l>
+          <l>(49:3) taught, “You are My servant Israel. I will be glorified through you.&quot; based on Yoma 86a</l>
+        </lg>
       </div>
     </body>
   </text>

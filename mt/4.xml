@@ -7,33 +7,33 @@
     <body>
       <div type="page" n="4">
         <pb n="4"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/2741,1917,1393,674/max/0/default.jpg">
-          בָּרְכוּ אֶת יְיָ הַמְבֹרָךְ!<lb/>
-        בָּרוּךְ יְיָ הַמְבֹרָךְ<lb/>
-        לְעוֹלָם וָעֶד!
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/386,1981,1421,548/max/0/default.jpg">
-          BAR’CHU et Adonai hamvorach!<lb/>
-        Baruch Adonai ham&apos;vorach<lb/>
-        l&apos;olam va-ed!
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/1094,2642,2265,620/max/0/default.jpg">
-          PRAISE ADONAI to whom praise is due forever!<lb/>
-        Praised be Adonai to whom praise is due,<lb/>
-        now and forever!
-        </ab>
-        <ab xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/676,968,3124,800/max/0/default.jpg">
-          שְׁמַע וּבִרְכוֹתֶיהָ<lb/>
-        T<lb/>
-        SH&apos;MA UVIRCHOTEHA - SH&apos;MA AND ITS BLESSINGS
-        </ab>
-        <ab xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/357,5524,3721,794/max/0/default.jpg">
-          All holy acts require summoning.<lb/>
-        For those who choose: The prayer leader at the word<lb/>
-        Bar&apos;chu (the call to worship) bends<lb/>
-        the knees and bows from the waist, and at &quot;Adonai stands straight. Baruch Adonai is the<lb/>
-        communal response, whereupon the community repeats the choreography of the first line.
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/2741,1917,1393,674/max/0/default.jpg">
+          <l>בָּרְכוּ אֶת יְיָ הַמְבֹרָךְ!</l>
+          <l>בָּרוּךְ יְיָ הַמְבֹרָךְ</l>
+          <l>לְעוֹלָם וָעֶד!</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/386,1981,1421,548/max/0/default.jpg">
+          <l>BAR’CHU et Adonai hamvorach!</l>
+          <l>Baruch Adonai ham&apos;vorach</l>
+          <l>l&apos;olam va-ed!</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/1094,2642,2265,620/max/0/default.jpg">
+          <l>PRAISE ADONAI to whom praise is due forever!</l>
+          <l>Praised be Adonai to whom praise is due,</l>
+          <l>now and forever!</l>
+        </lg>
+        <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/676,968,3124,800/max/0/default.jpg">
+          <l>שְׁמַע וּבִרְכוֹתֶיהָ</l>
+          <l>T</l>
+          <l>SH&apos;MA UVIRCHOTEHA - SH&apos;MA AND ITS BLESSINGS</l>
+        </lg>
+        <lg xml:id="block_E" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F087c74bb-f911-4d63-90af-6e320d2b1653.jp2/357,5524,3721,794/max/0/default.jpg">
+          <l>All holy acts require summoning.</l>
+          <l>For those who choose: The prayer leader at the word</l>
+          <l>Bar&apos;chu (the call to worship) bends</l>
+          <l>the knees and bows from the waist, and at &quot;Adonai stands straight. Baruch Adonai is the</l>
+          <l>communal response, whereupon the community repeats the choreography of the first line.</l>
+        </lg>
       </div>
     </body>
   </text>

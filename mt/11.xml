@@ -7,18 +7,18 @@
     <body>
       <div type="page" n="11">
         <pb n="11"/>
-        <ab xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa5b06ea9-fa4e-476a-9e2e-1379e7433657.jp2/549,1265,4080,1525/max/0/default.jpg">
-          אלהינו יהוה אוזר
-        </ab>
-        <ab xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa5b06ea9-fa4e-476a-9e2e-1379e7433657.jp2/1026,3998,3392,876/max/0/default.jpg">
-          בָּרוּךְ שֵׁם כְּבוֹד מַלְכוּתוֹ לְעוֹלָם וָעֶד.<lb/>
-        Baruch shem k&apos;vod malchuto l&apos;olam va-ed.<lb/>
-        Blessed is God&apos;s glorious majesty forever and ever.
-        </ab>
-        <ab xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa5b06ea9-fa4e-476a-9e2e-1379e7433657.jp2/879,5621,3844,683/max/0/default.jpg">
-          The enlarged ayin at the end of Shma (Hear) and the enlarged dalet at the end of echad (one) combine to spell TV eid (witness). We recite the Shma to bear witness to the Oneness of God.<lb/>
-        Baruch shem kvod... Blessed is God&apos;s glorious... M. Yoma 3:8, inspired by Nehemiah 9:5
-        </ab>
+        <lg xml:id="block_A" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa5b06ea9-fa4e-476a-9e2e-1379e7433657.jp2/549,1265,4080,1525/max/0/default.jpg">
+          <l>אלהינו יהוה אוזר</l>
+        </lg>
+        <lg xml:id="block_B" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa5b06ea9-fa4e-476a-9e2e-1379e7433657.jp2/1026,3998,3392,876/max/0/default.jpg">
+          <l>בָּרוּךְ שֵׁם כְּבוֹד מַלְכוּתוֹ לְעוֹלָם וָעֶד.</l>
+          <l>Baruch shem k&apos;vod malchuto l&apos;olam va-ed.</l>
+          <l>Blessed is God&apos;s glorious majesty forever and ever.</l>
+        </lg>
+        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fa5b06ea9-fa4e-476a-9e2e-1379e7433657.jp2/879,5621,3844,683/max/0/default.jpg">
+          <l>The enlarged ayin at the end of Shma (Hear) and the enlarged dalet at the end of echad (one) combine to spell TV eid (witness). We recite the Shma to bear witness to the Oneness of God.</l>
+          <l>Baruch shem kvod... Blessed is God&apos;s glorious... M. Yoma 3:8, inspired by Nehemiah 9:5</l>
+        </lg>
       </div>
     </body>
   </text>
