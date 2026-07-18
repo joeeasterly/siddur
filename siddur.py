@@ -40,16 +40,19 @@ def generate_tei_content(data):
         body = anno.get('body', [{}])[0]
         
         raw_text = body.get('value', '')
-        text_content = escape_xml(raw_text).replace('\n', '<lb/>\n        ')
-        
         lang = escape_xml(body.get('language', 'en'))
         facs_url = escape_xml(anno.get('image_url', ''))
         
         facs_attr = f' facs="{facs_url}"' if facs_url else ''
 
-        tei_lines.append(f'        <ab xml:id="{block_id}" xml:lang="{lang}"{facs_attr}>')
-        tei_lines.append(f'          {text_content}')
-        tei_lines.append(f'        </ab>')
+        tei_lines.append(f'        <lg xml:id="{block_id}" xml:lang="{lang}"{facs_attr}>')
+        
+        # Split text by newline and wrap each segment in an <l> tag
+        for line in raw_text.split('\n'):
+            if line.strip():  # Ignore empty lines
+                tei_lines.append(f'          <l>{escape_xml(line)}</l>')
+                
+        tei_lines.append(f'        </lg>')
 
     tei_lines.append(f'      </div>')
     tei_lines.append(f'    </body>')
