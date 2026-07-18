@@ -3,73 +3,60 @@ import os
 import string
 import re
 import math
+from xml.sax.saxutils import escape
 from pymongo import MongoClient
 
-def escape_latex(text):
-    """Sanitizes text so LaTeX doesn't choke and die on a stray ampersand."""
-    escaped = text.replace('\\', r'\textbackslash{}') \
-                  .replace('&', r'\&') \
-                  .replace('%', r'\%') \
-                  .replace('$', r'\$') \
-                  .replace('#', r'\#') \
-                  .replace('_', r'\_') \
-                  .replace('{', r'\{') \
-                  .replace('}', r'\}')
-    return escaped.replace('\n', ' \\\\\n')
+def escape_xml(text):
+    """Sanitizes text so XML parsers don't violently shit the bed."""
+    return escape(text, {'"': "&quot;", "'": "&apos;"})
 
-def get_macro_name(index):
-    """Generates sequential macro identifiers (\blockA, \blockB, etc.)."""
+def get_block_id(index):
+    """Generates sequential XML IDs (block_A, block_B, etc.) because we aren't savages."""
     if index < 26:
-        return f"\\block{string.ascii_uppercase[index]}"
+        return f"block_{string.ascii_uppercase[index]}"
     else:
-        return f"\\block{string.ascii_uppercase[(index // 26) - 1]}{string.ascii_uppercase[index % 26]}"
+        return f"block_{string.ascii_uppercase[(index // 26) - 1]}{string.ascii_uppercase[index % 26]}"
 
-def generate_tex_content(data):
-    page_label = data.get('page_label', 'Unknown')
+def generate_tei_content(data):
+    page_label = escape_xml(str(data.get('page_label', 'Unknown')))
     annotations = data.get('annotations', [])
 
-    tex_lines = [
-        r"% ==========================================",
-        r"% AUTO-GENERATED STAGING FILE FOR PAGE " + str(page_label),
-        r"% ==========================================",
-        r"\documentclass{siddur}",
-        "",
-        r"% Custom page numbering to yield " + str(page_label) + r".a, " + str(page_label) + r".b, etc.",
-        r"\renewcommand{\thepage}{" + str(page_label) + r".\alph{page}}",
-        "",
-        r"% --- MACRO DEFINITIONS ---"
+    # We declare the TEI namespace, the XInclude namespace, and provide the RNG schemas.
+    # This guarantees oXygen validates the file immediately upon opening.
+    tei_lines = [
+        f'<?xml version="1.0" encoding="UTF-8"?>',
+        f'<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>',
+        f'<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>',
+        f'<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">',
+        f'  <xi:include href="../teiHeader.xml"/>',
+        f'  <text>',
+        f'    <body>',
+        f'      <div type="page" n="{page_label}">',
+        f'        <pb n="{page_label}"/>'
     ]
 
-    macro_calls = []
     for i, anno in enumerate(annotations):
-        macro_name = get_macro_name(i)
-        macro_calls.append(macro_name)
-
+        block_id = get_block_id(i)
         body = anno.get('body', [{}])[0]
-        text_content = escape_latex(body.get('value', ''))
-        lang = body.get('language', 'en')
+        
+        raw_text = body.get('value', '')
+        text_content = escape_xml(raw_text).replace('\n', '<lb/>\n        ')
+        
+        lang = escape_xml(body.get('language', 'en'))
+        facs_url = escape_xml(anno.get('image_url', ''))
+        
+        facs_attr = f' facs="{facs_url}"' if facs_url else ''
 
-        tex_lines.append(rf"\newcommand{{{macro_name}}}{{%")
-        if lang == 'he':
-            tex_lines.append(r"  \begin{hebrew}")
-            tex_lines.append(f"  {text_content}")
-            tex_lines.append(r"  \end{hebrew}%")
-        else:
-            tex_lines.append(f"  {text_content}%")
-        tex_lines.append(r"}")
-        tex_lines.append("")
+        tei_lines.append(f'        <ab xml:id="{block_id}" xml:lang="{lang}"{facs_attr}>')
+        tei_lines.append(f'          {text_content}')
+        tei_lines.append(f'        </ab>')
 
-    tex_lines.append(r"% --- DOCUMENT BODY ---")
-    tex_lines.append(r"\begin{document}")
-
-    for call in macro_calls:
-        tex_lines.append(call)
-        tex_lines.append(r"\vspace{1em}")
-        tex_lines.append(r"% \newpage % Uncomment to break page here")
-        tex_lines.append("")
-
-    tex_lines.append(r"\end{document}")
-    return "\n".join(tex_lines)
+    tei_lines.append(f'      </div>')
+    tei_lines.append(f'    </body>')
+    tei_lines.append(f'  </text>')
+    tei_lines.append(f'</TEI>')
+    
+    return "\n".join(tei_lines)
 
 def main():
     mongo_uri = os.environ.get("MONGO_URI")
@@ -104,13 +91,13 @@ def main():
         # Sanitize any rogue slashes so the OS doesn't try to make subdirectories
         base_name = str(page_label).replace('/', '_')
         json_path = os.path.join(mt_dir, f"{base_name}.json")
-        tex_path = os.path.join(mt_dir, f"{base_name}.tex")
+        xml_path = os.path.join(mt_dir, f"{base_name}.xml")
 
         # Coerce the MongoDB ObjectId to a string so json.dump survives the encounter
         doc_id = str(doc['_id'])
         doc['_id'] = doc_id
 
-        # 1. Inject the public viewer URL (using page_label so the router actually finds it)
+        # 1. Inject the public viewer URL
         doc['page_url'] = f"https://momoiro.hallyu.io/mishkan/{page_label}"
 
         # 2. Inject IIIF bounding box URLs into every annotation
@@ -124,7 +111,6 @@ def main():
             if selector.get("type") == "FragmentSelector":
                 match = re.search(r'xywh=(?:pixel:)?(-?[\d.]+),(-?[\d.]+),(-?[\d.]+),(-?[\d.]+)', val)
                 if match:
-                    # Replicating Math.floor() from your app.js
                     x, y, w, h = [math.floor(float(v)) for v in match.groups()]
                     valid_box = True
                     
@@ -138,8 +124,6 @@ def main():
                     valid_box = True
                     
             if valid_box:
-                # Using the proxied public URL instead of the internal Docker hostname
-                # so the links are actually clickable from the exported JSON.
                 anno["image_url"] = f"https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2F{doc_id}.jp2/{x},{y},{w},{h}/max/0/default.jpg"
 
         # 3. Write the sidecar .json file IF AND ONLY IF it doesn't exist
@@ -147,15 +131,15 @@ def main():
             with open(json_path, 'w', encoding='utf-8') as f:
                 json.dump(doc, f, ensure_ascii=False, indent=2)
 
-        # 4. Write the corresponding .tex file IF AND ONLY IF it doesn't exist
-        if not os.path.exists(tex_path):
-            tex_content = generate_tex_content(doc)
-            with open(tex_path, 'w', encoding='utf-8') as f:
-                f.write(tex_content)
+        # 4. Write the corresponding .xml file IF AND ONLY IF it doesn't exist
+        if not os.path.exists(xml_path):
+            tei_content = generate_tei_content(doc)
+            with open(xml_path, 'w', encoding='utf-8') as f:
+                f.write(tei_content)
 
         processed_count += 1
 
-    print(f"Operation complete. Swept {processed_count} valid documents into the 'mt' folder.")
+    print(f"Operation complete. Swept {processed_count} valid XML documents into the 'mt' folder.")
 
 if __name__ == "__main__":
     main()
