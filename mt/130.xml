@@ -30,22 +30,22 @@
           <l>וַאֲנַחְנוּ עַם מַרְעִיתוֹ וְצֹאן יָדוֹ,</l>
           <l>הַיּוֹם אִם־בְּקֹלוֹ תִשְׁמָעוּ.</l>
         </lg>
-        <lg xml:id="block_C" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/475,1313,1309,2803/max/0/default.jpg">
-          <l>L&apos;CHU n&apos;ran&apos;na l&apos;Adonai,</l>
-          <l>nariyah l&apos;tzur yisheinu.</l>
-          <l>N&apos;kadmah fanav b&apos;todah,</l>
-          <l>bizmirot naria lo.</l>
-          <l>Ki El gadol Adonai,</l>
-          <l>uMelech gadol al kol elohim.</l>
-          <l>Asher b&apos;yado mech&apos;k&apos;rei aretz,</l>
-          <l>v&apos;to-afot harim lo.</l>
-          <l>Asher lo hayam v&apos;hu asahu,</l>
-          <l>v&apos;yabeshet yadav yatzaru.</l>
-          <l>Bo-u nishtachaveh v&apos;nichraah,</l>
-          <l>nivr&apos;cha lifnei Adonai oseinu.</l>
-          <l>Ki hu Eloheinu,</l>
-          <l>vaanachnu am marito v&apos;tzon yado.</l>
-          <l>Hayom im b&apos;kolo tishma-u.</l>
+        <lg facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/475,1313,1309,2803/max/0/default.jpg">
+          <l n="1" xml:lang="he-Latn">L&apos;CHU n&apos;ran&apos;na l&apos;Adonai,</l>
+          <l n="2" xml:lang="he-Latn">nariyah l&apos;tzur yisheinu.</l>
+          <l n="3" xml:lang="he-Latn">N&apos;kadmah fanav b&apos;todah,</l>
+          <l n="4" xml:lang="he-Latn">bizmirot naria lo.</l>
+          <l n="5" xml:lang="he-Latn">Ki El gadol Adonai,</l>
+          <l n="6" xml:lang="he-Latn">uMelech gadol al kol elohim.</l>
+          <l n="7" xml:lang="he-Latn">Asher b&apos;yado mech&apos;k&apos;rei aretz,</l>
+          <l n="8" xml:lang="he-Latn">v&apos;to-afot harim lo.</l>
+          <l n="9" xml:lang="he-Latn">Asher lo hayam v&apos;hu asahu,</l>
+          <l n="10" xml:lang="he-Latn">v&apos;yabeshet yadav yatzaru.</l>
+          <l n="11" xml:lang="he-Latn">Bo-u nishtachaveh v&apos;nichraah,</l>
+          <l n="12" xml:lang="he-Latn">nivr&apos;cha lifnei Adonai oseinu.</l>
+          <l n="13" xml:lang="he-Latn">Ki hu Eloheinu,</l>
+          <l n="14" xml:lang="he-Latn">vaanachnu am marito v&apos;tzon yado.</l>
+          <l n="15" xml:lang="he-Latn">Hayom im b&apos;kolo tishma-u.</l>
         </lg>
         <lg xml:id="block_D" xml:lang="en" facs="https://momoiro.hallyu.io/mishkan/iiif/3/mishkan%2Fd76fb67a-1fc4-4a88-8802-8465541cf8ee.jp2/1240,4110,2166,927/max/0/default.jpg">
           <l>COME, LET US SING joyously to Adonai,</l>
